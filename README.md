@@ -15,6 +15,7 @@ Things to collect:
   6. Cast
   7. Genre
   8. Movie length 
+  9. Movie ID (IMDb specific)
 
 Step 2: Crawl Google Play, iTunes, and Amazon for the related info from the movies
 
