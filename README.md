@@ -1,5 +1,5 @@
 # Movie-Comparator #
-UCR CS179G Database Senior Design
+### UCR CS179G Database Senior Design ###
 
 #### Phase 1: Data Collection (web crawling) ####
 Step 1: Crawl IMDb for most popular movies in each year (1995-2016)
