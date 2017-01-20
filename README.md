@@ -3,7 +3,9 @@
 
 #### Phase 1: Data Collection (web crawling) ####
 Step 1: Crawl IMDb for most popular movies in each year (1995-2016)
+
 Example web link <http://www.imdb.com/year/2014>
+
 Things to collect: 
   1. Rank (1, 2, etc)
   2. Movie title
