@@ -24,6 +24,7 @@ for x in range( 0 , 20):
 	list1 = re.findall('"[a-zA-Z0-9 _?#=: \']*"' , str1)
 
 
+#genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
 	genre2 =  "".join(genre)
 	genre2 = genre2.replace(" ", "")
@@ -50,4 +51,3 @@ for x in range( 0 , 20):
 
 
 print "\n".join(list3)
-#print genre2
