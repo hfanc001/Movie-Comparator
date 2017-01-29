@@ -24,7 +24,7 @@ for x in range( 0 , 20):
 	list1 = re.findall('"[a-zA-Z0-9 _?#=: \']*"' , str1)
 
 
-#genre
+#Genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
 	genre2 =  "".join(genre)
 	genre2 = genre2.replace(" ", "")
@@ -44,8 +44,13 @@ for x in range( 0 , 20):
         ratingValues = ratingValues.split('\n')
 
 
+#Release Year
+	releaseYear = re.findall('lister-item-year text-muted unbold\">[(][0-9]*', filee)
+	releaseYears = "\n".join(releaseYear)
+	releaseYears = releaseYears.replace("lister-item-year text-muted unbold\">(", " ")
+	releaseYears = releaseYears.split('\n')
         for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0))
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))
 
 	i = i + 1
 
