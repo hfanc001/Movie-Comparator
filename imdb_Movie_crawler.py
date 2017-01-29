@@ -38,9 +38,9 @@ for x in range( 0 , 20):
 
 
 
-#rating values
+#Rating values
         ratingValue = re.findall('ratingValue" content="[0-9.]*', filee)
-        ratingValues = "\n".join(ratingValue)
+        ratingValues = "\n ".join(ratingValue)
         ratingValues = ratingValues.replace("ratingValue\" content=\"", " ")
         ratingValues = ratingValues.split('\n')
 
@@ -63,10 +63,19 @@ for x in range( 0 , 20):
 	runtimes = runtimes.replace("class=\"runtime\">", " ")
 	runtimes = runtimes.split('\n')
 
-        for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))
 
-	i = i + 1
+	for item in list1:
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))# + " " + details.pop(0))
+
+	i = i +1
+'''
+#Detail
+	detail = re.findall('<p class=\"text-muted\">\n[a-zA-Z0-9 ,.\']*', filee)
+	details = '\n'.join(detail)
+	details = details.replace("<p class=\"text-muted\">\n", "")
+	details = details.replace("</p>", "")
+	details = details.split('\n')
+'''
 
 
 print "\n".join(list3)
