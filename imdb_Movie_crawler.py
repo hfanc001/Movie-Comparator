@@ -33,8 +33,19 @@ for x in range( 0 , 20):
 	genre2 = genre2.split('\n')
 #list
 	print genre2.pop(0) 
-	for item in list1:
-		list3.append(item  + genre2.pop(0))
+
+
+
+#rating values
+        ratingValue = re.findall('ratingValue" content="[0-9.]*', filee)
+        ratingValues = "\n".join(ratingValue)
+        ratingValues = ratingValues.replace("ratingValue\" content=\"", " ")
+        ratingValues = ratingValues.split('\n')
+
+
+        for item in list1:
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0))
+
 	i = i + 1
 
 
