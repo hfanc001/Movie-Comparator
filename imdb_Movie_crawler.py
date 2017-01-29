@@ -1,6 +1,7 @@
 import re
 import HTMLParser
 import urllib
+import string
 
 #url = raw_input('Enter url:')
 #handle = urllib.urlopen(url)
@@ -45,12 +46,25 @@ for x in range( 0 , 20):
 
 
 #Release Year
-	releaseYear = re.findall('lister-item-year text-muted unbold\">[(][0-9]*', filee)
+	releaseYear = re.findall('lister-item-year text-muted unbold\">[()a-zA-Z ]*[0-9]*', filee)
 	releaseYears = "\n".join(releaseYear)
 	releaseYears = releaseYears.replace("lister-item-year text-muted unbold\">(", " ")
+	releaseYears = releaseYears.replace("I", "")
+	releaseYears = releaseYears.replace("X", "")
+	releaseYears = releaseYears.replace(")", "")
+	releaseYears = releaseYears.replace("(", "")
+	releaseYears = releaseYears.replace("  ", " ")
 	releaseYears = releaseYears.split('\n')
+
+
+#Movie Runtime
+	runtime = re.findall('class=\"runtime\">[0-9]* min', filee)
+	runtimes = "\n".join(runtime)
+	runtimes = runtimes.replace("class=\"runtime\">", " ")
+	runtimes = runtimes.split('\n')
+
         for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))
 
 	i = i + 1
 
