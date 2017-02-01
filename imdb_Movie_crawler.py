@@ -85,10 +85,16 @@ for x in range( 0 , 20):
 	details = details.replace("</p>", "")
 	details = details.split('\n')
 '''
-JsonArray = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
-realjson = json.loads(JsonArray)
-print JsonArray
+JsonStr = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
+JsonData = json.loads(JsonArray)
 
-#print (json.dumps([dict(zip(JsonCatagories , row)) for row in zipped], indent=1))
-#print zipped
-#print "\n".join(list3)
+
+'''
+#JsonStr is a String format of the JsonData. You can just print JsonStr
+
+#JsonData is a list of python dictionaries. 
+#This is how you extract data from the JsonData" 
+#Results is all the different movies. Each Result is it's own movies with all details with it. 
+for results in JsonData: 
+	print results["Title"]
+'''
