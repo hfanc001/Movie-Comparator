@@ -86,7 +86,7 @@ for x in range( 0 , 20):
 	details = details.split('\n')
 '''
 JsonStr = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
-JsonData = json.loads(JsonArray)
+JsonData = json.loads(JsonStr)
 
 
 '''
@@ -95,6 +95,7 @@ JsonData = json.loads(JsonArray)
 #JsonData is a list of python dictionaries. 
 #This is how you extract data from the JsonData" 
 #Results is all the different movies. Each Result is it's own movies with all details with it. 
+'''
 for results in JsonData: 
 	print results["Title"]
-'''
+
