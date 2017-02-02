@@ -4,6 +4,10 @@ import urllib
 import string
 import json 
 
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
 #url = raw_input('Enter url:')
 #handle = urllib.urlopen(url)
 #html_gunk = handle.read()
@@ -33,6 +37,9 @@ for x in range( 0 , 20):
 	list2 = re.findall('img alt.*', str1)
 	str2 = "\n".join(list2)
 	list1 = re.findall('".*"' , str2)
+	str3 =  "\n".join(list1)
+	str3 = str3.replace("\"" , "")
+	list1 = str3.split('\n')
 #	print '\n'.join(list1)
 
 #Genre
@@ -91,15 +98,15 @@ for x in range( 0 , 20):
 JsonStr = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
 JsonData = json.loads(JsonStr)
 
-print JsonStr
+#print JsonStr
 '''
 #JsonStr is a String format of the JsonData. You can just print JsonStr
 
 #JsonData is a list of python dictionaries. 
 #This is how you extract data from the JsonData" 
 #Results is all the different movies. Each Result is it's own movies with all details with it. 
-
+'''
 for results in JsonData: 
 	print results["Title"]
-'''
+
 
