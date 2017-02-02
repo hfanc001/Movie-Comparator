@@ -10,7 +10,7 @@ import json
 
 
 list3 = []
-JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate" , "Runtime"]
+JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate"] # , "Runtime"]
 list5 = []
 list6 = []
 list7 = []
@@ -33,7 +33,7 @@ for x in range( 0 , 20):
 	list2 = re.findall('img alt.*', str1)
 	str2 = "\n".join(list2)
 	list1 = re.findall('".*"' , str2)
-	print '\n'.join(list1)
+#	print '\n'.join(list1)
 
 #Genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
@@ -75,7 +75,7 @@ for x in range( 0 , 20):
 	runtimes = runtimes.replace("class=\"runtime\">", "")
 	runtimes = runtimes.split('\n')
 
-	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears, runtimes))
+	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears)) #, runtimes))
 	for item in list1:
                 list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))# + runtimes.pop(0))# + " " + details.pop(0))
 
@@ -91,13 +91,14 @@ for x in range( 0 , 20):
 JsonStr = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
 JsonData = json.loads(JsonStr)
 
-
+print JsonStr
 '''
 #JsonStr is a String format of the JsonData. You can just print JsonStr
 
 #JsonData is a list of python dictionaries. 
 #This is how you extract data from the JsonData" 
 #Results is all the different movies. Each Result is it's own movies with all details with it. 
+
 for results in JsonData: 
 	print results["Title"]
 '''
