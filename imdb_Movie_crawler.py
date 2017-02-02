@@ -32,7 +32,7 @@ for x in range( 0 , 20):
 	urls = re.findall('<a href="[\/a-zA-Z0-9 _?#=]*"\n> <img alt="[\/a-zA-Z0-9 _?#=:\' ]*"' , filee  )
 	str1 = "\n".join(urls) 
 	list1 = re.findall('"[a-zA-Z0-9 _?#=: \']*"' , str1)
-
+	list1 = [s.replace("\"", "") for s in list1]
 
 #Genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
