@@ -10,7 +10,7 @@ import json
 
 
 list3 = []
-JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate"] # , "Runtime"]
+JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate"  , "Runtime"]
 list5 = []
 list6 = []
 list7 = []
@@ -25,9 +25,9 @@ for x in range( 0 , 20):
 		filename=str(year)
 		filename = filename+"page2"  
 	else:
-		year = year + 1
+		year = year + 1 
 		filename = str(year)		
-	filee = open(str(filename), "r").read()
+		filee = open(str(filename), "r").read()
 	urls = re.findall('<a href="[\/a-zA-Z0-9\-. _?#=]*"\n> <img alt=".*"' , filee  )
 	str1 = "\n".join(urls) 
 	list2 = re.findall('img alt.*', str1)
@@ -64,6 +64,7 @@ for x in range( 0 , 20):
 	releaseYears = releaseYears.replace("X", "")
 	releaseYears = releaseYears.replace(")", "")
 	releaseYears = releaseYears.replace("(", "")
+	releaseYears = releaseYears.replace("V", "")
 	releaseYears = releaseYears.replace("  ", " ")
 	releaseYears = releaseYears.split('\n')
 
@@ -74,10 +75,9 @@ for x in range( 0 , 20):
 	runtimes = "\n".join(runtime)
 	runtimes = runtimes.replace("class=\"runtime\">", "")
 	runtimes = runtimes.split('\n')
-
-	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears)) #, runtimes))
+	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears , runtimes))
 	for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))# + runtimes.pop(0))# + " " + details.pop(0))
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))# + " " + details.pop(0))
 
 	i = i +1
 '''
