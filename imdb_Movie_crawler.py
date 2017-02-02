@@ -27,12 +27,13 @@ for x in range( 0 , 20):
 	else:
 		year = year + 1
 		filename = str(year)		
-#	print filename
 	filee = open(str(filename), "r").read()
-	urls = re.findall('<a href="[\/a-zA-Z0-9 _?#=]*"\n> <img alt="[\/a-zA-Z0-9 _?#=:\' ]*"' , filee  )
+	urls = re.findall('<a href="[\/a-zA-Z0-9\-. _?#=]*"\n> <img alt=".*"' , filee  )
 	str1 = "\n".join(urls) 
-	list1 = re.findall('"[a-zA-Z0-9 _?#=: \']*"' , str1)
-
+	list2 = re.findall('img alt.*', str1)
+	str2 = "\n".join(list2)
+	list1 = re.findall('".*"' , str2)
+	print '\n'.join(list1)
 
 #Genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
@@ -43,6 +44,7 @@ for x in range( 0 , 20):
 	genre2 = genre2.replace(">", "")
 	genre2 = genre2.split('\n')
 	genre2.pop(0)
+#	print '\n'.join(genre2)
 #list
 
 
@@ -67,14 +69,15 @@ for x in range( 0 , 20):
 
 
 #Movie Runtime
+#There is one movie that doesn't have a runtime so for not I'm just going not add the runtime 
 	runtime = re.findall('class=\"runtime\">[0-9]* min', filee)
 	runtimes = "\n".join(runtime)
-	runtimes = runtimes.replace("class=\"runtime\">", " ")
+	runtimes = runtimes.replace("class=\"runtime\">", "")
 	runtimes = runtimes.split('\n')
 
 	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears, runtimes))
 	for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))# + " " + details.pop(0))
+                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))# + runtimes.pop(0))# + " " + details.pop(0))
 
 	i = i +1
 '''
@@ -95,7 +98,7 @@ JsonData = json.loads(JsonStr)
 #JsonData is a list of python dictionaries. 
 #This is how you extract data from the JsonData" 
 #Results is all the different movies. Each Result is it's own movies with all details with it. 
-'''
 for results in JsonData: 
 	print results["Title"]
+'''
 
