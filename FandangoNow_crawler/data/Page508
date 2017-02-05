@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Brave. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Brave. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Remember. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Remember. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Brave. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Remember. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Brave. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Remember. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Brave. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Brave","list_name":"Search Results for 'Brave'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Remember. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Remember","list_name":"Search Results for 'Remember'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Brave'
+                Search Results for 'Remember'
             </h2>
 
         </header>
@@ -461,9 +461,9 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Brave&#x27;"
-            data-list-id="Search-Results-for-Brave"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Brave"
+            data-list-title="Search Results for &#x27;Remember&#x27;"
+            data-list-id="Search-Results-for-Remember"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Remember"
             data-list-type="search"
             data-page-number="0"
             data-page-count="27"
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVD91C7DB34361384277B0F5977A8EA2321"
-                        class="item__link js-flyout-item plus-card" data-id="MMVD91C7DB34361384277B0F5977A8EA2321"
-                        href="https://www.fandangonow.com/details/movie/brave-2012/MMVD91C7DB34361384277B0F5977A8EA2321?ele=list&elc=MMVD91C7DB34361384277B0F5977A8EA2321&eli=0&eci=MMVD91C7DB34361384277B0F5977A8EA2321"
+                        id="_item_MMVDEB34FE8EA82CBCC0F5AA0381FAA70834"
+                        class="item__link js-flyout-item plus-card" data-id="MMVDEB34FE8EA82CBCC0F5AA0381FAA70834"
+                        href="https://www.fandangonow.com/details/movie/remember-2016/MMVDEB34FE8EA82CBCC0F5AA0381FAA70834?ele=list&elc=MMVDEB34FE8EA82CBCC0F5AA0381FAA70834&eli=0&eci=MMVDEB34FE8EA82CBCC0F5AA0381FAA70834"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVD91C7DB34361384277B0F5977A8EA2321&amp;ql=70&amp;sizes=176x264"
-                            alt="Brave  MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMVDEB34FE8EA82CBCC0F5AA0381FAA70834&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVFE2D4550459FC97672D0C5E2F5D57ADCA"
-                        class="item__link js-flyout-item plus-card" data-id="MMVFE2D4550459FC97672D0C5E2F5D57ADCA"
-                        href="https://www.fandangonow.com/details/movie/thomas-friends-tale-of-the-brave-the-movie-2014/MMVFE2D4550459FC97672D0C5E2F5D57ADCA?ele=list&elc=MMVFE2D4550459FC97672D0C5E2F5D57ADCA&eli=1&eci=MMVFE2D4550459FC97672D0C5E2F5D57ADCA"
+                        id="_item_MMVA0749E9680367B77022FE843FC3A49EC8"
+                        class="item__link js-flyout-item plus-card" data-id="MMVA0749E9680367B77022FE843FC3A49EC8"
+                        href="https://www.fandangonow.com/details/movie/remember-the-titans-2000/MMVA0749E9680367B77022FE843FC3A49EC8?ele=list&elc=MMVA0749E9680367B77022FE843FC3A49EC8&eli=1&eci=MMVA0749E9680367B77022FE843FC3A49EC8"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVFE2D4550459FC97672D0C5E2F5D57ADCA&amp;ql=70&amp;sizes=176x264"
-                            alt="Thomas &amp; Friends: Tale of the Brave - The Movie MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVA0749E9680367B77022FE843FC3A49EC8&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember The Titans MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV4c9fc6395255a83f2a01154985b5a183"
-                        class="item__link js-flyout-item plus-card" data-id="1MV4c9fc6395255a83f2a01154985b5a183"
-                        href="https://www.fandangonow.com/details/movie/the-brave-one-2007/1MV4c9fc6395255a83f2a01154985b5a183?ele=list&elc=1MV4c9fc6395255a83f2a01154985b5a183&eli=2&eci=1MV4c9fc6395255a83f2a01154985b5a183"
+                        id="_item_1MV03b61f8d14bdec5aa71a7ee5d228a407"
+                        class="item__link js-flyout-item plus-card" data-id="1MV03b61f8d14bdec5aa71a7ee5d228a407"
+                        href="https://www.fandangonow.com/details/movie/a-walk-to-remember-2002/1MV03b61f8d14bdec5aa71a7ee5d228a407?ele=list&elc=1MV03b61f8d14bdec5aa71a7ee5d228a407&eli=2&eci=1MV03b61f8d14bdec5aa71a7ee5d228a407"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV4c9fc6395255a83f2a01154985b5a183&amp;ql=70&amp;sizes=176x264"
-                            alt="The Brave One MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV03b61f8d14bdec5aa71a7ee5d228a407&amp;ql=70&amp;sizes=176x264"
+                            alt="A Walk to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -535,15 +535,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVC6D971F3B6628616B7FC29A4D089711AB"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC6D971F3B6628616B7FC29A4D089711AB"
-                        href="https://www.fandangonow.com/details/movie/the-land-before-time-xiv-journey-of-the-brave-2016/MMVC6D971F3B6628616B7FC29A4D089711AB?ele=list&elc=MMVC6D971F3B6628616B7FC29A4D089711AB&eli=3&eci=MMVC6D971F3B6628616B7FC29A4D089711AB"
+                        id="_item_MMVE42B049E17FE9E3921851C63650892B38"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE42B049E17FE9E3921851C63650892B38"
+                        href="https://www.fandangonow.com/details/movie/remember-me-2010/MMVE42B049E17FE9E3921851C63650892B38?ele=list&elc=MMVE42B049E17FE9E3921851C63650892B38&eli=3&eci=MMVE42B049E17FE9E3921851C63650892B38"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVC6D971F3B6628616B7FC29A4D089711AB&amp;ql=70&amp;sizes=176x264"
-                            alt="The Land Before Time XIV: Journey of the Brave MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVE42B049E17FE9E3921851C63650892B38&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember Me MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -555,15 +555,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV07ce215a50eeb9fa05490236b14f96ca"
-                        class="item__link js-flyout-item plus-card" data-id="1MV07ce215a50eeb9fa05490236b14f96ca"
-                        href="https://www.fandangonow.com/details/movie/a-brave-heart-the-lizzie-velasquez-story-2015/1MV07ce215a50eeb9fa05490236b14f96ca?ele=list&elc=1MV07ce215a50eeb9fa05490236b14f96ca&eli=4&eci=1MV07ce215a50eeb9fa05490236b14f96ca"
+                        id="_item_MMVC2B6F1BBB1663BD376D6C56050E52199F"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC2B6F1BBB1663BD376D6C56050E52199F"
+                        href="https://www.fandangonow.com/details/movie/i-remember-you-2015/MMVC2B6F1BBB1663BD376D6C56050E52199F?ele=list&elc=MMVC2B6F1BBB1663BD376D6C56050E52199F&eli=4&eci=MMVC2B6F1BBB1663BD376D6C56050E52199F"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV07ce215a50eeb9fa05490236b14f96ca&amp;ql=70&amp;sizes=176x264"
-                            alt="A Brave Heart: The Lizzie Velasquez Story MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVC2B6F1BBB1663BD376D6C56050E52199F&amp;ql=70&amp;sizes=176x264"
+                            alt="I Remember You MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -575,15 +575,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV5ceb0c8018591df91574ab498733a9ec"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5ceb0c8018591df91574ab498733a9ec"
-                        href="https://www.fandangonow.com/details/movie/battle-of-the-brave-2004/1MV5ceb0c8018591df91574ab498733a9ec?ele=list&elc=1MV5ceb0c8018591df91574ab498733a9ec&eli=5&eci=1MV5ceb0c8018591df91574ab498733a9ec"
+                        id="_item_1MV304f66b0f5719a4996df50cb7a717962"
+                        class="item__link js-flyout-item plus-card" data-id="1MV304f66b0f5719a4996df50cb7a717962"
+                        href="https://www.fandangonow.com/details/movie/nan-goldin-i-remember-your-face-2013/1MV304f66b0f5719a4996df50cb7a717962?ele=list&elc=1MV304f66b0f5719a4996df50cb7a717962&eli=5&eci=1MV304f66b0f5719a4996df50cb7a717962"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV5ceb0c8018591df91574ab498733a9ec&amp;ql=70&amp;sizes=176x264"
-                            alt="Battle of the Brave MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV304f66b0f5719a4996df50cb7a717962&amp;ql=70&amp;sizes=176x264"
+                            alt="Nan Goldin: I Remember Your Face MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -595,15 +595,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV1393a377a57105ceb0ff2427e6ebe458"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1393a377a57105ceb0ff2427e6ebe458"
-                        href="https://www.fandangonow.com/details/movie/lonely-are-the-brave-1962/1MV1393a377a57105ceb0ff2427e6ebe458?ele=list&elc=1MV1393a377a57105ceb0ff2427e6ebe458&eli=6&eci=1MV1393a377a57105ceb0ff2427e6ebe458"
+                        id="_item_1MVa30ea884e490460de10e180bb14f69fc"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa30ea884e490460de10e180bb14f69fc"
+                        href="https://www.fandangonow.com/details/movie/an-affair-to-remember-1957/1MVa30ea884e490460de10e180bb14f69fc?ele=list&elc=1MVa30ea884e490460de10e180bb14f69fc&eli=6&eci=1MVa30ea884e490460de10e180bb14f69fc"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV1393a377a57105ceb0ff2427e6ebe458&amp;ql=70&amp;sizes=176x264"
-                            alt="Lonely are the Brave MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVa30ea884e490460de10e180bb14f69fc&amp;ql=70&amp;sizes=176x264"
+                            alt="An Affair to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -615,15 +615,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVf20e49bad66e02f3ad52f5410dc8c85e"
-                        class="item__link js-flyout-item plus-card" data-id="1MVf20e49bad66e02f3ad52f5410dc8c85e"
-                        href="https://www.fandangonow.com/details/movie/brave-miss-world-2013/1MVf20e49bad66e02f3ad52f5410dc8c85e?ele=list&elc=1MVf20e49bad66e02f3ad52f5410dc8c85e&eli=7&eci=1MVf20e49bad66e02f3ad52f5410dc8c85e"
+                        id="_item_1MV3df11a24ca48036f920f95d6f1eee423"
+                        class="item__link js-flyout-item plus-card" data-id="1MV3df11a24ca48036f920f95d6f1eee423"
+                        href="https://www.fandangonow.com/details/movie/remember-the-goal-2016/1MV3df11a24ca48036f920f95d6f1eee423?ele=list&elc=1MV3df11a24ca48036f920f95d6f1eee423&eli=7&eci=1MV3df11a24ca48036f920f95d6f1eee423"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVf20e49bad66e02f3ad52f5410dc8c85e&amp;ql=70&amp;sizes=176x264"
-                            alt="Brave Miss World MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV3df11a24ca48036f920f95d6f1eee423&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember the Goal MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -635,15 +635,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV5e77b14965354096781c37be12784e40"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5e77b14965354096781c37be12784e40"
-                        href="https://www.fandangonow.com/details/movie/home-of-the-brave-1986/1MV5e77b14965354096781c37be12784e40?ele=list&elc=1MV5e77b14965354096781c37be12784e40&eli=8&eci=1MV5e77b14965354096781c37be12784e40"
+                        id="_item_1MVc0eebd985fab54926cfadf95779d60e6"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc0eebd985fab54926cfadf95779d60e6"
+                        href="https://www.fandangonow.com/details/movie/a-song-to-remember-1944/1MVc0eebd985fab54926cfadf95779d60e6?ele=list&elc=1MVc0eebd985fab54926cfadf95779d60e6&eli=8&eci=1MVc0eebd985fab54926cfadf95779d60e6"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV5e77b14965354096781c37be12784e40&amp;ql=70&amp;sizes=176x264"
-                            alt="Home of the Brave MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVc0eebd985fab54926cfadf95779d60e6&amp;ql=70&amp;sizes=176x264"
+                            alt="A Song to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -655,15 +655,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f"
-                        class="item__link js-flyout-item plus-card" data-id="1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f"
-                        href="https://www.fandangonow.com/details/movie/three-brave-men-1956/1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f?ele=list&elc=1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f&eli=9&eci=1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f"
+                        id="_item_1MVecbe957bc95d4d3655c11190a1358ef2"
+                        class="item__link js-flyout-item plus-card" data-id="1MVecbe957bc95d4d3655c11190a1358ef2"
+                        href="https://www.fandangonow.com/details/movie/remember-sunday-2013/1MVecbe957bc95d4d3655c11190a1358ef2?ele=list&elc=1MVecbe957bc95d4d3655c11190a1358ef2&eli=9&eci=1MVecbe957bc95d4d3655c11190a1358ef2"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f&amp;ql=70&amp;sizes=176x264"
-                            alt="Three Brave Men MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVecbe957bc95d4d3655c11190a1358ef2&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember Sunday MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -675,15 +675,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa"
-                        href="https://www.fandangonow.com/details/movie/the-brave-1997/1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa?ele=list&elc=1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa&eli=10&eci=1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa"
+                        id="_item_1MV0250a3ff8f542013f221a4f8246b2f35"
+                        class="item__link js-flyout-item plus-card" data-id="1MV0250a3ff8f542013f221a4f8246b2f35"
+                        href="https://www.fandangonow.com/details/movie/remember-pearl-harbor-1942/1MV0250a3ff8f542013f221a4f8246b2f35?ele=list&elc=1MV0250a3ff8f542013f221a4f8246b2f35&eli=10&eci=1MV0250a3ff8f542013f221a4f8246b2f35"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa&amp;ql=70&amp;sizes=176x264"
-                            alt="The Brave MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV0250a3ff8f542013f221a4f8246b2f35&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember Pearl Harbor MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -695,15 +695,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV5992abd1dc40125b54e604ba99630bc9"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5992abd1dc40125b54e604ba99630bc9"
-                        href="https://www.fandangonow.com/details/movie/brave-mens-blood-2014/1MV5992abd1dc40125b54e604ba99630bc9?ele=list&elc=1MV5992abd1dc40125b54e604ba99630bc9&eli=11&eci=1MV5992abd1dc40125b54e604ba99630bc9"
+                        id="_item_1MV4c01260fb39780018f6fd87d97470b23"
+                        class="item__link js-flyout-item plus-card" data-id="1MV4c01260fb39780018f6fd87d97470b23"
+                        href="https://www.fandangonow.com/details/movie/a-christmas-to-remember-2016/1MV4c01260fb39780018f6fd87d97470b23?ele=list&elc=1MV4c01260fb39780018f6fd87d97470b23&eli=11&eci=1MV4c01260fb39780018f6fd87d97470b23"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV5992abd1dc40125b54e604ba99630bc9&amp;ql=70&amp;sizes=176x264"
-                            alt="Brave Men&#x27;s Blood MOVIE"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV4c01260fb39780018f6fd87d97470b23&amp;ql=70&amp;sizes=176x264"
+                            alt="A Christmas to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -715,15 +715,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVE79E78F81F3A77CD4BD6D18071CBEE73A"
-                        class="item__link js-flyout-item plus-card" data-id="MMVE79E78F81F3A77CD4BD6D18071CBEE73A"
-                        href="https://www.fandangonow.com/details/movie/sesame-street-being-brave-2013/MMVE79E78F81F3A77CD4BD6D18071CBEE73A?ele=list&elc=MMVE79E78F81F3A77CD4BD6D18071CBEE73A&eli=12&eci=MMVE79E78F81F3A77CD4BD6D18071CBEE73A"
+                        id="_item_1MVa91e6b9714eeed136eba0a3f9e402c52"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa91e6b9714eeed136eba0a3f9e402c52"
+                        href="https://www.fandangonow.com/details/movie/remember-2012/1MVa91e6b9714eeed136eba0a3f9e402c52?ele=list&elc=1MVa91e6b9714eeed136eba0a3f9e402c52&eli=12&eci=1MVa91e6b9714eeed136eba0a3f9e402c52"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVE79E78F81F3A77CD4BD6D18071CBEE73A&amp;ql=70&amp;sizes=176x264"
-                            alt="Sesame Street: Being Brave MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVa91e6b9714eeed136eba0a3f9e402c52&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -735,15 +735,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV334ef1869a3e2a4295285f5dda13559d"
-                        class="item__link js-flyout-item plus-card" data-id="1MV334ef1869a3e2a4295285f5dda13559d"
-                        href="https://www.fandangonow.com/details/movie/kiara-the-brave-2012/1MV334ef1869a3e2a4295285f5dda13559d?ele=list&elc=1MV334ef1869a3e2a4295285f5dda13559d&eli=13&eci=1MV334ef1869a3e2a4295285f5dda13559d"
+                        id="_item_1MVf9a0c60581984aa782d2a95bd7f41441"
+                        class="item__link js-flyout-item plus-card" data-id="1MVf9a0c60581984aa782d2a95bd7f41441"
+                        href="https://www.fandangonow.com/details/movie/i-remember-better-when-i-paint-2009/1MVf9a0c60581984aa782d2a95bd7f41441?ele=list&elc=1MVf9a0c60581984aa782d2a95bd7f41441&eli=13&eci=1MVf9a0c60581984aa782d2a95bd7f41441"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV334ef1869a3e2a4295285f5dda13559d&amp;ql=70&amp;sizes=176x264"
-                            alt="Kiara the Brave MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVf9a0c60581984aa782d2a95bd7f41441&amp;ql=70&amp;sizes=176x264"
+                            alt="I Remember Better When I Paint MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -755,15 +755,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVc76ffb7f96601f03ec49ad35cbe175d7"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc76ffb7f96601f03ec49ad35cbe175d7"
-                        href="https://www.fandangonow.com/details/movie/only-the-brave-2006/1MVc76ffb7f96601f03ec49ad35cbe175d7?ele=list&elc=1MVc76ffb7f96601f03ec49ad35cbe175d7&eli=14&eci=1MVc76ffb7f96601f03ec49ad35cbe175d7"
+                        id="_item_1MVa32465d513358edc981afeb6806e1890"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa32465d513358edc981afeb6806e1890"
+                        href="https://www.fandangonow.com/details/movie/a-night-to-remember-1958/1MVa32465d513358edc981afeb6806e1890?ele=list&elc=1MVa32465d513358edc981afeb6806e1890&eli=14&eci=1MVa32465d513358edc981afeb6806e1890"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVc76ffb7f96601f03ec49ad35cbe175d7&amp;ql=70&amp;sizes=176x264"
-                            alt="Only the Brave MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVa32465d513358edc981afeb6806e1890&amp;ql=70&amp;sizes=176x264"
+                            alt="A Night to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -775,15 +775,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVe6fde245095727b6c3c6cb74798b0706"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe6fde245095727b6c3c6cb74798b0706"
-                        href="https://www.fandangonow.com/details/movie/home-of-the-brave-2006/1MVe6fde245095727b6c3c6cb74798b0706?ele=list&elc=1MVe6fde245095727b6c3c6cb74798b0706&eli=15&eci=1MVe6fde245095727b6c3c6cb74798b0706"
+                        id="_item_1MV17cbce8ca42d4d7965bf396646231256"
+                        class="item__link js-flyout-item plus-card" data-id="1MV17cbce8ca42d4d7965bf396646231256"
+                        href="https://www.fandangonow.com/details/movie/i-remember-mama-1948/1MV17cbce8ca42d4d7965bf396646231256?ele=list&elc=1MV17cbce8ca42d4d7965bf396646231256&eli=15&eci=1MV17cbce8ca42d4d7965bf396646231256"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVe6fde245095727b6c3c6cb74798b0706&amp;ql=70&amp;sizes=176x264"
-                            alt="Home of the Brave MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV17cbce8ca42d4d7965bf396646231256&amp;ql=70&amp;sizes=176x264"
+                            alt="I Remember Mama MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -795,15 +795,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV7564ba09cfb1e16a69c7a0e50cc8110e"
-                        class="item__link js-flyout-item plus-card" data-id="1MV7564ba09cfb1e16a69c7a0e50cc8110e"
-                        href="https://www.fandangonow.com/details/movie/home-of-the-brave-1949/1MV7564ba09cfb1e16a69c7a0e50cc8110e?ele=list&elc=1MV7564ba09cfb1e16a69c7a0e50cc8110e&eli=16&eci=1MV7564ba09cfb1e16a69c7a0e50cc8110e"
+                        id="_item_1MVed4d4a54233a258142c7be7bd2d84728"
+                        class="item__link js-flyout-item plus-card" data-id="1MVed4d4a54233a258142c7be7bd2d84728"
+                        href="https://www.fandangonow.com/details/movie/remember-the-night-1940/1MVed4d4a54233a258142c7be7bd2d84728?ele=list&elc=1MVed4d4a54233a258142c7be7bd2d84728&eli=16&eci=1MVed4d4a54233a258142c7be7bd2d84728"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV7564ba09cfb1e16a69c7a0e50cc8110e&amp;ql=70&amp;sizes=176x264"
-                            alt="Home of the Brave MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVed4d4a54233a258142c7be7bd2d84728&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember the Night MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -815,15 +815,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV2b03e7e3934f646de2d8560a96e4223a"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2b03e7e3934f646de2d8560a96e4223a"
-                        href="https://www.fandangonow.com/details/movie/none-but-the-brave-1965/1MV2b03e7e3934f646de2d8560a96e4223a?ele=list&elc=1MV2b03e7e3934f646de2d8560a96e4223a&eli=17&eci=1MV2b03e7e3934f646de2d8560a96e4223a"
+                        id="_item_1MV80876046c01fe1f4a588e9c7f72c2e6b"
+                        class="item__link js-flyout-item plus-card" data-id="1MV80876046c01fe1f4a588e9c7f72c2e6b"
+                        href="https://www.fandangonow.com/details/movie/remember-my-name-1978/1MV80876046c01fe1f4a588e9c7f72c2e6b?ele=list&elc=1MV80876046c01fe1f4a588e9c7f72c2e6b&eli=17&eci=1MV80876046c01fe1f4a588e9c7f72c2e6b"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV2b03e7e3934f646de2d8560a96e4223a&amp;ql=70&amp;sizes=176x264"
-                            alt="None but the Brave MOVIE"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV80876046c01fe1f4a588e9c7f72c2e6b&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember My Name MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -835,15 +835,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV3e5a1ea2822064ba415538502491e971"
-                        class="item__link js-flyout-item plus-card" data-id="1MV3e5a1ea2822064ba415538502491e971"
-                        href="https://www.fandangonow.com/details/movie/the-brave-bulls-1951/1MV3e5a1ea2822064ba415538502491e971?ele=list&elc=1MV3e5a1ea2822064ba415538502491e971&eli=18&eci=1MV3e5a1ea2822064ba415538502491e971"
+                        id="_item_1MVfa9cb3a70d3d5f7f4f46981de560a30e"
+                        class="item__link js-flyout-item plus-card" data-id="1MVfa9cb3a70d3d5f7f4f46981de560a30e"
+                        href="https://www.fandangonow.com/details/movie/remember-the-day-1941/1MVfa9cb3a70d3d5f7f4f46981de560a30e?ele=list&elc=1MVfa9cb3a70d3d5f7f4f46981de560a30e&eli=18&eci=1MVfa9cb3a70d3d5f7f4f46981de560a30e"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV3e5a1ea2822064ba415538502491e971&amp;ql=70&amp;sizes=176x264"
-                            alt="The Brave Bulls MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVfa9cb3a70d3d5f7f4f46981de560a30e&amp;ql=70&amp;sizes=176x264"
+                            alt="Remember the Day MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -855,15 +855,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVad53912a77265c67732466121bf77bcb"
-                        class="item__link js-flyout-item plus-card" data-id="1MVad53912a77265c67732466121bf77bcb"
-                        href="https://www.fandangonow.com/details/movie/the-young-and-the-brave-1963/1MVad53912a77265c67732466121bf77bcb?ele=list&elc=1MVad53912a77265c67732466121bf77bcb&eli=19&eci=1MVad53912a77265c67732466121bf77bcb"
+                        id="_item_1MVc80648760397e8dc74cc4e3b1de247bb"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc80648760397e8dc74cc4e3b1de247bb"
+                        href="https://www.fandangonow.com/details/movie/i-remember-you-1949/1MVc80648760397e8dc74cc4e3b1de247bb?ele=list&elc=1MVc80648760397e8dc74cc4e3b1de247bb&eli=19&eci=1MVc80648760397e8dc74cc4e3b1de247bb"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVad53912a77265c67732466121bf77bcb&amp;ql=70&amp;sizes=176x264"
-                            alt="The Young and the Brave MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVc80648760397e8dc74cc4e3b1de247bb&amp;ql=70&amp;sizes=176x264"
+                            alt="I Remember You MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -875,15 +875,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV81383b60012288fd5d62b5bb3d7da6f3"
-                        class="item__link js-flyout-item plus-card" data-id="1MV81383b60012288fd5d62b5bb3d7da6f3"
-                        href="https://www.fandangonow.com/details/movie/brave-warrior-1952/1MV81383b60012288fd5d62b5bb3d7da6f3?ele=list&elc=1MV81383b60012288fd5d62b5bb3d7da6f3&eli=20&eci=1MV81383b60012288fd5d62b5bb3d7da6f3"
+                        id="_item_1MV4c97c6ccf392344cabc9b756d8d6c8c7"
+                        class="item__link js-flyout-item plus-card" data-id="1MV4c97c6ccf392344cabc9b756d8d6c8c7"
+                        href="https://www.fandangonow.com/details/movie/a-summer-to-remember-1960/1MV4c97c6ccf392344cabc9b756d8d6c8c7?ele=list&elc=1MV4c97c6ccf392344cabc9b756d8d6c8c7&eli=20&eci=1MV4c97c6ccf392344cabc9b756d8d6c8c7"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV81383b60012288fd5d62b5bb3d7da6f3&amp;ql=70&amp;sizes=176x264"
-                            alt="Brave Warrior MOVIE"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV4c97c6ccf392344cabc9b756d8d6c8c7&amp;ql=70&amp;sizes=176x264"
+                            alt="A Summer to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -895,15 +895,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV23fb437014a562249d01adf13d4b80c1"
-                        class="item__link js-flyout-item plus-card" data-id="1MV23fb437014a562249d01adf13d4b80c1"
-                        href="https://www.fandangonow.com/details/movie/the-bold-and-the-brave-1956/1MV23fb437014a562249d01adf13d4b80c1?ele=list&elc=1MV23fb437014a562249d01adf13d4b80c1&eli=21&eci=1MV23fb437014a562249d01adf13d4b80c1"
+                        id="_item_1MVc9a59de6fca9dee000d3c0332a5dc7f8"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc9a59de6fca9dee000d3c0332a5dc7f8"
+                        href="https://www.fandangonow.com/details/movie/a-man-to-remember-1938/1MVc9a59de6fca9dee000d3c0332a5dc7f8?ele=list&elc=1MVc9a59de6fca9dee000d3c0332a5dc7f8&eli=21&eci=1MVc9a59de6fca9dee000d3c0332a5dc7f8"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV23fb437014a562249d01adf13d4b80c1&amp;ql=70&amp;sizes=176x264"
-                            alt="The Bold and the Brave MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVc9a59de6fca9dee000d3c0332a5dc7f8&amp;ql=70&amp;sizes=176x264"
+                            alt="A Man to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -915,15 +915,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV1e4f3e8bda703f7dced16fa7f760f6fd"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1e4f3e8bda703f7dced16fa7f760f6fd"
-                        href="https://www.fandangonow.com/details/movie/deathbed-2002/1MV1e4f3e8bda703f7dced16fa7f760f6fd?ele=list&elc=1MV1e4f3e8bda703f7dced16fa7f760f6fd&eli=22&eci=1MV1e4f3e8bda703f7dced16fa7f760f6fd"
+                        id="_item_1MV1d153448bcdb3934dc9aeb11c1c24710"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1d153448bcdb3934dc9aeb11c1c24710"
+                        href="https://www.fandangonow.com/details/movie/a-night-to-remember-1942/1MV1d153448bcdb3934dc9aeb11c1c24710?ele=list&elc=1MV1d153448bcdb3934dc9aeb11c1c24710&eli=22&eci=1MV1d153448bcdb3934dc9aeb11c1c24710"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV1e4f3e8bda703f7dced16fa7f760f6fd&amp;ql=70&amp;sizes=176x264"
-                            alt="Deathbed MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV1d153448bcdb3934dc9aeb11c1c24710&amp;ql=70&amp;sizes=176x264"
+                            alt="A Night to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -935,15 +935,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV736f0b0abfd4c84ea9a2026ee370a9f4"
-                        class="item__link js-flyout-item plus-card" data-id="1MV736f0b0abfd4c84ea9a2026ee370a9f4"
-                        href="https://www.fandangonow.com/details/movie/braveheart-1995/1MV736f0b0abfd4c84ea9a2026ee370a9f4?ele=list&elc=1MV736f0b0abfd4c84ea9a2026ee370a9f4&eli=23&eci=1MV736f0b0abfd4c84ea9a2026ee370a9f4"
+                        id="_item_1MVb898447629f9c334350a3c684681b910"
+                        class="item__link js-flyout-item plus-card" data-id="1MVb898447629f9c334350a3c684681b910"
+                        href="https://www.fandangonow.com/details/movie/a-day-to-remember-1953/1MVb898447629f9c334350a3c684681b910?ele=list&elc=1MVb898447629f9c334350a3c684681b910&eli=23&eci=1MVb898447629f9c334350a3c684681b910"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV736f0b0abfd4c84ea9a2026ee370a9f4&amp;ql=70&amp;sizes=176x264"
-                            alt="Braveheart MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVb898447629f9c334350a3c684681b910&amp;ql=70&amp;sizes=176x264"
+                            alt="A Day to Remember MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -955,15 +955,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV2F0BFFA00029A3B3504EE3439E720CA73"
-                        class="item__link js-flyout-item plus-card" data-id="MMV2F0BFFA00029A3B3504EE3439E720CA73"
-                        href="https://www.fandangonow.com/details/movie/bravetown-2015/MMV2F0BFFA00029A3B3504EE3439E720CA73?ele=list&elc=MMV2F0BFFA00029A3B3504EE3439E720CA73&eli=24&eci=MMV2F0BFFA00029A3B3504EE3439E720CA73"
+                        id="_item_1MVed0cc31e1f8d7d12d9cb82210186e3c1"
+                        class="item__link js-flyout-item plus-card" data-id="1MVed0cc31e1f8d7d12d9cb82210186e3c1"
+                        href="https://www.fandangonow.com/details/movie/jfk-remembered-50-years-later-2013/1MVed0cc31e1f8d7d12d9cb82210186e3c1?ele=list&elc=1MVed0cc31e1f8d7d12d9cb82210186e3c1&eli=24&eci=1MVed0cc31e1f8d7d12d9cb82210186e3c1"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV2F0BFFA00029A3B3504EE3439E720CA73&amp;ql=70&amp;sizes=176x264"
-                            alt="Bravetown MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVed0cc31e1f8d7d12d9cb82210186e3c1&amp;ql=70&amp;sizes=176x264"
+                            alt="JFK Remembered: 50 Years Later MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -975,15 +975,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV0d607666c282729571c0bcc6ce61d48f"
-                        class="item__link js-flyout-item plus-card" data-id="1MV0d607666c282729571c0bcc6ce61d48f"
-                        href="https://www.fandangonow.com/details/movie/bravestarr-1988/1MV0d607666c282729571c0bcc6ce61d48f?ele=list&elc=1MV0d607666c282729571c0bcc6ce61d48f&eli=25&eci=1MV0d607666c282729571c0bcc6ce61d48f"
+                        id="_item_1MV264e0b5e87f2ffb44ebd633b4306b5a0"
+                        class="item__link js-flyout-item plus-card" data-id="1MV264e0b5e87f2ffb44ebd633b4306b5a0"
+                        href="https://www.fandangonow.com/details/movie/remembering-phil-2008/1MV264e0b5e87f2ffb44ebd633b4306b5a0?ele=list&elc=1MV264e0b5e87f2ffb44ebd633b4306b5a0&eli=25&eci=1MV264e0b5e87f2ffb44ebd633b4306b5a0"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV0d607666c282729571c0bcc6ce61d48f&amp;ql=70&amp;sizes=176x264"
-                            alt="Bravestarr MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV264e0b5e87f2ffb44ebd633b4306b5a0&amp;ql=70&amp;sizes=176x264"
+                            alt="Remembering Phil MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -995,15 +995,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV03f540d42f0e6de537f31e87f8849615"
-                        class="item__link js-flyout-item plus-card" data-id="1MV03f540d42f0e6de537f31e87f8849615"
-                        href="https://www.fandangonow.com/details/movie/mike-the-knight-mikes-bravest-mission-2015/1MV03f540d42f0e6de537f31e87f8849615?ele=list&elc=1MV03f540d42f0e6de537f31e87f8849615&eli=26&eci=1MV03f540d42f0e6de537f31e87f8849615"
+                        id="_item_1MVcb08ee5111a4dbf92109782d8167fbe0"
+                        class="item__link js-flyout-item plus-card" data-id="1MVcb08ee5111a4dbf92109782d8167fbe0"
+                        href="https://www.fandangonow.com/details/movie/time-lost-and-time-remembered-1966/1MVcb08ee5111a4dbf92109782d8167fbe0?ele=list&elc=1MVcb08ee5111a4dbf92109782d8167fbe0&eli=26&eci=1MVcb08ee5111a4dbf92109782d8167fbe0"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV03f540d42f0e6de537f31e87f8849615&amp;ql=70&amp;sizes=176x264"
-                            alt="Mike the Knight: Mike&#x27;s Bravest Mission MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVcb08ee5111a4dbf92109782d8167fbe0&amp;ql=70&amp;sizes=176x264"
+                            alt="Time Lost and Time Remembered MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -1129,7 +1129,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Brave'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":30,"pageCount":27,"pageNumber":0,"items":[{"id":"MMVD91C7DB34361384277B0F5977A8EA2321","title":"Brave ","template":"defaultItem","contentType":"MOVIE","slugId":"brave-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD91C7DB34361384277B0F5977A8EA2321/details","description":""},{"id":"MMVFE2D4550459FC97672D0C5E2F5D57ADCA","title":"Thomas & Friends: Tale of the Brave - The Movie","template":"defaultItem","contentType":"MOVIE","slugId":"thomas-friends-tale-of-the-brave-the-movie-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVFE2D4550459FC97672D0C5E2F5D57ADCA/details","description":""},{"id":"1MV4c9fc6395255a83f2a01154985b5a183","title":"The Brave One","template":"defaultItem","contentType":"MOVIE","slugId":"the-brave-one-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4c9fc6395255a83f2a01154985b5a183/details","description":""},{"id":"MMVC6D971F3B6628616B7FC29A4D089711AB","title":"The Land Before Time XIV: Journey of the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"the-land-before-time-xiv-journey-of-the-brave-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC6D971F3B6628616B7FC29A4D089711AB/details","description":""},{"id":"1MV07ce215a50eeb9fa05490236b14f96ca","title":"A Brave Heart: The Lizzie Velasquez Story","template":"defaultItem","contentType":"MOVIE","slugId":"a-brave-heart-the-lizzie-velasquez-story-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV07ce215a50eeb9fa05490236b14f96ca/details","description":""},{"id":"1MV5ceb0c8018591df91574ab498733a9ec","title":"Battle of the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"battle-of-the-brave-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5ceb0c8018591df91574ab498733a9ec/details","description":""},{"id":"1MV1393a377a57105ceb0ff2427e6ebe458","title":"Lonely are the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"lonely-are-the-brave-1962","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1393a377a57105ceb0ff2427e6ebe458/details","description":""},{"id":"1MVf20e49bad66e02f3ad52f5410dc8c85e","title":"Brave Miss World","template":"defaultItem","contentType":"MOVIE","slugId":"brave-miss-world-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf20e49bad66e02f3ad52f5410dc8c85e/details","description":""},{"id":"1MV5e77b14965354096781c37be12784e40","title":"Home of the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"home-of-the-brave-1986","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5e77b14965354096781c37be12784e40/details","description":""},{"id":"1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f","title":"Three Brave Men","template":"defaultItem","contentType":"MOVIE","slugId":"three-brave-men-1956","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb4b27c0d5f2ff7d1c91bd4d5b203d99f/details","description":""},{"id":"1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa","title":"The Brave","template":"defaultItem","contentType":"MOVIE","slugId":"the-brave-1997","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd4e48a9f4fa2533d47e22ee3b0a5e5fa/details","description":""},{"id":"1MV5992abd1dc40125b54e604ba99630bc9","title":"Brave Men's Blood","template":"defaultItem","contentType":"MOVIE","slugId":"brave-mens-blood-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5992abd1dc40125b54e604ba99630bc9/details","description":""},{"id":"MMVE79E78F81F3A77CD4BD6D18071CBEE73A","title":"Sesame Street: Being Brave","template":"defaultItem","contentType":"MOVIE","slugId":"sesame-street-being-brave-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE79E78F81F3A77CD4BD6D18071CBEE73A/details","description":""},{"id":"1MV334ef1869a3e2a4295285f5dda13559d","title":"Kiara the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"kiara-the-brave-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV334ef1869a3e2a4295285f5dda13559d/details","description":""},{"id":"1MVc76ffb7f96601f03ec49ad35cbe175d7","title":"Only the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"only-the-brave-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc76ffb7f96601f03ec49ad35cbe175d7/details","description":""},{"id":"1MVe6fde245095727b6c3c6cb74798b0706","title":"Home of the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"home-of-the-brave-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe6fde245095727b6c3c6cb74798b0706/details","description":""},{"id":"1MV7564ba09cfb1e16a69c7a0e50cc8110e","title":"Home of the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"home-of-the-brave-1949","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7564ba09cfb1e16a69c7a0e50cc8110e/details","description":""},{"id":"1MV2b03e7e3934f646de2d8560a96e4223a","title":"None but the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"none-but-the-brave-1965","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2b03e7e3934f646de2d8560a96e4223a/details","description":""},{"id":"1MV3e5a1ea2822064ba415538502491e971","title":"The Brave Bulls","template":"defaultItem","contentType":"MOVIE","slugId":"the-brave-bulls-1951","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3e5a1ea2822064ba415538502491e971/details","description":""},{"id":"1MVad53912a77265c67732466121bf77bcb","title":"The Young and the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"the-young-and-the-brave-1963","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVad53912a77265c67732466121bf77bcb/details","description":""},{"id":"1MV81383b60012288fd5d62b5bb3d7da6f3","title":"Brave Warrior","template":"defaultItem","contentType":"MOVIE","slugId":"brave-warrior-1952","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV81383b60012288fd5d62b5bb3d7da6f3/details","description":""},{"id":"1MV23fb437014a562249d01adf13d4b80c1","title":"The Bold and the Brave","template":"defaultItem","contentType":"MOVIE","slugId":"the-bold-and-the-brave-1956","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV23fb437014a562249d01adf13d4b80c1/details","description":""},{"id":"1MV1e4f3e8bda703f7dced16fa7f760f6fd","title":"Deathbed","template":"defaultItem","contentType":"MOVIE","slugId":"deathbed-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1e4f3e8bda703f7dced16fa7f760f6fd/details","description":""},{"id":"1MV736f0b0abfd4c84ea9a2026ee370a9f4","title":"Braveheart","template":"defaultItem","contentType":"MOVIE","slugId":"braveheart-1995","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV736f0b0abfd4c84ea9a2026ee370a9f4/details","description":""},{"id":"MMV2F0BFFA00029A3B3504EE3439E720CA73","title":"Bravetown","template":"defaultItem","contentType":"MOVIE","slugId":"bravetown-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV2F0BFFA00029A3B3504EE3439E720CA73/details","description":""},{"id":"1MV0d607666c282729571c0bcc6ce61d48f","title":"Bravestarr","template":"defaultItem","contentType":"MOVIE","slugId":"bravestarr-1988","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0d607666c282729571c0bcc6ce61d48f/details","description":""},{"id":"1MV03f540d42f0e6de537f31e87f8849615","title":"Mike the Knight: Mike's Bravest Mission","template":"defaultItem","contentType":"MOVIE","slugId":"mike-the-knight-mikes-bravest-mission-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV03f540d42f0e6de537f31e87f8849615/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Brave","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Remember'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":30,"pageCount":27,"pageNumber":0,"items":[{"id":"MMVDEB34FE8EA82CBCC0F5AA0381FAA70834","title":"Remember","template":"defaultItem","contentType":"MOVIE","slugId":"remember-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVDEB34FE8EA82CBCC0F5AA0381FAA70834/details","description":""},{"id":"MMVA0749E9680367B77022FE843FC3A49EC8","title":"Remember The Titans","template":"defaultItem","contentType":"MOVIE","slugId":"remember-the-titans-2000","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVA0749E9680367B77022FE843FC3A49EC8/details","description":""},{"id":"1MV03b61f8d14bdec5aa71a7ee5d228a407","title":"A Walk to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-walk-to-remember-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV03b61f8d14bdec5aa71a7ee5d228a407/details","description":""},{"id":"MMVE42B049E17FE9E3921851C63650892B38","title":"Remember Me","template":"defaultItem","contentType":"MOVIE","slugId":"remember-me-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE42B049E17FE9E3921851C63650892B38/details","description":""},{"id":"MMVC2B6F1BBB1663BD376D6C56050E52199F","title":"I Remember You","template":"defaultItem","contentType":"MOVIE","slugId":"i-remember-you-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC2B6F1BBB1663BD376D6C56050E52199F/details","description":""},{"id":"1MV304f66b0f5719a4996df50cb7a717962","title":"Nan Goldin: I Remember Your Face","template":"defaultItem","contentType":"MOVIE","slugId":"nan-goldin-i-remember-your-face-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV304f66b0f5719a4996df50cb7a717962/details","description":""},{"id":"1MVa30ea884e490460de10e180bb14f69fc","title":"An Affair to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"an-affair-to-remember-1957","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa30ea884e490460de10e180bb14f69fc/details","description":""},{"id":"1MV3df11a24ca48036f920f95d6f1eee423","title":"Remember the Goal","template":"defaultItem","contentType":"MOVIE","slugId":"remember-the-goal-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3df11a24ca48036f920f95d6f1eee423/details","description":""},{"id":"1MVc0eebd985fab54926cfadf95779d60e6","title":"A Song to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-song-to-remember-1944","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc0eebd985fab54926cfadf95779d60e6/details","description":""},{"id":"1MVecbe957bc95d4d3655c11190a1358ef2","title":"Remember Sunday","template":"defaultItem","contentType":"MOVIE","slugId":"remember-sunday-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVecbe957bc95d4d3655c11190a1358ef2/details","description":""},{"id":"1MV0250a3ff8f542013f221a4f8246b2f35","title":"Remember Pearl Harbor","template":"defaultItem","contentType":"MOVIE","slugId":"remember-pearl-harbor-1942","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0250a3ff8f542013f221a4f8246b2f35/details","description":""},{"id":"1MV4c01260fb39780018f6fd87d97470b23","title":"A Christmas to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-christmas-to-remember-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4c01260fb39780018f6fd87d97470b23/details","description":""},{"id":"1MVa91e6b9714eeed136eba0a3f9e402c52","title":"Remember","template":"defaultItem","contentType":"MOVIE","slugId":"remember-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa91e6b9714eeed136eba0a3f9e402c52/details","description":""},{"id":"1MVf9a0c60581984aa782d2a95bd7f41441","title":"I Remember Better When I Paint","template":"defaultItem","contentType":"MOVIE","slugId":"i-remember-better-when-i-paint-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf9a0c60581984aa782d2a95bd7f41441/details","description":""},{"id":"1MVa32465d513358edc981afeb6806e1890","title":"A Night to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-night-to-remember-1958","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa32465d513358edc981afeb6806e1890/details","description":""},{"id":"1MV17cbce8ca42d4d7965bf396646231256","title":"I Remember Mama","template":"defaultItem","contentType":"MOVIE","slugId":"i-remember-mama-1948","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV17cbce8ca42d4d7965bf396646231256/details","description":""},{"id":"1MVed4d4a54233a258142c7be7bd2d84728","title":"Remember the Night","template":"defaultItem","contentType":"MOVIE","slugId":"remember-the-night-1940","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVed4d4a54233a258142c7be7bd2d84728/details","description":""},{"id":"1MV80876046c01fe1f4a588e9c7f72c2e6b","title":"Remember My Name","template":"defaultItem","contentType":"MOVIE","slugId":"remember-my-name-1978","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV80876046c01fe1f4a588e9c7f72c2e6b/details","description":""},{"id":"1MVfa9cb3a70d3d5f7f4f46981de560a30e","title":"Remember the Day","template":"defaultItem","contentType":"MOVIE","slugId":"remember-the-day-1941","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfa9cb3a70d3d5f7f4f46981de560a30e/details","description":""},{"id":"1MVc80648760397e8dc74cc4e3b1de247bb","title":"I Remember You","template":"defaultItem","contentType":"MOVIE","slugId":"i-remember-you-1949","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc80648760397e8dc74cc4e3b1de247bb/details","description":""},{"id":"1MV4c97c6ccf392344cabc9b756d8d6c8c7","title":"A Summer to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-summer-to-remember-1960","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4c97c6ccf392344cabc9b756d8d6c8c7/details","description":""},{"id":"1MVc9a59de6fca9dee000d3c0332a5dc7f8","title":"A Man to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-man-to-remember-1938","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc9a59de6fca9dee000d3c0332a5dc7f8/details","description":""},{"id":"1MV1d153448bcdb3934dc9aeb11c1c24710","title":"A Night to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-night-to-remember-1942","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1d153448bcdb3934dc9aeb11c1c24710/details","description":""},{"id":"1MVb898447629f9c334350a3c684681b910","title":"A Day to Remember","template":"defaultItem","contentType":"MOVIE","slugId":"a-day-to-remember-1953","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb898447629f9c334350a3c684681b910/details","description":""},{"id":"1MVed0cc31e1f8d7d12d9cb82210186e3c1","title":"JFK Remembered: 50 Years Later","template":"defaultItem","contentType":"MOVIE","slugId":"jfk-remembered-50-years-later-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVed0cc31e1f8d7d12d9cb82210186e3c1/details","description":""},{"id":"1MV264e0b5e87f2ffb44ebd633b4306b5a0","title":"Remembering Phil","template":"defaultItem","contentType":"MOVIE","slugId":"remembering-phil-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV264e0b5e87f2ffb44ebd633b4306b5a0/details","description":""},{"id":"1MVcb08ee5111a4dbf92109782d8167fbe0","title":"Time Lost and Time Remembered","template":"defaultItem","contentType":"MOVIE","slugId":"time-lost-and-time-remembered-1966","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVcb08ee5111a4dbf92109782d8167fbe0/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Remember","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -1152,7 +1152,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="CLjf8eiv-K1pFFW4X7kGYKFMSpLw3cj8noS0" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="B7sm0NT5-FbeRNQ1b15Bo-1xga7UDfm2C8fg" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

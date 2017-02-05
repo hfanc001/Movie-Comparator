@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search San Andreas. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search San Andreas. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Happy Ending. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Happy Ending. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search San Andreas. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Happy Ending. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search San Andreas. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Happy Ending. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search San Andreas. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=San%20Andreas","list_name":"Search Results for 'San Andreas'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Happy Ending. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Happy%20Ending","list_name":"Search Results for 'Happy Ending'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'San Andreas'
+                Search Results for 'Happy Ending'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;San Andreas&#x27;"
-            data-list-id="Search-Results-for-San-Andreas"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=San%20Andreas"
+            data-list-title="Search Results for &#x27;Happy Ending&#x27;"
+            data-list-id="Search-Results-for-Happy-Ending"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Happy%20Ending"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="2"
-            data-total-count="3"
+            data-page-count="4"
+            data-total-count="4"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV30C2B587AFEC12C0DD9411AC01D84F99D"
-                        class="item__link js-flyout-item plus-card" data-id="MMV30C2B587AFEC12C0DD9411AC01D84F99D"
-                        href="https://www.fandangonow.com/details/movie/san-andreas-2015/MMV30C2B587AFEC12C0DD9411AC01D84F99D?ele=list&elc=MMV30C2B587AFEC12C0DD9411AC01D84F99D&eli=0&eci=MMV30C2B587AFEC12C0DD9411AC01D84F99D"
+                        id="_item_1MVbee5dd91daa8e90ac8b412ff8f835d59"
+                        class="item__link js-flyout-item plus-card" data-id="1MVbee5dd91daa8e90ac8b412ff8f835d59"
+                        href="https://www.fandangonow.com/details/movie/happy-endings-2005/1MVbee5dd91daa8e90ac8b412ff8f835d59?ele=list&elc=1MVbee5dd91daa8e90ac8b412ff8f835d59&eli=0&eci=1MVbee5dd91daa8e90ac8b412ff8f835d59"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV30C2B587AFEC12C0DD9411AC01D84F99D&amp;ql=70&amp;sizes=176x264"
-                            alt="San Andreas MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVbee5dd91daa8e90ac8b412ff8f835d59&amp;ql=70&amp;sizes=176x264"
+                            alt="Happy Endings MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,55 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV28461c63d49b817c16c6e8d16df32c8d"
-                        class="item__link js-flyout-item plus-card" data-id="1MV28461c63d49b817c16c6e8d16df32c8d"
-                        href="https://www.fandangonow.com/details/movie/san-andreas-quake-2015/1MV28461c63d49b817c16c6e8d16df32c8d?ele=list&elc=1MV28461c63d49b817c16c6e8d16df32c8d&eli=1&eci=1MV28461c63d49b817c16c6e8d16df32c8d"
+                        id="_item_1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5"
+                        href="https://www.fandangonow.com/details/movie/happy-ending-2014/1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5?ele=list&elc=1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5&eli=1&eci=1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV28461c63d49b817c16c6e8d16df32c8d&amp;ql=70&amp;sizes=176x264"
-                            alt="San Andreas Quake MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5&amp;ql=70&amp;sizes=176x264"
+                            alt="Happy Ending MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVe49d28283b15aec5ae769ca0ac869857"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe49d28283b15aec5ae769ca0ac869857"
+                        href="https://www.fandangonow.com/details/movie/not-another-happy-ending-2013/1MVe49d28283b15aec5ae769ca0ac869857?ele=list&elc=1MVe49d28283b15aec5ae769ca0ac869857&eli=2&eci=1MVe49d28283b15aec5ae769ca0ac869857"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVe49d28283b15aec5ae769ca0ac869857&amp;ql=70&amp;sizes=176x264"
+                            alt="Not Another Happy Ending MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV70aa62fcd63676c228b78980683ec6a9"
+                        class="item__link js-flyout-item plus-card" data-id="1MV70aa62fcd63676c228b78980683ec6a9"
+                        href="https://www.fandangonow.com/details/movie/the-happy-ending-1969/1MV70aa62fcd63676c228b78980683ec6a9?ele=list&elc=1MV70aa62fcd63676c228b78980683ec6a9&eli=3&eci=1MV70aa62fcd63676c228b78980683ec6a9"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV70aa62fcd63676c228b78980683ec6a9&amp;ql=70&amp;sizes=176x264"
+                            alt="The Happy Ending MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -629,7 +669,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'San Andreas'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":3,"pageCount":2,"pageNumber":0,"items":[{"id":"MMV30C2B587AFEC12C0DD9411AC01D84F99D","title":"San Andreas","template":"defaultItem","contentType":"MOVIE","slugId":"san-andreas-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV30C2B587AFEC12C0DD9411AC01D84F99D/details","description":""},{"id":"1MV28461c63d49b817c16c6e8d16df32c8d","title":"San Andreas Quake","template":"defaultItem","contentType":"MOVIE","slugId":"san-andreas-quake-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV28461c63d49b817c16c6e8d16df32c8d/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=San%20Andreas","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Happy Ending'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":4,"pageCount":4,"pageNumber":0,"items":[{"id":"1MVbee5dd91daa8e90ac8b412ff8f835d59","title":"Happy Endings","template":"defaultItem","contentType":"MOVIE","slugId":"happy-endings-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVbee5dd91daa8e90ac8b412ff8f835d59/details","description":""},{"id":"1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5","title":"Happy Ending","template":"defaultItem","contentType":"MOVIE","slugId":"happy-ending-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd1c0e3e3a8f3e9cb04c50ef02beb86f5/details","description":""},{"id":"1MVe49d28283b15aec5ae769ca0ac869857","title":"Not Another Happy Ending","template":"defaultItem","contentType":"MOVIE","slugId":"not-another-happy-ending-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe49d28283b15aec5ae769ca0ac869857/details","description":""},{"id":"1MV70aa62fcd63676c228b78980683ec6a9","title":"The Happy Ending","template":"defaultItem","contentType":"MOVIE","slugId":"the-happy-ending-1969","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV70aa62fcd63676c228b78980683ec6a9/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Happy%20Ending","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -652,7 +692,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="O4TaFIFQ-UVMW6Y1X2N10RiQ2L2Fs1PSUD90" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="o8CsKZTC-mSfR2faHGIZJ3ZauvcRkhvkzDmY" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

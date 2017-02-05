@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search The Jungle Book. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search The Jungle Book. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Last Vegas. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Last Vegas. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search The Jungle Book. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Last Vegas. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search The Jungle Book. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Last Vegas. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Jungle Book. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Jungle%20Book","list_name":"Search Results for 'The Jungle Book'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Last Vegas. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Last%20Vegas","list_name":"Search Results for 'Last Vegas'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'The Jungle Book'
+                Search Results for 'Last Vegas'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;The Jungle Book&#x27;"
-            data-list-id="Search-Results-for-The-Jungle-Book"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Jungle%20Book"
+            data-list-title="Search Results for &#x27;Last Vegas&#x27;"
+            data-list-id="Search-Results-for-Last-Vegas"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Last%20Vegas"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="13"
-            data-total-count="17"
+            data-page-count="1"
+            data-total-count="2"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,255 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC"
-                        class="item__link js-flyout-item plus-card" data-id="MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-1967-the-jungle-book-2-bundle-2016/MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC?ele=list&elc=MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC&eli=0&eci=MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC"
+                        id="_item_MMV14BC203F68358143DF99165A1BAE148E7"
+                        class="item__link js-flyout-item plus-card" data-id="MMV14BC203F68358143DF99165A1BAE148E7"
+                        href="https://www.fandangonow.com/details/movie/last-vegas-2013/MMV14BC203F68358143DF99165A1BAE148E7?ele=list&elc=MMV14BC203F68358143DF99165A1BAE148E7&eli=0&eci=MMV14BC203F68358143DF99165A1BAE148E7"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book (1967) / The Jungle Book 2 Bundle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV8760DF588299E0DEA1DF6C83A8519A2B3"
-                        class="item__link js-flyout-item plus-card" data-id="MMV8760DF588299E0DEA1DF6C83A8519A2B3"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-2016-2016/MMV8760DF588299E0DEA1DF6C83A8519A2B3?ele=list&elc=MMV8760DF588299E0DEA1DF6C83A8519A2B3&eli=1&eci=MMV8760DF588299E0DEA1DF6C83A8519A2B3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV8760DF588299E0DEA1DF6C83A8519A2B3&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book (2016) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVF73A61840774ADB7AF74DCE996F313EBC"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF73A61840774ADB7AF74DCE996F313EBC"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-jungle-party-2014/MMVF73A61840774ADB7AF74DCE996F313EBC?ele=list&elc=MMVF73A61840774ADB7AF74DCE996F313EBC&eli=2&eci=MMVF73A61840774ADB7AF74DCE996F313EBC"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVF73A61840774ADB7AF74DCE996F313EBC&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book - Jungle Party MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV9772D7205E68AB5BA37DEDD38FAD871C5"
-                        class="item__link js-flyout-item plus-card" data-id="MMV9772D7205E68AB5BA37DEDD38FAD871C5"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-the-waterfall-rescue-2015/MMV9772D7205E68AB5BA37DEDD38FAD871C5?ele=list&elc=MMV9772D7205E68AB5BA37DEDD38FAD871C5&eli=3&eci=MMV9772D7205E68AB5BA37DEDD38FAD871C5"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV9772D7205E68AB5BA37DEDD38FAD871C5&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book - The Waterfall Rescue MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV08251281D7594C852A121BBB652A8C9C6"
-                        class="item__link js-flyout-item plus-card" data-id="MMV08251281D7594C852A121BBB652A8C9C6"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-bird-day-bash-2014/MMV08251281D7594C852A121BBB652A8C9C6?ele=list&elc=MMV08251281D7594C852A121BBB652A8C9C6&eli=4&eci=MMV08251281D7594C852A121BBB652A8C9C6"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV08251281D7594C852A121BBB652A8C9C6&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book - Bird-Day Bash MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV8B22540BE497BDCD679400583489C4E00"
-                        class="item__link js-flyout-item plus-card" data-id="MMV8B22540BE497BDCD679400583489C4E00"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-treasure-of-cold-lair-2013/MMV8B22540BE497BDCD679400583489C4E00?ele=list&elc=MMV8B22540BE497BDCD679400583489C4E00&eli=5&eci=MMV8B22540BE497BDCD679400583489C4E00"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV8B22540BE497BDCD679400583489C4E00&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book - Treasure of Cold Lair MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVF67D22511421E11A079374B54DB5C9CA5"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF67D22511421E11A079374B54DB5C9CA5"
-                        href="https://www.fandangonow.com/details/movie/rudyard-kiplings-the-jungle-book-1994/MMVF67D22511421E11A079374B54DB5C9CA5?ele=list&elc=MMVF67D22511421E11A079374B54DB5C9CA5&eli=6&eci=MMVF67D22511421E11A079374B54DB5C9CA5"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVF67D22511421E11A079374B54DB5C9CA5&amp;ql=70&amp;sizes=176x264"
-                            alt="Rudyard Kipling&#x27;s The Jungle Book MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV4B430E406207F6B627F34917A90250912"
-                        class="item__link js-flyout-item plus-card" data-id="MMV4B430E406207F6B627F34917A90250912"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-mowglis-story-1998/MMV4B430E406207F6B627F34917A90250912?ele=list&elc=MMV4B430E406207F6B627F34917A90250912&eli=7&eci=MMV4B430E406207F6B627F34917A90250912"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV4B430E406207F6B627F34917A90250912&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book: Mowgli&#x27;s Story MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVCB433A4C0C99D6FC7E7722519A5DC5F4F"
-                        class="item__link js-flyout-item plus-card" data-id="MMVCB433A4C0C99D6FC7E7722519A5DC5F4F"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-return-2-the-jungle-2013/MMVCB433A4C0C99D6FC7E7722519A5DC5F4F?ele=list&elc=MMVCB433A4C0C99D6FC7E7722519A5DC5F4F&eli=8&eci=MMVCB433A4C0C99D6FC7E7722519A5DC5F4F"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVCB433A4C0C99D6FC7E7722519A5DC5F4F&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book: Return 2 the Jungle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV83e38daeea78b4836e6f81b0901ddb14"
-                        class="item__link js-flyout-item plus-card" data-id="1MV83e38daeea78b4836e6f81b0901ddb14"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-cobra-egg-quest-2014/1MV83e38daeea78b4836e6f81b0901ddb14?ele=list&elc=1MV83e38daeea78b4836e6f81b0901ddb14&eli=9&eci=1MV83e38daeea78b4836e6f81b0901ddb14"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV83e38daeea78b4836e6f81b0901ddb14&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book: Cobra Egg Quest MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVF87C13F3F44AA99D3F1FA747117E97D6F"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF87C13F3F44AA99D3F1FA747117E97D6F"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-2-2003/MMVF87C13F3F44AA99D3F1FA747117E97D6F?ele=list&elc=MMVF87C13F3F44AA99D3F1FA747117E97D6F&eli=10&eci=MMVF87C13F3F44AA99D3F1FA747117E97D6F"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVF87C13F3F44AA99D3F1FA747117E97D6F&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book 2 MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV6FC4CB23C3F16C85F94202A5023A794A8"
-                        class="item__link js-flyout-item plus-card" data-id="MMV6FC4CB23C3F16C85F94202A5023A794A8"
-                        href="https://www.fandangonow.com/details/movie/the-jungle-book-1967/MMV6FC4CB23C3F16C85F94202A5023A794A8?ele=list&elc=MMV6FC4CB23C3F16C85F94202A5023A794A8&eli=11&eci=MMV6FC4CB23C3F16C85F94202A5023A794A8"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV6FC4CB23C3F16C85F94202A5023A794A8&amp;ql=70&amp;sizes=176x264"
-                            alt="The Jungle Book MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV3e0ad5e00b132058910eeed844640f36"
-                        class="item__link js-flyout-item plus-card" data-id="1MV3e0ad5e00b132058910eeed844640f36"
-                        href="https://www.fandangonow.com/details/movie/rudyard-kiplings-the-second-jungle-book-mowgli-baloo-1997/1MV3e0ad5e00b132058910eeed844640f36?ele=list&elc=1MV3e0ad5e00b132058910eeed844640f36&eli=12&eci=1MV3e0ad5e00b132058910eeed844640f36"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV3e0ad5e00b132058910eeed844640f36&amp;ql=70&amp;sizes=176x264"
-                            alt="Rudyard Kipling&#x27;s The Second Jungle Book: Mowgli &amp; Baloo MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV14BC203F68358143DF99165A1BAE148E7&amp;ql=70&amp;sizes=176x264"
+                            alt="Last Vegas MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -849,7 +609,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'The Jungle Book'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":17,"pageCount":13,"pageNumber":0,"items":[{"id":"MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC","title":"The Jungle Book (1967) / The Jungle Book 2 Bundle","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-1967-the-jungle-book-2-bundle-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVEAD21EE608DCE99AEF263CDEA3AD4D5CC/details","description":""},{"id":"MMV8760DF588299E0DEA1DF6C83A8519A2B3","title":"The Jungle Book (2016)","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-2016-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8760DF588299E0DEA1DF6C83A8519A2B3/details","description":""},{"id":"MMVF73A61840774ADB7AF74DCE996F313EBC","title":"The Jungle Book - Jungle Party","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-jungle-party-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF73A61840774ADB7AF74DCE996F313EBC/details","description":""},{"id":"MMV9772D7205E68AB5BA37DEDD38FAD871C5","title":"The Jungle Book - The Waterfall Rescue","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-the-waterfall-rescue-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV9772D7205E68AB5BA37DEDD38FAD871C5/details","description":""},{"id":"MMV08251281D7594C852A121BBB652A8C9C6","title":"The Jungle Book - Bird-Day Bash","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-bird-day-bash-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV08251281D7594C852A121BBB652A8C9C6/details","description":""},{"id":"MMV8B22540BE497BDCD679400583489C4E00","title":"The Jungle Book - Treasure of Cold Lair","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-treasure-of-cold-lair-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8B22540BE497BDCD679400583489C4E00/details","description":""},{"id":"MMVF67D22511421E11A079374B54DB5C9CA5","title":"Rudyard Kipling's The Jungle Book","template":"defaultItem","contentType":"MOVIE","slugId":"rudyard-kiplings-the-jungle-book-1994","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF67D22511421E11A079374B54DB5C9CA5/details","description":""},{"id":"MMV4B430E406207F6B627F34917A90250912","title":"The Jungle Book: Mowgli's Story","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-mowglis-story-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4B430E406207F6B627F34917A90250912/details","description":""},{"id":"MMVCB433A4C0C99D6FC7E7722519A5DC5F4F","title":"The Jungle Book: Return 2 the Jungle","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-return-2-the-jungle-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCB433A4C0C99D6FC7E7722519A5DC5F4F/details","description":""},{"id":"1MV83e38daeea78b4836e6f81b0901ddb14","title":"The Jungle Book: Cobra Egg Quest","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-cobra-egg-quest-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV83e38daeea78b4836e6f81b0901ddb14/details","description":""},{"id":"MMVF87C13F3F44AA99D3F1FA747117E97D6F","title":"The Jungle Book 2","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-2-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF87C13F3F44AA99D3F1FA747117E97D6F/details","description":""},{"id":"MMV6FC4CB23C3F16C85F94202A5023A794A8","title":"The Jungle Book","template":"defaultItem","contentType":"MOVIE","slugId":"the-jungle-book-1967","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6FC4CB23C3F16C85F94202A5023A794A8/details","description":""},{"id":"1MV3e0ad5e00b132058910eeed844640f36","title":"Rudyard Kipling's The Second Jungle Book: Mowgli & Baloo","template":"defaultItem","contentType":"MOVIE","slugId":"rudyard-kiplings-the-second-jungle-book-mowgli-baloo-1997","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3e0ad5e00b132058910eeed844640f36/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Jungle%20Book","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Last Vegas'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":2,"pageCount":1,"pageNumber":0,"items":[{"id":"MMV14BC203F68358143DF99165A1BAE148E7","title":"Last Vegas","template":"defaultItem","contentType":"MOVIE","slugId":"last-vegas-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV14BC203F68358143DF99165A1BAE148E7/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Last%20Vegas","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -872,7 +632,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="qFaxhb06-KwUatpcfoTDb6-z7cYWZrLzCD4M" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="nftN20ol-I3Urmfe0PqtT0ywQ3pJAfSCgnGg" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

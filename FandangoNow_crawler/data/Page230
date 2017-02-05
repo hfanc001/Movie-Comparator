@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Public Enemies. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Public Enemies. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Master. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Master. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Public Enemies. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Master. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Public Enemies. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Master. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Public Enemies. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Public%20Enemies","list_name":"Search Results for 'Public Enemies'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Master. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Master","list_name":"Search Results for 'Master'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Public Enemies'
+                Search Results for 'Master'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Public Enemies&#x27;"
-            data-list-id="Search-Results-for-Public-Enemies"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Public%20Enemies"
+            data-list-title="Search Results for &#x27;Master&#x27;"
+            data-list-id="Search-Results-for-Master"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Master"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="3"
-            data-total-count="3"
+            data-page-count="46"
+            data-total-count="80"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV54870e91a2f6f8bd90c2810ffb4b4b56"
-                        class="item__link js-flyout-item plus-card" data-id="1MV54870e91a2f6f8bd90c2810ffb4b4b56"
-                        href="https://www.fandangonow.com/details/movie/supermanbatman-public-enemies-2009/1MV54870e91a2f6f8bd90c2810ffb4b4b56?ele=list&elc=1MV54870e91a2f6f8bd90c2810ffb4b4b56&eli=0&eci=1MV54870e91a2f6f8bd90c2810ffb4b4b56"
+                        id="_item_1SHba4c31f4b25d5746203e8ae258b6dc9f"
+                        class="item__link js-flyout-item plus-card" data-id="1SHba4c31f4b25d5746203e8ae258b6dc9f"
+                        href="https://www.fandangonow.com/details/movie/master-and-commander-the-far-side-of-the-world-2003/1SHba4c31f4b25d5746203e8ae258b6dc9f?ele=list&elc=1SHba4c31f4b25d5746203e8ae258b6dc9f&eli=0&eci=1SHba4c31f4b25d5746203e8ae258b6dc9f"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV54870e91a2f6f8bd90c2810ffb4b4b56&amp;ql=70&amp;sizes=176x264"
-                            alt="Superman/Batman: Public Enemies MOVIE"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1SHba4c31f4b25d5746203e8ae258b6dc9f&amp;ql=70&amp;sizes=176x264"
+                            alt="Master and Commander: The Far Side of the World MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVf4227170876a85be73246ea755b12c3a"
-                        class="item__link js-flyout-item plus-card" data-id="1MVf4227170876a85be73246ea755b12c3a"
-                        href="https://www.fandangonow.com/details/movie/public-enemies-2009/1MVf4227170876a85be73246ea755b12c3a?ele=list&elc=1MVf4227170876a85be73246ea755b12c3a&eli=1&eci=1MVf4227170876a85be73246ea755b12c3a"
+                        id="_item_1MV2b7f8fa90c9875384a573084e8cb814e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV2b7f8fa90c9875384a573084e8cb814e"
+                        href="https://www.fandangonow.com/details/movie/the-master-2012/1MV2b7f8fa90c9875384a573084e8cb814e?ele=list&elc=1MV2b7f8fa90c9875384a573084e8cb814e&eli=1&eci=1MV2b7f8fa90c9875384a573084e8cb814e"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVf4227170876a85be73246ea755b12c3a&amp;ql=70&amp;sizes=176x264"
-                            alt="Public Enemies MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV2b7f8fa90c9875384a573084e8cb814e&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,875 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVfed45377f18f7f4f5a4323daaec216ae"
-                        class="item__link js-flyout-item plus-card" data-id="1MVfed45377f18f7f4f5a4323daaec216ae"
-                        href="https://www.fandangonow.com/details/movie/the-public-enemy-1931/1MVfed45377f18f7f4f5a4323daaec216ae?ele=list&elc=1MVfed45377f18f7f4f5a4323daaec216ae&eli=2&eci=1MVfed45377f18f7f4f5a4323daaec216ae"
+                        id="_item_MMV1F7580DAC5DBC11A16F785CD7D94A6661"
+                        class="item__link js-flyout-item plus-card" data-id="MMV1F7580DAC5DBC11A16F785CD7D94A6661"
+                        href="https://www.fandangonow.com/details/movie/master-of-the-drunken-fist-2016/MMV1F7580DAC5DBC11A16F785CD7D94A6661?ele=list&elc=MMV1F7580DAC5DBC11A16F785CD7D94A6661&eli=2&eci=MMV1F7580DAC5DBC11A16F785CD7D94A6661"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVfed45377f18f7f4f5a4323daaec216ae&amp;ql=70&amp;sizes=176x264"
-                            alt="The Public Enemy MOVIE"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV1F7580DAC5DBC11A16F785CD7D94A6661&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of the Drunken Fist MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV91A80BEF91D918BB277DF20A1016EF085"
+                        class="item__link js-flyout-item plus-card" data-id="MMV91A80BEF91D918BB277DF20A1016EF085"
+                        href="https://www.fandangonow.com/details/movie/master-of-the-shadowless-kick-2016/MMV91A80BEF91D918BB277DF20A1016EF085?ele=list&elc=MMV91A80BEF91D918BB277DF20A1016EF085&eli=3&eci=MMV91A80BEF91D918BB277DF20A1016EF085"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV91A80BEF91D918BB277DF20A1016EF085&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of the Shadowless Kick MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV257FEF25698F6311790298C7E64786069"
+                        class="item__link js-flyout-item plus-card" data-id="MMV257FEF25698F6311790298C7E64786069"
+                        href="https://www.fandangonow.com/details/movie/the-master-2015/MMV257FEF25698F6311790298C7E64786069?ele=list&elc=MMV257FEF25698F6311790298C7E64786069&eli=4&eci=MMV257FEF25698F6311790298C7E64786069"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV257FEF25698F6311790298C7E64786069&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV9AC966680A81EB985700AC955420274F5"
+                        class="item__link js-flyout-item plus-card" data-id="MMV9AC966680A81EB985700AC955420274F5"
+                        href="https://www.fandangonow.com/details/movie/no-god-no-master-2014/MMV9AC966680A81EB985700AC955420274F5?ele=list&elc=MMV9AC966680A81EB985700AC955420274F5&eli=5&eci=MMV9AC966680A81EB985700AC955420274F5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV9AC966680A81EB985700AC955420274F5&amp;ql=70&amp;sizes=176x264"
+                            alt="No God, No Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV8DF1FAB9962ED45A245C7949DBE3CB203"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8DF1FAB9962ED45A245C7949DBE3CB203"
+                        href="https://www.fandangonow.com/details/movie/ninja-masters-2013/MMV8DF1FAB9962ED45A245C7949DBE3CB203?ele=list&elc=MMV8DF1FAB9962ED45A245C7949DBE3CB203&eli=6&eci=MMV8DF1FAB9962ED45A245C7949DBE3CB203"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV8DF1FAB9962ED45A245C7949DBE3CB203&amp;ql=70&amp;sizes=176x264"
+                            alt="Ninja Masters  MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                        href="https://www.fandangonow.com/details/movie/ip-man-2-legend-of-the-grand-master-2011/MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40?ele=list&elc=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40&eli=7&eci=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40&amp;ql=70&amp;sizes=176x264"
+                            alt="Ip Man 2: Legend of the Grand Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV233494f7a133b1f80222d4637598d51f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV233494f7a133b1f80222d4637598d51f"
+                        href="https://www.fandangonow.com/details/movie/the-master-of-disguise-2002/1MV233494f7a133b1f80222d4637598d51f?ele=list&elc=1MV233494f7a133b1f80222d4637598d51f&eli=8&eci=1MV233494f7a133b1f80222d4637598d51f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV233494f7a133b1f80222d4637598d51f&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master of Disguise MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV4d70fb429709bf552eab8201340b4615"
+                        class="item__link js-flyout-item plus-card" data-id="1MV4d70fb429709bf552eab8201340b4615"
+                        href="https://www.fandangonow.com/details/movie/a-nightmare-on-elm-street-4-the-dream-master-1988/1MV4d70fb429709bf552eab8201340b4615?ele=list&elc=1MV4d70fb429709bf552eab8201340b4615&eli=9&eci=1MV4d70fb429709bf552eab8201340b4615"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV4d70fb429709bf552eab8201340b4615&amp;ql=70&amp;sizes=176x264"
+                            alt="A Nightmare On Elm Street 4: The Dream Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV34afa8d5ac48563af8ca6a6c6d113831"
+                        class="item__link js-flyout-item plus-card" data-id="1MV34afa8d5ac48563af8ca6a6c6d113831"
+                        href="https://www.fandangonow.com/details/movie/master-and-commander-the-far-side-of-the-world-2003/1MV34afa8d5ac48563af8ca6a6c6d113831?ele=list&elc=1MV34afa8d5ac48563af8ca6a6c6d113831&eli=10&eci=1MV34afa8d5ac48563af8ca6a6c6d113831"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV34afa8d5ac48563af8ca6a6c6d113831&amp;ql=70&amp;sizes=176x264"
+                            alt="Master and Commander: The Far Side of the World MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV3dabae122529cb45925f980020e6e0cd"
+                        class="item__link js-flyout-item plus-card" data-id="1MV3dabae122529cb45925f980020e6e0cd"
+                        href="https://www.fandangonow.com/details/movie/master-killer-1978/1MV3dabae122529cb45925f980020e6e0cd?ele=list&elc=1MV3dabae122529cb45925f980020e6e0cd&eli=11&eci=1MV3dabae122529cb45925f980020e6e0cd"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV3dabae122529cb45925f980020e6e0cd&amp;ql=70&amp;sizes=176x264"
+                            alt="Master Killer MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV592dc7b475d58d879972a7f537ed02bb"
+                        class="item__link js-flyout-item plus-card" data-id="1MV592dc7b475d58d879972a7f537ed02bb"
+                        href="https://www.fandangonow.com/details/movie/drunken-master-1978/1MV592dc7b475d58d879972a7f537ed02bb?ele=list&elc=1MV592dc7b475d58d879972a7f537ed02bb&eli=12&eci=1MV592dc7b475d58d879972a7f537ed02bb"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV592dc7b475d58d879972a7f537ed02bb&amp;ql=70&amp;sizes=176x264"
+                            alt="Drunken Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa47ba9b261e08a8888715d114b6093d5"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa47ba9b261e08a8888715d114b6093d5"
+                        href="https://www.fandangonow.com/details/movie/sword-master-2016/1MVa47ba9b261e08a8888715d114b6093d5?ele=list&elc=1MVa47ba9b261e08a8888715d114b6093d5&eli=13&eci=1MVa47ba9b261e08a8888715d114b6093d5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVa47ba9b261e08a8888715d114b6093d5&amp;ql=70&amp;sizes=176x264"
+                            alt="Sword Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV527cd560552c8d04a8796ae26a70608f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV527cd560552c8d04a8796ae26a70608f"
+                        href="https://www.fandangonow.com/details/movie/master-of-the-universe-2013/1MV527cd560552c8d04a8796ae26a70608f?ele=list&elc=1MV527cd560552c8d04a8796ae26a70608f&eli=14&eci=1MV527cd560552c8d04a8796ae26a70608f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV527cd560552c8d04a8796ae26a70608f&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of the Universe MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVc173b5e953f4c916f28239912bb63b03"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc173b5e953f4c916f28239912bb63b03"
+                        href="https://www.fandangonow.com/details/movie/the-final-master-2015/1MVc173b5e953f4c916f28239912bb63b03?ele=list&elc=1MVc173b5e953f4c916f28239912bb63b03&eli=15&eci=1MVc173b5e953f4c916f28239912bb63b03"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVc173b5e953f4c916f28239912bb63b03&amp;ql=70&amp;sizes=176x264"
+                            alt="The Final Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVec77b002a1b0eb5f9ba2e3186ccee593"
+                        class="item__link js-flyout-item plus-card" data-id="1MVec77b002a1b0eb5f9ba2e3186ccee593"
+                        href="https://www.fandangonow.com/details/movie/jungle-master-2013/1MVec77b002a1b0eb5f9ba2e3186ccee593?ele=list&elc=1MVec77b002a1b0eb5f9ba2e3186ccee593&eli=16&eci=1MVec77b002a1b0eb5f9ba2e3186ccee593"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVec77b002a1b0eb5f9ba2e3186ccee593&amp;ql=70&amp;sizes=176x264"
+                            alt="Jungle Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVf485779fbecd8bb5f4f31a9fb362c265"
+                        class="item__link js-flyout-item plus-card" data-id="1MVf485779fbecd8bb5f4f31a9fb362c265"
+                        href="https://www.fandangonow.com/details/movie/the-masters-voice-caveirao-2013/1MVf485779fbecd8bb5f4f31a9fb362c265?ele=list&elc=1MVf485779fbecd8bb5f4f31a9fb362c265&eli=17&eci=1MVf485779fbecd8bb5f4f31a9fb362c265"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVf485779fbecd8bb5f4f31a9fb362c265&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master&#x27;s Voice: Caveirao MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVbaf6a9870753689c6c1ce9e15d6906e6"
+                        class="item__link js-flyout-item plus-card" data-id="1MVbaf6a9870753689c6c1ce9e15d6906e6"
+                        href="https://www.fandangonow.com/details/movie/the-dungeon-master-2011/1MVbaf6a9870753689c6c1ce9e15d6906e6?ele=list&elc=1MVbaf6a9870753689c6c1ce9e15d6906e6&eli=18&eci=1MVbaf6a9870753689c6c1ce9e15d6906e6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVbaf6a9870753689c6c1ce9e15d6906e6&amp;ql=70&amp;sizes=176x264"
+                            alt="The Dungeon Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV3fa17bbb08b7d0b191cf0cc64e58c9c2"
+                        class="item__link js-flyout-item plus-card" data-id="1MV3fa17bbb08b7d0b191cf0cc64e58c9c2"
+                        href="https://www.fandangonow.com/details/movie/master-harold-and-the-boys-2010/1MV3fa17bbb08b7d0b191cf0cc64e58c9c2?ele=list&elc=1MV3fa17bbb08b7d0b191cf0cc64e58c9c2&eli=19&eci=1MV3fa17bbb08b7d0b191cf0cc64e58c9c2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV3fa17bbb08b7d0b191cf0cc64e58c9c2&amp;ql=70&amp;sizes=176x264"
+                            alt="Master Harold... and the Boys MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV09b0037e9394417f690c2e965bcce5f7"
+                        class="item__link js-flyout-item plus-card" data-id="1MV09b0037e9394417f690c2e965bcce5f7"
+                        href="https://www.fandangonow.com/details/movie/puppet-master-axis-of-evil-2010/1MV09b0037e9394417f690c2e965bcce5f7?ele=list&elc=1MV09b0037e9394417f690c2e965bcce5f7&eli=20&eci=1MV09b0037e9394417f690c2e965bcce5f7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV09b0037e9394417f690c2e965bcce5f7&amp;ql=70&amp;sizes=176x264"
+                            alt="Puppet Master: Axis of Evil MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVde106d0a1e845e0c77c9e5f68084cde7"
+                        class="item__link js-flyout-item plus-card" data-id="1MVde106d0a1e845e0c77c9e5f68084cde7"
+                        href="https://www.fandangonow.com/details/movie/puppet-master-the-legacy-2003/1MVde106d0a1e845e0c77c9e5f68084cde7?ele=list&elc=1MVde106d0a1e845e0c77c9e5f68084cde7&eli=21&eci=1MVde106d0a1e845e0c77c9e5f68084cde7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVde106d0a1e845e0c77c9e5f68084cde7&amp;ql=70&amp;sizes=176x264"
+                            alt="Puppet Master: The Legacy MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa9d1f5ed313baba6f6fefe4a0e9591e3"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa9d1f5ed313baba6f6fefe4a0e9591e3"
+                        href="https://www.fandangonow.com/details/movie/drunken-master-ii-2000/1MVa9d1f5ed313baba6f6fefe4a0e9591e3?ele=list&elc=1MVa9d1f5ed313baba6f6fefe4a0e9591e3&eli=22&eci=1MVa9d1f5ed313baba6f6fefe4a0e9591e3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVa9d1f5ed313baba6f6fefe4a0e9591e3&amp;ql=70&amp;sizes=176x264"
+                            alt="Drunken Master II MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV9b597e964cf0d205d9b4c64d87d78bec"
+                        class="item__link js-flyout-item plus-card" data-id="1MV9b597e964cf0d205d9b4c64d87d78bec"
+                        href="https://www.fandangonow.com/details/movie/curse-of-the-puppet-master-1998/1MV9b597e964cf0d205d9b4c64d87d78bec?ele=list&elc=1MV9b597e964cf0d205d9b4c64d87d78bec&eli=23&eci=1MV9b597e964cf0d205d9b4c64d87d78bec"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV9b597e964cf0d205d9b4c64d87d78bec&amp;ql=70&amp;sizes=176x264"
+                            alt="Curse of the Puppet Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV36a1ce80b70d49c67832ccc3581d01cd"
+                        class="item__link js-flyout-item plus-card" data-id="1MV36a1ce80b70d49c67832ccc3581d01cd"
+                        href="https://www.fandangonow.com/details/movie/kung-fu-cult-master-1993/1MV36a1ce80b70d49c67832ccc3581d01cd?ele=list&elc=1MV36a1ce80b70d49c67832ccc3581d01cd&eli=24&eci=1MV36a1ce80b70d49c67832ccc3581d01cd"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV36a1ce80b70d49c67832ccc3581d01cd&amp;ql=70&amp;sizes=176x264"
+                            alt="Kung Fu Cult Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVe80d0897a3f2a160327107c90d47f90b"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe80d0897a3f2a160327107c90d47f90b"
+                        href="https://www.fandangonow.com/details/movie/puppet-master-1989/1MVe80d0897a3f2a160327107c90d47f90b?ele=list&elc=1MVe80d0897a3f2a160327107c90d47f90b&eli=25&eci=1MVe80d0897a3f2a160327107c90d47f90b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVe80d0897a3f2a160327107c90d47f90b&amp;ql=70&amp;sizes=176x264"
+                            alt="Puppet Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVb2b73a93f6deef58f94f591dcc73fb6e"
+                        class="item__link js-flyout-item plus-card" data-id="1MVb2b73a93f6deef58f94f591dcc73fb6e"
+                        href="https://www.fandangonow.com/details/movie/master-of-dragonard-hill-1988/1MVb2b73a93f6deef58f94f591dcc73fb6e?ele=list&elc=1MVb2b73a93f6deef58f94f591dcc73fb6e&eli=26&eci=1MVb2b73a93f6deef58f94f591dcc73fb6e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVb2b73a93f6deef58f94f591dcc73fb6e&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of Dragonard Hill MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7cf928d5477568cae4e2d76ddfecf29c"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7cf928d5477568cae4e2d76ddfecf29c"
+                        href="https://www.fandangonow.com/details/movie/masters-of-the-universe-1987/1MV7cf928d5477568cae4e2d76ddfecf29c?ele=list&elc=1MV7cf928d5477568cae4e2d76ddfecf29c&eli=27&eci=1MV7cf928d5477568cae4e2d76ddfecf29c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV7cf928d5477568cae4e2d76ddfecf29c&amp;ql=70&amp;sizes=176x264"
+                            alt="Masters of the Universe MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa9eea9714577634368f6523405bc0102"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa9eea9714577634368f6523405bc0102"
+                        href="https://www.fandangonow.com/details/movie/dragon-master-1986/1MVa9eea9714577634368f6523405bc0102?ele=list&elc=1MVa9eea9714577634368f6523405bc0102&eli=28&eci=1MVa9eea9714577634368f6523405bc0102"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVa9eea9714577634368f6523405bc0102&amp;ql=70&amp;sizes=176x264"
+                            alt="Dragon Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV82f65aa5e45cd99933c0e74fbf81f740"
+                        class="item__link js-flyout-item plus-card" data-id="1MV82f65aa5e45cd99933c0e74fbf81f740"
+                        href="https://www.fandangonow.com/details/movie/wagon-master-1950/1MV82f65aa5e45cd99933c0e74fbf81f740?ele=list&elc=1MV82f65aa5e45cd99933c0e74fbf81f740&eli=29&eci=1MV82f65aa5e45cd99933c0e74fbf81f740"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV82f65aa5e45cd99933c0e74fbf81f740&amp;ql=70&amp;sizes=176x264"
+                            alt="Wagon Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV989d910f8f4f851bcdc4952e76abf1c1"
+                        class="item__link js-flyout-item plus-card" data-id="1MV989d910f8f4f851bcdc4952e76abf1c1"
+                        href="https://www.fandangonow.com/details/movie/master-of-disaster-1982/1MV989d910f8f4f851bcdc4952e76abf1c1?ele=list&elc=1MV989d910f8f4f851bcdc4952e76abf1c1&eli=30&eci=1MV989d910f8f4f851bcdc4952e76abf1c1"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV989d910f8f4f851bcdc4952e76abf1c1&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of Disaster MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV4d164152f8eea06f163319c838e77b90"
+                        class="item__link js-flyout-item plus-card" data-id="1MV4d164152f8eea06f163319c838e77b90"
+                        href="https://www.fandangonow.com/details/movie/the-crippled-masters-1982/1MV4d164152f8eea06f163319c838e77b90?ele=list&elc=1MV4d164152f8eea06f163319c838e77b90&eli=31&eci=1MV4d164152f8eea06f163319c838e77b90"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV4d164152f8eea06f163319c838e77b90&amp;ql=70&amp;sizes=176x264"
+                            alt="The Crippled Masters MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV31d48419b846292a28fd1835e37a2807"
+                        class="item__link js-flyout-item plus-card" data-id="1MV31d48419b846292a28fd1835e37a2807"
+                        href="https://www.fandangonow.com/details/movie/return-of-the-master-killer-1980/1MV31d48419b846292a28fd1835e37a2807?ele=list&elc=1MV31d48419b846292a28fd1835e37a2807&eli=32&eci=1MV31d48419b846292a28fd1835e37a2807"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV31d48419b846292a28fd1835e37a2807&amp;ql=70&amp;sizes=176x264"
+                            alt="Return of the Master Killer MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV73d2480362774c5fd9cecc8e6e05dbe4"
+                        class="item__link js-flyout-item plus-card" data-id="1MV73d2480362774c5fd9cecc8e6e05dbe4"
+                        href="https://www.fandangonow.com/details/movie/incredible-kung-fu-master-1979/1MV73d2480362774c5fd9cecc8e6e05dbe4?ele=list&elc=1MV73d2480362774c5fd9cecc8e6e05dbe4&eli=33&eci=1MV73d2480362774c5fd9cecc8e6e05dbe4"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV73d2480362774c5fd9cecc8e6e05dbe4&amp;ql=70&amp;sizes=176x264"
+                            alt="Incredible Kung Fu Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7f0792e30fcadd5f8040d484e64331c3"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7f0792e30fcadd5f8040d484e64331c3"
+                        href="https://www.fandangonow.com/details/movie/the-master-gunfighter-1975/1MV7f0792e30fcadd5f8040d484e64331c3?ele=list&elc=1MV7f0792e30fcadd5f8040d484e64331c3&eli=34&eci=1MV7f0792e30fcadd5f8040d484e64331c3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV7f0792e30fcadd5f8040d484e64331c3&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master Gunfighter MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV5939795055d027d4525c847527c7d47a"
+                        class="item__link js-flyout-item plus-card" data-id="1MV5939795055d027d4525c847527c7d47a"
+                        href="https://www.fandangonow.com/details/movie/they-only-kill-their-masters-1972/1MV5939795055d027d4525c847527c7d47a?ele=list&elc=1MV5939795055d027d4525c847527c7d47a&eli=35&eci=1MV5939795055d027d4525c847527c7d47a"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV5939795055d027d4525c847527c7d47a&amp;ql=70&amp;sizes=176x264"
+                            alt="They Only Kill Their Masters MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV44b546e0798547dc7fc22d59fbba1b44"
+                        class="item__link js-flyout-item plus-card" data-id="1MV44b546e0798547dc7fc22d59fbba1b44"
+                        href="https://www.fandangonow.com/details/movie/the-master-touch-1972/1MV44b546e0798547dc7fc22d59fbba1b44?ele=list&elc=1MV44b546e0798547dc7fc22d59fbba1b44&eli=36&eci=1MV44b546e0798547dc7fc22d59fbba1b44"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV44b546e0798547dc7fc22d59fbba1b44&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master Touch MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV274d4a2c25ff8bc21e566a0381d6418f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV274d4a2c25ff8bc21e566a0381d6418f"
+                        href="https://www.fandangonow.com/details/movie/masters-of-the-congo-jungle-1959/1MV274d4a2c25ff8bc21e566a0381d6418f?ele=list&elc=1MV274d4a2c25ff8bc21e566a0381d6418f&eli=37&eci=1MV274d4a2c25ff8bc21e566a0381d6418f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV274d4a2c25ff8bc21e566a0381d6418f&amp;ql=70&amp;sizes=176x264"
+                            alt="Masters of the Congo Jungle MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd1abc948167f517b7c53aeefac0a83e6"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd1abc948167f517b7c53aeefac0a83e6"
+                        href="https://www.fandangonow.com/details/movie/the-master-race-1944/1MVd1abc948167f517b7c53aeefac0a83e6?ele=list&elc=1MVd1abc948167f517b7c53aeefac0a83e6&eli=38&eci=1MVd1abc948167f517b7c53aeefac0a83e6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVd1abc948167f517b7c53aeefac0a83e6&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master Race MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV4c9adcce52fc1d55582e3b41e49e7ff8"
+                        class="item__link js-flyout-item plus-card" data-id="1MV4c9adcce52fc1d55582e3b41e49e7ff8"
+                        href="https://www.fandangonow.com/details/movie/master-plan-1954/1MV4c9adcce52fc1d55582e3b41e49e7ff8?ele=list&elc=1MV4c9adcce52fc1d55582e3b41e49e7ff8&eli=39&eci=1MV4c9adcce52fc1d55582e3b41e49e7ff8"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV4c9adcce52fc1d55582e3b41e49e7ff8&amp;ql=70&amp;sizes=176x264"
+                            alt="Master Plan MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVffb338c8f801cda893b5f2ff5c536b4b"
+                        class="item__link js-flyout-item plus-card" data-id="1MVffb338c8f801cda893b5f2ff5c536b4b"
+                        href="https://www.fandangonow.com/details/movie/master-spy-1963/1MVffb338c8f801cda893b5f2ff5c536b4b?ele=list&elc=1MVffb338c8f801cda893b5f2ff5c536b4b&eli=40&eci=1MVffb338c8f801cda893b5f2ff5c536b4b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVffb338c8f801cda893b5f2ff5c536b4b&amp;ql=70&amp;sizes=176x264"
+                            alt="Master Spy MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVca571d9df2b7356a957179b7dee5ef7f"
+                        class="item__link js-flyout-item plus-card" data-id="1MVca571d9df2b7356a957179b7dee5ef7f"
+                        href="https://www.fandangonow.com/details/movie/space-master-x-7-1958/1MVca571d9df2b7356a957179b7dee5ef7f?ele=list&elc=1MVca571d9df2b7356a957179b7dee5ef7f&eli=41&eci=1MVca571d9df2b7356a957179b7dee5ef7f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVca571d9df2b7356a957179b7dee5ef7f&amp;ql=70&amp;sizes=176x264"
+                            alt="Space Master X-7 MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd8e5fd44287d49b4889712e9fff6e443"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd8e5fd44287d49b4889712e9fff6e443"
+                        href="https://www.fandangonow.com/details/movie/master-minds-1949/1MVd8e5fd44287d49b4889712e9fff6e443?ele=list&elc=1MVd8e5fd44287d49b4889712e9fff6e443&eli=42&eci=1MVd8e5fd44287d49b4889712e9fff6e443"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVd8e5fd44287d49b4889712e9fff6e443&amp;ql=70&amp;sizes=176x264"
+                            alt="Master Minds MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV2063a65fa61d5e6334fefe899930537e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV2063a65fa61d5e6334fefe899930537e"
+                        href="https://www.fandangonow.com/details/movie/her-masters-voice-1936/1MV2063a65fa61d5e6334fefe899930537e?ele=list&elc=1MV2063a65fa61d5e6334fefe899930537e&eli=43&eci=1MV2063a65fa61d5e6334fefe899930537e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV2063a65fa61d5e6334fefe899930537e&amp;ql=70&amp;sizes=176x264"
+                            alt="Her Master&#x27;s Voice MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV2ebcb83595c13b10dc0b0b1708f1d41d"
+                        class="item__link js-flyout-item plus-card" data-id="1MV2ebcb83595c13b10dc0b0b1708f1d41d"
+                        href="https://www.fandangonow.com/details/movie/the-master-of-ballantrae-1953/1MV2ebcb83595c13b10dc0b0b1708f1d41d?ele=list&elc=1MV2ebcb83595c13b10dc0b0b1708f1d41d&eli=44&eci=1MV2ebcb83595c13b10dc0b0b1708f1d41d"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV2ebcb83595c13b10dc0b0b1708f1d41d&amp;ql=70&amp;sizes=176x264"
+                            alt="The Master of Ballantrae MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV06213a45171c29fea5846c1472265ac8"
+                        class="item__link js-flyout-item plus-card" data-id="1MV06213a45171c29fea5846c1472265ac8"
+                        href="https://www.fandangonow.com/details/movie/master-of-the-world-1961/1MV06213a45171c29fea5846c1472265ac8?ele=list&elc=1MV06213a45171c29fea5846c1472265ac8&eli=45&eci=1MV06213a45171c29fea5846c1472265ac8"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV06213a45171c29fea5846c1472265ac8&amp;ql=70&amp;sizes=176x264"
+                            alt="Master of the World MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -649,7 +1509,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Public Enemies'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":3,"pageCount":3,"pageNumber":0,"items":[{"id":"1MV54870e91a2f6f8bd90c2810ffb4b4b56","title":"Superman/Batman: Public Enemies","template":"defaultItem","contentType":"MOVIE","slugId":"supermanbatman-public-enemies-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV54870e91a2f6f8bd90c2810ffb4b4b56/details","description":""},{"id":"1MVf4227170876a85be73246ea755b12c3a","title":"Public Enemies","template":"defaultItem","contentType":"MOVIE","slugId":"public-enemies-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf4227170876a85be73246ea755b12c3a/details","description":""},{"id":"1MVfed45377f18f7f4f5a4323daaec216ae","title":"The Public Enemy","template":"defaultItem","contentType":"MOVIE","slugId":"the-public-enemy-1931","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfed45377f18f7f4f5a4323daaec216ae/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Public%20Enemies","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Master'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":80,"pageCount":46,"pageNumber":0,"items":[{"id":"1SHba4c31f4b25d5746203e8ae258b6dc9f","title":"Master and Commander: The Far Side of the World","template":"defaultItem","contentType":"MOVIE","slugId":"master-and-commander-the-far-side-of-the-world-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1SHba4c31f4b25d5746203e8ae258b6dc9f/details","description":""},{"id":"1MV2b7f8fa90c9875384a573084e8cb814e","title":"The Master","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2b7f8fa90c9875384a573084e8cb814e/details","description":""},{"id":"MMV1F7580DAC5DBC11A16F785CD7D94A6661","title":"Master of the Drunken Fist","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-the-drunken-fist-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV1F7580DAC5DBC11A16F785CD7D94A6661/details","description":""},{"id":"MMV91A80BEF91D918BB277DF20A1016EF085","title":"Master of the Shadowless Kick","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-the-shadowless-kick-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV91A80BEF91D918BB277DF20A1016EF085/details","description":""},{"id":"MMV257FEF25698F6311790298C7E64786069","title":"The Master","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV257FEF25698F6311790298C7E64786069/details","description":""},{"id":"MMV9AC966680A81EB985700AC955420274F5","title":"No God, No Master","template":"defaultItem","contentType":"MOVIE","slugId":"no-god-no-master-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV9AC966680A81EB985700AC955420274F5/details","description":""},{"id":"MMV8DF1FAB9962ED45A245C7949DBE3CB203","title":"Ninja Masters ","template":"defaultItem","contentType":"MOVIE","slugId":"ninja-masters-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8DF1FAB9962ED45A245C7949DBE3CB203/details","description":""},{"id":"MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40","title":"Ip Man 2: Legend of the Grand Master","template":"defaultItem","contentType":"MOVIE","slugId":"ip-man-2-legend-of-the-grand-master-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40/details","description":""},{"id":"1MV233494f7a133b1f80222d4637598d51f","title":"The Master of Disguise","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-of-disguise-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV233494f7a133b1f80222d4637598d51f/details","description":""},{"id":"1MV4d70fb429709bf552eab8201340b4615","title":"A Nightmare On Elm Street 4: The Dream Master","template":"defaultItem","contentType":"MOVIE","slugId":"a-nightmare-on-elm-street-4-the-dream-master-1988","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4d70fb429709bf552eab8201340b4615/details","description":""},{"id":"1MV34afa8d5ac48563af8ca6a6c6d113831","title":"Master and Commander: The Far Side of the World","template":"defaultItem","contentType":"MOVIE","slugId":"master-and-commander-the-far-side-of-the-world-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV34afa8d5ac48563af8ca6a6c6d113831/details","description":""},{"id":"1MV3dabae122529cb45925f980020e6e0cd","title":"Master Killer","template":"defaultItem","contentType":"MOVIE","slugId":"master-killer-1978","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3dabae122529cb45925f980020e6e0cd/details","description":""},{"id":"1MV592dc7b475d58d879972a7f537ed02bb","title":"Drunken Master","template":"defaultItem","contentType":"MOVIE","slugId":"drunken-master-1978","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV592dc7b475d58d879972a7f537ed02bb/details","description":""},{"id":"1MVa47ba9b261e08a8888715d114b6093d5","title":"Sword Master","template":"defaultItem","contentType":"MOVIE","slugId":"sword-master-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa47ba9b261e08a8888715d114b6093d5/details","description":""},{"id":"1MV527cd560552c8d04a8796ae26a70608f","title":"Master of the Universe","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-the-universe-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV527cd560552c8d04a8796ae26a70608f/details","description":""},{"id":"1MVc173b5e953f4c916f28239912bb63b03","title":"The Final Master","template":"defaultItem","contentType":"MOVIE","slugId":"the-final-master-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc173b5e953f4c916f28239912bb63b03/details","description":""},{"id":"1MVec77b002a1b0eb5f9ba2e3186ccee593","title":"Jungle Master","template":"defaultItem","contentType":"MOVIE","slugId":"jungle-master-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVec77b002a1b0eb5f9ba2e3186ccee593/details","description":""},{"id":"1MVf485779fbecd8bb5f4f31a9fb362c265","title":"The Master's Voice: Caveirao","template":"defaultItem","contentType":"MOVIE","slugId":"the-masters-voice-caveirao-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf485779fbecd8bb5f4f31a9fb362c265/details","description":""},{"id":"1MVbaf6a9870753689c6c1ce9e15d6906e6","title":"The Dungeon Master","template":"defaultItem","contentType":"MOVIE","slugId":"the-dungeon-master-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVbaf6a9870753689c6c1ce9e15d6906e6/details","description":""},{"id":"1MV3fa17bbb08b7d0b191cf0cc64e58c9c2","title":"Master Harold... and the Boys","template":"defaultItem","contentType":"MOVIE","slugId":"master-harold-and-the-boys-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3fa17bbb08b7d0b191cf0cc64e58c9c2/details","description":""},{"id":"1MV09b0037e9394417f690c2e965bcce5f7","title":"Puppet Master: Axis of Evil","template":"defaultItem","contentType":"MOVIE","slugId":"puppet-master-axis-of-evil-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV09b0037e9394417f690c2e965bcce5f7/details","description":""},{"id":"1MVde106d0a1e845e0c77c9e5f68084cde7","title":"Puppet Master: The Legacy","template":"defaultItem","contentType":"MOVIE","slugId":"puppet-master-the-legacy-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVde106d0a1e845e0c77c9e5f68084cde7/details","description":""},{"id":"1MVa9d1f5ed313baba6f6fefe4a0e9591e3","title":"Drunken Master II","template":"defaultItem","contentType":"MOVIE","slugId":"drunken-master-ii-2000","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa9d1f5ed313baba6f6fefe4a0e9591e3/details","description":""},{"id":"1MV9b597e964cf0d205d9b4c64d87d78bec","title":"Curse of the Puppet Master","template":"defaultItem","contentType":"MOVIE","slugId":"curse-of-the-puppet-master-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9b597e964cf0d205d9b4c64d87d78bec/details","description":""},{"id":"1MV36a1ce80b70d49c67832ccc3581d01cd","title":"Kung Fu Cult Master","template":"defaultItem","contentType":"MOVIE","slugId":"kung-fu-cult-master-1993","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV36a1ce80b70d49c67832ccc3581d01cd/details","description":""},{"id":"1MVe80d0897a3f2a160327107c90d47f90b","title":"Puppet Master","template":"defaultItem","contentType":"MOVIE","slugId":"puppet-master-1989","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe80d0897a3f2a160327107c90d47f90b/details","description":""},{"id":"1MVb2b73a93f6deef58f94f591dcc73fb6e","title":"Master of Dragonard Hill","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-dragonard-hill-1988","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb2b73a93f6deef58f94f591dcc73fb6e/details","description":""},{"id":"1MV7cf928d5477568cae4e2d76ddfecf29c","title":"Masters of the Universe","template":"defaultItem","contentType":"MOVIE","slugId":"masters-of-the-universe-1987","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7cf928d5477568cae4e2d76ddfecf29c/details","description":""},{"id":"1MVa9eea9714577634368f6523405bc0102","title":"Dragon Master","template":"defaultItem","contentType":"MOVIE","slugId":"dragon-master-1986","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa9eea9714577634368f6523405bc0102/details","description":""},{"id":"1MV82f65aa5e45cd99933c0e74fbf81f740","title":"Wagon Master","template":"defaultItem","contentType":"MOVIE","slugId":"wagon-master-1950","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV82f65aa5e45cd99933c0e74fbf81f740/details","description":""},{"id":"1MV989d910f8f4f851bcdc4952e76abf1c1","title":"Master of Disaster","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-disaster-1982","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV989d910f8f4f851bcdc4952e76abf1c1/details","description":""},{"id":"1MV4d164152f8eea06f163319c838e77b90","title":"The Crippled Masters","template":"defaultItem","contentType":"MOVIE","slugId":"the-crippled-masters-1982","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4d164152f8eea06f163319c838e77b90/details","description":""},{"id":"1MV31d48419b846292a28fd1835e37a2807","title":"Return of the Master Killer","template":"defaultItem","contentType":"MOVIE","slugId":"return-of-the-master-killer-1980","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV31d48419b846292a28fd1835e37a2807/details","description":""},{"id":"1MV73d2480362774c5fd9cecc8e6e05dbe4","title":"Incredible Kung Fu Master","template":"defaultItem","contentType":"MOVIE","slugId":"incredible-kung-fu-master-1979","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV73d2480362774c5fd9cecc8e6e05dbe4/details","description":""},{"id":"1MV7f0792e30fcadd5f8040d484e64331c3","title":"The Master Gunfighter","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-gunfighter-1975","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7f0792e30fcadd5f8040d484e64331c3/details","description":""},{"id":"1MV5939795055d027d4525c847527c7d47a","title":"They Only Kill Their Masters","template":"defaultItem","contentType":"MOVIE","slugId":"they-only-kill-their-masters-1972","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5939795055d027d4525c847527c7d47a/details","description":""},{"id":"1MV44b546e0798547dc7fc22d59fbba1b44","title":"The Master Touch","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-touch-1972","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV44b546e0798547dc7fc22d59fbba1b44/details","description":""},{"id":"1MV274d4a2c25ff8bc21e566a0381d6418f","title":"Masters of the Congo Jungle","template":"defaultItem","contentType":"MOVIE","slugId":"masters-of-the-congo-jungle-1959","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV274d4a2c25ff8bc21e566a0381d6418f/details","description":""},{"id":"1MVd1abc948167f517b7c53aeefac0a83e6","title":"The Master Race","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-race-1944","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd1abc948167f517b7c53aeefac0a83e6/details","description":""},{"id":"1MV4c9adcce52fc1d55582e3b41e49e7ff8","title":"Master Plan","template":"defaultItem","contentType":"MOVIE","slugId":"master-plan-1954","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV4c9adcce52fc1d55582e3b41e49e7ff8/details","description":""},{"id":"1MVffb338c8f801cda893b5f2ff5c536b4b","title":"Master Spy","template":"defaultItem","contentType":"MOVIE","slugId":"master-spy-1963","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVffb338c8f801cda893b5f2ff5c536b4b/details","description":""},{"id":"1MVca571d9df2b7356a957179b7dee5ef7f","title":"Space Master X-7","template":"defaultItem","contentType":"MOVIE","slugId":"space-master-x-7-1958","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVca571d9df2b7356a957179b7dee5ef7f/details","description":""},{"id":"1MVd8e5fd44287d49b4889712e9fff6e443","title":"Master Minds","template":"defaultItem","contentType":"MOVIE","slugId":"master-minds-1949","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd8e5fd44287d49b4889712e9fff6e443/details","description":""},{"id":"1MV2063a65fa61d5e6334fefe899930537e","title":"Her Master's Voice","template":"defaultItem","contentType":"MOVIE","slugId":"her-masters-voice-1936","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2063a65fa61d5e6334fefe899930537e/details","description":""},{"id":"1MV2ebcb83595c13b10dc0b0b1708f1d41d","title":"The Master of Ballantrae","template":"defaultItem","contentType":"MOVIE","slugId":"the-master-of-ballantrae-1953","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2ebcb83595c13b10dc0b0b1708f1d41d/details","description":""},{"id":"1MV06213a45171c29fea5846c1472265ac8","title":"Master of the World","template":"defaultItem","contentType":"MOVIE","slugId":"master-of-the-world-1961","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV06213a45171c29fea5846c1472265ac8/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Master","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -672,7 +1532,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="6kpQbeQw-yF-Q-vvZSZjAcDmYRoDJhKAD4i4" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="ODCzEz1I-6o2jZtSYI2ymsRG1M4Tf_uB9_80" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Turbo. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Turbo. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Annabelle. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Annabelle. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Turbo. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Annabelle. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Turbo. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Annabelle. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Turbo. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Turbo","list_name":"Search Results for 'Turbo'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Annabelle. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Annabelle","list_name":"Search Results for 'Annabelle'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Turbo'
+                Search Results for 'Annabelle'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Turbo&#x27;"
-            data-list-id="Search-Results-for-Turbo"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Turbo"
+            data-list-title="Search Results for &#x27;Annabelle&#x27;"
+            data-list-id="Search-Results-for-Annabelle"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Annabelle"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="6"
-            data-total-count="7"
+            data-page-count="25"
+            data-total-count="30"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVD1EE2FC713711948F50BD19BA3503048C"
-                        class="item__link js-flyout-item plus-card" data-id="MMVD1EE2FC713711948F50BD19BA3503048C"
-                        href="https://www.fandangonow.com/details/movie/turbo-2013/MMVD1EE2FC713711948F50BD19BA3503048C?ele=list&elc=MMVD1EE2FC713711948F50BD19BA3503048C&eli=0&eci=MMVD1EE2FC713711948F50BD19BA3503048C"
+                        id="_item_MMVBF3DE58AA029F0171DC7BF8CA46D7563D"
+                        class="item__link js-flyout-item plus-card" data-id="MMVBF3DE58AA029F0171DC7BF8CA46D7563D"
+                        href="https://www.fandangonow.com/details/movie/annabelle-2014/MMVBF3DE58AA029F0171DC7BF8CA46D7563D?ele=list&elc=MMVBF3DE58AA029F0171DC7BF8CA46D7563D&eli=0&eci=MMVBF3DE58AA029F0171DC7BF8CA46D7563D"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVD1EE2FC713711948F50BD19BA3503048C&amp;ql=70&amp;sizes=176x264"
-                            alt="Turbo MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVBF3DE58AA029F0171DC7BF8CA46D7563D&amp;ql=70&amp;sizes=176x264"
+                            alt="Annabelle MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV15F5AE8C230D433994073092FF954AB11"
-                        class="item__link js-flyout-item plus-card" data-id="MMV15F5AE8C230D433994073092FF954AB11"
-                        href="https://www.fandangonow.com/details/movie/turbo-the-croods-2-movie-collection-2016/MMV15F5AE8C230D433994073092FF954AB11?ele=list&elc=MMV15F5AE8C230D433994073092FF954AB11&eli=1&eci=MMV15F5AE8C230D433994073092FF954AB11"
+                        id="_item_1MV358fe47b12c4ee3001144d975f27813b"
+                        class="item__link js-flyout-item plus-card" data-id="1MV358fe47b12c4ee3001144d975f27813b"
+                        href="https://www.fandangonow.com/details/movie/annabelle-2-2017/1MV358fe47b12c4ee3001144d975f27813b?ele=list&elc=1MV358fe47b12c4ee3001144d975f27813b&eli=1&eci=1MV358fe47b12c4ee3001144d975f27813b"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV15F5AE8C230D433994073092FF954AB11&amp;ql=70&amp;sizes=176x264"
-                            alt="Turbo + The Croods 2 Movie Collection MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV358fe47b12c4ee3001144d975f27813b&amp;ql=70&amp;sizes=176x264"
+                            alt="Annabelle 2 MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVd32188737fb89a2556387eb2e6d235b2"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd32188737fb89a2556387eb2e6d235b2"
-                        href="https://www.fandangonow.com/details/movie/turbo-a-power-rangers-movie-1997/1MVd32188737fb89a2556387eb2e6d235b2?ele=list&elc=1MVd32188737fb89a2556387eb2e6d235b2&eli=2&eci=1MVd32188737fb89a2556387eb2e6d235b2"
+                        id="_item_1MV66e50f259f15abc16905724c63578bce"
+                        class="item__link js-flyout-item plus-card" data-id="1MV66e50f259f15abc16905724c63578bce"
+                        href="https://www.fandangonow.com/details/movie/elvis-annabelle-2012/1MV66e50f259f15abc16905724c63578bce?ele=list&elc=1MV66e50f259f15abc16905724c63578bce&eli=2&eci=1MV66e50f259f15abc16905724c63578bce"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVd32188737fb89a2556387eb2e6d235b2&amp;ql=70&amp;sizes=176x264"
-                            alt="Turbo: A Power Rangers Movie MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV66e50f259f15abc16905724c63578bce&amp;ql=70&amp;sizes=176x264"
+                            alt="Elvis &amp; Annabelle MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -535,15 +535,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV0270531927e2296a4dd675f90e7a1f54"
-                        class="item__link js-flyout-item plus-card" data-id="1MV0270531927e2296a4dd675f90e7a1f54"
-                        href="https://www.fandangonow.com/details/movie/turbo-kid-2015/1MV0270531927e2296a4dd675f90e7a1f54?ele=list&elc=1MV0270531927e2296a4dd675f90e7a1f54&eli=3&eci=1MV0270531927e2296a4dd675f90e7a1f54"
+                        id="_item_1MV5e5efac57046d0dd821d6b29945e80b8"
+                        class="item__link js-flyout-item plus-card" data-id="1MV5e5efac57046d0dd821d6b29945e80b8"
+                        href="https://www.fandangonow.com/details/movie/loving-annabelle-2006/1MV5e5efac57046d0dd821d6b29945e80b8?ele=list&elc=1MV5e5efac57046d0dd821d6b29945e80b8&eli=3&eci=1MV5e5efac57046d0dd821d6b29945e80b8"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV0270531927e2296a4dd675f90e7a1f54&amp;ql=70&amp;sizes=176x264"
-                            alt="Turbo Kid MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV5e5efac57046d0dd821d6b29945e80b8&amp;ql=70&amp;sizes=176x264"
+                            alt="Loving Annabelle MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -555,15 +555,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVba3bd401d0957d8575073614d0d9016b"
-                        class="item__link js-flyout-item plus-card" data-id="1MVba3bd401d0957d8575073614d0d9016b"
-                        href="https://www.fandangonow.com/details/movie/max-steel-go-turbo-2015/1MVba3bd401d0957d8575073614d0d9016b?ele=list&elc=1MVba3bd401d0957d8575073614d0d9016b&eli=4&eci=1MVba3bd401d0957d8575073614d0d9016b"
+                        id="_item_1MV1d69cf58fb78b6f36db8524d3fe87887"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1d69cf58fb78b6f36db8524d3fe87887"
+                        href="https://www.fandangonow.com/details/movie/annabelle-hooper-and-the-ghosts-of-nantucket-2016/1MV1d69cf58fb78b6f36db8524d3fe87887?ele=list&elc=1MV1d69cf58fb78b6f36db8524d3fe87887&eli=4&eci=1MV1d69cf58fb78b6f36db8524d3fe87887"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVba3bd401d0957d8575073614d0d9016b&amp;ql=70&amp;sizes=176x264"
-                            alt="Max Steel: Go Turbo! MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV1d69cf58fb78b6f36db8524d3fe87887&amp;ql=70&amp;sizes=176x264"
+                            alt="Annabelle Hooper and the Ghosts of Nantucket MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -575,15 +575,395 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV6e4550f5db6f063668dcec5f2ef6c422"
-                        class="item__link js-flyout-item plus-card" data-id="1MV6e4550f5db6f063668dcec5f2ef6c422"
-                        href="https://www.fandangonow.com/details/movie/new-kids-turbo-2010/1MV6e4550f5db6f063668dcec5f2ef6c422?ele=list&elc=1MV6e4550f5db6f063668dcec5f2ef6c422&eli=5&eci=1MV6e4550f5db6f063668dcec5f2ef6c422"
+                        id="_item_MMVBAEC56CE11759FE992806F9FEBBF6DF45"
+                        class="item__link js-flyout-item plus-card" data-id="MMVBAEC56CE11759FE992806F9FEBBF6DF45"
+                        href="https://www.fandangonow.com/details/movie/petes-dragon-2016-2016/MMVBAEC56CE11759FE992806F9FEBBF6DF45?ele=list&elc=MMVBAEC56CE11759FE992806F9FEBBF6DF45&eli=5&eci=MMVBAEC56CE11759FE992806F9FEBBF6DF45"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV6e4550f5db6f063668dcec5f2ef6c422&amp;ql=70&amp;sizes=176x264"
-                            alt="New Kids Turbo MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVBAEC56CE11759FE992806F9FEBBF6DF45&amp;ql=70&amp;sizes=176x264"
+                            alt="Pete&#x27;s Dragon (2016) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVD545E8A3564BDCDD11D9B9FD9A9522344"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD545E8A3564BDCDD11D9B9FD9A9522344"
+                        href="https://www.fandangonow.com/details/movie/come-and-find-me-2016/MMVD545E8A3564BDCDD11D9B9FD9A9522344?ele=list&elc=MMVD545E8A3564BDCDD11D9B9FD9A9522344&eli=6&eci=MMVD545E8A3564BDCDD11D9B9FD9A9522344"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVD545E8A3564BDCDD11D9B9FD9A9522344&amp;ql=70&amp;sizes=176x264"
+                            alt="Come And Find Me MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVCB8B3B51885DA375C305E1BF6F0CFC292"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCB8B3B51885DA375C305E1BF6F0CFC292"
+                        href="https://www.fandangonow.com/details/movie/the-brothers-grimsby-2016/MMVCB8B3B51885DA375C305E1BF6F0CFC292?ele=list&elc=MMVCB8B3B51885DA375C305E1BF6F0CFC292&eli=7&eci=MMVCB8B3B51885DA375C305E1BF6F0CFC292"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVCB8B3B51885DA375C305E1BF6F0CFC292&amp;ql=70&amp;sizes=176x264"
+                            alt="The Brothers Grimsby MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVCB26285F891D52C4DDFC2DE4618F76B33"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCB26285F891D52C4DDFC2DE4618F76B33"
+                        href="https://www.fandangonow.com/details/movie/its-us-2016/MMVCB26285F891D52C4DDFC2DE4618F76B33?ele=list&elc=MMVCB26285F891D52C4DDFC2DE4618F76B33&eli=8&eci=MMVCB26285F891D52C4DDFC2DE4618F76B33"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVCB26285F891D52C4DDFC2DE4618F76B33&amp;ql=70&amp;sizes=176x264"
+                            alt="It&#x27;s Us MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                        class="item__link js-flyout-item plus-card" data-id="1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                        href="https://www.fandangonow.com/details/movie/king-arthur-legend-of-the-sword-2017/1MV9bf607fab1a90b0d71d1a0f7b809e437?ele=list&elc=1MV9bf607fab1a90b0d71d1a0f7b809e437&eli=9&eci=1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV9bf607fab1a90b0d71d1a0f7b809e437&amp;ql=70&amp;sizes=176x264"
+                            alt="King Arthur: Legend of the Sword MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV3609F876CCC5B30C29CE7F92827C374C3"
+                        class="item__link js-flyout-item plus-card" data-id="MMV3609F876CCC5B30C29CE7F92827C374C3"
+                        href="https://www.fandangonow.com/details/movie/sword-of-vengeance-2015/MMV3609F876CCC5B30C29CE7F92827C374C3?ele=list&elc=MMV3609F876CCC5B30C29CE7F92827C374C3&eli=10&eci=MMV3609F876CCC5B30C29CE7F92827C374C3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV3609F876CCC5B30C29CE7F92827C374C3&amp;ql=70&amp;sizes=176x264"
+                            alt="Sword of Vengeance MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV12b14f4e2e29e37249c2415171e966af"
+                        class="item__link js-flyout-item plus-card" data-id="1MV12b14f4e2e29e37249c2415171e966af"
+                        href="https://www.fandangonow.com/details/movie/the-mummy-2017/1MV12b14f4e2e29e37249c2415171e966af?ele=list&elc=1MV12b14f4e2e29e37249c2415171e966af&eli=11&eci=1MV12b14f4e2e29e37249c2415171e966af"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV12b14f4e2e29e37249c2415171e966af&amp;ql=70&amp;sizes=176x264"
+                            alt="The Mummy MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc"
+                        class="item__link js-flyout-item plus-card" data-id="1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc"
+                        href="https://www.fandangonow.com/details/movie/love-songs-2007/1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc?ele=list&elc=1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc&eli=12&eci=1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc&amp;ql=70&amp;sizes=176x264"
+                            alt="Love Songs MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVebf6084c74c3f5fd9a74b96aa534f1f6"
+                        class="item__link js-flyout-item plus-card" data-id="1MVebf6084c74c3f5fd9a74b96aa534f1f6"
+                        href="https://www.fandangonow.com/details/movie/the-war-zone-1999/1MVebf6084c74c3f5fd9a74b96aa534f1f6?ele=list&elc=1MVebf6084c74c3f5fd9a74b96aa534f1f6&eli=13&eci=1MVebf6084c74c3f5fd9a74b96aa534f1f6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVebf6084c74c3f5fd9a74b96aa534f1f6&amp;ql=70&amp;sizes=176x264"
+                            alt="The War Zone MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVeb8bc82df43e3c6b0d53813a329cfde9"
+                        class="item__link js-flyout-item plus-card" data-id="1MVeb8bc82df43e3c6b0d53813a329cfde9"
+                        href="https://www.fandangonow.com/details/movie/barry-2016/1MVeb8bc82df43e3c6b0d53813a329cfde9?ele=list&elc=1MVeb8bc82df43e3c6b0d53813a329cfde9&eli=14&eci=1MVeb8bc82df43e3c6b0d53813a329cfde9"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVeb8bc82df43e3c6b0d53813a329cfde9&amp;ql=70&amp;sizes=176x264"
+                            alt="Barry MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7083423a83a28cf61877ebb708438563"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7083423a83a28cf61877ebb708438563"
+                        href="https://www.fandangonow.com/details/movie/the-brothers-grimsby-with-hilarious-outtakes-2016/1MV7083423a83a28cf61877ebb708438563?ele=list&elc=1MV7083423a83a28cf61877ebb708438563&eli=15&eci=1MV7083423a83a28cf61877ebb708438563"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV7083423a83a28cf61877ebb708438563&amp;ql=70&amp;sizes=176x264"
+                            alt="The Brothers Grimsby With Hilarious Outtakes MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV49840899f2617399166ab63e01785bad"
+                        class="item__link js-flyout-item plus-card" data-id="1MV49840899f2617399166ab63e01785bad"
+                        href="https://www.fandangonow.com/details/movie/white-girl-2016/1MV49840899f2617399166ab63e01785bad?ele=list&elc=1MV49840899f2617399166ab63e01785bad&eli=16&eci=1MV49840899f2617399166ab63e01785bad"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV49840899f2617399166ab63e01785bad&amp;ql=70&amp;sizes=176x264"
+                            alt="White Girl MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV34ca83f3295e2919d56ad7f09f98f26a"
+                        class="item__link js-flyout-item plus-card" data-id="1MV34ca83f3295e2919d56ad7f09f98f26a"
+                        href="https://www.fandangonow.com/details/movie/the-nymphets-2015/1MV34ca83f3295e2919d56ad7f09f98f26a?ele=list&elc=1MV34ca83f3295e2919d56ad7f09f98f26a&eli=17&eci=1MV34ca83f3295e2919d56ad7f09f98f26a"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV34ca83f3295e2919d56ad7f09f98f26a&amp;ql=70&amp;sizes=176x264"
+                            alt="The Nymphets MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7825b42eaed1c1470cb579785e6596a0"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7825b42eaed1c1470cb579785e6596a0"
+                        href="https://www.fandangonow.com/details/movie/asthma-2014/1MV7825b42eaed1c1470cb579785e6596a0?ele=list&elc=1MV7825b42eaed1c1470cb579785e6596a0&eli=18&eci=1MV7825b42eaed1c1470cb579785e6596a0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV7825b42eaed1c1470cb579785e6596a0&amp;ql=70&amp;sizes=176x264"
+                            alt="Asthma MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV5a4552838026bb4ee397a5ec69e3a83e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV5a4552838026bb4ee397a5ec69e3a83e"
+                        href="https://www.fandangonow.com/details/movie/a-buddy-story-2010/1MV5a4552838026bb4ee397a5ec69e3a83e?ele=list&elc=1MV5a4552838026bb4ee397a5ec69e3a83e&eli=19&eci=1MV5a4552838026bb4ee397a5ec69e3a83e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV5a4552838026bb4ee397a5ec69e3a83e&amp;ql=70&amp;sizes=176x264"
+                            alt="A Buddy Story MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVac85e15c368ec2abf014a46011721632"
+                        class="item__link js-flyout-item plus-card" data-id="1MVac85e15c368ec2abf014a46011721632"
+                        href="https://www.fandangonow.com/details/movie/the-lost-future-2010/1MVac85e15c368ec2abf014a46011721632?ele=list&elc=1MVac85e15c368ec2abf014a46011721632&eli=20&eci=1MVac85e15c368ec2abf014a46011721632"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVac85e15c368ec2abf014a46011721632&amp;ql=70&amp;sizes=176x264"
+                            alt="The Lost Future MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV26c06c75fd3ee727275f828ad4c09aed"
+                        class="item__link js-flyout-item plus-card" data-id="1MV26c06c75fd3ee727275f828ad4c09aed"
+                        href="https://www.fandangonow.com/details/movie/ghost-town-2009/1MV26c06c75fd3ee727275f828ad4c09aed?ele=list&elc=1MV26c06c75fd3ee727275f828ad4c09aed&eli=21&eci=1MV26c06c75fd3ee727275f828ad4c09aed"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV26c06c75fd3ee727275f828ad4c09aed&amp;ql=70&amp;sizes=176x264"
+                            alt="Ghost Town MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVc718d1f7a6578c77a2ecef1ca7a07267"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc718d1f7a6578c77a2ecef1ca7a07267"
+                        href="https://www.fandangonow.com/details/movie/the-4th-tenor-2002/1MVc718d1f7a6578c77a2ecef1ca7a07267?ele=list&elc=1MVc718d1f7a6578c77a2ecef1ca7a07267&eli=22&eci=1MVc718d1f7a6578c77a2ecef1ca7a07267"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVc718d1f7a6578c77a2ecef1ca7a07267&amp;ql=70&amp;sizes=176x264"
+                            alt="The 4th Tenor MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7a543b7c1d1b82ce79475273585411c7"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7a543b7c1d1b82ce79475273585411c7"
+                        href="https://www.fandangonow.com/details/movie/presenting-lily-mars-1943/1MV7a543b7c1d1b82ce79475273585411c7?ele=list&elc=1MV7a543b7c1d1b82ce79475273585411c7&eli=23&eci=1MV7a543b7c1d1b82ce79475273585411c7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV7a543b7c1d1b82ce79475273585411c7&amp;ql=70&amp;sizes=176x264"
+                            alt="Presenting Lily Mars MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV99ef263cdc487a43d3cc58f05e66b01f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV99ef263cdc487a43d3cc58f05e66b01f"
+                        href="https://www.fandangonow.com/details/movie/encounter-with-the-unknown-1973/1MV99ef263cdc487a43d3cc58f05e66b01f?ele=list&elc=1MV99ef263cdc487a43d3cc58f05e66b01f&eli=24&eci=1MV99ef263cdc487a43d3cc58f05e66b01f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV99ef263cdc487a43d3cc58f05e66b01f&amp;ql=70&amp;sizes=176x264"
+                            alt="Encounter With the Unknown MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -709,7 +1089,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Turbo'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":7,"pageCount":6,"pageNumber":0,"items":[{"id":"MMVD1EE2FC713711948F50BD19BA3503048C","title":"Turbo","template":"defaultItem","contentType":"MOVIE","slugId":"turbo-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD1EE2FC713711948F50BD19BA3503048C/details","description":""},{"id":"MMV15F5AE8C230D433994073092FF954AB11","title":"Turbo + The Croods 2 Movie Collection","template":"defaultItem","contentType":"MOVIE","slugId":"turbo-the-croods-2-movie-collection-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV15F5AE8C230D433994073092FF954AB11/details","description":""},{"id":"1MVd32188737fb89a2556387eb2e6d235b2","title":"Turbo: A Power Rangers Movie","template":"defaultItem","contentType":"MOVIE","slugId":"turbo-a-power-rangers-movie-1997","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd32188737fb89a2556387eb2e6d235b2/details","description":""},{"id":"1MV0270531927e2296a4dd675f90e7a1f54","title":"Turbo Kid","template":"defaultItem","contentType":"MOVIE","slugId":"turbo-kid-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0270531927e2296a4dd675f90e7a1f54/details","description":""},{"id":"1MVba3bd401d0957d8575073614d0d9016b","title":"Max Steel: Go Turbo!","template":"defaultItem","contentType":"MOVIE","slugId":"max-steel-go-turbo-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVba3bd401d0957d8575073614d0d9016b/details","description":""},{"id":"1MV6e4550f5db6f063668dcec5f2ef6c422","title":"New Kids Turbo","template":"defaultItem","contentType":"MOVIE","slugId":"new-kids-turbo-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6e4550f5db6f063668dcec5f2ef6c422/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Turbo","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Annabelle'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":30,"pageCount":25,"pageNumber":0,"items":[{"id":"MMVBF3DE58AA029F0171DC7BF8CA46D7563D","title":"Annabelle","template":"defaultItem","contentType":"MOVIE","slugId":"annabelle-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBF3DE58AA029F0171DC7BF8CA46D7563D/details","description":""},{"id":"1MV358fe47b12c4ee3001144d975f27813b","title":"Annabelle 2","template":"defaultItem","contentType":"MOVIE","slugId":"annabelle-2-2017","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV358fe47b12c4ee3001144d975f27813b/details","description":""},{"id":"1MV66e50f259f15abc16905724c63578bce","title":"Elvis & Annabelle","template":"defaultItem","contentType":"MOVIE","slugId":"elvis-annabelle-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV66e50f259f15abc16905724c63578bce/details","description":""},{"id":"1MV5e5efac57046d0dd821d6b29945e80b8","title":"Loving Annabelle","template":"defaultItem","contentType":"MOVIE","slugId":"loving-annabelle-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5e5efac57046d0dd821d6b29945e80b8/details","description":""},{"id":"1MV1d69cf58fb78b6f36db8524d3fe87887","title":"Annabelle Hooper and the Ghosts of Nantucket","template":"defaultItem","contentType":"MOVIE","slugId":"annabelle-hooper-and-the-ghosts-of-nantucket-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1d69cf58fb78b6f36db8524d3fe87887/details","description":""},{"id":"MMVBAEC56CE11759FE992806F9FEBBF6DF45","title":"Pete's Dragon (2016)","template":"defaultItem","contentType":"MOVIE","slugId":"petes-dragon-2016-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBAEC56CE11759FE992806F9FEBBF6DF45/details","description":""},{"id":"MMVD545E8A3564BDCDD11D9B9FD9A9522344","title":"Come And Find Me","template":"defaultItem","contentType":"MOVIE","slugId":"come-and-find-me-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD545E8A3564BDCDD11D9B9FD9A9522344/details","description":""},{"id":"MMVCB8B3B51885DA375C305E1BF6F0CFC292","title":"The Brothers Grimsby","template":"defaultItem","contentType":"MOVIE","slugId":"the-brothers-grimsby-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCB8B3B51885DA375C305E1BF6F0CFC292/details","description":""},{"id":"MMVCB26285F891D52C4DDFC2DE4618F76B33","title":"It's Us","template":"defaultItem","contentType":"MOVIE","slugId":"its-us-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCB26285F891D52C4DDFC2DE4618F76B33/details","description":""},{"id":"1MV9bf607fab1a90b0d71d1a0f7b809e437","title":"King Arthur: Legend of the Sword","template":"defaultItem","contentType":"MOVIE","slugId":"king-arthur-legend-of-the-sword-2017","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9bf607fab1a90b0d71d1a0f7b809e437/details","description":""},{"id":"MMV3609F876CCC5B30C29CE7F92827C374C3","title":"Sword of Vengeance","template":"defaultItem","contentType":"MOVIE","slugId":"sword-of-vengeance-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV3609F876CCC5B30C29CE7F92827C374C3/details","description":""},{"id":"1MV12b14f4e2e29e37249c2415171e966af","title":"The Mummy","template":"defaultItem","contentType":"MOVIE","slugId":"the-mummy-2017","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV12b14f4e2e29e37249c2415171e966af/details","description":""},{"id":"1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc","title":"Love Songs","template":"defaultItem","contentType":"MOVIE","slugId":"love-songs-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV881d82d1c40c3cc9e1d0f3c07e4fc2fc/details","description":""},{"id":"1MVebf6084c74c3f5fd9a74b96aa534f1f6","title":"The War Zone","template":"defaultItem","contentType":"MOVIE","slugId":"the-war-zone-1999","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVebf6084c74c3f5fd9a74b96aa534f1f6/details","description":""},{"id":"1MVeb8bc82df43e3c6b0d53813a329cfde9","title":"Barry","template":"defaultItem","contentType":"MOVIE","slugId":"barry-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVeb8bc82df43e3c6b0d53813a329cfde9/details","description":""},{"id":"1MV7083423a83a28cf61877ebb708438563","title":"The Brothers Grimsby With Hilarious Outtakes","template":"defaultItem","contentType":"MOVIE","slugId":"the-brothers-grimsby-with-hilarious-outtakes-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7083423a83a28cf61877ebb708438563/details","description":""},{"id":"1MV49840899f2617399166ab63e01785bad","title":"White Girl","template":"defaultItem","contentType":"MOVIE","slugId":"white-girl-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV49840899f2617399166ab63e01785bad/details","description":""},{"id":"1MV34ca83f3295e2919d56ad7f09f98f26a","title":"The Nymphets","template":"defaultItem","contentType":"MOVIE","slugId":"the-nymphets-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV34ca83f3295e2919d56ad7f09f98f26a/details","description":""},{"id":"1MV7825b42eaed1c1470cb579785e6596a0","title":"Asthma","template":"defaultItem","contentType":"MOVIE","slugId":"asthma-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7825b42eaed1c1470cb579785e6596a0/details","description":""},{"id":"1MV5a4552838026bb4ee397a5ec69e3a83e","title":"A Buddy Story","template":"defaultItem","contentType":"MOVIE","slugId":"a-buddy-story-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5a4552838026bb4ee397a5ec69e3a83e/details","description":""},{"id":"1MVac85e15c368ec2abf014a46011721632","title":"The Lost Future","template":"defaultItem","contentType":"MOVIE","slugId":"the-lost-future-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVac85e15c368ec2abf014a46011721632/details","description":""},{"id":"1MV26c06c75fd3ee727275f828ad4c09aed","title":"Ghost Town","template":"defaultItem","contentType":"MOVIE","slugId":"ghost-town-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV26c06c75fd3ee727275f828ad4c09aed/details","description":""},{"id":"1MVc718d1f7a6578c77a2ecef1ca7a07267","title":"The 4th Tenor","template":"defaultItem","contentType":"MOVIE","slugId":"the-4th-tenor-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc718d1f7a6578c77a2ecef1ca7a07267/details","description":""},{"id":"1MV7a543b7c1d1b82ce79475273585411c7","title":"Presenting Lily Mars","template":"defaultItem","contentType":"MOVIE","slugId":"presenting-lily-mars-1943","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7a543b7c1d1b82ce79475273585411c7/details","description":""},{"id":"1MV99ef263cdc487a43d3cc58f05e66b01f","title":"Encounter With the Unknown","template":"defaultItem","contentType":"MOVIE","slugId":"encounter-with-the-unknown-1973","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV99ef263cdc487a43d3cc58f05e66b01f/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Annabelle","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -732,7 +1112,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="eGlCVyrU-xyCDN6Kv5CmK558sVooyXpKcUqs" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="zqwfN66L-WzyhhYEB52F7tNtWvQdCw4POoac" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

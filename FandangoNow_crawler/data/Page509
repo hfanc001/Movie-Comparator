@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Ted. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Ted. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search The Bronze. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search The Bronze. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Ted. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search The Bronze. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Ted. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search The Bronze. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Ted. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Ted","list_name":"Search Results for 'Ted'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Bronze. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Bronze","list_name":"Search Results for 'The Bronze'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Ted'
+                Search Results for 'The Bronze'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Ted&#x27;"
-            data-list-id="Search-Results-for-Ted"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Ted"
+            data-list-title="Search Results for &#x27;The Bronze&#x27;"
+            data-list-id="Search-Results-for-The-Bronze"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Bronze"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="48"
-            data-total-count="420"
+            data-page-count="3"
+            data-total-count="4"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV6368775923bc8e3f71a08803a18ae275"
-                        class="item__link js-flyout-item plus-card" data-id="1MV6368775923bc8e3f71a08803a18ae275"
-                        href="https://www.fandangonow.com/details/movie/ted-unrated-2012/1MV6368775923bc8e3f71a08803a18ae275?ele=list&elc=1MV6368775923bc8e3f71a08803a18ae275&eli=0&eci=1MV6368775923bc8e3f71a08803a18ae275"
+                        id="_item_MMV8D25FD925BD00A13F44EDA16FDC74636C"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8D25FD925BD00A13F44EDA16FDC74636C"
+                        href="https://www.fandangonow.com/details/movie/the-bronze-2016/MMV8D25FD925BD00A13F44EDA16FDC74636C?ele=list&elc=MMV8D25FD925BD00A13F44EDA16FDC74636C&eli=0&eci=MMV8D25FD925BD00A13F44EDA16FDC74636C"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV6368775923bc8e3f71a08803a18ae275&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted (Unrated) MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV8D25FD925BD00A13F44EDA16FDC74636C&amp;ql=70&amp;sizes=176x264"
+                            alt="The Bronze MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV2a4f2d7f9c73b21ed7736b65f9d8c231"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2a4f2d7f9c73b21ed7736b65f9d8c231"
-                        href="https://www.fandangonow.com/details/movie/ted-2012/1MV2a4f2d7f9c73b21ed7736b65f9d8c231?ele=list&elc=1MV2a4f2d7f9c73b21ed7736b65f9d8c231&eli=1&eci=1MV2a4f2d7f9c73b21ed7736b65f9d8c231"
+                        id="_item_1MV3714e4d56e3eff00b294082e8f03ff2c"
+                        class="item__link js-flyout-item plus-card" data-id="1MV3714e4d56e3eff00b294082e8f03ff2c"
+                        href="https://www.fandangonow.com/details/movie/the-bronze-buckaroo-1938/1MV3714e4d56e3eff00b294082e8f03ff2c?ele=list&elc=1MV3714e4d56e3eff00b294082e8f03ff2c&eli=1&eci=1MV3714e4d56e3eff00b294082e8f03ff2c"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV2a4f2d7f9c73b21ed7736b65f9d8c231&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV3714e4d56e3eff00b294082e8f03ff2c&amp;ql=70&amp;sizes=176x264"
+                            alt="The Bronze Buckaroo MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,915 +515,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV6FB958867EB63B96434F01274E0832BFE"
-                        class="item__link js-flyout-item plus-card" data-id="MMV6FB958867EB63B96434F01274E0832BFE"
-                        href="https://www.fandangonow.com/details/movie/ted-2-unrated-2015/MMV6FB958867EB63B96434F01274E0832BFE?ele=list&elc=MMV6FB958867EB63B96434F01274E0832BFE&eli=2&eci=MMV6FB958867EB63B96434F01274E0832BFE"
+                        id="_item_1MVf543fb4320b6b7cd20eba3fe033ab3ba"
+                        class="item__link js-flyout-item plus-card" data-id="1MVf543fb4320b6b7cd20eba3fe033ab3ba"
+                        href="https://www.fandangonow.com/details/movie/doc-savage-the-man-of-bronze-1975/1MVf543fb4320b6b7cd20eba3fe033ab3ba?ele=list&elc=1MVf543fb4320b6b7cd20eba3fe033ab3ba&eli=2&eci=1MVf543fb4320b6b7cd20eba3fe033ab3ba"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV6FB958867EB63B96434F01274E0832BFE&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted 2 (Unrated) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV4200754128D1F3AFA70E70D1537F97801"
-                        class="item__link js-flyout-item plus-card" data-id="MMV4200754128D1F3AFA70E70D1537F97801"
-                        href="https://www.fandangonow.com/details/movie/bill-teds-excellent-adventure-1989/MMV4200754128D1F3AFA70E70D1537F97801?ele=list&elc=MMV4200754128D1F3AFA70E70D1537F97801&eli=3&eci=MMV4200754128D1F3AFA70E70D1537F97801"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV4200754128D1F3AFA70E70D1537F97801&amp;ql=70&amp;sizes=176x264"
-                            alt="Bill &amp; Ted&#x27;s Excellent Adventure MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVC7F952CD453B3F36F0F42E9873219C162"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC7F952CD453B3F36F0F42E9873219C162"
-                        href="https://www.fandangonow.com/details/movie/ted-double-feature-2015/MMVC7F952CD453B3F36F0F42E9873219C162?ele=list&elc=MMVC7F952CD453B3F36F0F42E9873219C162&eli=4&eci=MMVC7F952CD453B3F36F0F42E9873219C162"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVC7F952CD453B3F36F0F42E9873219C162&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted Double Feature MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV54671EFD94CE21ED4D3D07118CA16B2F8"
-                        class="item__link js-flyout-item plus-card" data-id="MMV54671EFD94CE21ED4D3D07118CA16B2F8"
-                        href="https://www.fandangonow.com/details/movie/ted-2-2015/MMV54671EFD94CE21ED4D3D07118CA16B2F8?ele=list&elc=MMV54671EFD94CE21ED4D3D07118CA16B2F8&eli=5&eci=MMV54671EFD94CE21ED4D3D07118CA16B2F8"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV54671EFD94CE21ED4D3D07118CA16B2F8&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted 2 MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV6BBEF02838A11DC1A446BE6634315D8F8"
-                        class="item__link js-flyout-item plus-card" data-id="MMV6BBEF02838A11DC1A446BE6634315D8F8"
-                        href="https://www.fandangonow.com/details/movie/bill-teds-bogus-journey-1991/MMV6BBEF02838A11DC1A446BE6634315D8F8?ele=list&elc=MMV6BBEF02838A11DC1A446BE6634315D8F8&eli=6&eci=MMV6BBEF02838A11DC1A446BE6634315D8F8"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV6BBEF02838A11DC1A446BE6634315D8F8&amp;ql=70&amp;sizes=176x264"
-                            alt="Bill &amp; Ted&#x27;s Bogus Journey MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVb29d981765e525769e32dc0d3df54ec7"
-                        class="item__link js-flyout-item plus-card" data-id="1MVb29d981765e525769e32dc0d3df54ec7"
-                        href="https://www.fandangonow.com/details/movie/ted-and-venus-1991/1MVb29d981765e525769e32dc0d3df54ec7?ele=list&elc=1MVb29d981765e525769e32dc0d3df54ec7&eli=7&eci=1MVb29d981765e525769e32dc0d3df54ec7"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVb29d981765e525769e32dc0d3df54ec7&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted and Venus MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV96acfe7b600e4c8fb0dc1640bef11426"
-                        class="item__link js-flyout-item plus-card" data-id="1MV96acfe7b600e4c8fb0dc1640bef11426"
-                        href="https://www.fandangonow.com/details/movie/ted-special-edition-2012/1MV96acfe7b600e4c8fb0dc1640bef11426?ele=list&elc=1MV96acfe7b600e4c8fb0dc1640bef11426&eli=8&eci=1MV96acfe7b600e4c8fb0dc1640bef11426"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV96acfe7b600e4c8fb0dc1640bef11426&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted: Special Edition MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV90314388b08485d70d3ebbccc84a3de9"
-                        class="item__link js-flyout-item plus-card" data-id="1MV90314388b08485d70d3ebbccc84a3de9"
-                        href="https://www.fandangonow.com/details/movie/screwball-the-ted-whitfield-story-2009/1MV90314388b08485d70d3ebbccc84a3de9?ele=list&elc=1MV90314388b08485d70d3ebbccc84a3de9&eli=9&eci=1MV90314388b08485d70d3ebbccc84a3de9"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV90314388b08485d70d3ebbccc84a3de9&amp;ql=70&amp;sizes=176x264"
-                            alt="Screwball: The Ted Whitfield Story MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV9d46cd55d757f23de1a4b1150cadd54f"
-                        class="item__link js-flyout-item plus-card" data-id="1MV9d46cd55d757f23de1a4b1150cadd54f"
-                        href="https://www.fandangonow.com/details/movie/ted-bundy-2002/1MV9d46cd55d757f23de1a4b1150cadd54f?ele=list&elc=1MV9d46cd55d757f23de1a4b1150cadd54f&eli=10&eci=1MV9d46cd55d757f23de1a4b1150cadd54f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV9d46cd55d757f23de1a4b1150cadd54f&amp;ql=70&amp;sizes=176x264"
-                            alt="Ted Bundy MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVe5f0d73dc2dbcdecbb6ac063ee105123"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe5f0d73dc2dbcdecbb6ac063ee105123"
-                        href="https://www.fandangonow.com/details/movie/bob-carol-ted-alice-1969/1MVe5f0d73dc2dbcdecbb6ac063ee105123?ele=list&elc=1MVe5f0d73dc2dbcdecbb6ac063ee105123&eli=11&eci=1MVe5f0d73dc2dbcdecbb6ac063ee105123"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVe5f0d73dc2dbcdecbb6ac063ee105123&amp;ql=70&amp;sizes=176x264"
-                            alt="Bob &amp; Carol &amp; Ted &amp; Alice MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVF5EAF10723DD0FD5A9E804D50712A220F"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF5EAF10723DD0FD5A9E804D50712A220F"
-                        href="https://www.fandangonow.com/details/movie/midnight-sex-run-2015/MMVF5EAF10723DD0FD5A9E804D50712A220F?ele=list&elc=MMVF5EAF10723DD0FD5A9E804D50712A220F&eli=12&eci=MMVF5EAF10723DD0FD5A9E804D50712A220F"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVF5EAF10723DD0FD5A9E804D50712A220F&amp;ql=70&amp;sizes=176x264"
-                            alt="Midnight Sex Run MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV5D0CC9F54DD73E3D535B88FF503611F7E"
-                        class="item__link js-flyout-item plus-card" data-id="MMV5D0CC9F54DD73E3D535B88FF503611F7E"
-                        href="https://www.fandangonow.com/details/movie/20000-leagues-under-the-sea-1954/MMV5D0CC9F54DD73E3D535B88FF503611F7E?ele=list&elc=MMV5D0CC9F54DD73E3D535B88FF503611F7E&eli=13&eci=MMV5D0CC9F54DD73E3D535B88FF503611F7E"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV5D0CC9F54DD73E3D535B88FF503611F7E&amp;ql=70&amp;sizes=176x264"
-                            alt="20,000 Leagues Under The Sea MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV108a2cc08a25e12432f70e18b61dcce5"
-                        class="item__link js-flyout-item plus-card" data-id="1MV108a2cc08a25e12432f70e18b61dcce5"
-                        href="https://www.fandangonow.com/details/movie/unwanted-guest-2016/1MV108a2cc08a25e12432f70e18b61dcce5?ele=list&elc=1MV108a2cc08a25e12432f70e18b61dcce5&eli=14&eci=1MV108a2cc08a25e12432f70e18b61dcce5"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV108a2cc08a25e12432f70e18b61dcce5&amp;ql=70&amp;sizes=176x264"
-                            alt="Unwanted Guest MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B"
-                        class="item__link js-flyout-item plus-card" data-id="MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B"
-                        href="https://www.fandangonow.com/details/movie/great-falls-2014/MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B?ele=list&elc=MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B&eli=15&eci=MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B&amp;ql=70&amp;sizes=176x264"
-                            alt="Great Falls MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV486c99839cc020123794669bba9b7e55"
-                        class="item__link js-flyout-item plus-card" data-id="1MV486c99839cc020123794669bba9b7e55"
-                        href="https://www.fandangonow.com/details/movie/weekend-at-bernies-1990/1MV486c99839cc020123794669bba9b7e55?ele=list&elc=1MV486c99839cc020123794669bba9b7e55&eli=16&eci=1MV486c99839cc020123794669bba9b7e55"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV486c99839cc020123794669bba9b7e55&amp;ql=70&amp;sizes=176x264"
-                            alt="Weekend at Bernie&#x27;s MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV985634e90fa35af67a4088bac2de163b"
-                        class="item__link js-flyout-item plus-card" data-id="1MV985634e90fa35af67a4088bac2de163b"
-                        href="https://www.fandangonow.com/details/movie/range-beyond-the-blue-1947/1MV985634e90fa35af67a4088bac2de163b?ele=list&elc=1MV985634e90fa35af67a4088bac2de163b&eli=17&eci=1MV985634e90fa35af67a4088bac2de163b"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV985634e90fa35af67a4088bac2de163b&amp;ql=70&amp;sizes=176x264"
-                            alt="Range Beyond the Blue MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV4E7F6FA11523F7C8580E1581ED7F3F2FE"
-                        class="item__link js-flyout-item plus-card" data-id="MMV4E7F6FA11523F7C8580E1581ED7F3F2FE"
-                        href="https://www.fandangonow.com/details/movie/alleluia-the-devils-carnival-2016/MMV4E7F6FA11523F7C8580E1581ED7F3F2FE?ele=list&elc=MMV4E7F6FA11523F7C8580E1581ED7F3F2FE&eli=18&eci=MMV4E7F6FA11523F7C8580E1581ED7F3F2FE"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV4E7F6FA11523F7C8580E1581ED7F3F2FE&amp;ql=70&amp;sizes=176x264"
-                            alt="Alleluia! The Devil&#x27;s Carnival MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV57F2E9A74644298134F7F00861ED06F8D"
-                        class="item__link js-flyout-item plus-card" data-id="MMV57F2E9A74644298134F7F00861ED06F8D"
-                        href="https://www.fandangonow.com/details/movie/just-like-us-2010/MMV57F2E9A74644298134F7F00861ED06F8D?ele=list&elc=MMV57F2E9A74644298134F7F00861ED06F8D&eli=19&eci=MMV57F2E9A74644298134F7F00861ED06F8D"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV57F2E9A74644298134F7F00861ED06F8D&amp;ql=70&amp;sizes=176x264"
-                            alt="Just Like Us MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV7EADC94F2681127B2EBC6D9CDC5F88FD7"
-                        class="item__link js-flyout-item plus-card" data-id="MMV7EADC94F2681127B2EBC6D9CDC5F88FD7"
-                        href="https://www.fandangonow.com/details/movie/do-you-believe-2015/MMV7EADC94F2681127B2EBC6D9CDC5F88FD7?ele=list&elc=MMV7EADC94F2681127B2EBC6D9CDC5F88FD7&eli=20&eci=MMV7EADC94F2681127B2EBC6D9CDC5F88FD7"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV7EADC94F2681127B2EBC6D9CDC5F88FD7&amp;ql=70&amp;sizes=176x264"
-                            alt="Do You Believe? MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVdb61c1fb1507df6446be4a31d573cf6a"
-                        class="item__link js-flyout-item plus-card" data-id="1MVdb61c1fb1507df6446be4a31d573cf6a"
-                        href="https://www.fandangonow.com/details/movie/american-gangster-2007/1MVdb61c1fb1507df6446be4a31d573cf6a?ele=list&elc=1MVdb61c1fb1507df6446be4a31d573cf6a&eli=21&eci=1MVdb61c1fb1507df6446be4a31d573cf6a"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVdb61c1fb1507df6446be4a31d573cf6a&amp;ql=70&amp;sizes=176x264"
-                            alt="American Gangster MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV90843332AB56577755ADA157898632C34"
-                        class="item__link js-flyout-item plus-card" data-id="MMV90843332AB56577755ADA157898632C34"
-                        href="https://www.fandangonow.com/details/movie/bleed-for-this-2016/MMV90843332AB56577755ADA157898632C34?ele=list&elc=MMV90843332AB56577755ADA157898632C34&eli=22&eci=MMV90843332AB56577755ADA157898632C34"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV90843332AB56577755ADA157898632C34&amp;ql=70&amp;sizes=176x264"
-                            alt="Bleed For This MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV2048f5f992116a01dd4c2274372fa7a3"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2048f5f992116a01dd4c2274372fa7a3"
-                        href="https://www.fandangonow.com/details/movie/blow-2001/1MV2048f5f992116a01dd4c2274372fa7a3?ele=list&elc=1MV2048f5f992116a01dd4c2274372fa7a3&eli=23&eci=1MV2048f5f992116a01dd4c2274372fa7a3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV2048f5f992116a01dd4c2274372fa7a3&amp;ql=70&amp;sizes=176x264"
-                            alt="Blow MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVA4045B212D0A1B643F8D41C6D81EA32E9"
-                        class="item__link js-flyout-item plus-card" data-id="MMVA4045B212D0A1B643F8D41C6D81EA32E9"
-                        href="https://www.fandangonow.com/details/movie/the-silence-of-the-lambs-1991/MMVA4045B212D0A1B643F8D41C6D81EA32E9?ele=list&elc=MMVA4045B212D0A1B643F8D41C6D81EA32E9&eli=24&eci=MMVA4045B212D0A1B643F8D41C6D81EA32E9"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVA4045B212D0A1B643F8D41C6D81EA32E9&amp;ql=70&amp;sizes=176x264"
-                            alt="The Silence of the Lambs MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV0A1C6F5A93EB4E61815CB3F8D23D585FF"
-                        class="item__link js-flyout-item plus-card" data-id="MMV0A1C6F5A93EB4E61815CB3F8D23D585FF"
-                        href="https://www.fandangonow.com/details/movie/dance-again-2016/MMV0A1C6F5A93EB4E61815CB3F8D23D585FF?ele=list&elc=MMV0A1C6F5A93EB4E61815CB3F8D23D585FF&eli=25&eci=MMV0A1C6F5A93EB4E61815CB3F8D23D585FF"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV0A1C6F5A93EB4E61815CB3F8D23D585FF&amp;ql=70&amp;sizes=176x264"
-                            alt="Dance Again MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV25a87a0eb0a94abdebb9d09eb77fa069"
-                        class="item__link js-flyout-item plus-card" data-id="1MV25a87a0eb0a94abdebb9d09eb77fa069"
-                        href="https://www.fandangonow.com/details/movie/darfur-now-2007/1MV25a87a0eb0a94abdebb9d09eb77fa069?ele=list&elc=1MV25a87a0eb0a94abdebb9d09eb77fa069&eli=26&eci=1MV25a87a0eb0a94abdebb9d09eb77fa069"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV25a87a0eb0a94abdebb9d09eb77fa069&amp;ql=70&amp;sizes=176x264"
-                            alt="Darfur Now MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVdc1b148d9123a4135359d81992c71529"
-                        class="item__link js-flyout-item plus-card" data-id="1MVdc1b148d9123a4135359d81992c71529"
-                        href="https://www.fandangonow.com/details/movie/life-1999/1MVdc1b148d9123a4135359d81992c71529?ele=list&elc=1MVdc1b148d9123a4135359d81992c71529&eli=27&eci=1MVdc1b148d9123a4135359d81992c71529"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVdc1b148d9123a4135359d81992c71529&amp;ql=70&amp;sizes=176x264"
-                            alt="Life MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVa7434361c8e0827601d41c942175cc64"
-                        class="item__link js-flyout-item plus-card" data-id="1MVa7434361c8e0827601d41c942175cc64"
-                        href="https://www.fandangonow.com/details/movie/big-miracle-2012/1MVa7434361c8e0827601d41c942175cc64?ele=list&elc=1MVa7434361c8e0827601d41c942175cc64&eli=28&eci=1MVa7434361c8e0827601d41c942175cc64"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVa7434361c8e0827601d41c942175cc64&amp;ql=70&amp;sizes=176x264"
-                            alt="Big Miracle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVC45E2EF970E4F6109824D4BF457115F54"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC45E2EF970E4F6109824D4BF457115F54"
-                        href="https://www.fandangonow.com/details/movie/river-2016/MMVC45E2EF970E4F6109824D4BF457115F54?ele=list&elc=MMVC45E2EF970E4F6109824D4BF457115F54&eli=29&eci=MMVC45E2EF970E4F6109824D4BF457115F54"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVC45E2EF970E4F6109824D4BF457115F54&amp;ql=70&amp;sizes=176x264"
-                            alt="River MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVdcd3a5ed0d533e918a06b438eb9c88fc"
-                        class="item__link js-flyout-item plus-card" data-id="1MVdcd3a5ed0d533e918a06b438eb9c88fc"
-                        href="https://www.fandangonow.com/details/movie/caddyshack-1980/1MVdcd3a5ed0d533e918a06b438eb9c88fc?ele=list&elc=1MVdcd3a5ed0d533e918a06b438eb9c88fc&eli=30&eci=1MVdcd3a5ed0d533e918a06b438eb9c88fc"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVdcd3a5ed0d533e918a06b438eb9c88fc&amp;ql=70&amp;sizes=176x264"
-                            alt="Caddyshack MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV13133D665205513473B18054DAFA11FB8"
-                        class="item__link js-flyout-item plus-card" data-id="MMV13133D665205513473B18054DAFA11FB8"
-                        href="https://www.fandangonow.com/details/movie/rambo-first-blood-1982/MMV13133D665205513473B18054DAFA11FB8?ele=list&elc=MMV13133D665205513473B18054DAFA11FB8&eli=31&eci=MMV13133D665205513473B18054DAFA11FB8"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV13133D665205513473B18054DAFA11FB8&amp;ql=70&amp;sizes=176x264"
-                            alt="Rambo: First Blood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVcbc0191ca9638ec0499f20032837f618"
-                        class="item__link js-flyout-item plus-card" data-id="1MVcbc0191ca9638ec0499f20032837f618"
-                        href="https://www.fandangonow.com/details/movie/the-manchurian-candidate-2004/1MVcbc0191ca9638ec0499f20032837f618?ele=list&elc=1MVcbc0191ca9638ec0499f20032837f618&eli=32&eci=1MVcbc0191ca9638ec0499f20032837f618"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVcbc0191ca9638ec0499f20032837f618&amp;ql=70&amp;sizes=176x264"
-                            alt="The Manchurian Candidate MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV121497A5CE8764024D9DA0D93676D840D"
-                        class="item__link js-flyout-item plus-card" data-id="MMV121497A5CE8764024D9DA0D93676D840D"
-                        href="https://www.fandangonow.com/details/movie/marine-4-movie-collection-2016/MMV121497A5CE8764024D9DA0D93676D840D?ele=list&elc=MMV121497A5CE8764024D9DA0D93676D840D&eli=33&eci=MMV121497A5CE8764024D9DA0D93676D840D"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV121497A5CE8764024D9DA0D93676D840D&amp;ql=70&amp;sizes=176x264"
-                            alt="Marine 4-Movie Collection MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV5F1292B3A383DDB3D2721FE5C45EF3A3D"
-                        class="item__link js-flyout-item plus-card" data-id="MMV5F1292B3A383DDB3D2721FE5C45EF3A3D"
-                        href="https://www.fandangonow.com/details/movie/rambo-the-complete-collectors-set-2016/MMV5F1292B3A383DDB3D2721FE5C45EF3A3D?ele=list&elc=MMV5F1292B3A383DDB3D2721FE5C45EF3A3D&eli=34&eci=MMV5F1292B3A383DDB3D2721FE5C45EF3A3D"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV5F1292B3A383DDB3D2721FE5C45EF3A3D&amp;ql=70&amp;sizes=176x264"
-                            alt="Rambo: The Complete Collector&#x27;s Set MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVFC5D87DC7EECC4C7CB5950EF10772F73A"
-                        class="item__link js-flyout-item plus-card" data-id="MMVFC5D87DC7EECC4C7CB5950EF10772F73A"
-                        href="https://www.fandangonow.com/details/movie/the-hills-have-eyes-2-movie-collection-2016/MMVFC5D87DC7EECC4C7CB5950EF10772F73A?ele=list&elc=MMVFC5D87DC7EECC4C7CB5950EF10772F73A&eli=35&eci=MMVFC5D87DC7EECC4C7CB5950EF10772F73A"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVFC5D87DC7EECC4C7CB5950EF10772F73A&amp;ql=70&amp;sizes=176x264"
-                            alt="The Hills Have Eyes 2-Movie Collection MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV0E7EF81F05B67939475DA862249A045EF"
-                        class="item__link js-flyout-item plus-card" data-id="MMV0E7EF81F05B67939475DA862249A045EF"
-                        href="https://www.fandangonow.com/details/movie/planet-of-the-apes-5-movie-collection-2016/MMV0E7EF81F05B67939475DA862249A045EF?ele=list&elc=MMV0E7EF81F05B67939475DA862249A045EF&eli=36&eci=MMV0E7EF81F05B67939475DA862249A045EF"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV0E7EF81F05B67939475DA862249A045EF&amp;ql=70&amp;sizes=176x264"
-                            alt="Planet of the Apes 5 Movie Collection MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3"
-                        class="item__link js-flyout-item plus-card" data-id="MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3"
-                        href="https://www.fandangonow.com/details/movie/sing-it-elmo-2016/MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3?ele=list&elc=MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3&eli=37&eci=MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3&amp;ql=70&amp;sizes=176x264"
-                            alt="Sing It, Elmo! MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV8789F2BEAE18AA5153E93D3A4EE3B085E"
-                        class="item__link js-flyout-item plus-card" data-id="MMV8789F2BEAE18AA5153E93D3A4EE3B085E"
-                        href="https://www.fandangonow.com/details/movie/the-bird-men-2016/MMV8789F2BEAE18AA5153E93D3A4EE3B085E?ele=list&elc=MMV8789F2BEAE18AA5153E93D3A4EE3B085E&eli=38&eci=MMV8789F2BEAE18AA5153E93D3A4EE3B085E"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV8789F2BEAE18AA5153E93D3A4EE3B085E&amp;ql=70&amp;sizes=176x264"
-                            alt="The Bird Men MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D"
-                        class="item__link js-flyout-item plus-card" data-id="MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D"
-                        href="https://www.fandangonow.com/details/movie/swing-state-2016/MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D?ele=list&elc=MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D&eli=39&eci=MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D&amp;ql=70&amp;sizes=176x264"
-                            alt="Swing State MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF"
-                        class="item__link js-flyout-item plus-card" data-id="MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF"
-                        href="https://www.fandangonow.com/details/movie/warren-millers-flow-state-2015/MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF?ele=list&elc=MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF&eli=40&eci=MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF&amp;ql=70&amp;sizes=176x264"
-                            alt="Warren Miller&#x27;s Flow State MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV8B847D01F4E8B79316CB03DC322178997"
-                        class="item__link js-flyout-item plus-card" data-id="MMV8B847D01F4E8B79316CB03DC322178997"
-                        href="https://www.fandangonow.com/details/movie/warren-millers-ticket-to-ride-2015/MMV8B847D01F4E8B79316CB03DC322178997?ele=list&elc=MMV8B847D01F4E8B79316CB03DC322178997&eli=41&eci=MMV8B847D01F4E8B79316CB03DC322178997"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV8B847D01F4E8B79316CB03DC322178997&amp;ql=70&amp;sizes=176x264"
-                            alt="Warren Miller&#x27;s Ticket to Ride MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVC92BC2F9386694FE26288FA1367CDF7AB"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC92BC2F9386694FE26288FA1367CDF7AB"
-                        href="https://www.fandangonow.com/details/movie/underdog-kids-2015/MMVC92BC2F9386694FE26288FA1367CDF7AB?ele=list&elc=MMVC92BC2F9386694FE26288FA1367CDF7AB&eli=42&eci=MMVC92BC2F9386694FE26288FA1367CDF7AB"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVC92BC2F9386694FE26288FA1367CDF7AB&amp;ql=70&amp;sizes=176x264"
-                            alt="Underdog Kids MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVCEDA3FE7325CC4859A5540B85300411AD"
-                        class="item__link js-flyout-item plus-card" data-id="MMVCEDA3FE7325CC4859A5540B85300411AD"
-                        href="https://www.fandangonow.com/details/movie/karen-kingsburys-the-bridge-the-complete-story-2015/MMVCEDA3FE7325CC4859A5540B85300411AD?ele=list&elc=MMVCEDA3FE7325CC4859A5540B85300411AD&eli=43&eci=MMVCEDA3FE7325CC4859A5540B85300411AD"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVCEDA3FE7325CC4859A5540B85300411AD&amp;ql=70&amp;sizes=176x264"
-                            alt="Karen Kingsbury&#x27;s The Bridge: The Complete Story MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV7D1B2E8670E562D833DA24533719C2289"
-                        class="item__link js-flyout-item plus-card" data-id="MMV7D1B2E8670E562D833DA24533719C2289"
-                        href="https://www.fandangonow.com/details/movie/the-hills-have-eyes-unrated-2006/MMV7D1B2E8670E562D833DA24533719C2289?ele=list&elc=MMV7D1B2E8670E562D833DA24533719C2289&eli=44&eci=MMV7D1B2E8670E562D833DA24533719C2289"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV7D1B2E8670E562D833DA24533719C2289&amp;ql=70&amp;sizes=176x264"
-                            alt="The Hills Have Eyes (Unrated) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVa17400b8b6819154563765c2e1733d0f"
-                        class="item__link js-flyout-item plus-card" data-id="1MVa17400b8b6819154563765c2e1733d0f"
-                        href="https://www.fandangonow.com/details/movie/the-hills-have-eyes-2006/1MVa17400b8b6819154563765c2e1733d0f?ele=list&elc=1MVa17400b8b6819154563765c2e1733d0f&eli=45&eci=1MVa17400b8b6819154563765c2e1733d0f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVa17400b8b6819154563765c2e1733d0f&amp;ql=70&amp;sizes=176x264"
-                            alt="The Hills Have Eyes MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV3A9AB7AD691E9F221EA94B28E4E190FEE"
-                        class="item__link js-flyout-item plus-card" data-id="MMV3A9AB7AD691E9F221EA94B28E4E190FEE"
-                        href="https://www.fandangonow.com/details/movie/warren-millers-no-turning-back-2014/MMV3A9AB7AD691E9F221EA94B28E4E190FEE?ele=list&elc=MMV3A9AB7AD691E9F221EA94B28E4E190FEE&eli=46&eci=MMV3A9AB7AD691E9F221EA94B28E4E190FEE"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV3A9AB7AD691E9F221EA94B28E4E190FEE&amp;ql=70&amp;sizes=176x264"
-                            alt="Warren Miller’s No Turning Back MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV021FDEB6CBB734C01792528B7876F5C13"
-                        class="item__link js-flyout-item plus-card" data-id="MMV021FDEB6CBB734C01792528B7876F5C13"
-                        href="https://www.fandangonow.com/details/movie/gutshot-straight-2014/MMV021FDEB6CBB734C01792528B7876F5C13?ele=list&elc=MMV021FDEB6CBB734C01792528B7876F5C13&eli=47&eci=MMV021FDEB6CBB734C01792528B7876F5C13"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV021FDEB6CBB734C01792528B7876F5C13&amp;ql=70&amp;sizes=176x264"
-                            alt="Gutshot Straight MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVf543fb4320b6b7cd20eba3fe033ab3ba&amp;ql=70&amp;sizes=176x264"
+                            alt="Doc Savage: The Man of Bronze MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -1549,7 +649,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Ted'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":420,"pageCount":48,"pageNumber":0,"items":[{"id":"1MV6368775923bc8e3f71a08803a18ae275","title":"Ted (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"ted-unrated-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6368775923bc8e3f71a08803a18ae275/details","description":""},{"id":"1MV2a4f2d7f9c73b21ed7736b65f9d8c231","title":"Ted","template":"defaultItem","contentType":"MOVIE","slugId":"ted-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2a4f2d7f9c73b21ed7736b65f9d8c231/details","description":""},{"id":"MMV6FB958867EB63B96434F01274E0832BFE","title":"Ted 2 (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"ted-2-unrated-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6FB958867EB63B96434F01274E0832BFE/details","description":""},{"id":"MMV4200754128D1F3AFA70E70D1537F97801","title":"Bill & Ted's Excellent Adventure","template":"defaultItem","contentType":"MOVIE","slugId":"bill-teds-excellent-adventure-1989","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4200754128D1F3AFA70E70D1537F97801/details","description":""},{"id":"MMVC7F952CD453B3F36F0F42E9873219C162","title":"Ted Double Feature","template":"defaultItem","contentType":"MOVIE","slugId":"ted-double-feature-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC7F952CD453B3F36F0F42E9873219C162/details","description":""},{"id":"MMV54671EFD94CE21ED4D3D07118CA16B2F8","title":"Ted 2","template":"defaultItem","contentType":"MOVIE","slugId":"ted-2-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV54671EFD94CE21ED4D3D07118CA16B2F8/details","description":""},{"id":"MMV6BBEF02838A11DC1A446BE6634315D8F8","title":"Bill & Ted's Bogus Journey","template":"defaultItem","contentType":"MOVIE","slugId":"bill-teds-bogus-journey-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6BBEF02838A11DC1A446BE6634315D8F8/details","description":""},{"id":"1MVb29d981765e525769e32dc0d3df54ec7","title":"Ted and Venus","template":"defaultItem","contentType":"MOVIE","slugId":"ted-and-venus-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb29d981765e525769e32dc0d3df54ec7/details","description":""},{"id":"1MV96acfe7b600e4c8fb0dc1640bef11426","title":"Ted: Special Edition","template":"defaultItem","contentType":"MOVIE","slugId":"ted-special-edition-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV96acfe7b600e4c8fb0dc1640bef11426/details","description":""},{"id":"1MV90314388b08485d70d3ebbccc84a3de9","title":"Screwball: The Ted Whitfield Story","template":"defaultItem","contentType":"MOVIE","slugId":"screwball-the-ted-whitfield-story-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV90314388b08485d70d3ebbccc84a3de9/details","description":""},{"id":"1MV9d46cd55d757f23de1a4b1150cadd54f","title":"Ted Bundy","template":"defaultItem","contentType":"MOVIE","slugId":"ted-bundy-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9d46cd55d757f23de1a4b1150cadd54f/details","description":""},{"id":"1MVe5f0d73dc2dbcdecbb6ac063ee105123","title":"Bob & Carol & Ted & Alice","template":"defaultItem","contentType":"MOVIE","slugId":"bob-carol-ted-alice-1969","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe5f0d73dc2dbcdecbb6ac063ee105123/details","description":""},{"id":"MMVF5EAF10723DD0FD5A9E804D50712A220F","title":"Midnight Sex Run","template":"defaultItem","contentType":"MOVIE","slugId":"midnight-sex-run-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF5EAF10723DD0FD5A9E804D50712A220F/details","description":""},{"id":"MMV5D0CC9F54DD73E3D535B88FF503611F7E","title":"20,000 Leagues Under The Sea","template":"defaultItem","contentType":"MOVIE","slugId":"20000-leagues-under-the-sea-1954","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV5D0CC9F54DD73E3D535B88FF503611F7E/details","description":""},{"id":"1MV108a2cc08a25e12432f70e18b61dcce5","title":"Unwanted Guest","template":"defaultItem","contentType":"MOVIE","slugId":"unwanted-guest-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV108a2cc08a25e12432f70e18b61dcce5/details","description":""},{"id":"MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B","title":"Great Falls","template":"defaultItem","contentType":"MOVIE","slugId":"great-falls-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCA7B4F91D5BBC22FBF267DE1D150D3C2B/details","description":""},{"id":"1MV486c99839cc020123794669bba9b7e55","title":"Weekend at Bernie's","template":"defaultItem","contentType":"MOVIE","slugId":"weekend-at-bernies-1990","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV486c99839cc020123794669bba9b7e55/details","description":""},{"id":"1MV985634e90fa35af67a4088bac2de163b","title":"Range Beyond the Blue","template":"defaultItem","contentType":"MOVIE","slugId":"range-beyond-the-blue-1947","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV985634e90fa35af67a4088bac2de163b/details","description":""},{"id":"MMV4E7F6FA11523F7C8580E1581ED7F3F2FE","title":"Alleluia! The Devil's Carnival","template":"defaultItem","contentType":"MOVIE","slugId":"alleluia-the-devils-carnival-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4E7F6FA11523F7C8580E1581ED7F3F2FE/details","description":""},{"id":"MMV57F2E9A74644298134F7F00861ED06F8D","title":"Just Like Us","template":"defaultItem","contentType":"MOVIE","slugId":"just-like-us-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV57F2E9A74644298134F7F00861ED06F8D/details","description":""},{"id":"MMV7EADC94F2681127B2EBC6D9CDC5F88FD7","title":"Do You Believe?","template":"defaultItem","contentType":"MOVIE","slugId":"do-you-believe-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7EADC94F2681127B2EBC6D9CDC5F88FD7/details","description":""},{"id":"1MVdb61c1fb1507df6446be4a31d573cf6a","title":"American Gangster","template":"defaultItem","contentType":"MOVIE","slugId":"american-gangster-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVdb61c1fb1507df6446be4a31d573cf6a/details","description":""},{"id":"MMV90843332AB56577755ADA157898632C34","title":"Bleed For This","template":"defaultItem","contentType":"MOVIE","slugId":"bleed-for-this-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV90843332AB56577755ADA157898632C34/details","description":""},{"id":"1MV2048f5f992116a01dd4c2274372fa7a3","title":"Blow","template":"defaultItem","contentType":"MOVIE","slugId":"blow-2001","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2048f5f992116a01dd4c2274372fa7a3/details","description":""},{"id":"MMVA4045B212D0A1B643F8D41C6D81EA32E9","title":"The Silence of the Lambs","template":"defaultItem","contentType":"MOVIE","slugId":"the-silence-of-the-lambs-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVA4045B212D0A1B643F8D41C6D81EA32E9/details","description":""},{"id":"MMV0A1C6F5A93EB4E61815CB3F8D23D585FF","title":"Dance Again","template":"defaultItem","contentType":"MOVIE","slugId":"dance-again-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0A1C6F5A93EB4E61815CB3F8D23D585FF/details","description":""},{"id":"1MV25a87a0eb0a94abdebb9d09eb77fa069","title":"Darfur Now","template":"defaultItem","contentType":"MOVIE","slugId":"darfur-now-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV25a87a0eb0a94abdebb9d09eb77fa069/details","description":""},{"id":"1MVdc1b148d9123a4135359d81992c71529","title":"Life","template":"defaultItem","contentType":"MOVIE","slugId":"life-1999","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVdc1b148d9123a4135359d81992c71529/details","description":""},{"id":"1MVa7434361c8e0827601d41c942175cc64","title":"Big Miracle","template":"defaultItem","contentType":"MOVIE","slugId":"big-miracle-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa7434361c8e0827601d41c942175cc64/details","description":""},{"id":"MMVC45E2EF970E4F6109824D4BF457115F54","title":"River","template":"defaultItem","contentType":"MOVIE","slugId":"river-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC45E2EF970E4F6109824D4BF457115F54/details","description":""},{"id":"1MVdcd3a5ed0d533e918a06b438eb9c88fc","title":"Caddyshack","template":"defaultItem","contentType":"MOVIE","slugId":"caddyshack-1980","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVdcd3a5ed0d533e918a06b438eb9c88fc/details","description":""},{"id":"MMV13133D665205513473B18054DAFA11FB8","title":"Rambo: First Blood","template":"defaultItem","contentType":"MOVIE","slugId":"rambo-first-blood-1982","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV13133D665205513473B18054DAFA11FB8/details","description":""},{"id":"1MVcbc0191ca9638ec0499f20032837f618","title":"The Manchurian Candidate","template":"defaultItem","contentType":"MOVIE","slugId":"the-manchurian-candidate-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVcbc0191ca9638ec0499f20032837f618/details","description":""},{"id":"MMV121497A5CE8764024D9DA0D93676D840D","title":"Marine 4-Movie Collection","template":"defaultItem","contentType":"MOVIE","slugId":"marine-4-movie-collection-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV121497A5CE8764024D9DA0D93676D840D/details","description":""},{"id":"MMV5F1292B3A383DDB3D2721FE5C45EF3A3D","title":"Rambo: The Complete Collector's Set","template":"defaultItem","contentType":"MOVIE","slugId":"rambo-the-complete-collectors-set-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV5F1292B3A383DDB3D2721FE5C45EF3A3D/details","description":""},{"id":"MMVFC5D87DC7EECC4C7CB5950EF10772F73A","title":"The Hills Have Eyes 2-Movie Collection","template":"defaultItem","contentType":"MOVIE","slugId":"the-hills-have-eyes-2-movie-collection-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVFC5D87DC7EECC4C7CB5950EF10772F73A/details","description":""},{"id":"MMV0E7EF81F05B67939475DA862249A045EF","title":"Planet of the Apes 5 Movie Collection","template":"defaultItem","contentType":"MOVIE","slugId":"planet-of-the-apes-5-movie-collection-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0E7EF81F05B67939475DA862249A045EF/details","description":""},{"id":"MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3","title":"Sing It, Elmo!","template":"defaultItem","contentType":"MOVIE","slugId":"sing-it-elmo-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0B71DC3A5311BD9D1EBBB1ECCC3A8E6A3/details","description":""},{"id":"MMV8789F2BEAE18AA5153E93D3A4EE3B085E","title":"The Bird Men","template":"defaultItem","contentType":"MOVIE","slugId":"the-bird-men-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8789F2BEAE18AA5153E93D3A4EE3B085E/details","description":""},{"id":"MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D","title":"Swing State","template":"defaultItem","contentType":"MOVIE","slugId":"swing-state-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4B2B03FA4F485EAB5EE3B8375BA1ACD1D/details","description":""},{"id":"MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF","title":"Warren Miller's Flow State","template":"defaultItem","contentType":"MOVIE","slugId":"warren-millers-flow-state-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE0BAB9FCCCCDBF3AA983D0EAD335E72EF/details","description":""},{"id":"MMV8B847D01F4E8B79316CB03DC322178997","title":"Warren Miller's Ticket to Ride","template":"defaultItem","contentType":"MOVIE","slugId":"warren-millers-ticket-to-ride-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8B847D01F4E8B79316CB03DC322178997/details","description":""},{"id":"MMVC92BC2F9386694FE26288FA1367CDF7AB","title":"Underdog Kids","template":"defaultItem","contentType":"MOVIE","slugId":"underdog-kids-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC92BC2F9386694FE26288FA1367CDF7AB/details","description":""},{"id":"MMVCEDA3FE7325CC4859A5540B85300411AD","title":"Karen Kingsbury's The Bridge: The Complete Story","template":"defaultItem","contentType":"MOVIE","slugId":"karen-kingsburys-the-bridge-the-complete-story-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCEDA3FE7325CC4859A5540B85300411AD/details","description":""},{"id":"MMV7D1B2E8670E562D833DA24533719C2289","title":"The Hills Have Eyes (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"the-hills-have-eyes-unrated-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7D1B2E8670E562D833DA24533719C2289/details","description":""},{"id":"1MVa17400b8b6819154563765c2e1733d0f","title":"The Hills Have Eyes","template":"defaultItem","contentType":"MOVIE","slugId":"the-hills-have-eyes-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa17400b8b6819154563765c2e1733d0f/details","description":""},{"id":"MMV3A9AB7AD691E9F221EA94B28E4E190FEE","title":"Warren Miller’s No Turning Back","template":"defaultItem","contentType":"MOVIE","slugId":"warren-millers-no-turning-back-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV3A9AB7AD691E9F221EA94B28E4E190FEE/details","description":""},{"id":"MMV021FDEB6CBB734C01792528B7876F5C13","title":"Gutshot Straight","template":"defaultItem","contentType":"MOVIE","slugId":"gutshot-straight-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV021FDEB6CBB734C01792528B7876F5C13/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Ted","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'The Bronze'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":4,"pageCount":3,"pageNumber":0,"items":[{"id":"MMV8D25FD925BD00A13F44EDA16FDC74636C","title":"The Bronze","template":"defaultItem","contentType":"MOVIE","slugId":"the-bronze-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8D25FD925BD00A13F44EDA16FDC74636C/details","description":""},{"id":"1MV3714e4d56e3eff00b294082e8f03ff2c","title":"The Bronze Buckaroo","template":"defaultItem","contentType":"MOVIE","slugId":"the-bronze-buckaroo-1938","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3714e4d56e3eff00b294082e8f03ff2c/details","description":""},{"id":"1MVf543fb4320b6b7cd20eba3fe033ab3ba","title":"Doc Savage: The Man of Bronze","template":"defaultItem","contentType":"MOVIE","slugId":"doc-savage-the-man-of-bronze-1975","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf543fb4320b6b7cd20eba3fe033ab3ba/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Bronze","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -1572,7 +672,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="NNrYCXcC-yRquEBvA8nuoYSOQuFEZTk7fEDs" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="c3cIKqA9-M-LMIbcQDi0zQqCCCZaBETPF9Sc" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

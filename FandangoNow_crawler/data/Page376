@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Robin Hood. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Robin Hood. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Entourage. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Entourage. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Robin Hood. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Entourage. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Robin Hood. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Entourage. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Robin Hood. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Robin%20Hood","list_name":"Search Results for 'Robin Hood'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Entourage. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Entourage","list_name":"Search Results for 'Entourage'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Robin Hood'
+                Search Results for 'Entourage'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Robin Hood&#x27;"
-            data-list-id="Search-Results-for-Robin-Hood"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Robin%20Hood"
+            data-list-title="Search Results for &#x27;Entourage&#x27;"
+            data-list-id="Search-Results-for-Entourage"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Entourage"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="23"
-            data-total-count="25"
+            data-page-count="1"
+            data-total-count="2"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,455 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV579129ef9ec91abc478b4c4ad11ad571"
-                        class="item__link js-flyout-item plus-card" data-id="1MV579129ef9ec91abc478b4c4ad11ad571"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-men-in-tights-1993/1MV579129ef9ec91abc478b4c4ad11ad571?ele=list&elc=1MV579129ef9ec91abc478b4c4ad11ad571&eli=0&eci=1MV579129ef9ec91abc478b4c4ad11ad571"
+                        id="_item_MMVE8C93C52678E4EA4429D7A6EDCA5DCB00"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE8C93C52678E4EA4429D7A6EDCA5DCB00"
+                        href="https://www.fandangonow.com/details/movie/entourage-2015/MMVE8C93C52678E4EA4429D7A6EDCA5DCB00?ele=list&elc=MMVE8C93C52678E4EA4429D7A6EDCA5DCB00&eli=0&eci=MMVE8C93C52678E4EA4429D7A6EDCA5DCB00"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV579129ef9ec91abc478b4c4ad11ad571&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood: Men in Tights MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV449385906e8ae8100d1b80143c6575a0"
-                        class="item__link js-flyout-item plus-card" data-id="1MV449385906e8ae8100d1b80143c6575a0"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-2010/1MV449385906e8ae8100d1b80143c6575a0?ele=list&elc=1MV449385906e8ae8100d1b80143c6575a0&eli=1&eci=1MV449385906e8ae8100d1b80143c6575a0"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV449385906e8ae8100d1b80143c6575a0&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV0258A16557E21C4BE9C56D1BE24082764"
-                        class="item__link js-flyout-item plus-card" data-id="MMV0258A16557E21C4BE9C56D1BE24082764"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-prince-of-thieves-1991/MMV0258A16557E21C4BE9C56D1BE24082764?ele=list&elc=MMV0258A16557E21C4BE9C56D1BE24082764&eli=2&eci=MMV0258A16557E21C4BE9C56D1BE24082764"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV0258A16557E21C4BE9C56D1BE24082764&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood: Prince of Thieves MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVa15d478decf34a0af4e2d3fd6aa29d16"
-                        class="item__link js-flyout-item plus-card" data-id="1MVa15d478decf34a0af4e2d3fd6aa29d16"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-prince-of-thieves-1991/1MVa15d478decf34a0af4e2d3fd6aa29d16?ele=list&elc=1MVa15d478decf34a0af4e2d3fd6aa29d16&eli=3&eci=1MVa15d478decf34a0af4e2d3fd6aa29d16"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVa15d478decf34a0af4e2d3fd6aa29d16&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood: Prince of Thieves MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV2A18668C3812AA66E003ED0E26477A7C0"
-                        class="item__link js-flyout-item plus-card" data-id="MMV2A18668C3812AA66E003ED0E26477A7C0"
-                        href="https://www.fandangonow.com/details/movie/the-last-of-robin-hood-2014/MMV2A18668C3812AA66E003ED0E26477A7C0?ele=list&elc=MMV2A18668C3812AA66E003ED0E26477A7C0&eli=4&eci=MMV2A18668C3812AA66E003ED0E26477A7C0"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV2A18668C3812AA66E003ED0E26477A7C0&amp;ql=70&amp;sizes=176x264"
-                            alt="The Last of Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1SH847988ecd0a68cc57dc12c3b02d4acfb"
-                        class="item__link js-flyout-item plus-card" data-id="1SH847988ecd0a68cc57dc12c3b02d4acfb"
-                        href="https://www.fandangonow.com/details/movie/tom-jerry-robin-hood-and-his-merry-mouse-2012/1SH847988ecd0a68cc57dc12c3b02d4acfb?ele=list&elc=1SH847988ecd0a68cc57dc12c3b02d4acfb&eli=5&eci=1SH847988ecd0a68cc57dc12c3b02d4acfb"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1SH847988ecd0a68cc57dc12c3b02d4acfb&amp;ql=70&amp;sizes=176x264"
-                            alt="Tom &amp; Jerry: Robin Hood And His Merry Mouse MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVb009ae3c80e0080c0c74525fc38a34fc"
-                        class="item__link js-flyout-item plus-card" data-id="1MVb009ae3c80e0080c0c74525fc38a34fc"
-                        href="https://www.fandangonow.com/details/movie/adventures-of-robin-hood-1938/1MVb009ae3c80e0080c0c74525fc38a34fc?ele=list&elc=1MVb009ae3c80e0080c0c74525fc38a34fc&eli=6&eci=1MVb009ae3c80e0080c0c74525fc38a34fc"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVb009ae3c80e0080c0c74525fc38a34fc&amp;ql=70&amp;sizes=176x264"
-                            alt="Adventures of Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV7DFA5E06F25DAE266F89239A902810BDA"
-                        class="item__link js-flyout-item plus-card" data-id="MMV7DFA5E06F25DAE266F89239A902810BDA"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-1973/MMV7DFA5E06F25DAE266F89239A902810BDA?ele=list&elc=MMV7DFA5E06F25DAE266F89239A902810BDA&eli=7&eci=MMV7DFA5E06F25DAE266F89239A902810BDA"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV7DFA5E06F25DAE266F89239A902810BDA&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVc0fa4bb53d76fbf95c4da5f3195e9f62"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc0fa4bb53d76fbf95c4da5f3195e9f62"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-1991/1MVc0fa4bb53d76fbf95c4da5f3195e9f62?ele=list&elc=1MVc0fa4bb53d76fbf95c4da5f3195e9f62&eli=8&eci=1MVc0fa4bb53d76fbf95c4da5f3195e9f62"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVc0fa4bb53d76fbf95c4da5f3195e9f62&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVB1A638877DBA9214DF85EBD788E4A2747"
-                        class="item__link js-flyout-item plus-card" data-id="MMVB1A638877DBA9214DF85EBD788E4A2747"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-unrated-2010/MMVB1A638877DBA9214DF85EBD788E4A2747?ele=list&elc=MMVB1A638877DBA9214DF85EBD788E4A2747&eli=9&eci=MMVB1A638877DBA9214DF85EBD788E4A2747"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVB1A638877DBA9214DF85EBD788E4A2747&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood (Unrated) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV5e5bec51fc66fdd4dbaa880c839c1c89"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5e5bec51fc66fdd4dbaa880c839c1c89"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-of-texas-1947/1MV5e5bec51fc66fdd4dbaa880c839c1c89?ele=list&elc=1MV5e5bec51fc66fdd4dbaa880c839c1c89&eli=10&eci=1MV5e5bec51fc66fdd4dbaa880c839c1c89"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV5e5bec51fc66fdd4dbaa880c839c1c89&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood of Texas MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV9d9778ace4f8ee2fdb1eb882d4b54e5f"
-                        class="item__link js-flyout-item plus-card" data-id="1MV9d9778ace4f8ee2fdb1eb882d4b54e5f"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-mischief-in-sherwood-2015/1MV9d9778ace4f8ee2fdb1eb882d4b54e5f?ele=list&elc=1MV9d9778ace4f8ee2fdb1eb882d4b54e5f&eli=11&eci=1MV9d9778ace4f8ee2fdb1eb882d4b54e5f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV9d9778ace4f8ee2fdb1eb882d4b54e5f&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood: Mischief in Sherwood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV12d96b76205ddaec603c5a70ff94562e"
-                        class="item__link js-flyout-item plus-card" data-id="1MV12d96b76205ddaec603c5a70ff94562e"
-                        href="https://www.fandangonow.com/details/movie/tom-and-jerry-robin-hood-and-his-merry-mouse-2012/1MV12d96b76205ddaec603c5a70ff94562e?ele=list&elc=1MV12d96b76205ddaec603c5a70ff94562e&eli=12&eci=1MV12d96b76205ddaec603c5a70ff94562e"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV12d96b76205ddaec603c5a70ff94562e&amp;ql=70&amp;sizes=176x264"
-                            alt="Tom and Jerry: Robin Hood and His Merry Mouse MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVd2257a883b1dc241db1d5df7015836c0"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd2257a883b1dc241db1d5df7015836c0"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-1922/1MVd2257a883b1dc241db1d5df7015836c0?ele=list&elc=1MVd2257a883b1dc241db1d5df7015836c0&eli=13&eci=1MVd2257a883b1dc241db1d5df7015836c0"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVd2257a883b1dc241db1d5df7015836c0&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV04d7d35c0e03f390bcbd7a0bb5fce432"
-                        class="item__link js-flyout-item plus-card" data-id="1MV04d7d35c0e03f390bcbd7a0bb5fce432"
-                        href="https://www.fandangonow.com/details/movie/the-story-of-robin-hood-and-his-merrie-men-1952/1MV04d7d35c0e03f390bcbd7a0bb5fce432?ele=list&elc=1MV04d7d35c0e03f390bcbd7a0bb5fce432&eli=14&eci=1MV04d7d35c0e03f390bcbd7a0bb5fce432"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV04d7d35c0e03f390bcbd7a0bb5fce432&amp;ql=70&amp;sizes=176x264"
-                            alt="The Story of Robin Hood and His Merrie Men MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV5ca979634c6f3b4b82874553cbf1e129"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5ca979634c6f3b4b82874553cbf1e129"
-                        href="https://www.fandangonow.com/details/movie/a-challenge-for-robin-hood-1968/1MV5ca979634c6f3b4b82874553cbf1e129?ele=list&elc=1MV5ca979634c6f3b4b82874553cbf1e129&eli=15&eci=1MV5ca979634c6f3b4b82874553cbf1e129"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV5ca979634c6f3b4b82874553cbf1e129&amp;ql=70&amp;sizes=176x264"
-                            alt="A Challenge for Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVd27a56565b350c53b36894692cdd68b2"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd27a56565b350c53b36894692cdd68b2"
-                        href="https://www.fandangonow.com/details/movie/son-of-robin-hood-1959/1MVd27a56565b350c53b36894692cdd68b2?ele=list&elc=1MVd27a56565b350c53b36894692cdd68b2&eli=16&eci=1MVd27a56565b350c53b36894692cdd68b2"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVd27a56565b350c53b36894692cdd68b2&amp;ql=70&amp;sizes=176x264"
-                            alt="Son of Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVd122553a0262ef64f256de6a9302c162"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd122553a0262ef64f256de6a9302c162"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-of-monterey-1947/1MVd122553a0262ef64f256de6a9302c162?ele=list&elc=1MVd122553a0262ef64f256de6a9302c162&eli=17&eci=1MVd122553a0262ef64f256de6a9302c162"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVd122553a0262ef64f256de6a9302c162&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood of Monterey MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVc896ac6917e18cf978a0a8a8c29a36f6"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc896ac6917e18cf978a0a8a8c29a36f6"
-                        href="https://www.fandangonow.com/details/movie/red-river-robin-hood-1943/1MVc896ac6917e18cf978a0a8a8c29a36f6?ele=list&elc=1MVc896ac6917e18cf978a0a8a8c29a36f6&eli=18&eci=1MVc896ac6917e18cf978a0a8a8c29a36f6"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVc896ac6917e18cf978a0a8a8c29a36f6&amp;ql=70&amp;sizes=176x264"
-                            alt="Red River Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVc8e0edfd92e1dc7331288d814da33efb"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc8e0edfd92e1dc7331288d814da33efb"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-of-the-pecos-1941/1MVc8e0edfd92e1dc7331288d814da33efb?ele=list&elc=1MVc8e0edfd92e1dc7331288d814da33efb&eli=19&eci=1MVc8e0edfd92e1dc7331288d814da33efb"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVc8e0edfd92e1dc7331288d814da33efb&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood of the Pecos MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV6b227ed7cb6d2b46e3037d66407a6f54"
-                        class="item__link js-flyout-item plus-card" data-id="1MV6b227ed7cb6d2b46e3037d66407a6f54"
-                        href="https://www.fandangonow.com/details/movie/trail-of-robin-hood-1950/1MV6b227ed7cb6d2b46e3037d66407a6f54?ele=list&elc=1MV6b227ed7cb6d2b46e3037d66407a6f54&eli=20&eci=1MV6b227ed7cb6d2b46e3037d66407a6f54"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV6b227ed7cb6d2b46e3037d66407a6f54&amp;ql=70&amp;sizes=176x264"
-                            alt="Trail of Robin Hood MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV7563792a5d754542e36cf4d2a90c8d9e"
-                        class="item__link js-flyout-item plus-card" data-id="1MV7563792a5d754542e36cf4d2a90c8d9e"
-                        href="https://www.fandangonow.com/details/movie/robin-hood-of-el-dorado-1936/1MV7563792a5d754542e36cf4d2a90c8d9e?ele=list&elc=1MV7563792a5d754542e36cf4d2a90c8d9e&eli=21&eci=1MV7563792a5d754542e36cf4d2a90c8d9e"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV7563792a5d754542e36cf4d2a90c8d9e&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin Hood of El Dorado MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVf09adc968b1837390ef2342c12f5510c"
-                        class="item__link js-flyout-item plus-card" data-id="1MVf09adc968b1837390ef2342c12f5510c"
-                        href="https://www.fandangonow.com/details/movie/robin-and-the-seven-hoods-1964/1MVf09adc968b1837390ef2342c12f5510c?ele=list&elc=1MVf09adc968b1837390ef2342c12f5510c&eli=22&eci=1MVf09adc968b1837390ef2342c12f5510c"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVf09adc968b1837390ef2342c12f5510c&amp;ql=70&amp;sizes=176x264"
-                            alt="Robin and the Seven Hoods MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVE8C93C52678E4EA4429D7A6EDCA5DCB00&amp;ql=70&amp;sizes=176x264"
+                            alt="Entourage MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -1049,7 +609,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Robin Hood'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":25,"pageCount":23,"pageNumber":0,"items":[{"id":"1MV579129ef9ec91abc478b4c4ad11ad571","title":"Robin Hood: Men in Tights","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-men-in-tights-1993","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV579129ef9ec91abc478b4c4ad11ad571/details","description":""},{"id":"1MV449385906e8ae8100d1b80143c6575a0","title":"Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV449385906e8ae8100d1b80143c6575a0/details","description":""},{"id":"MMV0258A16557E21C4BE9C56D1BE24082764","title":"Robin Hood: Prince of Thieves","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-prince-of-thieves-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0258A16557E21C4BE9C56D1BE24082764/details","description":""},{"id":"1MVa15d478decf34a0af4e2d3fd6aa29d16","title":"Robin Hood: Prince of Thieves","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-prince-of-thieves-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa15d478decf34a0af4e2d3fd6aa29d16/details","description":""},{"id":"MMV2A18668C3812AA66E003ED0E26477A7C0","title":"The Last of Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"the-last-of-robin-hood-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV2A18668C3812AA66E003ED0E26477A7C0/details","description":""},{"id":"1SH847988ecd0a68cc57dc12c3b02d4acfb","title":"Tom & Jerry: Robin Hood And His Merry Mouse","template":"defaultItem","contentType":"MOVIE","slugId":"tom-jerry-robin-hood-and-his-merry-mouse-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1SH847988ecd0a68cc57dc12c3b02d4acfb/details","description":""},{"id":"1MVb009ae3c80e0080c0c74525fc38a34fc","title":"Adventures of Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"adventures-of-robin-hood-1938","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb009ae3c80e0080c0c74525fc38a34fc/details","description":""},{"id":"MMV7DFA5E06F25DAE266F89239A902810BDA","title":"Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-1973","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7DFA5E06F25DAE266F89239A902810BDA/details","description":""},{"id":"1MVc0fa4bb53d76fbf95c4da5f3195e9f62","title":"Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc0fa4bb53d76fbf95c4da5f3195e9f62/details","description":""},{"id":"MMVB1A638877DBA9214DF85EBD788E4A2747","title":"Robin Hood (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-unrated-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB1A638877DBA9214DF85EBD788E4A2747/details","description":""},{"id":"1MV5e5bec51fc66fdd4dbaa880c839c1c89","title":"Robin Hood of Texas","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-of-texas-1947","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5e5bec51fc66fdd4dbaa880c839c1c89/details","description":""},{"id":"1MV9d9778ace4f8ee2fdb1eb882d4b54e5f","title":"Robin Hood: Mischief in Sherwood","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-mischief-in-sherwood-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9d9778ace4f8ee2fdb1eb882d4b54e5f/details","description":""},{"id":"1MV12d96b76205ddaec603c5a70ff94562e","title":"Tom and Jerry: Robin Hood and His Merry Mouse","template":"defaultItem","contentType":"MOVIE","slugId":"tom-and-jerry-robin-hood-and-his-merry-mouse-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV12d96b76205ddaec603c5a70ff94562e/details","description":""},{"id":"1MVd2257a883b1dc241db1d5df7015836c0","title":"Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-1922","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd2257a883b1dc241db1d5df7015836c0/details","description":""},{"id":"1MV04d7d35c0e03f390bcbd7a0bb5fce432","title":"The Story of Robin Hood and His Merrie Men","template":"defaultItem","contentType":"MOVIE","slugId":"the-story-of-robin-hood-and-his-merrie-men-1952","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV04d7d35c0e03f390bcbd7a0bb5fce432/details","description":""},{"id":"1MV5ca979634c6f3b4b82874553cbf1e129","title":"A Challenge for Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"a-challenge-for-robin-hood-1968","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5ca979634c6f3b4b82874553cbf1e129/details","description":""},{"id":"1MVd27a56565b350c53b36894692cdd68b2","title":"Son of Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"son-of-robin-hood-1959","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd27a56565b350c53b36894692cdd68b2/details","description":""},{"id":"1MVd122553a0262ef64f256de6a9302c162","title":"Robin Hood of Monterey","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-of-monterey-1947","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd122553a0262ef64f256de6a9302c162/details","description":""},{"id":"1MVc896ac6917e18cf978a0a8a8c29a36f6","title":"Red River Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"red-river-robin-hood-1943","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc896ac6917e18cf978a0a8a8c29a36f6/details","description":""},{"id":"1MVc8e0edfd92e1dc7331288d814da33efb","title":"Robin Hood of the Pecos","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-of-the-pecos-1941","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc8e0edfd92e1dc7331288d814da33efb/details","description":""},{"id":"1MV6b227ed7cb6d2b46e3037d66407a6f54","title":"Trail of Robin Hood","template":"defaultItem","contentType":"MOVIE","slugId":"trail-of-robin-hood-1950","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6b227ed7cb6d2b46e3037d66407a6f54/details","description":""},{"id":"1MV7563792a5d754542e36cf4d2a90c8d9e","title":"Robin Hood of El Dorado","template":"defaultItem","contentType":"MOVIE","slugId":"robin-hood-of-el-dorado-1936","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7563792a5d754542e36cf4d2a90c8d9e/details","description":""},{"id":"1MVf09adc968b1837390ef2342c12f5510c","title":"Robin and the Seven Hoods","template":"defaultItem","contentType":"MOVIE","slugId":"robin-and-the-seven-hoods-1964","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf09adc968b1837390ef2342c12f5510c/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Robin%20Hood","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Entourage'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":2,"pageCount":1,"pageNumber":0,"items":[{"id":"MMVE8C93C52678E4EA4429D7A6EDCA5DCB00","title":"Entourage","template":"defaultItem","contentType":"MOVIE","slugId":"entourage-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE8C93C52678E4EA4429D7A6EDCA5DCB00/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Entourage","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -1072,7 +632,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="UEEcepCv-833g6-OYq2UZ4NsAxubKY-14QH8" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="efCI5024-0nSn9EWHlu8YH1eKC9jrGdRrcvQ" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

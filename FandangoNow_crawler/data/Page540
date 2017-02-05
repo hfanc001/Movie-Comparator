@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search John Carter. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search John Carter. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search High-Rise. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search High-Rise. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search John Carter. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search High-Rise. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search John Carter. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search High-Rise. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search John Carter. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=John%20Carter","list_name":"Search Results for 'John Carter'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search High-Rise. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=High-Rise","list_name":"Search Results for 'High-Rise'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'John Carter'
+                Search Results for 'High-Rise'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;John Carter&#x27;"
-            data-list-id="Search-Results-for-John-Carter"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=John%20Carter"
+            data-list-title="Search Results for &#x27;High-Rise&#x27;"
+            data-list-id="Search-Results-for-High-Rise"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=High-Rise"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="3"
-            data-total-count="5"
+            data-page-count="50"
+            data-total-count="272"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV0FF81FDE35E096E03E0D797A81DE1EE8B"
-                        class="item__link js-flyout-item plus-card" data-id="MMV0FF81FDE35E096E03E0D797A81DE1EE8B"
-                        href="https://www.fandangonow.com/details/movie/john-carter-2012/MMV0FF81FDE35E096E03E0D797A81DE1EE8B?ele=list&elc=MMV0FF81FDE35E096E03E0D797A81DE1EE8B&eli=0&eci=MMV0FF81FDE35E096E03E0D797A81DE1EE8B"
+                        id="_item_1MV1d9aeb5dd9e151ee280213fa12c9ed00"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1d9aeb5dd9e151ee280213fa12c9ed00"
+                        href="https://www.fandangonow.com/details/movie/high-rise-2015/1MV1d9aeb5dd9e151ee280213fa12c9ed00?ele=list&elc=1MV1d9aeb5dd9e151ee280213fa12c9ed00&eli=0&eci=1MV1d9aeb5dd9e151ee280213fa12c9ed00"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV0FF81FDE35E096E03E0D797A81DE1EE8B&amp;ql=70&amp;sizes=176x264"
-                            alt="John Carter  MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV1d9aeb5dd9e151ee280213fa12c9ed00&amp;ql=70&amp;sizes=176x264"
+                            alt="High-Rise MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVd4596bec2815329c9ad80311d48ef48a"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd4596bec2815329c9ad80311d48ef48a"
-                        href="https://www.fandangonow.com/details/movie/the-hoax-2006/1MVd4596bec2815329c9ad80311d48ef48a?ele=list&elc=1MVd4596bec2815329c9ad80311d48ef48a&eli=1&eci=1MVd4596bec2815329c9ad80311d48ef48a"
+                        id="_item_MMV6608A43B8C5069FC5C0CD6408CCDC460E"
+                        class="item__link js-flyout-item plus-card" data-id="MMV6608A43B8C5069FC5C0CD6408CCDC460E"
+                        href="https://www.fandangonow.com/details/movie/the-culture-high-2014/MMV6608A43B8C5069FC5C0CD6408CCDC460E?ele=list&elc=MMV6608A43B8C5069FC5C0CD6408CCDC460E&eli=1&eci=MMV6608A43B8C5069FC5C0CD6408CCDC460E"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVd4596bec2815329c9ad80311d48ef48a&amp;ql=70&amp;sizes=176x264"
-                            alt="The Hoax MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV6608A43B8C5069FC5C0CD6408CCDC460E&amp;ql=70&amp;sizes=176x264"
+                            alt="The Culture High MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,955 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVe3cc75c3a292ebec48bc7cf96a62fd9c"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe3cc75c3a292ebec48bc7cf96a62fd9c"
-                        href="https://www.fandangonow.com/details/movie/doll-squad-1973/1MVe3cc75c3a292ebec48bc7cf96a62fd9c?ele=list&elc=1MVe3cc75c3a292ebec48bc7cf96a62fd9c&eli=2&eci=1MVe3cc75c3a292ebec48bc7cf96a62fd9c"
+                        id="_item_MMVD13FC34F6518DD7C734A0CDD1FCD7B884"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD13FC34F6518DD7C734A0CDD1FCD7B884"
+                        href="https://www.fandangonow.com/details/movie/hell-or-high-water-2016/MMVD13FC34F6518DD7C734A0CDD1FCD7B884?ele=list&elc=MMVD13FC34F6518DD7C734A0CDD1FCD7B884&eli=2&eci=MMVD13FC34F6518DD7C734A0CDD1FCD7B884"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVe3cc75c3a292ebec48bc7cf96a62fd9c&amp;ql=70&amp;sizes=176x264"
-                            alt="Doll Squad MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVD13FC34F6518DD7C734A0CDD1FCD7B884&amp;ql=70&amp;sizes=176x264"
+                            alt="Hell Or High Water MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV0dfe585543d5c85b69b582e7dc3e771d"
+                        class="item__link js-flyout-item plus-card" data-id="1MV0dfe585543d5c85b69b582e7dc3e771d"
+                        href="https://www.fandangonow.com/details/movie/the-dark-knight-rises-2012/1MV0dfe585543d5c85b69b582e7dc3e771d?ele=list&elc=1MV0dfe585543d5c85b69b582e7dc3e771d&eli=3&eci=1MV0dfe585543d5c85b69b582e7dc3e771d"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV0dfe585543d5c85b69b582e7dc3e771d&amp;ql=70&amp;sizes=176x264"
+                            alt="The Dark Knight Rises MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV5C39E0E619FE147EEBA393EB33F1DA2AA"
+                        class="item__link js-flyout-item plus-card" data-id="MMV5C39E0E619FE147EEBA393EB33F1DA2AA"
+                        href="https://www.fandangonow.com/details/movie/hillsong-let-hope-rise-2016/MMV5C39E0E619FE147EEBA393EB33F1DA2AA?ele=list&elc=MMV5C39E0E619FE147EEBA393EB33F1DA2AA&eli=4&eci=MMV5C39E0E619FE147EEBA393EB33F1DA2AA"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV5C39E0E619FE147EEBA393EB33F1DA2AA&amp;ql=70&amp;sizes=176x264"
+                            alt="Hillsong: Let Hope Rise MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV8845D40324949373AF22C902B5F70EDB1"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8845D40324949373AF22C902B5F70EDB1"
+                        href="https://www.fandangonow.com/details/movie/monster-high-13-wishes-2013/MMV8845D40324949373AF22C902B5F70EDB1?ele=list&elc=MMV8845D40324949373AF22C902B5F70EDB1&eli=5&eci=MMV8845D40324949373AF22C902B5F70EDB1"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV8845D40324949373AF22C902B5F70EDB1&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: 13 Wishes MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV444B9162D048F1B571ECF7B1D5262459D"
+                        class="item__link js-flyout-item plus-card" data-id="MMV444B9162D048F1B571ECF7B1D5262459D"
+                        href="https://www.fandangonow.com/details/movie/monster-high-boo-york-boo-york-2015/MMV444B9162D048F1B571ECF7B1D5262459D?ele=list&elc=MMV444B9162D048F1B571ECF7B1D5262459D&eli=6&eci=MMV444B9162D048F1B571ECF7B1D5262459D"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV444B9162D048F1B571ECF7B1D5262459D&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Boo York, Boo York MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV23312264B48358B6BC214175D7482C85F"
+                        class="item__link js-flyout-item plus-card" data-id="MMV23312264B48358B6BC214175D7482C85F"
+                        href="https://www.fandangonow.com/details/movie/monster-high-haunted-2015/MMV23312264B48358B6BC214175D7482C85F?ele=list&elc=MMV23312264B48358B6BC214175D7482C85F&eli=7&eci=MMV23312264B48358B6BC214175D7482C85F"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV23312264B48358B6BC214175D7482C85F&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Haunted MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV605c142384d102506cd048e0dd0a531a"
+                        class="item__link js-flyout-item plus-card" data-id="1MV605c142384d102506cd048e0dd0a531a"
+                        href="https://www.fandangonow.com/details/movie/monster-high-ghouls-rule-2012/1MV605c142384d102506cd048e0dd0a531a?ele=list&elc=1MV605c142384d102506cd048e0dd0a531a&eli=8&eci=1MV605c142384d102506cd048e0dd0a531a"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV605c142384d102506cd048e0dd0a531a&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Ghouls Rule MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV4D1E1EEE745AD5EE805D3A4872447A1C3"
+                        class="item__link js-flyout-item plus-card" data-id="MMV4D1E1EEE745AD5EE805D3A4872447A1C3"
+                        href="https://www.fandangonow.com/details/movie/monster-high-freaky-fusion-2014/MMV4D1E1EEE745AD5EE805D3A4872447A1C3?ele=list&elc=MMV4D1E1EEE745AD5EE805D3A4872447A1C3&eli=9&eci=MMV4D1E1EEE745AD5EE805D3A4872447A1C3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV4D1E1EEE745AD5EE805D3A4872447A1C3&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Freaky Fusion MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa5051d1cdbe0477e9e21bcba57e0cff0"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa5051d1cdbe0477e9e21bcba57e0cff0"
+                        href="https://www.fandangonow.com/details/movie/rise-of-the-guardians-2012/1MVa5051d1cdbe0477e9e21bcba57e0cff0?ele=list&elc=1MVa5051d1cdbe0477e9e21bcba57e0cff0&eli=10&eci=1MVa5051d1cdbe0477e9e21bcba57e0cff0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVa5051d1cdbe0477e9e21bcba57e0cff0&amp;ql=70&amp;sizes=176x264"
+                            alt="Rise of the Guardians MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7"
+                        class="item__link js-flyout-item plus-card" data-id="MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7"
+                        href="https://www.fandangonow.com/details/movie/high-fidelity-2000/MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7?ele=list&elc=MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7&eli=11&eci=MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7&amp;ql=70&amp;sizes=176x264"
+                            alt="High Fidelity MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV5FB464DCCFA4D3CDD8972DB18FD0852C5"
+                        class="item__link js-flyout-item plus-card" data-id="MMV5FB464DCCFA4D3CDD8972DB18FD0852C5"
+                        href="https://www.fandangonow.com/details/movie/rise-of-the-planet-of-the-apes-2011/MMV5FB464DCCFA4D3CDD8972DB18FD0852C5?ele=list&elc=MMV5FB464DCCFA4D3CDD8972DB18FD0852C5&eli=12&eci=MMV5FB464DCCFA4D3CDD8972DB18FD0852C5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV5FB464DCCFA4D3CDD8972DB18FD0852C5&amp;ql=70&amp;sizes=176x264"
+                            alt="Rise of the Planet of the Apes MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV09FA9C6038A7CC7BAD5784D14945E76EA"
+                        class="item__link js-flyout-item plus-card" data-id="MMV09FA9C6038A7CC7BAD5784D14945E76EA"
+                        href="https://www.fandangonow.com/details/movie/risen-2016/MMV09FA9C6038A7CC7BAD5784D14945E76EA?ele=list&elc=MMV09FA9C6038A7CC7BAD5784D14945E76EA&eli=13&eci=MMV09FA9C6038A7CC7BAD5784D14945E76EA"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV09FA9C6038A7CC7BAD5784D14945E76EA&amp;ql=70&amp;sizes=176x264"
+                            alt="Risen MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVF96628464FC2BB34EEDB34B642FD759E2"
+                        class="item__link js-flyout-item plus-card" data-id="MMVF96628464FC2BB34EEDB34B642FD759E2"
+                        href="https://www.fandangonow.com/details/movie/lost-highway-1997/MMVF96628464FC2BB34EEDB34B642FD759E2?ele=list&elc=MMVF96628464FC2BB34EEDB34B642FD759E2&eli=14&eci=MMVF96628464FC2BB34EEDB34B642FD759E2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVF96628464FC2BB34EEDB34B642FD759E2&amp;ql=70&amp;sizes=176x264"
+                            alt="Lost Highway MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV739DCF8E1471EE8148C842E1FEC0B6151"
+                        class="item__link js-flyout-item plus-card" data-id="MMV739DCF8E1471EE8148C842E1FEC0B6151"
+                        href="https://www.fandangonow.com/details/movie/high-strung-2016/MMV739DCF8E1471EE8148C842E1FEC0B6151?ele=list&elc=MMV739DCF8E1471EE8148C842E1FEC0B6151&eli=15&eci=MMV739DCF8E1471EE8148C842E1FEC0B6151"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV739DCF8E1471EE8148C842E1FEC0B6151&amp;ql=70&amp;sizes=176x264"
+                            alt="High Strung MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVe0283dac434d630e084d7adbdeb5cde0"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe0283dac434d630e084d7adbdeb5cde0"
+                        href="https://www.fandangonow.com/details/movie/high-art-2004/1MVe0283dac434d630e084d7adbdeb5cde0?ele=list&elc=1MVe0283dac434d630e084d7adbdeb5cde0&eli=16&eci=1MVe0283dac434d630e084d7adbdeb5cde0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVe0283dac434d630e084d7adbdeb5cde0&amp;ql=70&amp;sizes=176x264"
+                            alt="High Art MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7"
+                        href="https://www.fandangonow.com/details/movie/behind-the-mask-the-rise-of-leslie-vernon-2007/MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7?ele=list&elc=MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7&eli=17&eci=MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7&amp;ql=70&amp;sizes=176x264"
+                            alt="Behind the Mask: The Rise of Leslie Vernon MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV36607c0f2a75c2fc1cc78ace5af63ef2"
+                        class="item__link js-flyout-item plus-card" data-id="1MV36607c0f2a75c2fc1cc78ace5af63ef2"
+                        href="https://www.fandangonow.com/details/movie/how-high-2001/1MV36607c0f2a75c2fc1cc78ace5af63ef2?ele=list&elc=1MV36607c0f2a75c2fc1cc78ace5af63ef2&eli=18&eci=1MV36607c0f2a75c2fc1cc78ace5af63ef2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV36607c0f2a75c2fc1cc78ace5af63ef2&amp;ql=70&amp;sizes=176x264"
+                            alt="How High MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB60400A9BDB250C6610E168A482532A04"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB60400A9BDB250C6610E168A482532A04"
+                        href="https://www.fandangonow.com/details/movie/high-school-musical-3-senior-year-2008/MMVB60400A9BDB250C6610E168A482532A04?ele=list&elc=MMVB60400A9BDB250C6610E168A482532A04&eli=19&eci=MMVB60400A9BDB250C6610E168A482532A04"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVB60400A9BDB250C6610E168A482532A04&amp;ql=70&amp;sizes=176x264"
+                            alt="High School Musical 3: Senior Year MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV7E85521AB6DB33358A232E25C9A4F2455"
+                        class="item__link js-flyout-item plus-card" data-id="MMV7E85521AB6DB33358A232E25C9A4F2455"
+                        href="https://www.fandangonow.com/details/movie/rise-of-the-fellowship-2013/MMV7E85521AB6DB33358A232E25C9A4F2455?ele=list&elc=MMV7E85521AB6DB33358A232E25C9A4F2455&eli=20&eci=MMV7E85521AB6DB33358A232E25C9A4F2455"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV7E85521AB6DB33358A232E25C9A4F2455&amp;ql=70&amp;sizes=176x264"
+                            alt="Rise of the Fellowship MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV1f5afd9d63228720fffceb22d46e77fe"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1f5afd9d63228720fffceb22d46e77fe"
+                        href="https://www.fandangonow.com/details/movie/higher-ground-2011/1MV1f5afd9d63228720fffceb22d46e77fe?ele=list&elc=1MV1f5afd9d63228720fffceb22d46e77fe&eli=21&eci=1MV1f5afd9d63228720fffceb22d46e77fe"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV1f5afd9d63228720fffceb22d46e77fe&amp;ql=70&amp;sizes=176x264"
+                            alt="Higher Ground MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                        href="https://www.fandangonow.com/details/movie/rise-of-the-legend-2014/MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D?ele=list&elc=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D&eli=22&eci=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D&amp;ql=70&amp;sizes=176x264"
+                            alt="Rise of the Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVefb8e248d1c0057673fed1640b7e883c"
+                        class="item__link js-flyout-item plus-card" data-id="1MVefb8e248d1c0057673fed1640b7e883c"
+                        href="https://www.fandangonow.com/details/movie/highway-2002/1MVefb8e248d1c0057673fed1640b7e883c?ele=list&elc=1MVefb8e248d1c0057673fed1640b7e883c&eli=23&eci=1MVefb8e248d1c0057673fed1640b7e883c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVefb8e248d1c0057673fed1640b7e883c&amp;ql=70&amp;sizes=176x264"
+                            alt="Highway MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB790C52937FB23632CD69D5A229213CB5"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB790C52937FB23632CD69D5A229213CB5"
+                        href="https://www.fandangonow.com/details/movie/carter-high-2016/MMVB790C52937FB23632CD69D5A229213CB5?ele=list&elc=MMVB790C52937FB23632CD69D5A229213CB5&eli=24&eci=MMVB790C52937FB23632CD69D5A229213CB5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVB790C52937FB23632CD69D5A229213CB5&amp;ql=70&amp;sizes=176x264"
+                            alt="Carter High MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7948e73b42efe7940174e443ed15a1a1"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7948e73b42efe7940174e443ed15a1a1"
+                        href="https://www.fandangonow.com/details/movie/higher-learning-1995/1MV7948e73b42efe7940174e443ed15a1a1?ele=list&elc=1MV7948e73b42efe7940174e443ed15a1a1&eli=25&eci=1MV7948e73b42efe7940174e443ed15a1a1"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV7948e73b42efe7940174e443ed15a1a1&amp;ql=70&amp;sizes=176x264"
+                            alt="Higher Learning MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVEE3E60A20031A5152C84E63892D32D3A0"
+                        class="item__link js-flyout-item plus-card" data-id="MMVEE3E60A20031A5152C84E63892D32D3A0"
+                        href="https://www.fandangonow.com/details/movie/redwood-highway-2014/MMVEE3E60A20031A5152C84E63892D32D3A0?ele=list&elc=MMVEE3E60A20031A5152C84E63892D32D3A0&eli=26&eci=MMVEE3E60A20031A5152C84E63892D32D3A0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVEE3E60A20031A5152C84E63892D32D3A0&amp;ql=70&amp;sizes=176x264"
+                            alt="Redwood Highway MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV05DCBC3139D57061B61ADD470E27A15E3"
+                        class="item__link js-flyout-item plus-card" data-id="MMV05DCBC3139D57061B61ADD470E27A15E3"
+                        href="https://www.fandangonow.com/details/movie/300-rise-of-an-empire-2014/MMV05DCBC3139D57061B61ADD470E27A15E3?ele=list&elc=MMV05DCBC3139D57061B61ADD470E27A15E3&eli=27&eci=MMV05DCBC3139D57061B61ADD470E27A15E3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV05DCBC3139D57061B61ADD470E27A15E3&amp;ql=70&amp;sizes=176x264"
+                            alt="300: Rise of an Empire MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV66B9D5C823CA8C9411F74BB8D96489AF0"
+                        class="item__link js-flyout-item plus-card" data-id="MMV66B9D5C823CA8C9411F74BB8D96489AF0"
+                        href="https://www.fandangonow.com/details/movie/hell-or-high-water-sicario-double-feature-2016/MMV66B9D5C823CA8C9411F74BB8D96489AF0?ele=list&elc=MMV66B9D5C823CA8C9411F74BB8D96489AF0&eli=28&eci=MMV66B9D5C823CA8C9411F74BB8D96489AF0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV66B9D5C823CA8C9411F74BB8D96489AF0&amp;ql=70&amp;sizes=176x264"
+                            alt="Hell Or High Water / Sicario Double Feature MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV0649A0D8E4282A5B7DDE22FA4DAD98087"
+                        class="item__link js-flyout-item plus-card" data-id="MMV0649A0D8E4282A5B7DDE22FA4DAD98087"
+                        href="https://www.fandangonow.com/details/movie/monster-high-clawesome-double-feature-2016/MMV0649A0D8E4282A5B7DDE22FA4DAD98087?ele=list&elc=MMV0649A0D8E4282A5B7DDE22FA4DAD98087&eli=29&eci=MMV0649A0D8E4282A5B7DDE22FA4DAD98087"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV0649A0D8E4282A5B7DDE22FA4DAD98087&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Clawesome Double Feature MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVC4945F0452FAE83DFD67D04855B257CAA"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC4945F0452FAE83DFD67D04855B257CAA"
+                        href="https://www.fandangonow.com/details/movie/monster-high-welcome-to-monster-high-2016/MMVC4945F0452FAE83DFD67D04855B257CAA?ele=list&elc=MMVC4945F0452FAE83DFD67D04855B257CAA&eli=30&eci=MMVC4945F0452FAE83DFD67D04855B257CAA"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVC4945F0452FAE83DFD67D04855B257CAA&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Welcome to Monster High MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV7309D20FB1398F6D041CE5ED092A9C077"
+                        class="item__link js-flyout-item plus-card" data-id="MMV7309D20FB1398F6D041CE5ED092A9C077"
+                        href="https://www.fandangonow.com/details/movie/bob-the-builder-building-sky-high-2016/MMV7309D20FB1398F6D041CE5ED092A9C077?ele=list&elc=MMV7309D20FB1398F6D041CE5ED092A9C077&eli=31&eci=MMV7309D20FB1398F6D041CE5ED092A9C077"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV7309D20FB1398F6D041CE5ED092A9C077&amp;ql=70&amp;sizes=176x264"
+                            alt="Bob the Builder: Building Sky High! MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB734DF7ED1C3FF793D85B4D698735E0C3"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB734DF7ED1C3FF793D85B4D698735E0C3"
+                        href="https://www.fandangonow.com/details/movie/monster-high-best-of-the-ghouls-collection-1-2016/MMVB734DF7ED1C3FF793D85B4D698735E0C3?ele=list&elc=MMVB734DF7ED1C3FF793D85B4D698735E0C3&eli=32&eci=MMVB734DF7ED1C3FF793D85B4D698735E0C3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVB734DF7ED1C3FF793D85B4D698735E0C3&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Best of the Ghouls Collection #1 MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV16B7578CCC66DD0ED34BCF59886D8F367"
+                        class="item__link js-flyout-item plus-card" data-id="MMV16B7578CCC66DD0ED34BCF59886D8F367"
+                        href="https://www.fandangonow.com/details/movie/monster-high-great-scarrier-reef-2016/MMV16B7578CCC66DD0ED34BCF59886D8F367?ele=list&elc=MMV16B7578CCC66DD0ED34BCF59886D8F367&eli=33&eci=MMV16B7578CCC66DD0ED34BCF59886D8F367"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV16B7578CCC66DD0ED34BCF59886D8F367&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Great Scarrier Reef MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVc5ba251094c729c6c5c4abd35c94e655"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc5ba251094c729c6c5c4abd35c94e655"
+                        href="https://www.fandangonow.com/details/movie/bob-the-builder-building-sky-high-2016/1MVc5ba251094c729c6c5c4abd35c94e655?ele=list&elc=1MVc5ba251094c729c6c5c4abd35c94e655&eli=34&eci=1MVc5ba251094c729c6c5c4abd35c94e655"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVc5ba251094c729c6c5c4abd35c94e655&amp;ql=70&amp;sizes=176x264"
+                            alt="Bob the Builder: Building Sky High! MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVE6A61E6D1E52CF0855ACF140C96681702"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE6A61E6D1E52CF0855ACF140C96681702"
+                        href="https://www.fandangonow.com/details/movie/the-rise-of-the-krays-2015/MMVE6A61E6D1E52CF0855ACF140C96681702?ele=list&elc=MMVE6A61E6D1E52CF0855ACF140C96681702&eli=35&eci=MMVE6A61E6D1E52CF0855ACF140C96681702"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVE6A61E6D1E52CF0855ACF140C96681702&amp;ql=70&amp;sizes=176x264"
+                            alt="The Rise of the Krays MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB7F4C836E413A08FED2288DFC877E0B2A"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB7F4C836E413A08FED2288DFC877E0B2A"
+                        href="https://www.fandangonow.com/details/movie/monster-high-scaris-city-of-frights-2015/MMVB7F4C836E413A08FED2288DFC877E0B2A?ele=list&elc=MMVB7F4C836E413A08FED2288DFC877E0B2A&eli=36&eci=MMVB7F4C836E413A08FED2288DFC877E0B2A"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVB7F4C836E413A08FED2288DFC877E0B2A&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Scaris, City of Frights MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVE4D1918374C8A8FC240E6FA58DB33D93E"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE4D1918374C8A8FC240E6FA58DB33D93E"
+                        href="https://www.fandangonow.com/details/movie/blue-mountain-state-the-rise-of-thadland-2015/MMVE4D1918374C8A8FC240E6FA58DB33D93E?ele=list&elc=MMVE4D1918374C8A8FC240E6FA58DB33D93E&eli=37&eci=MMVE4D1918374C8A8FC240E6FA58DB33D93E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVE4D1918374C8A8FC240E6FA58DB33D93E&amp;ql=70&amp;sizes=176x264"
+                            alt="Blue Mountain State: The Rise of Thadland MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB98F9D5EC45E0ABBA90806A2E7912815C"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB98F9D5EC45E0ABBA90806A2E7912815C"
+                        href="https://www.fandangonow.com/details/movie/high-school-exorcism-2015/MMVB98F9D5EC45E0ABBA90806A2E7912815C?ele=list&elc=MMVB98F9D5EC45E0ABBA90806A2E7912815C&eli=38&eci=MMVB98F9D5EC45E0ABBA90806A2E7912815C"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMVB98F9D5EC45E0ABBA90806A2E7912815C&amp;ql=70&amp;sizes=176x264"
+                            alt="High School Exorcism MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV0E1FB47D0B23ED2933643D5BABB605D48"
+                        class="item__link js-flyout-item plus-card" data-id="MMV0E1FB47D0B23ED2933643D5BABB605D48"
+                        href="https://www.fandangonow.com/details/movie/young-detective-dee-rise-of-the-sea-dragon-2013/MMV0E1FB47D0B23ED2933643D5BABB605D48?ele=list&elc=MMV0E1FB47D0B23ED2933643D5BABB605D48&eli=39&eci=MMV0E1FB47D0B23ED2933643D5BABB605D48"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV0E1FB47D0B23ED2933643D5BABB605D48&amp;ql=70&amp;sizes=176x264"
+                            alt="Young Detective Dee: Rise of the Sea Dragon MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV689D6D0AD9F8EE45EAA49082FB68EA1CE"
+                        class="item__link js-flyout-item plus-card" data-id="MMV689D6D0AD9F8EE45EAA49082FB68EA1CE"
+                        href="https://www.fandangonow.com/details/movie/tenkai-knights-rise-of-the-knights-2014/MMV689D6D0AD9F8EE45EAA49082FB68EA1CE?ele=list&elc=MMV689D6D0AD9F8EE45EAA49082FB68EA1CE&eli=40&eci=MMV689D6D0AD9F8EE45EAA49082FB68EA1CE"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV689D6D0AD9F8EE45EAA49082FB68EA1CE&amp;ql=70&amp;sizes=176x264"
+                            alt="Tenkai Knights - Rise of the Knights MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV673CD166B29B75A673D85F949BADD9CED"
+                        class="item__link js-flyout-item plus-card" data-id="MMV673CD166B29B75A673D85F949BADD9CED"
+                        href="https://www.fandangonow.com/details/movie/monster-high-scaremester-collection-2014/MMV673CD166B29B75A673D85F949BADD9CED?ele=list&elc=MMV673CD166B29B75A673D85F949BADD9CED&eli=41&eci=MMV673CD166B29B75A673D85F949BADD9CED"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV673CD166B29B75A673D85F949BADD9CED&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Scaremester Collection MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV9719D07CB238FE5B2034C789EFC3E81B6"
+                        class="item__link js-flyout-item plus-card" data-id="MMV9719D07CB238FE5B2034C789EFC3E81B6"
+                        href="https://www.fandangonow.com/details/movie/monster-high-frights-camera-action-2014/MMV9719D07CB238FE5B2034C789EFC3E81B6?ele=list&elc=MMV9719D07CB238FE5B2034C789EFC3E81B6&eli=42&eci=MMV9719D07CB238FE5B2034C789EFC3E81B6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV9719D07CB238FE5B2034C789EFC3E81B6&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Frights, Camera, Action! MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV726690469C15B6E99AA9FA336FE128247"
+                        class="item__link js-flyout-item plus-card" data-id="MMV726690469C15B6E99AA9FA336FE128247"
+                        href="https://www.fandangonow.com/details/movie/high-moon-2014/MMV726690469C15B6E99AA9FA336FE128247?ele=list&elc=MMV726690469C15B6E99AA9FA336FE128247&eli=43&eci=MMV726690469C15B6E99AA9FA336FE128247"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV726690469C15B6E99AA9FA336FE128247&amp;ql=70&amp;sizes=176x264"
+                            alt="High Moon MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7ca2bca671eecd5fa9a4f851671d3763"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7ca2bca671eecd5fa9a4f851671d3763"
+                        href="https://www.fandangonow.com/details/movie/jeremy-jones-higher-2014/1MV7ca2bca671eecd5fa9a4f851671d3763?ele=list&elc=1MV7ca2bca671eecd5fa9a4f851671d3763&eli=44&eci=1MV7ca2bca671eecd5fa9a4f851671d3763"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV7ca2bca671eecd5fa9a4f851671d3763&amp;ql=70&amp;sizes=176x264"
+                            alt="Jeremy Jones&#x27; Higher MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVf0130143906195e652a8b92f6016899f"
+                        class="item__link js-flyout-item plus-card" data-id="1MVf0130143906195e652a8b92f6016899f"
+                        href="https://www.fandangonow.com/details/movie/jedi-junior-high-2014/1MVf0130143906195e652a8b92f6016899f?ele=list&elc=1MVf0130143906195e652a8b92f6016899f&eli=45&eci=1MVf0130143906195e652a8b92f6016899f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVf0130143906195e652a8b92f6016899f&amp;ql=70&amp;sizes=176x264"
+                            alt="Jedi Junior High MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV32f5a74db2dbee44e4bd16ac26a784e6"
+                        class="item__link js-flyout-item plus-card" data-id="1MV32f5a74db2dbee44e4bd16ac26a784e6"
+                        href="https://www.fandangonow.com/details/movie/all-american-high-revisited-2014/1MV32f5a74db2dbee44e4bd16ac26a784e6?ele=list&elc=1MV32f5a74db2dbee44e4bd16ac26a784e6&eli=46&eci=1MV32f5a74db2dbee44e4bd16ac26a784e6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV32f5a74db2dbee44e4bd16ac26a784e6&amp;ql=70&amp;sizes=176x264"
+                            alt="All American High Revisited MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVBEF4748F92C2C1B7F284172C696E2E35A"
+                        class="item__link js-flyout-item plus-card" data-id="MMVBEF4748F92C2C1B7F284172C696E2E35A"
+                        href="https://www.fandangonow.com/details/movie/iron-man-rise-of-technovore-2013/MMVBEF4748F92C2C1B7F284172C696E2E35A?ele=list&elc=MMVBEF4748F92C2C1B7F284172C696E2E35A&eli=47&eci=MMVBEF4748F92C2C1B7F284172C696E2E35A"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVBEF4748F92C2C1B7F284172C696E2E35A&amp;ql=70&amp;sizes=176x264"
+                            alt="Iron Man: Rise of Technovore MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1SHb5215553a1fdf49be33e0cf1a89c0d87"
+                        class="item__link js-flyout-item plus-card" data-id="1SHb5215553a1fdf49be33e0cf1a89c0d87"
+                        href="https://www.fandangonow.com/details/movie/monster-high-friday-night-frights-2013/1SHb5215553a1fdf49be33e0cf1a89c0d87?ele=list&elc=1SHb5215553a1fdf49be33e0cf1a89c0d87&eli=48&eci=1SHb5215553a1fdf49be33e0cf1a89c0d87"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1SHb5215553a1fdf49be33e0cf1a89c0d87&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Friday Night Frights MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV22c0e1f66289d56e4f9a41639d7f7baf"
+                        class="item__link js-flyout-item plus-card" data-id="1MV22c0e1f66289d56e4f9a41639d7f7baf"
+                        href="https://www.fandangonow.com/details/movie/fast-times-at-ridgemont-high-1982/1MV22c0e1f66289d56e4f9a41639d7f7baf?ele=list&elc=1MV22c0e1f66289d56e4f9a41639d7f7baf&eli=49&eci=1MV22c0e1f66289d56e4f9a41639d7f7baf"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV22c0e1f66289d56e4f9a41639d7f7baf&amp;ql=70&amp;sizes=176x264"
+                            alt="Fast Times at Ridgemont High MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -649,7 +1589,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'John Carter'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":5,"pageCount":3,"pageNumber":0,"items":[{"id":"MMV0FF81FDE35E096E03E0D797A81DE1EE8B","title":"John Carter ","template":"defaultItem","contentType":"MOVIE","slugId":"john-carter-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0FF81FDE35E096E03E0D797A81DE1EE8B/details","description":""},{"id":"1MVd4596bec2815329c9ad80311d48ef48a","title":"The Hoax","template":"defaultItem","contentType":"MOVIE","slugId":"the-hoax-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd4596bec2815329c9ad80311d48ef48a/details","description":""},{"id":"1MVe3cc75c3a292ebec48bc7cf96a62fd9c","title":"Doll Squad","template":"defaultItem","contentType":"MOVIE","slugId":"doll-squad-1973","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe3cc75c3a292ebec48bc7cf96a62fd9c/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=John%20Carter","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'High-Rise'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":272,"pageCount":50,"pageNumber":0,"items":[{"id":"1MV1d9aeb5dd9e151ee280213fa12c9ed00","title":"High-Rise","template":"defaultItem","contentType":"MOVIE","slugId":"high-rise-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1d9aeb5dd9e151ee280213fa12c9ed00/details","description":""},{"id":"MMV6608A43B8C5069FC5C0CD6408CCDC460E","title":"The Culture High","template":"defaultItem","contentType":"MOVIE","slugId":"the-culture-high-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6608A43B8C5069FC5C0CD6408CCDC460E/details","description":""},{"id":"MMVD13FC34F6518DD7C734A0CDD1FCD7B884","title":"Hell Or High Water","template":"defaultItem","contentType":"MOVIE","slugId":"hell-or-high-water-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD13FC34F6518DD7C734A0CDD1FCD7B884/details","description":""},{"id":"1MV0dfe585543d5c85b69b582e7dc3e771d","title":"The Dark Knight Rises","template":"defaultItem","contentType":"MOVIE","slugId":"the-dark-knight-rises-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0dfe585543d5c85b69b582e7dc3e771d/details","description":""},{"id":"MMV5C39E0E619FE147EEBA393EB33F1DA2AA","title":"Hillsong: Let Hope Rise","template":"defaultItem","contentType":"MOVIE","slugId":"hillsong-let-hope-rise-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV5C39E0E619FE147EEBA393EB33F1DA2AA/details","description":""},{"id":"MMV8845D40324949373AF22C902B5F70EDB1","title":"Monster High: 13 Wishes","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-13-wishes-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8845D40324949373AF22C902B5F70EDB1/details","description":""},{"id":"MMV444B9162D048F1B571ECF7B1D5262459D","title":"Monster High: Boo York, Boo York","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-boo-york-boo-york-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV444B9162D048F1B571ECF7B1D5262459D/details","description":""},{"id":"MMV23312264B48358B6BC214175D7482C85F","title":"Monster High: Haunted","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-haunted-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV23312264B48358B6BC214175D7482C85F/details","description":""},{"id":"1MV605c142384d102506cd048e0dd0a531a","title":"Monster High: Ghouls Rule","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-ghouls-rule-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV605c142384d102506cd048e0dd0a531a/details","description":""},{"id":"MMV4D1E1EEE745AD5EE805D3A4872447A1C3","title":"Monster High: Freaky Fusion","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-freaky-fusion-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4D1E1EEE745AD5EE805D3A4872447A1C3/details","description":""},{"id":"1MVa5051d1cdbe0477e9e21bcba57e0cff0","title":"Rise of the Guardians","template":"defaultItem","contentType":"MOVIE","slugId":"rise-of-the-guardians-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa5051d1cdbe0477e9e21bcba57e0cff0/details","description":""},{"id":"MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7","title":"High Fidelity","template":"defaultItem","contentType":"MOVIE","slugId":"high-fidelity-2000","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV3F32CB62FE7CE2D8E5218CA3FF8E16EE7/details","description":""},{"id":"MMV5FB464DCCFA4D3CDD8972DB18FD0852C5","title":"Rise of the Planet of the Apes","template":"defaultItem","contentType":"MOVIE","slugId":"rise-of-the-planet-of-the-apes-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV5FB464DCCFA4D3CDD8972DB18FD0852C5/details","description":""},{"id":"MMV09FA9C6038A7CC7BAD5784D14945E76EA","title":"Risen","template":"defaultItem","contentType":"MOVIE","slugId":"risen-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV09FA9C6038A7CC7BAD5784D14945E76EA/details","description":""},{"id":"MMVF96628464FC2BB34EEDB34B642FD759E2","title":"Lost Highway","template":"defaultItem","contentType":"MOVIE","slugId":"lost-highway-1997","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF96628464FC2BB34EEDB34B642FD759E2/details","description":""},{"id":"MMV739DCF8E1471EE8148C842E1FEC0B6151","title":"High Strung","template":"defaultItem","contentType":"MOVIE","slugId":"high-strung-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV739DCF8E1471EE8148C842E1FEC0B6151/details","description":""},{"id":"1MVe0283dac434d630e084d7adbdeb5cde0","title":"High Art","template":"defaultItem","contentType":"MOVIE","slugId":"high-art-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe0283dac434d630e084d7adbdeb5cde0/details","description":""},{"id":"MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7","title":"Behind the Mask: The Rise of Leslie Vernon","template":"defaultItem","contentType":"MOVIE","slugId":"behind-the-mask-the-rise-of-leslie-vernon-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD0DDAA2DEA3130A7E762C0B47ED32E0D7/details","description":""},{"id":"1MV36607c0f2a75c2fc1cc78ace5af63ef2","title":"How High","template":"defaultItem","contentType":"MOVIE","slugId":"how-high-2001","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV36607c0f2a75c2fc1cc78ace5af63ef2/details","description":""},{"id":"MMVB60400A9BDB250C6610E168A482532A04","title":"High School Musical 3: Senior Year","template":"defaultItem","contentType":"MOVIE","slugId":"high-school-musical-3-senior-year-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB60400A9BDB250C6610E168A482532A04/details","description":""},{"id":"MMV7E85521AB6DB33358A232E25C9A4F2455","title":"Rise of the Fellowship","template":"defaultItem","contentType":"MOVIE","slugId":"rise-of-the-fellowship-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7E85521AB6DB33358A232E25C9A4F2455/details","description":""},{"id":"1MV1f5afd9d63228720fffceb22d46e77fe","title":"Higher Ground","template":"defaultItem","contentType":"MOVIE","slugId":"higher-ground-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1f5afd9d63228720fffceb22d46e77fe/details","description":""},{"id":"MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D","title":"Rise of the Legend","template":"defaultItem","contentType":"MOVIE","slugId":"rise-of-the-legend-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D/details","description":""},{"id":"1MVefb8e248d1c0057673fed1640b7e883c","title":"Highway","template":"defaultItem","contentType":"MOVIE","slugId":"highway-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVefb8e248d1c0057673fed1640b7e883c/details","description":""},{"id":"MMVB790C52937FB23632CD69D5A229213CB5","title":"Carter High","template":"defaultItem","contentType":"MOVIE","slugId":"carter-high-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB790C52937FB23632CD69D5A229213CB5/details","description":""},{"id":"1MV7948e73b42efe7940174e443ed15a1a1","title":"Higher Learning","template":"defaultItem","contentType":"MOVIE","slugId":"higher-learning-1995","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7948e73b42efe7940174e443ed15a1a1/details","description":""},{"id":"MMVEE3E60A20031A5152C84E63892D32D3A0","title":"Redwood Highway","template":"defaultItem","contentType":"MOVIE","slugId":"redwood-highway-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVEE3E60A20031A5152C84E63892D32D3A0/details","description":""},{"id":"MMV05DCBC3139D57061B61ADD470E27A15E3","title":"300: Rise of an Empire","template":"defaultItem","contentType":"MOVIE","slugId":"300-rise-of-an-empire-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV05DCBC3139D57061B61ADD470E27A15E3/details","description":""},{"id":"MMV66B9D5C823CA8C9411F74BB8D96489AF0","title":"Hell Or High Water / Sicario Double Feature","template":"defaultItem","contentType":"MOVIE","slugId":"hell-or-high-water-sicario-double-feature-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV66B9D5C823CA8C9411F74BB8D96489AF0/details","description":""},{"id":"MMV0649A0D8E4282A5B7DDE22FA4DAD98087","title":"Monster High: Clawesome Double Feature","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-clawesome-double-feature-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0649A0D8E4282A5B7DDE22FA4DAD98087/details","description":""},{"id":"MMVC4945F0452FAE83DFD67D04855B257CAA","title":"Monster High: Welcome to Monster High","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-welcome-to-monster-high-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC4945F0452FAE83DFD67D04855B257CAA/details","description":""},{"id":"MMV7309D20FB1398F6D041CE5ED092A9C077","title":"Bob the Builder: Building Sky High!","template":"defaultItem","contentType":"MOVIE","slugId":"bob-the-builder-building-sky-high-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7309D20FB1398F6D041CE5ED092A9C077/details","description":""},{"id":"MMVB734DF7ED1C3FF793D85B4D698735E0C3","title":"Monster High: Best of the Ghouls Collection #1","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-best-of-the-ghouls-collection-1-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB734DF7ED1C3FF793D85B4D698735E0C3/details","description":""},{"id":"MMV16B7578CCC66DD0ED34BCF59886D8F367","title":"Monster High: Great Scarrier Reef","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-great-scarrier-reef-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV16B7578CCC66DD0ED34BCF59886D8F367/details","description":""},{"id":"1MVc5ba251094c729c6c5c4abd35c94e655","title":"Bob the Builder: Building Sky High!","template":"defaultItem","contentType":"MOVIE","slugId":"bob-the-builder-building-sky-high-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc5ba251094c729c6c5c4abd35c94e655/details","description":""},{"id":"MMVE6A61E6D1E52CF0855ACF140C96681702","title":"The Rise of the Krays","template":"defaultItem","contentType":"MOVIE","slugId":"the-rise-of-the-krays-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE6A61E6D1E52CF0855ACF140C96681702/details","description":""},{"id":"MMVB7F4C836E413A08FED2288DFC877E0B2A","title":"Monster High: Scaris, City of Frights","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-scaris-city-of-frights-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB7F4C836E413A08FED2288DFC877E0B2A/details","description":""},{"id":"MMVE4D1918374C8A8FC240E6FA58DB33D93E","title":"Blue Mountain State: The Rise of Thadland","template":"defaultItem","contentType":"MOVIE","slugId":"blue-mountain-state-the-rise-of-thadland-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE4D1918374C8A8FC240E6FA58DB33D93E/details","description":""},{"id":"MMVB98F9D5EC45E0ABBA90806A2E7912815C","title":"High School Exorcism","template":"defaultItem","contentType":"MOVIE","slugId":"high-school-exorcism-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB98F9D5EC45E0ABBA90806A2E7912815C/details","description":""},{"id":"MMV0E1FB47D0B23ED2933643D5BABB605D48","title":"Young Detective Dee: Rise of the Sea Dragon","template":"defaultItem","contentType":"MOVIE","slugId":"young-detective-dee-rise-of-the-sea-dragon-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV0E1FB47D0B23ED2933643D5BABB605D48/details","description":""},{"id":"MMV689D6D0AD9F8EE45EAA49082FB68EA1CE","title":"Tenkai Knights - Rise of the Knights","template":"defaultItem","contentType":"MOVIE","slugId":"tenkai-knights-rise-of-the-knights-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV689D6D0AD9F8EE45EAA49082FB68EA1CE/details","description":""},{"id":"MMV673CD166B29B75A673D85F949BADD9CED","title":"Monster High: Scaremester Collection","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-scaremester-collection-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV673CD166B29B75A673D85F949BADD9CED/details","description":""},{"id":"MMV9719D07CB238FE5B2034C789EFC3E81B6","title":"Monster High: Frights, Camera, Action!","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-frights-camera-action-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV9719D07CB238FE5B2034C789EFC3E81B6/details","description":""},{"id":"MMV726690469C15B6E99AA9FA336FE128247","title":"High Moon","template":"defaultItem","contentType":"MOVIE","slugId":"high-moon-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV726690469C15B6E99AA9FA336FE128247/details","description":""},{"id":"1MV7ca2bca671eecd5fa9a4f851671d3763","title":"Jeremy Jones' Higher","template":"defaultItem","contentType":"MOVIE","slugId":"jeremy-jones-higher-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7ca2bca671eecd5fa9a4f851671d3763/details","description":""},{"id":"1MVf0130143906195e652a8b92f6016899f","title":"Jedi Junior High","template":"defaultItem","contentType":"MOVIE","slugId":"jedi-junior-high-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf0130143906195e652a8b92f6016899f/details","description":""},{"id":"1MV32f5a74db2dbee44e4bd16ac26a784e6","title":"All American High Revisited","template":"defaultItem","contentType":"MOVIE","slugId":"all-american-high-revisited-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV32f5a74db2dbee44e4bd16ac26a784e6/details","description":""},{"id":"MMVBEF4748F92C2C1B7F284172C696E2E35A","title":"Iron Man: Rise of Technovore","template":"defaultItem","contentType":"MOVIE","slugId":"iron-man-rise-of-technovore-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBEF4748F92C2C1B7F284172C696E2E35A/details","description":""},{"id":"1SHb5215553a1fdf49be33e0cf1a89c0d87","title":"Monster High: Friday Night Frights","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-friday-night-frights-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1SHb5215553a1fdf49be33e0cf1a89c0d87/details","description":""},{"id":"1MV22c0e1f66289d56e4f9a41639d7f7baf","title":"Fast Times at Ridgemont High","template":"defaultItem","contentType":"MOVIE","slugId":"fast-times-at-ridgemont-high-1982","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV22c0e1f66289d56e4f9a41639d7f7baf/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=High-Rise","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -672,7 +1612,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="8MNRJWcC-4krEF1OzOf6Ef6bLrprdDZCMKcE" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="jyMHaY7S-TrqPSHaQeDXDyQjgkK5x8P9xHLc" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

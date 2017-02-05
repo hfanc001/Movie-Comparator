@@ -11,7 +11,7 @@ from exceptions import ValueError
 from time import sleep
 
 
-filename = str("imdb_json")
+filename = str("movielist")
 filee = open(str(filename), "r").read()
 #title = re.findall('  "Title":.*', filee)
 title = re.findall('.*\n', filee)
@@ -26,11 +26,10 @@ URLF1 = "https://www.fandangonow.com/list/saw/search?contentTypes=movie&q="
 URLF3 = "&form=videos"
 
 i = 0
-crash = 649
+crash = 4200
 for item in titles:
     i = i + 1
-    if crash > 0:
-	crash = crash - 1
+    if i < crash:
         continue
     url = URLF1 + item
     testfile = urllib.URLopener()

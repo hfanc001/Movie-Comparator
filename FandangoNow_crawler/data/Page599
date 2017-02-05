@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Chronicle. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Chronicle. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Americons. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Americons. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Chronicle. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Americons. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Chronicle. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Americons. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Chronicle. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Chronicle","list_name":"Search Results for 'Chronicle'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Americons. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Americons","list_name":"Search Results for 'Americons'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Chronicle'
+                Search Results for 'Americons'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Chronicle&#x27;"
-            data-list-id="Search-Results-for-Chronicle"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Chronicle"
+            data-list-title="Search Results for &#x27;Americons&#x27;"
+            data-list-id="Search-Results-for-Americons"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Americons"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="23"
-            data-total-count="26"
+            data-page-count="1"
+            data-total-count="1"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,455 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV182bffee5a1584f4529991f03132cb74"
-                        class="item__link js-flyout-item plus-card" data-id="1MV182bffee5a1584f4529991f03132cb74"
-                        href="https://www.fandangonow.com/details/movie/chronicle-2012/1MV182bffee5a1584f4529991f03132cb74?ele=list&elc=1MV182bffee5a1584f4529991f03132cb74&eli=0&eci=1MV182bffee5a1584f4529991f03132cb74"
+                        id="_item_1MV6bf707e5e0f9054d4371d05a8ba95bfb"
+                        class="item__link js-flyout-item plus-card" data-id="1MV6bf707e5e0f9054d4371d05a8ba95bfb"
+                        href="https://www.fandangonow.com/details/movie/americons-2015/1MV6bf707e5e0f9054d4371d05a8ba95bfb?ele=list&elc=1MV6bf707e5e0f9054d4371d05a8ba95bfb&eli=0&eci=1MV6bf707e5e0f9054d4371d05a8ba95bfb"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV182bffee5a1584f4529991f03132cb74&amp;ql=70&amp;sizes=176x264"
-                            alt="Chronicle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV8CB0B5A1984E509086165FCBBD98903C9"
-                        class="item__link js-flyout-item plus-card" data-id="MMV8CB0B5A1984E509086165FCBBD98903C9"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-narnia-prince-caspian-2008/MMV8CB0B5A1984E509086165FCBBD98903C9?ele=list&elc=MMV8CB0B5A1984E509086165FCBBD98903C9&eli=1&eci=MMV8CB0B5A1984E509086165FCBBD98903C9"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV8CB0B5A1984E509086165FCBBD98903C9&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles Of Narnia: Prince Caspian MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV5a3ac2ecbb5236652dae6610aedebc6f"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5a3ac2ecbb5236652dae6610aedebc6f"
-                        href="https://www.fandangonow.com/details/movie/the-spiderwick-chronicles-2008/1MV5a3ac2ecbb5236652dae6610aedebc6f?ele=list&elc=1MV5a3ac2ecbb5236652dae6610aedebc6f&eli=2&eci=1MV5a3ac2ecbb5236652dae6610aedebc6f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV5a3ac2ecbb5236652dae6610aedebc6f&amp;ql=70&amp;sizes=176x264"
-                            alt="The Spiderwick Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVc25353e69eb3f7b9cdc8c1d8a846ec41"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc25353e69eb3f7b9cdc8c1d8a846ec41"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-riddick-unrated-2004/1MVc25353e69eb3f7b9cdc8c1d8a846ec41?ele=list&elc=1MVc25353e69eb3f7b9cdc8c1d8a846ec41&eli=3&eci=1MVc25353e69eb3f7b9cdc8c1d8a846ec41"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVc25353e69eb3f7b9cdc8c1d8a846ec41&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles of Riddick (Unrated) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV528de04533d428326556dc501a976d26"
-                        class="item__link js-flyout-item plus-card" data-id="1MV528de04533d428326556dc501a976d26"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-riddick-2004/1MV528de04533d428326556dc501a976d26?ele=list&elc=1MV528de04533d428326556dc501a976d26&eli=4&eci=1MV528de04533d428326556dc501a976d26"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV528de04533d428326556dc501a976d26&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles of Riddick MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV1912c69130a3ebebc33d06befca6306a"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1912c69130a3ebebc33d06befca6306a"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010/1MV1912c69130a3ebebc33d06befca6306a?ele=list&elc=1MV1912c69130a3ebebc33d06befca6306a&eli=5&eci=1MV1912c69130a3ebebc33d06befca6306a"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV1912c69130a3ebebc33d06befca6306a&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles of Narnia: The Voyage of the Dawn Treader MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVD1D6282976FED598EEC650E156C5AAF62"
-                        class="item__link js-flyout-item plus-card" data-id="MMVD1D6282976FED598EEC650E156C5AAF62"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-2005/MMVD1D6282976FED598EEC650E156C5AAF62?ele=list&elc=MMVD1D6282976FED598EEC650E156C5AAF62&eli=6&eci=MMVD1D6282976FED598EEC650E156C5AAF62"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVD1D6282976FED598EEC650E156C5AAF62&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVCF5E25F277C41F3D967C77C055AC3FDE3"
-                        class="item__link js-flyout-item plus-card" data-id="MMVCF5E25F277C41F3D967C77C055AC3FDE3"
-                        href="https://www.fandangonow.com/details/movie/chronicles-of-the-ghostly-tribe-2016/MMVCF5E25F277C41F3D967C77C055AC3FDE3?ele=list&elc=MMVCF5E25F277C41F3D967C77C055AC3FDE3&eli=7&eci=MMVCF5E25F277C41F3D967C77C055AC3FDE3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMVCF5E25F277C41F3D967C77C055AC3FDE3&amp;ql=70&amp;sizes=176x264"
-                            alt="Chronicles of the Ghostly Tribe MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV4E8D4191611D045A224BC91B1DA0856B3"
-                        class="item__link js-flyout-item plus-card" data-id="MMV4E8D4191611D045A224BC91B1DA0856B3"
-                        href="https://www.fandangonow.com/details/movie/the-sb-chronicles-vol-3-2015/MMV4E8D4191611D045A224BC91B1DA0856B3?ele=list&elc=MMV4E8D4191611D045A224BC91B1DA0856B3&eli=8&eci=MMV4E8D4191611D045A224BC91B1DA0856B3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV4E8D4191611D045A224BC91B1DA0856B3&amp;ql=70&amp;sizes=176x264"
-                            alt="The SB Chronicles Vol 3. MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV2C0D5902C7C54F6D6C68BB3EB2471E48B"
-                        class="item__link js-flyout-item plus-card" data-id="MMV2C0D5902C7C54F6D6C68BB3EB2471E48B"
-                        href="https://www.fandangonow.com/details/movie/pawn-shop-chronicles-2013/MMV2C0D5902C7C54F6D6C68BB3EB2471E48B?ele=list&elc=MMV2C0D5902C7C54F6D6C68BB3EB2471E48B&eli=9&eci=MMV2C0D5902C7C54F6D6C68BB3EB2471E48B"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV2C0D5902C7C54F6D6C68BB3EB2471E48B&amp;ql=70&amp;sizes=176x264"
-                            alt="Pawn Shop Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV16ab2ce40b099c7ffdf467dd5c77d016"
-                        class="item__link js-flyout-item plus-card" data-id="1MV16ab2ce40b099c7ffdf467dd5c77d016"
-                        href="https://www.fandangonow.com/details/movie/chronicledirectors-cut-2012/1MV16ab2ce40b099c7ffdf467dd5c77d016?ele=list&elc=1MV16ab2ce40b099c7ffdf467dd5c77d016&eli=10&eci=1MV16ab2ce40b099c7ffdf467dd5c77d016"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV16ab2ce40b099c7ffdf467dd5c77d016&amp;ql=70&amp;sizes=176x264"
-                            alt="Chronicle(Director&#x27;s Cut) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV5d97dcbae336b2f28d3f642c72c3393b"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5d97dcbae336b2f28d3f642c72c3393b"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobeextended-edition-2005/1MV5d97dcbae336b2f28d3f642c72c3393b?ele=list&elc=1MV5d97dcbae336b2f28d3f642c72c3393b&eli=11&eci=1MV5d97dcbae336b2f28d3f642c72c3393b"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV5d97dcbae336b2f28d3f642c72c3393b&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles of Narnia: The Lion, the Witch and the Wardrobe(Extended Edition) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVbcc0dfc08d8151936f68e7f7cd9d6733"
-                        class="item__link js-flyout-item plus-card" data-id="1MVbcc0dfc08d8151936f68e7f7cd9d6733"
-                        href="https://www.fandangonow.com/details/movie/ufo-chronicles-aliens-on-earth-2015/1MVbcc0dfc08d8151936f68e7f7cd9d6733?ele=list&elc=1MVbcc0dfc08d8151936f68e7f7cd9d6733&eli=12&eci=1MVbcc0dfc08d8151936f68e7f7cd9d6733"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVbcc0dfc08d8151936f68e7f7cd9d6733&amp;ql=70&amp;sizes=176x264"
-                            alt="UFO Chronicles: Aliens on Earth MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVe533b2b850c5e864d9acdd85b2e2e669"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe533b2b850c5e864d9acdd85b2e2e669"
-                        href="https://www.fandangonow.com/details/movie/chronicles-of-evil-2015/1MVe533b2b850c5e864d9acdd85b2e2e669?ele=list&elc=1MVe533b2b850c5e864d9acdd85b2e2e669&eli=13&eci=1MVe533b2b850c5e864d9acdd85b2e2e669"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVe533b2b850c5e864d9acdd85b2e2e669&amp;ql=70&amp;sizes=176x264"
-                            alt="Chronicles of Evil MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVd25f2dcd66693f076635ba90fc6c4fe2"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd25f2dcd66693f076635ba90fc6c4fe2"
-                        href="https://www.fandangonow.com/details/movie/ufo-chronicles-area-51-exposed-2015/1MVd25f2dcd66693f076635ba90fc6c4fe2?ele=list&elc=1MVd25f2dcd66693f076635ba90fc6c4fe2&eli=14&eci=1MVd25f2dcd66693f076635ba90fc6c4fe2"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVd25f2dcd66693f076635ba90fc6c4fe2&amp;ql=70&amp;sizes=176x264"
-                            alt="UFO Chronicles: Area 51 Exposed MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV138A2576848DAD9188100B599AEA854F5"
-                        class="item__link js-flyout-item plus-card" data-id="MMV138A2576848DAD9188100B599AEA854F5"
-                        href="https://www.fandangonow.com/details/movie/the-chronicles-of-riddick-dark-fury-2013/MMV138A2576848DAD9188100B599AEA854F5?ele=list&elc=MMV138A2576848DAD9188100B599AEA854F5&eli=15&eci=MMV138A2576848DAD9188100B599AEA854F5"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV138A2576848DAD9188100B599AEA854F5&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chronicles of Riddick: Dark Fury MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVe56dfc8560e50072eded3f7a865377e4"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe56dfc8560e50072eded3f7a865377e4"
-                        href="https://www.fandangonow.com/details/movie/the-dragonphoenix-chronicles-2013/1MVe56dfc8560e50072eded3f7a865377e4?ele=list&elc=1MVe56dfc8560e50072eded3f7a865377e4&eli=16&eci=1MVe56dfc8560e50072eded3f7a865377e4"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVe56dfc8560e50072eded3f7a865377e4&amp;ql=70&amp;sizes=176x264"
-                            alt="The Dragonphoenix Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV04a23c62d3d43bb04ba6741aa198935d"
-                        class="item__link js-flyout-item plus-card" data-id="1MV04a23c62d3d43bb04ba6741aa198935d"
-                        href="https://www.fandangonow.com/details/movie/love-chronicles-secrets-revealed-2010/1MV04a23c62d3d43bb04ba6741aa198935d?ele=list&elc=1MV04a23c62d3d43bb04ba6741aa198935d&eli=17&eci=1MV04a23c62d3d43bb04ba6741aa198935d"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV04a23c62d3d43bb04ba6741aa198935d&amp;ql=70&amp;sizes=176x264"
-                            alt="Love Chronicles: Secrets Revealed MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVff42dc21259ab2ed7ad9c3a488df680f"
-                        class="item__link js-flyout-item plus-card" data-id="1MVff42dc21259ab2ed7ad9c3a488df680f"
-                        href="https://www.fandangonow.com/details/movie/the-fat-boy-chronicles-2010/1MVff42dc21259ab2ed7ad9c3a488df680f?ele=list&elc=1MVff42dc21259ab2ed7ad9c3a488df680f&eli=18&eci=1MVff42dc21259ab2ed7ad9c3a488df680f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVff42dc21259ab2ed7ad9c3a488df680f&amp;ql=70&amp;sizes=176x264"
-                            alt="The Fat Boy Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVfa1e6efddbf314371fb61cd9b4feca90"
-                        class="item__link js-flyout-item plus-card" data-id="1MVfa1e6efddbf314371fb61cd9b4feca90"
-                        href="https://www.fandangonow.com/details/movie/mutant-chronicles-2008/1MVfa1e6efddbf314371fb61cd9b4feca90?ele=list&elc=1MVfa1e6efddbf314371fb61cd9b4feca90&eli=19&eci=1MVfa1e6efddbf314371fb61cd9b4feca90"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVfa1e6efddbf314371fb61cd9b4feca90&amp;ql=70&amp;sizes=176x264"
-                            alt="Mutant Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV1c1cd9027855d1c33fe014761e163284"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1c1cd9027855d1c33fe014761e163284"
-                        href="https://www.fandangonow.com/details/movie/the-hellstrom-chronicle-1971/1MV1c1cd9027855d1c33fe014761e163284?ele=list&elc=1MV1c1cd9027855d1c33fe014761e163284&eli=20&eci=1MV1c1cd9027855d1c33fe014761e163284"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV1c1cd9027855d1c33fe014761e163284&amp;ql=70&amp;sizes=176x264"
-                            alt="The Hellstrom Chronicle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV5a644066764ad376de1526c2fdabdd30"
-                        class="item__link js-flyout-item plus-card" data-id="1MV5a644066764ad376de1526c2fdabdd30"
-                        href="https://www.fandangonow.com/details/movie/the-chicken-chronicles-1977/1MV5a644066764ad376de1526c2fdabdd30?ele=list&elc=1MV5a644066764ad376de1526c2fdabdd30&eli=21&eci=1MV5a644066764ad376de1526c2fdabdd30"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV5a644066764ad376de1526c2fdabdd30&amp;ql=70&amp;sizes=176x264"
-                            alt="The Chicken Chronicles MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVb0066e4ee6ee4a469d536e12003717fd"
-                        class="item__link js-flyout-item plus-card" data-id="1MVb0066e4ee6ee4a469d536e12003717fd"
-                        href="https://www.fandangonow.com/details/movie/the-martian-chronicles-1980/1MVb0066e4ee6ee4a469d536e12003717fd?ele=list&elc=1MVb0066e4ee6ee4a469d536e12003717fd&eli=22&eci=1MVb0066e4ee6ee4a469d536e12003717fd"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVb0066e4ee6ee4a469d536e12003717fd&amp;ql=70&amp;sizes=176x264"
-                            alt="The Martian Chronicles MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV6bf707e5e0f9054d4371d05a8ba95bfb&amp;ql=70&amp;sizes=176x264"
+                            alt="Americons MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -1049,7 +609,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Chronicle'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":26,"pageCount":23,"pageNumber":0,"items":[{"id":"1MV182bffee5a1584f4529991f03132cb74","title":"Chronicle","template":"defaultItem","contentType":"MOVIE","slugId":"chronicle-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV182bffee5a1584f4529991f03132cb74/details","description":""},{"id":"MMV8CB0B5A1984E509086165FCBBD98903C9","title":"The Chronicles Of Narnia: Prince Caspian","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-narnia-prince-caspian-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8CB0B5A1984E509086165FCBBD98903C9/details","description":""},{"id":"1MV5a3ac2ecbb5236652dae6610aedebc6f","title":"The Spiderwick Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"the-spiderwick-chronicles-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5a3ac2ecbb5236652dae6610aedebc6f/details","description":""},{"id":"1MVc25353e69eb3f7b9cdc8c1d8a846ec41","title":"The Chronicles of Riddick (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-riddick-unrated-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc25353e69eb3f7b9cdc8c1d8a846ec41/details","description":""},{"id":"1MV528de04533d428326556dc501a976d26","title":"The Chronicles of Riddick","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-riddick-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV528de04533d428326556dc501a976d26/details","description":""},{"id":"1MV1912c69130a3ebebc33d06befca6306a","title":"The Chronicles of Narnia: The Voyage of the Dawn Treader","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1912c69130a3ebebc33d06befca6306a/details","description":""},{"id":"MMVD1D6282976FED598EEC650E156C5AAF62","title":"The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD1D6282976FED598EEC650E156C5AAF62/details","description":""},{"id":"MMVCF5E25F277C41F3D967C77C055AC3FDE3","title":"Chronicles of the Ghostly Tribe","template":"defaultItem","contentType":"MOVIE","slugId":"chronicles-of-the-ghostly-tribe-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCF5E25F277C41F3D967C77C055AC3FDE3/details","description":""},{"id":"MMV4E8D4191611D045A224BC91B1DA0856B3","title":"The SB Chronicles Vol 3.","template":"defaultItem","contentType":"MOVIE","slugId":"the-sb-chronicles-vol-3-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4E8D4191611D045A224BC91B1DA0856B3/details","description":""},{"id":"MMV2C0D5902C7C54F6D6C68BB3EB2471E48B","title":"Pawn Shop Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"pawn-shop-chronicles-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV2C0D5902C7C54F6D6C68BB3EB2471E48B/details","description":""},{"id":"1MV16ab2ce40b099c7ffdf467dd5c77d016","title":"Chronicle(Director's Cut)","template":"defaultItem","contentType":"MOVIE","slugId":"chronicledirectors-cut-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV16ab2ce40b099c7ffdf467dd5c77d016/details","description":""},{"id":"1MV5d97dcbae336b2f28d3f642c72c3393b","title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe(Extended Edition)","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobeextended-edition-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5d97dcbae336b2f28d3f642c72c3393b/details","description":""},{"id":"1MVbcc0dfc08d8151936f68e7f7cd9d6733","title":"UFO Chronicles: Aliens on Earth","template":"defaultItem","contentType":"MOVIE","slugId":"ufo-chronicles-aliens-on-earth-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVbcc0dfc08d8151936f68e7f7cd9d6733/details","description":""},{"id":"1MVe533b2b850c5e864d9acdd85b2e2e669","title":"Chronicles of Evil","template":"defaultItem","contentType":"MOVIE","slugId":"chronicles-of-evil-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe533b2b850c5e864d9acdd85b2e2e669/details","description":""},{"id":"1MVd25f2dcd66693f076635ba90fc6c4fe2","title":"UFO Chronicles: Area 51 Exposed","template":"defaultItem","contentType":"MOVIE","slugId":"ufo-chronicles-area-51-exposed-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd25f2dcd66693f076635ba90fc6c4fe2/details","description":""},{"id":"MMV138A2576848DAD9188100B599AEA854F5","title":"The Chronicles of Riddick: Dark Fury","template":"defaultItem","contentType":"MOVIE","slugId":"the-chronicles-of-riddick-dark-fury-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV138A2576848DAD9188100B599AEA854F5/details","description":""},{"id":"1MVe56dfc8560e50072eded3f7a865377e4","title":"The Dragonphoenix Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"the-dragonphoenix-chronicles-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe56dfc8560e50072eded3f7a865377e4/details","description":""},{"id":"1MV04a23c62d3d43bb04ba6741aa198935d","title":"Love Chronicles: Secrets Revealed","template":"defaultItem","contentType":"MOVIE","slugId":"love-chronicles-secrets-revealed-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV04a23c62d3d43bb04ba6741aa198935d/details","description":""},{"id":"1MVff42dc21259ab2ed7ad9c3a488df680f","title":"The Fat Boy Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"the-fat-boy-chronicles-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVff42dc21259ab2ed7ad9c3a488df680f/details","description":""},{"id":"1MVfa1e6efddbf314371fb61cd9b4feca90","title":"Mutant Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"mutant-chronicles-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfa1e6efddbf314371fb61cd9b4feca90/details","description":""},{"id":"1MV1c1cd9027855d1c33fe014761e163284","title":"The Hellstrom Chronicle","template":"defaultItem","contentType":"MOVIE","slugId":"the-hellstrom-chronicle-1971","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1c1cd9027855d1c33fe014761e163284/details","description":""},{"id":"1MV5a644066764ad376de1526c2fdabdd30","title":"The Chicken Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"the-chicken-chronicles-1977","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV5a644066764ad376de1526c2fdabdd30/details","description":""},{"id":"1MVb0066e4ee6ee4a469d536e12003717fd","title":"The Martian Chronicles","template":"defaultItem","contentType":"MOVIE","slugId":"the-martian-chronicles-1980","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb0066e4ee6ee4a469d536e12003717fd/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Chronicle","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Americons'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":1,"pageCount":1,"pageNumber":0,"items":[{"id":"1MV6bf707e5e0f9054d4371d05a8ba95bfb","title":"Americons","template":"defaultItem","contentType":"MOVIE","slugId":"americons-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6bf707e5e0f9054d4371d05a8ba95bfb/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Americons","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -1072,7 +632,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="EQWHBfG7-iVjoR3p7uhFtr24TjHMYh7aRXTA" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="QCnHlj0f-0MaauEah1u-z3mIv_xUxL2x-dmY" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

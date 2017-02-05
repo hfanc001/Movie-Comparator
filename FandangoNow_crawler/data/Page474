@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Green Lantern. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Green Lantern. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Legend. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Legend. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Green Lantern. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Legend. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Green Lantern. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Legend. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Green Lantern. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Green%20Lantern","list_name":"Search Results for 'Green Lantern'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Legend. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Legend","list_name":"Search Results for 'Legend'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Green Lantern'
+                Search Results for 'Legend'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Green Lantern&#x27;"
-            data-list-id="Search-Results-for-Green-Lantern"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Green%20Lantern"
+            data-list-title="Search Results for &#x27;Legend&#x27;"
+            data-list-id="Search-Results-for-Legend"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Legend"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="5"
-            data-total-count="5"
+            data-page-count="47"
+            data-total-count="121"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV7596bfb675dbcf642d72b340f52df756"
-                        class="item__link js-flyout-item plus-card" data-id="1MV7596bfb675dbcf642d72b340f52df756"
-                        href="https://www.fandangonow.com/details/movie/green-lantern-emerald-knights-2011/1MV7596bfb675dbcf642d72b340f52df756?ele=list&elc=1MV7596bfb675dbcf642d72b340f52df756&eli=0&eci=1MV7596bfb675dbcf642d72b340f52df756"
+                        id="_item_MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260"
+                        href="https://www.fandangonow.com/details/movie/the-smurfs-the-legend-of-smurfy-hollow-2013/MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260?ele=list&elc=MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260&eli=0&eci=MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV7596bfb675dbcf642d72b340f52df756&amp;ql=70&amp;sizes=176x264"
-                            alt="Green Lantern: Emerald Knights MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260&amp;ql=70&amp;sizes=176x264"
+                            alt="The Smurfs: The Legend of Smurfy Hollow MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV465b35a853fc85efefd3100c78f414ac"
-                        class="item__link js-flyout-item plus-card" data-id="1MV465b35a853fc85efefd3100c78f414ac"
-                        href="https://www.fandangonow.com/details/movie/green-lantern-first-flight-2009/1MV465b35a853fc85efefd3100c78f414ac?ele=list&elc=1MV465b35a853fc85efefd3100c78f414ac&eli=1&eci=1MV465b35a853fc85efefd3100c78f414ac"
+                        id="_item_1MV11767af29f91a2f00035b4eeb22276da"
+                        class="item__link js-flyout-item plus-card" data-id="1MV11767af29f91a2f00035b4eeb22276da"
+                        href="https://www.fandangonow.com/details/movie/anchorman-the-legend-of-ron-burgundy-2004/1MV11767af29f91a2f00035b4eeb22276da?ele=list&elc=1MV11767af29f91a2f00035b4eeb22276da&eli=1&eci=1MV11767af29f91a2f00035b4eeb22276da"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV465b35a853fc85efefd3100c78f414ac&amp;ql=70&amp;sizes=176x264"
-                            alt="Green Lantern: First Flight MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV11767af29f91a2f00035b4eeb22276da&amp;ql=70&amp;sizes=176x264"
+                            alt="Anchorman: The Legend of Ron Burgundy MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVF3C7BF8E9F5B5D01958E08B5159D02500"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF3C7BF8E9F5B5D01958E08B5159D02500"
-                        href="https://www.fandangonow.com/details/movie/green-lantern-watchmen-directors-cut-2016/MMVF3C7BF8E9F5B5D01958E08B5159D02500?ele=list&elc=MMVF3C7BF8E9F5B5D01958E08B5159D02500&eli=2&eci=MMVF3C7BF8E9F5B5D01958E08B5159D02500"
+                        id="_item_MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB"
+                        class="item__link js-flyout-item plus-card" data-id="MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB"
+                        href="https://www.fandangonow.com/details/movie/dreamworks-how-to-train-your-dragon-legends-2012/MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB?ele=list&elc=MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB&eli=2&eci=MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVF3C7BF8E9F5B5D01958E08B5159D02500&amp;ql=70&amp;sizes=176x264"
-                            alt="Green Lantern + Watchmen (Director&#x27;s Cut) MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB&amp;ql=70&amp;sizes=176x264"
+                            alt="DreamWorks How to Train Your Dragon Legends MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -535,15 +535,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVa4110bb7aa58cebc5715629e2925791b"
-                        class="item__link js-flyout-item plus-card" data-id="1MVa4110bb7aa58cebc5715629e2925791b"
-                        href="https://www.fandangonow.com/details/movie/green-lantern-2011/1MVa4110bb7aa58cebc5715629e2925791b?ele=list&elc=1MVa4110bb7aa58cebc5715629e2925791b&eli=3&eci=1MVa4110bb7aa58cebc5715629e2925791b"
+                        id="_item_MMVF802EF4AFFBB25B0C90322FBCBD369299"
+                        class="item__link js-flyout-item plus-card" data-id="MMVF802EF4AFFBB25B0C90322FBCBD369299"
+                        href="https://www.fandangonow.com/details/movie/legends-of-oz-dorothys-return-2014/MMVF802EF4AFFBB25B0C90322FBCBD369299?ele=list&elc=MMVF802EF4AFFBB25B0C90322FBCBD369299&eli=3&eci=MMVF802EF4AFFBB25B0C90322FBCBD369299"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVa4110bb7aa58cebc5715629e2925791b&amp;ql=70&amp;sizes=176x264"
-                            alt="Green Lantern MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVF802EF4AFFBB25B0C90322FBCBD369299&amp;ql=70&amp;sizes=176x264"
+                            alt="Legends of Oz: Dorothy&#x27;s Return MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -555,15 +555,855 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV80348273CB4958C04137B27EB67B6F9EE"
-                        class="item__link js-flyout-item plus-card" data-id="MMV80348273CB4958C04137B27EB67B6F9EE"
-                        href="https://www.fandangonow.com/details/movie/green-lantern-extended-cut-2011/MMV80348273CB4958C04137B27EB67B6F9EE?ele=list&elc=MMV80348273CB4958C04137B27EB67B6F9EE&eli=4&eci=MMV80348273CB4958C04137B27EB67B6F9EE"
+                        id="_item_MMVCADA38EFF83826D9A61EC64AD6F76FBCE"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCADA38EFF83826D9A61EC64AD6F76FBCE"
+                        href="https://www.fandangonow.com/details/movie/tinker-bell-and-the-legend-of-the-neverbeast-2015/MMVCADA38EFF83826D9A61EC64AD6F76FBCE?ele=list&elc=MMVCADA38EFF83826D9A61EC64AD6F76FBCE&eli=4&eci=MMVCADA38EFF83826D9A61EC64AD6F76FBCE"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV80348273CB4958C04137B27EB67B6F9EE&amp;ql=70&amp;sizes=176x264"
-                            alt="Green Lantern (Extended Cut) MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVCADA38EFF83826D9A61EC64AD6F76FBCE&amp;ql=70&amp;sizes=176x264"
+                            alt="Tinker Bell and the Legend of the NeverBeast MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV54ad5617db93793c035de95c7d5c1b16"
+                        class="item__link js-flyout-item plus-card" data-id="1MV54ad5617db93793c035de95c7d5c1b16"
+                        href="https://www.fandangonow.com/details/movie/legends-of-the-fall-1994/1MV54ad5617db93793c035de95c7d5c1b16?ele=list&elc=1MV54ad5617db93793c035de95c7d5c1b16&eli=5&eci=1MV54ad5617db93793c035de95c7d5c1b16"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV54ad5617db93793c035de95c7d5c1b16&amp;ql=70&amp;sizes=176x264"
+                            alt="Legends of the Fall MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa1cf11cc5d52679bf4fcaea5b6ded06f"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa1cf11cc5d52679bf4fcaea5b6ded06f"
+                        href="https://www.fandangonow.com/details/movie/scooby-doo-legend-of-the-phantosaur-2011/1MVa1cf11cc5d52679bf4fcaea5b6ded06f?ele=list&elc=1MVa1cf11cc5d52679bf4fcaea5b6ded06f&eli=6&eci=1MVa1cf11cc5d52679bf4fcaea5b6ded06f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVa1cf11cc5d52679bf4fcaea5b6ded06f&amp;ql=70&amp;sizes=176x264"
+                            alt="Scooby-Doo! Legend of the Phantosaur MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVCE8972C32DD306532011D0A0706EE3B5B"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCE8972C32DD306532011D0A0706EE3B5B"
+                        href="https://www.fandangonow.com/details/movie/mojin-the-lost-legend-2015/MMVCE8972C32DD306532011D0A0706EE3B5B?ele=list&elc=MMVCE8972C32DD306532011D0A0706EE3B5B&eli=7&eci=MMVCE8972C32DD306532011D0A0706EE3B5B"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVCE8972C32DD306532011D0A0706EE3B5B&amp;ql=70&amp;sizes=176x264"
+                            alt="Mojin: The Lost Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVFDF0D29363176BFA78C5B24908A021C68"
+                        class="item__link js-flyout-item plus-card" data-id="MMVFDF0D29363176BFA78C5B24908A021C68"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-tarzan-2016/MMVFDF0D29363176BFA78C5B24908A021C68?ele=list&elc=MMVFDF0D29363176BFA78C5B24908A021C68&eli=8&eci=MMVFDF0D29363176BFA78C5B24908A021C68"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVFDF0D29363176BFA78C5B24908A021C68&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Tarzan MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA"
+                        href="https://www.fandangonow.com/details/movie/my-little-pony-equestria-girls-legend-of-everfree-2016/MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA?ele=list&elc=MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA&eli=9&eci=MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA&amp;ql=70&amp;sizes=176x264"
+                            alt="My Little Pony: Equestria Girls - Legend of Everfree MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV44ff33ab9e1c2712d1e87057b1afbf4b"
+                        class="item__link js-flyout-item plus-card" data-id="1MV44ff33ab9e1c2712d1e87057b1afbf4b"
+                        href="https://www.fandangonow.com/details/movie/i-am-legend-2007/1MV44ff33ab9e1c2712d1e87057b1afbf4b?ele=list&elc=1MV44ff33ab9e1c2712d1e87057b1afbf4b&eli=10&eci=1MV44ff33ab9e1c2712d1e87057b1afbf4b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV44ff33ab9e1c2712d1e87057b1afbf4b&amp;ql=70&amp;sizes=176x264"
+                            alt="I Am Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV158A32FDDB849297C8929C575BC05E18F"
+                        class="item__link js-flyout-item plus-card" data-id="MMV158A32FDDB849297C8929C575BC05E18F"
+                        href="https://www.fandangonow.com/details/movie/legend-2015/MMV158A32FDDB849297C8929C575BC05E18F?ele=list&elc=MMV158A32FDDB849297C8929C575BC05E18F&eli=11&eci=MMV158A32FDDB849297C8929C575BC05E18F"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV158A32FDDB849297C8929C575BC05E18F&amp;ql=70&amp;sizes=176x264"
+                            alt="Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV1f0dec06f13378bbda71dec52517311a"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1f0dec06f13378bbda71dec52517311a"
+                        href="https://www.fandangonow.com/details/movie/legend-of-the-guardians-the-owls-of-gahoole-2010/1MV1f0dec06f13378bbda71dec52517311a?ele=list&elc=1MV1f0dec06f13378bbda71dec52517311a&eli=12&eci=1MV1f0dec06f13378bbda71dec52517311a"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV1f0dec06f13378bbda71dec52517311a&amp;ql=70&amp;sizes=176x264"
+                            alt="Legend of the Guardians: The Owls of Ga&#x27;Hoole MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                        href="https://www.fandangonow.com/details/movie/rise-of-the-legend-2014/MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D?ele=list&elc=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D&eli=13&eci=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D&amp;ql=70&amp;sizes=176x264"
+                            alt="Rise of the Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV52EF8C33E45D645C4C005A4046F9A456F"
+                        class="item__link js-flyout-item plus-card" data-id="MMV52EF8C33E45D645C4C005A4046F9A456F"
+                        href="https://www.fandangonow.com/details/movie/thomas-friends-sodors-legend-of-the-lost-treasure-the-movie-2015/MMV52EF8C33E45D645C4C005A4046F9A456F?ele=list&elc=MMV52EF8C33E45D645C4C005A4046F9A456F&eli=14&eci=MMV52EF8C33E45D645C4C005A4046F9A456F"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV52EF8C33E45D645C4C005A4046F9A456F&amp;ql=70&amp;sizes=176x264"
+                            alt="Thomas &amp; Friends: Sodor’s Legend of the Lost Treasure - The Movie MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV44B4B87202C2EE630B23F1A757F8715CF"
+                        class="item__link js-flyout-item plus-card" data-id="MMV44B4B87202C2EE630B23F1A757F8715CF"
+                        href="https://www.fandangonow.com/details/movie/the-legend-ii-1993/MMV44B4B87202C2EE630B23F1A757F8715CF?ele=list&elc=MMV44B4B87202C2EE630B23F1A757F8715CF&eli=15&eci=MMV44B4B87202C2EE630B23F1A757F8715CF"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV44B4B87202C2EE630B23F1A757F8715CF&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend II MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV92547CFAD9479C67C8259D4D5148EBA8E"
+                        class="item__link js-flyout-item plus-card" data-id="MMV92547CFAD9479C67C8259D4D5148EBA8E"
+                        href="https://www.fandangonow.com/details/movie/sinbad-legend-of-the-seven-seas-road-to-el-dorado-2016/MMV92547CFAD9479C67C8259D4D5148EBA8E?ele=list&elc=MMV92547CFAD9479C67C8259D4D5148EBA8E&eli=16&eci=MMV92547CFAD9479C67C8259D4D5148EBA8E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV92547CFAD9479C67C8259D4D5148EBA8E&amp;ql=70&amp;sizes=176x264"
+                            alt="Sinbad: Legend of the Seven Seas / Road to El Dorado MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                        class="item__link js-flyout-item plus-card" data-id="1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                        href="https://www.fandangonow.com/details/movie/king-arthur-legend-of-the-sword-2017/1MV9bf607fab1a90b0d71d1a0f7b809e437?ele=list&elc=1MV9bf607fab1a90b0d71d1a0f7b809e437&eli=17&eci=1MV9bf607fab1a90b0d71d1a0f7b809e437"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV9bf607fab1a90b0d71d1a0f7b809e437&amp;ql=70&amp;sizes=176x264"
+                            alt="King Arthur: Legend of the Sword MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV1D8C811470F3278AFE671B31329E7EB5F"
+                        class="item__link js-flyout-item plus-card" data-id="MMV1D8C811470F3278AFE671B31329E7EB5F"
+                        href="https://www.fandangonow.com/details/movie/anchorman-2-the-legend-continues-2013/MMV1D8C811470F3278AFE671B31329E7EB5F?ele=list&elc=MMV1D8C811470F3278AFE671B31329E7EB5F&eli=18&eci=MMV1D8C811470F3278AFE671B31329E7EB5F"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV1D8C811470F3278AFE671B31329E7EB5F&amp;ql=70&amp;sizes=176x264"
+                            alt="Anchorman 2: The Legend Continues MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVE66202F4C90BE725731C7A7D622A06103"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE66202F4C90BE725731C7A7D622A06103"
+                        href="https://www.fandangonow.com/details/movie/k-9-adventures-legend-of-the-lost-gold-2015/MMVE66202F4C90BE725731C7A7D622A06103?ele=list&elc=MMVE66202F4C90BE725731C7A7D622A06103&eli=19&eci=MMVE66202F4C90BE725731C7A7D622A06103"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVE66202F4C90BE725731C7A7D622A06103&amp;ql=70&amp;sizes=176x264"
+                            alt="K-9 Adventures: Legend of the Lost Gold MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVed37cc58c7f91f064390b63adb0549af"
+                        class="item__link js-flyout-item plus-card" data-id="1MVed37cc58c7f91f064390b63adb0549af"
+                        href="https://www.fandangonow.com/details/movie/scooby-doo-and-the-legend-of-the-vampire-2003/1MVed37cc58c7f91f064390b63adb0549af?ele=list&elc=1MVed37cc58c7f91f064390b63adb0549af&eli=20&eci=1MVed37cc58c7f91f064390b63adb0549af"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVed37cc58c7f91f064390b63adb0549af&amp;ql=70&amp;sizes=176x264"
+                            alt="Scooby-Doo and the Legend of the Vampire MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVD54BFEE00350CE60DE573E869F43C2376"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD54BFEE00350CE60DE573E869F43C2376"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-hercules-2014/MMVD54BFEE00350CE60DE573E869F43C2376?ele=list&elc=MMVD54BFEE00350CE60DE573E869F43C2376&eli=21&eci=MMVD54BFEE00350CE60DE573E869F43C2376"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVD54BFEE00350CE60DE573E869F43C2376&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Hercules MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV41E200A4D0390283A1A03AD5D3A69577E"
+                        class="item__link js-flyout-item plus-card" data-id="MMV41E200A4D0390283A1A03AD5D3A69577E"
+                        href="https://www.fandangonow.com/details/movie/alpha-and-omega-the-legend-of-the-saw-tooth-cave-2014/MMV41E200A4D0390283A1A03AD5D3A69577E?ele=list&elc=MMV41E200A4D0390283A1A03AD5D3A69577E&eli=22&eci=MMV41E200A4D0390283A1A03AD5D3A69577E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV41E200A4D0390283A1A03AD5D3A69577E&amp;ql=70&amp;sizes=176x264"
+                            alt="Alpha and Omega: The Legend of the Saw Tooth Cave MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV584122fb01236dccadb47bf00b4fa5ce"
+                        class="item__link js-flyout-item plus-card" data-id="1MV584122fb01236dccadb47bf00b4fa5ce"
+                        href="https://www.fandangonow.com/details/movie/bionicle-the-legend-reborn-2009/1MV584122fb01236dccadb47bf00b4fa5ce?ele=list&elc=1MV584122fb01236dccadb47bf00b4fa5ce&eli=23&eci=1MV584122fb01236dccadb47bf00b4fa5ce"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV584122fb01236dccadb47bf00b4fa5ce&amp;ql=70&amp;sizes=176x264"
+                            alt="Bionicle: The Legend Reborn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVEBADD229E3D6F2471DA9516A3DD42ED34"
+                        class="item__link js-flyout-item plus-card" data-id="MMVEBADD229E3D6F2471DA9516A3DD42ED34"
+                        href="https://www.fandangonow.com/details/movie/gangster-playboy-legends-2013/MMVEBADD229E3D6F2471DA9516A3DD42ED34?ele=list&elc=MMVEBADD229E3D6F2471DA9516A3DD42ED34&eli=24&eci=MMVEBADD229E3D6F2471DA9516A3DD42ED34"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVEBADD229E3D6F2471DA9516A3DD42ED34&amp;ql=70&amp;sizes=176x264"
+                            alt="Gangster Playboy Legends MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV720BFA3EC9F942DF03FF999B79465A188"
+                        class="item__link js-flyout-item plus-card" data-id="MMV720BFA3EC9F942DF03FF999B79465A188"
+                        href="https://www.fandangonow.com/details/movie/anchorman-2-the-legend-continues-super-sized-version-2013/MMV720BFA3EC9F942DF03FF999B79465A188?ele=list&elc=MMV720BFA3EC9F942DF03FF999B79465A188&eli=25&eci=MMV720BFA3EC9F942DF03FF999B79465A188"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV720BFA3EC9F942DF03FF999B79465A188&amp;ql=70&amp;sizes=176x264"
+                            alt="Anchorman 2: The Legend Continues (Super-Sized Version) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVc0f4bac41a60161a807c567127ae57ec"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc0f4bac41a60161a807c567127ae57ec"
+                        href="https://www.fandangonow.com/details/movie/shadowland-the-legend-2012/1MVc0f4bac41a60161a807c567127ae57ec?ele=list&elc=1MVc0f4bac41a60161a807c567127ae57ec&eli=26&eci=1MVc0f4bac41a60161a807c567127ae57ec"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVc0f4bac41a60161a807c567127ae57ec&amp;ql=70&amp;sizes=176x264"
+                            alt="Shadowland: The Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                        href="https://www.fandangonow.com/details/movie/ip-man-2-legend-of-the-grand-master-2011/MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40?ele=list&elc=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40&eli=27&eci=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40&amp;ql=70&amp;sizes=176x264"
+                            alt="Ip Man 2: Legend of the Grand Master MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV29f0db7f5d1d4c3e8e4b869d4697c776"
+                        class="item__link js-flyout-item plus-card" data-id="1MV29f0db7f5d1d4c3e8e4b869d4697c776"
+                        href="https://www.fandangonow.com/details/movie/legend-1986/1MV29f0db7f5d1d4c3e8e4b869d4697c776?ele=list&elc=1MV29f0db7f5d1d4c3e8e4b869d4697c776&eli=28&eci=1MV29f0db7f5d1d4c3e8e4b869d4697c776"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV29f0db7f5d1d4c3e8e4b869d4697c776&amp;ql=70&amp;sizes=176x264"
+                            alt="Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa1644d2971467349be6bfa7c9b10b746"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa1644d2971467349be6bfa7c9b10b746"
+                        href="https://www.fandangonow.com/details/movie/sinbad-legend-of-the-seven-seas-2003/1MVa1644d2971467349be6bfa7c9b10b746?ele=list&elc=1MVa1644d2971467349be6bfa7c9b10b746&eli=29&eci=1MVa1644d2971467349be6bfa7c9b10b746"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVa1644d2971467349be6bfa7c9b10b746&amp;ql=70&amp;sizes=176x264"
+                            alt="Sinbad: Legend of the Seven Seas MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVECC420FB0625503CA64A72F9E1DF107D5"
+                        class="item__link js-flyout-item plus-card" data-id="MMVECC420FB0625503CA64A72F9E1DF107D5"
+                        href="https://www.fandangonow.com/details/movie/street-fighter-the-legend-of-chun-li-unrated-2009/MMVECC420FB0625503CA64A72F9E1DF107D5?ele=list&elc=MMVECC420FB0625503CA64A72F9E1DF107D5&eli=30&eci=MMVECC420FB0625503CA64A72F9E1DF107D5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVECC420FB0625503CA64A72F9E1DF107D5&amp;ql=70&amp;sizes=176x264"
+                            alt="Street Fighter: The Legend of Chun-Li (Unrated) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV6DC7218ECE505139508E5CE1F699D7408"
+                        class="item__link js-flyout-item plus-card" data-id="MMV6DC7218ECE505139508E5CE1F699D7408"
+                        href="https://www.fandangonow.com/details/movie/i-am-legend-alternate-ending-2007/MMV6DC7218ECE505139508E5CE1F699D7408?ele=list&elc=MMV6DC7218ECE505139508E5CE1F699D7408&eli=31&eci=MMV6DC7218ECE505139508E5CE1F699D7408"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV6DC7218ECE505139508E5CE1F699D7408&amp;ql=70&amp;sizes=176x264"
+                            alt="I Am Legend (Alternate Ending) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV919c898f75af1f00746f001b5bf314a4"
+                        class="item__link js-flyout-item plus-card" data-id="1MV919c898f75af1f00746f001b5bf314a4"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-zorro-2005/1MV919c898f75af1f00746f001b5bf314a4?ele=list&elc=1MV919c898f75af1f00746f001b5bf314a4&eli=32&eci=1MV919c898f75af1f00746f001b5bf314a4"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV919c898f75af1f00746f001b5bf314a4&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Zorro MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVde14aeeff4ee6cf62da46f6503fcd536"
+                        class="item__link js-flyout-item plus-card" data-id="1MVde14aeeff4ee6cf62da46f6503fcd536"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-the-shadowless-sword-2005/1MVde14aeeff4ee6cf62da46f6503fcd536?ele=list&elc=1MVde14aeeff4ee6cf62da46f6503fcd536&eli=33&eci=1MVde14aeeff4ee6cf62da46f6503fcd536"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVde14aeeff4ee6cf62da46f6503fcd536&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of the Shadowless Sword MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV88E483D8AF3FF0DC571EFA4B8927AE3A4"
+                        class="item__link js-flyout-item plus-card" data-id="MMV88E483D8AF3FF0DC571EFA4B8927AE3A4"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-frosty-the-snowman-2004/MMV88E483D8AF3FF0DC571EFA4B8927AE3A4?ele=list&elc=MMV88E483D8AF3FF0DC571EFA4B8927AE3A4&eli=34&eci=MMV88E483D8AF3FF0DC571EFA4B8927AE3A4"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV88E483D8AF3FF0DC571EFA4B8927AE3A4&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Frosty the Snowman MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVc573fc74144d031791baee7e71a6398a"
+                        class="item__link js-flyout-item plus-card" data-id="1MVc573fc74144d031791baee7e71a6398a"
+                        href="https://www.fandangonow.com/details/movie/tremors-4-the-legend-begins-2003/1MVc573fc74144d031791baee7e71a6398a?ele=list&elc=1MVc573fc74144d031791baee7e71a6398a&eli=35&eci=1MVc573fc74144d031791baee7e71a6398a"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVc573fc74144d031791baee7e71a6398a&amp;ql=70&amp;sizes=176x264"
+                            alt="Tremors 4: The Legend Begins MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV70cf2633cb13238248997be899bad933"
+                        class="item__link js-flyout-item plus-card" data-id="1MV70cf2633cb13238248997be899bad933"
+                        href="https://www.fandangonow.com/details/movie/supermensch-the-legend-of-shep-gordon-2014/1MV70cf2633cb13238248997be899bad933?ele=list&elc=1MV70cf2633cb13238248997be899bad933&eli=36&eci=1MV70cf2633cb13238248997be899bad933"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV70cf2633cb13238248997be899bad933&amp;ql=70&amp;sizes=176x264"
+                            alt="Supermensch: The Legend of Shep Gordon MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7cae8399eef1e6025abae172a742fe0c"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7cae8399eef1e6025abae172a742fe0c"
+                        href="https://www.fandangonow.com/details/movie/still-holding-on-the-legend-of-cadillac-jack-1998/1MV7cae8399eef1e6025abae172a742fe0c?ele=list&elc=1MV7cae8399eef1e6025abae172a742fe0c&eli=37&eci=1MV7cae8399eef1e6025abae172a742fe0c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV7cae8399eef1e6025abae172a742fe0c&amp;ql=70&amp;sizes=176x264"
+                            alt="Still Holding On: The Legend of Cadillac Jack MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV64822847bd8d327dcae565a15a5ae37c"
+                        class="item__link js-flyout-item plus-card" data-id="1MV64822847bd8d327dcae565a15a5ae37c"
+                        href="https://www.fandangonow.com/details/movie/greystoke-the-legend-of-tarzan-lord-of-the-apes-1984/1MV64822847bd8d327dcae565a15a5ae37c?ele=list&elc=1MV64822847bd8d327dcae565a15a5ae37c&eli=38&eci=1MV64822847bd8d327dcae565a15a5ae37c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV64822847bd8d327dcae565a15a5ae37c&amp;ql=70&amp;sizes=176x264"
+                            alt="Greystoke: The Legend of Tarzan, Lord of the Apes MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV9a9e279543bf51f8afcd1d14475c68fe"
+                        class="item__link js-flyout-item plus-card" data-id="1MV9a9e279543bf51f8afcd1d14475c68fe"
+                        href="https://www.fandangonow.com/details/movie/print-the-legend-2014/1MV9a9e279543bf51f8afcd1d14475c68fe?ele=list&elc=1MV9a9e279543bf51f8afcd1d14475c68fe&eli=39&eci=1MV9a9e279543bf51f8afcd1d14475c68fe"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV9a9e279543bf51f8afcd1d14475c68fe&amp;ql=70&amp;sizes=176x264"
+                            alt="Print the Legend MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV00da17b83bcc6cb7be1aab3126ddee1f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV00da17b83bcc6cb7be1aab3126ddee1f"
+                        href="https://www.fandangonow.com/details/movie/city-slickers-ii-the-legend-of-curlys-gold-1994/1MV00da17b83bcc6cb7be1aab3126ddee1f?ele=list&elc=1MV00da17b83bcc6cb7be1aab3126ddee1f&eli=40&eci=1MV00da17b83bcc6cb7be1aab3126ddee1f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV00da17b83bcc6cb7be1aab3126ddee1f&amp;ql=70&amp;sizes=176x264"
+                            alt="City Slickers II: The Legend of Curly&#x27;s Gold MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV9c2b10c5863a7bd90cf3888265d0cbd0"
+                        class="item__link js-flyout-item plus-card" data-id="1MV9c2b10c5863a7bd90cf3888265d0cbd0"
+                        href="https://www.fandangonow.com/details/movie/alpha-and-omega-the-legend-of-the-saw-tooth-cave-2014/1MV9c2b10c5863a7bd90cf3888265d0cbd0?ele=list&elc=1MV9c2b10c5863a7bd90cf3888265d0cbd0&eli=41&eci=1MV9c2b10c5863a7bd90cf3888265d0cbd0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV9c2b10c5863a7bd90cf3888265d0cbd0&amp;ql=70&amp;sizes=176x264"
+                            alt="Alpha and Omega: The Legend of the Saw Tooth Cave MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV186d977f6076fae84aa0f400c2df298b"
+                        class="item__link js-flyout-item plus-card" data-id="1MV186d977f6076fae84aa0f400c2df298b"
+                        href="https://www.fandangonow.com/details/movie/rebound-the-legend-of-earl-the-goat-manigault-1996/1MV186d977f6076fae84aa0f400c2df298b?ele=list&elc=1MV186d977f6076fae84aa0f400c2df298b&eli=42&eci=1MV186d977f6076fae84aa0f400c2df298b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV186d977f6076fae84aa0f400c2df298b&amp;ql=70&amp;sizes=176x264"
+                            alt="Rebound -- The Legend of Earl The Goat Manigault MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV706cc7c38616b35f2331294e6c9da045"
+                        class="item__link js-flyout-item plus-card" data-id="1MV706cc7c38616b35f2331294e6c9da045"
+                        href="https://www.fandangonow.com/details/movie/tinker-bell-and-the-legend-of-the-neverbeast-2014/1MV706cc7c38616b35f2331294e6c9da045?ele=list&elc=1MV706cc7c38616b35f2331294e6c9da045&eli=43&eci=1MV706cc7c38616b35f2331294e6c9da045"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV706cc7c38616b35f2331294e6c9da045&amp;ql=70&amp;sizes=176x264"
+                            alt="Tinker Bell and the Legend of the NeverBeast MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV84efe65e51ceccf520c1391d8d8efd2e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV84efe65e51ceccf520c1391d8d8efd2e"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-pale-male-2009/1MV84efe65e51ceccf520c1391d8d8efd2e?ele=list&elc=1MV84efe65e51ceccf520c1391d8d8efd2e&eli=44&eci=1MV84efe65e51ceccf520c1391d8d8efd2e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV84efe65e51ceccf520c1391d8d8efd2e&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Pale Male MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV773ff26cedc180f03a23cbf70740e9a2"
+                        class="item__link js-flyout-item plus-card" data-id="1MV773ff26cedc180f03a23cbf70740e9a2"
+                        href="https://www.fandangonow.com/details/movie/the-legend-of-longwood-2014/1MV773ff26cedc180f03a23cbf70740e9a2?ele=list&elc=1MV773ff26cedc180f03a23cbf70740e9a2&eli=45&eci=1MV773ff26cedc180f03a23cbf70740e9a2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV773ff26cedc180f03a23cbf70740e9a2&amp;ql=70&amp;sizes=176x264"
+                            alt="The Legend of Longwood MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV0473704e69a86554a84de8ed82370b5c"
+                        class="item__link js-flyout-item plus-card" data-id="1MV0473704e69a86554a84de8ed82370b5c"
+                        href="https://www.fandangonow.com/details/movie/halo-legends-2010/1MV0473704e69a86554a84de8ed82370b5c?ele=list&elc=1MV0473704e69a86554a84de8ed82370b5c&eli=46&eci=1MV0473704e69a86554a84de8ed82370b5c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV0473704e69a86554a84de8ed82370b5c&amp;ql=70&amp;sizes=176x264"
+                            alt="Halo Legends MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -689,7 +1529,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Green Lantern'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":5,"pageCount":5,"pageNumber":0,"items":[{"id":"1MV7596bfb675dbcf642d72b340f52df756","title":"Green Lantern: Emerald Knights","template":"defaultItem","contentType":"MOVIE","slugId":"green-lantern-emerald-knights-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7596bfb675dbcf642d72b340f52df756/details","description":""},{"id":"1MV465b35a853fc85efefd3100c78f414ac","title":"Green Lantern: First Flight","template":"defaultItem","contentType":"MOVIE","slugId":"green-lantern-first-flight-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV465b35a853fc85efefd3100c78f414ac/details","description":""},{"id":"MMVF3C7BF8E9F5B5D01958E08B5159D02500","title":"Green Lantern + Watchmen (Director's Cut)","template":"defaultItem","contentType":"MOVIE","slugId":"green-lantern-watchmen-directors-cut-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF3C7BF8E9F5B5D01958E08B5159D02500/details","description":""},{"id":"1MVa4110bb7aa58cebc5715629e2925791b","title":"Green Lantern","template":"defaultItem","contentType":"MOVIE","slugId":"green-lantern-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa4110bb7aa58cebc5715629e2925791b/details","description":""},{"id":"MMV80348273CB4958C04137B27EB67B6F9EE","title":"Green Lantern (Extended Cut)","template":"defaultItem","contentType":"MOVIE","slugId":"green-lantern-extended-cut-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV80348273CB4958C04137B27EB67B6F9EE/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Green%20Lantern","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Legend'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":121,"pageCount":47,"pageNumber":0,"items":[{"id":"MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260","title":"The Smurfs: The Legend of Smurfy Hollow","template":"defaultItem","contentType":"MOVIE","slugId":"the-smurfs-the-legend-of-smurfy-hollow-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD4FF4ABF7ADCFB8ADDE3CB9EB0B851260/details","description":""},{"id":"1MV11767af29f91a2f00035b4eeb22276da","title":"Anchorman: The Legend of Ron Burgundy","template":"defaultItem","contentType":"MOVIE","slugId":"anchorman-the-legend-of-ron-burgundy-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV11767af29f91a2f00035b4eeb22276da/details","description":""},{"id":"MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB","title":"DreamWorks How to Train Your Dragon Legends","template":"defaultItem","contentType":"MOVIE","slugId":"dreamworks-how-to-train-your-dragon-legends-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF8039FD09BC0BC1E6D61E7CA3F674A3AB/details","description":""},{"id":"MMVF802EF4AFFBB25B0C90322FBCBD369299","title":"Legends of Oz: Dorothy's Return","template":"defaultItem","contentType":"MOVIE","slugId":"legends-of-oz-dorothys-return-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF802EF4AFFBB25B0C90322FBCBD369299/details","description":""},{"id":"MMVCADA38EFF83826D9A61EC64AD6F76FBCE","title":"Tinker Bell and the Legend of the NeverBeast","template":"defaultItem","contentType":"MOVIE","slugId":"tinker-bell-and-the-legend-of-the-neverbeast-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCADA38EFF83826D9A61EC64AD6F76FBCE/details","description":""},{"id":"1MV54ad5617db93793c035de95c7d5c1b16","title":"Legends of the Fall","template":"defaultItem","contentType":"MOVIE","slugId":"legends-of-the-fall-1994","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV54ad5617db93793c035de95c7d5c1b16/details","description":""},{"id":"1MVa1cf11cc5d52679bf4fcaea5b6ded06f","title":"Scooby-Doo! Legend of the Phantosaur","template":"defaultItem","contentType":"MOVIE","slugId":"scooby-doo-legend-of-the-phantosaur-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa1cf11cc5d52679bf4fcaea5b6ded06f/details","description":""},{"id":"MMVCE8972C32DD306532011D0A0706EE3B5B","title":"Mojin: The Lost Legend","template":"defaultItem","contentType":"MOVIE","slugId":"mojin-the-lost-legend-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCE8972C32DD306532011D0A0706EE3B5B/details","description":""},{"id":"MMVFDF0D29363176BFA78C5B24908A021C68","title":"The Legend of Tarzan","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-tarzan-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVFDF0D29363176BFA78C5B24908A021C68/details","description":""},{"id":"MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA","title":"My Little Pony: Equestria Girls - Legend of Everfree","template":"defaultItem","contentType":"MOVIE","slugId":"my-little-pony-equestria-girls-legend-of-everfree-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB2EF5D0D6598DF5A0C6DCB91E9B4482DA/details","description":""},{"id":"1MV44ff33ab9e1c2712d1e87057b1afbf4b","title":"I Am Legend","template":"defaultItem","contentType":"MOVIE","slugId":"i-am-legend-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV44ff33ab9e1c2712d1e87057b1afbf4b/details","description":""},{"id":"MMV158A32FDDB849297C8929C575BC05E18F","title":"Legend","template":"defaultItem","contentType":"MOVIE","slugId":"legend-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV158A32FDDB849297C8929C575BC05E18F/details","description":""},{"id":"1MV1f0dec06f13378bbda71dec52517311a","title":"Legend of the Guardians: The Owls of Ga'Hoole","template":"defaultItem","contentType":"MOVIE","slugId":"legend-of-the-guardians-the-owls-of-gahoole-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1f0dec06f13378bbda71dec52517311a/details","description":""},{"id":"MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D","title":"Rise of the Legend","template":"defaultItem","contentType":"MOVIE","slugId":"rise-of-the-legend-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8C5C581A6A10B90B3D66AF2D3A6AFDB8D/details","description":""},{"id":"MMV52EF8C33E45D645C4C005A4046F9A456F","title":"Thomas & Friends: Sodor’s Legend of the Lost Treasure - The Movie","template":"defaultItem","contentType":"MOVIE","slugId":"thomas-friends-sodors-legend-of-the-lost-treasure-the-movie-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV52EF8C33E45D645C4C005A4046F9A456F/details","description":""},{"id":"MMV44B4B87202C2EE630B23F1A757F8715CF","title":"The Legend II","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-ii-1993","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV44B4B87202C2EE630B23F1A757F8715CF/details","description":""},{"id":"MMV92547CFAD9479C67C8259D4D5148EBA8E","title":"Sinbad: Legend of the Seven Seas / Road to El Dorado","template":"defaultItem","contentType":"MOVIE","slugId":"sinbad-legend-of-the-seven-seas-road-to-el-dorado-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV92547CFAD9479C67C8259D4D5148EBA8E/details","description":""},{"id":"1MV9bf607fab1a90b0d71d1a0f7b809e437","title":"King Arthur: Legend of the Sword","template":"defaultItem","contentType":"MOVIE","slugId":"king-arthur-legend-of-the-sword-2017","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9bf607fab1a90b0d71d1a0f7b809e437/details","description":""},{"id":"MMV1D8C811470F3278AFE671B31329E7EB5F","title":"Anchorman 2: The Legend Continues","template":"defaultItem","contentType":"MOVIE","slugId":"anchorman-2-the-legend-continues-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV1D8C811470F3278AFE671B31329E7EB5F/details","description":""},{"id":"MMVE66202F4C90BE725731C7A7D622A06103","title":"K-9 Adventures: Legend of the Lost Gold","template":"defaultItem","contentType":"MOVIE","slugId":"k-9-adventures-legend-of-the-lost-gold-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE66202F4C90BE725731C7A7D622A06103/details","description":""},{"id":"1MVed37cc58c7f91f064390b63adb0549af","title":"Scooby-Doo and the Legend of the Vampire","template":"defaultItem","contentType":"MOVIE","slugId":"scooby-doo-and-the-legend-of-the-vampire-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVed37cc58c7f91f064390b63adb0549af/details","description":""},{"id":"MMVD54BFEE00350CE60DE573E869F43C2376","title":"The Legend of Hercules","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-hercules-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD54BFEE00350CE60DE573E869F43C2376/details","description":""},{"id":"MMV41E200A4D0390283A1A03AD5D3A69577E","title":"Alpha and Omega: The Legend of the Saw Tooth Cave","template":"defaultItem","contentType":"MOVIE","slugId":"alpha-and-omega-the-legend-of-the-saw-tooth-cave-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV41E200A4D0390283A1A03AD5D3A69577E/details","description":""},{"id":"1MV584122fb01236dccadb47bf00b4fa5ce","title":"Bionicle: The Legend Reborn","template":"defaultItem","contentType":"MOVIE","slugId":"bionicle-the-legend-reborn-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV584122fb01236dccadb47bf00b4fa5ce/details","description":""},{"id":"MMVEBADD229E3D6F2471DA9516A3DD42ED34","title":"Gangster Playboy Legends","template":"defaultItem","contentType":"MOVIE","slugId":"gangster-playboy-legends-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVEBADD229E3D6F2471DA9516A3DD42ED34/details","description":""},{"id":"MMV720BFA3EC9F942DF03FF999B79465A188","title":"Anchorman 2: The Legend Continues (Super-Sized Version)","template":"defaultItem","contentType":"MOVIE","slugId":"anchorman-2-the-legend-continues-super-sized-version-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV720BFA3EC9F942DF03FF999B79465A188/details","description":""},{"id":"1MVc0f4bac41a60161a807c567127ae57ec","title":"Shadowland: The Legend","template":"defaultItem","contentType":"MOVIE","slugId":"shadowland-the-legend-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc0f4bac41a60161a807c567127ae57ec/details","description":""},{"id":"MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40","title":"Ip Man 2: Legend of the Grand Master","template":"defaultItem","contentType":"MOVIE","slugId":"ip-man-2-legend-of-the-grand-master-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC3CB28A5DFDF5AD0BA7AB377F5A64CD40/details","description":""},{"id":"1MV29f0db7f5d1d4c3e8e4b869d4697c776","title":"Legend","template":"defaultItem","contentType":"MOVIE","slugId":"legend-1986","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV29f0db7f5d1d4c3e8e4b869d4697c776/details","description":""},{"id":"1MVa1644d2971467349be6bfa7c9b10b746","title":"Sinbad: Legend of the Seven Seas","template":"defaultItem","contentType":"MOVIE","slugId":"sinbad-legend-of-the-seven-seas-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa1644d2971467349be6bfa7c9b10b746/details","description":""},{"id":"MMVECC420FB0625503CA64A72F9E1DF107D5","title":"Street Fighter: The Legend of Chun-Li (Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"street-fighter-the-legend-of-chun-li-unrated-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVECC420FB0625503CA64A72F9E1DF107D5/details","description":""},{"id":"MMV6DC7218ECE505139508E5CE1F699D7408","title":"I Am Legend (Alternate Ending)","template":"defaultItem","contentType":"MOVIE","slugId":"i-am-legend-alternate-ending-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6DC7218ECE505139508E5CE1F699D7408/details","description":""},{"id":"1MV919c898f75af1f00746f001b5bf314a4","title":"The Legend of Zorro","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-zorro-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV919c898f75af1f00746f001b5bf314a4/details","description":""},{"id":"1MVde14aeeff4ee6cf62da46f6503fcd536","title":"The Legend of the Shadowless Sword","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-the-shadowless-sword-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVde14aeeff4ee6cf62da46f6503fcd536/details","description":""},{"id":"MMV88E483D8AF3FF0DC571EFA4B8927AE3A4","title":"The Legend of Frosty the Snowman","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-frosty-the-snowman-2004","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV88E483D8AF3FF0DC571EFA4B8927AE3A4/details","description":""},{"id":"1MVc573fc74144d031791baee7e71a6398a","title":"Tremors 4: The Legend Begins","template":"defaultItem","contentType":"MOVIE","slugId":"tremors-4-the-legend-begins-2003","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc573fc74144d031791baee7e71a6398a/details","description":""},{"id":"1MV70cf2633cb13238248997be899bad933","title":"Supermensch: The Legend of Shep Gordon","template":"defaultItem","contentType":"MOVIE","slugId":"supermensch-the-legend-of-shep-gordon-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV70cf2633cb13238248997be899bad933/details","description":""},{"id":"1MV7cae8399eef1e6025abae172a742fe0c","title":"Still Holding On: The Legend of Cadillac Jack","template":"defaultItem","contentType":"MOVIE","slugId":"still-holding-on-the-legend-of-cadillac-jack-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7cae8399eef1e6025abae172a742fe0c/details","description":""},{"id":"1MV64822847bd8d327dcae565a15a5ae37c","title":"Greystoke: The Legend of Tarzan, Lord of the Apes","template":"defaultItem","contentType":"MOVIE","slugId":"greystoke-the-legend-of-tarzan-lord-of-the-apes-1984","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV64822847bd8d327dcae565a15a5ae37c/details","description":""},{"id":"1MV9a9e279543bf51f8afcd1d14475c68fe","title":"Print the Legend","template":"defaultItem","contentType":"MOVIE","slugId":"print-the-legend-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9a9e279543bf51f8afcd1d14475c68fe/details","description":""},{"id":"1MV00da17b83bcc6cb7be1aab3126ddee1f","title":"City Slickers II: The Legend of Curly's Gold","template":"defaultItem","contentType":"MOVIE","slugId":"city-slickers-ii-the-legend-of-curlys-gold-1994","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV00da17b83bcc6cb7be1aab3126ddee1f/details","description":""},{"id":"1MV9c2b10c5863a7bd90cf3888265d0cbd0","title":"Alpha and Omega: The Legend of the Saw Tooth Cave","template":"defaultItem","contentType":"MOVIE","slugId":"alpha-and-omega-the-legend-of-the-saw-tooth-cave-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV9c2b10c5863a7bd90cf3888265d0cbd0/details","description":""},{"id":"1MV186d977f6076fae84aa0f400c2df298b","title":"Rebound -- The Legend of Earl The Goat Manigault","template":"defaultItem","contentType":"MOVIE","slugId":"rebound-the-legend-of-earl-the-goat-manigault-1996","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV186d977f6076fae84aa0f400c2df298b/details","description":""},{"id":"1MV706cc7c38616b35f2331294e6c9da045","title":"Tinker Bell and the Legend of the NeverBeast","template":"defaultItem","contentType":"MOVIE","slugId":"tinker-bell-and-the-legend-of-the-neverbeast-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV706cc7c38616b35f2331294e6c9da045/details","description":""},{"id":"1MV84efe65e51ceccf520c1391d8d8efd2e","title":"The Legend of Pale Male","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-pale-male-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV84efe65e51ceccf520c1391d8d8efd2e/details","description":""},{"id":"1MV773ff26cedc180f03a23cbf70740e9a2","title":"The Legend of Longwood","template":"defaultItem","contentType":"MOVIE","slugId":"the-legend-of-longwood-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV773ff26cedc180f03a23cbf70740e9a2/details","description":""},{"id":"1MV0473704e69a86554a84de8ed82370b5c","title":"Halo Legends","template":"defaultItem","contentType":"MOVIE","slugId":"halo-legends-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0473704e69a86554a84de8ed82370b5c/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Legend","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -712,7 +1552,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="iIYSFb8c-Wl0T-VcQYgLCiFA12E_dfldOPwM" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="uSmD2rmU-tGhGpIX2OATrUw-hkWsvkDfZhh8" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();
