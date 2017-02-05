@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Neighbors. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Neighbors. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search The Pyramid. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search The Pyramid. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Neighbors. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search The Pyramid. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Neighbors. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search The Pyramid. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Neighbors. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Neighbors","list_name":"Search Results for 'Neighbors'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Pyramid. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Pyramid","list_name":"Search Results for 'The Pyramid'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Neighbors'
+                Search Results for 'The Pyramid'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Neighbors&#x27;"
-            data-list-id="Search-Results-for-Neighbors"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Neighbors"
+            data-list-title="Search Results for &#x27;The Pyramid&#x27;"
+            data-list-id="Search-Results-for-The-Pyramid"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Pyramid"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="23"
-            data-total-count="26"
+            data-page-count="1"
+            data-total-count="2"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,455 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV615323E342D2DBEE33EE065276258040B"
-                        class="item__link js-flyout-item plus-card" data-id="MMV615323E342D2DBEE33EE065276258040B"
-                        href="https://www.fandangonow.com/details/movie/tyler-perrys-madeas-neighbors-from-hell-the-play-2014/MMV615323E342D2DBEE33EE065276258040B?ele=list&elc=MMV615323E342D2DBEE33EE065276258040B&eli=0&eci=MMV615323E342D2DBEE33EE065276258040B"
+                        id="_item_MMVECB171BD75C8F96388A979364FE52997F"
+                        class="item__link js-flyout-item plus-card" data-id="MMVECB171BD75C8F96388A979364FE52997F"
+                        href="https://www.fandangonow.com/details/movie/the-pyramid-2014/MMVECB171BD75C8F96388A979364FE52997F?ele=list&elc=MMVECB171BD75C8F96388A979364FE52997F&eli=0&eci=MMVECB171BD75C8F96388A979364FE52997F"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV615323E342D2DBEE33EE065276258040B&amp;ql=70&amp;sizes=176x264"
-                            alt="Tyler Perry&#x27;s Madea&#x27;s Neighbors From Hell - The Play MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVE966CEDD07BAF92CFEB4142705C8DD4BF"
-                        class="item__link js-flyout-item plus-card" data-id="MMVE966CEDD07BAF92CFEB4142705C8DD4BF"
-                        href="https://www.fandangonow.com/details/movie/neighbors-2014/MMVE966CEDD07BAF92CFEB4142705C8DD4BF?ele=list&elc=MMVE966CEDD07BAF92CFEB4142705C8DD4BF&eli=1&eci=MMVE966CEDD07BAF92CFEB4142705C8DD4BF"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVE966CEDD07BAF92CFEB4142705C8DD4BF&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighbors MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV71897E546711839ECEF78D672F5EF0D58"
-                        class="item__link js-flyout-item plus-card" data-id="MMV71897E546711839ECEF78D672F5EF0D58"
-                        href="https://www.fandangonow.com/details/movie/neighbors-1-and-2-bundle-2016/MMV71897E546711839ECEF78D672F5EF0D58?ele=list&elc=MMV71897E546711839ECEF78D672F5EF0D58&eli=2&eci=MMV71897E546711839ECEF78D672F5EF0D58"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV71897E546711839ECEF78D672F5EF0D58&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighbors 1 and 2 Bundle MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV697B2867AFAE516E8D34E634CA39A701A"
-                        class="item__link js-flyout-item plus-card" data-id="MMV697B2867AFAE516E8D34E634CA39A701A"
-                        href="https://www.fandangonow.com/details/movie/neighbors-2-sorority-rising-2016/MMV697B2867AFAE516E8D34E634CA39A701A?ele=list&elc=MMV697B2867AFAE516E8D34E634CA39A701A&eli=3&eci=MMV697B2867AFAE516E8D34E634CA39A701A"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV697B2867AFAE516E8D34E634CA39A701A&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighbors 2: Sorority Rising MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV59C84EF3763221412B377E78EAF28C4B0"
-                        class="item__link js-flyout-item plus-card" data-id="MMV59C84EF3763221412B377E78EAF28C4B0"
-                        href="https://www.fandangonow.com/details/movie/neighbors-alternate-opening-2014/MMV59C84EF3763221412B377E78EAF28C4B0?ele=list&elc=MMV59C84EF3763221412B377E78EAF28C4B0&eli=4&eci=MMV59C84EF3763221412B377E78EAF28C4B0"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV59C84EF3763221412B377E78EAF28C4B0&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighbors (Alternate Opening) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV33461678d8c14e194d9ce57e5ca0867e"
-                        class="item__link js-flyout-item plus-card" data-id="1MV33461678d8c14e194d9ce57e5ca0867e"
-                        href="https://www.fandangonow.com/details/movie/your-friends-neighbors-1998/1MV33461678d8c14e194d9ce57e5ca0867e?ele=list&elc=1MV33461678d8c14e194d9ce57e5ca0867e&eli=5&eci=1MV33461678d8c14e194d9ce57e5ca0867e"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV33461678d8c14e194d9ce57e5ca0867e&amp;ql=70&amp;sizes=176x264"
-                            alt="Your Friends &amp; Neighbors MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV8976943f54ebd7bb8e858c7a8e3ac02e"
-                        class="item__link js-flyout-item plus-card" data-id="1MV8976943f54ebd7bb8e858c7a8e3ac02e"
-                        href="https://www.fandangonow.com/details/movie/neighbors-1981/1MV8976943f54ebd7bb8e858c7a8e3ac02e?ele=list&elc=1MV8976943f54ebd7bb8e858c7a8e3ac02e&eli=6&eci=1MV8976943f54ebd7bb8e858c7a8e3ac02e"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV8976943f54ebd7bb8e858c7a8e3ac02e&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighbors MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV54ae4a92b380081a773ae3d5c9bc464b"
-                        class="item__link js-flyout-item plus-card" data-id="1MV54ae4a92b380081a773ae3d5c9bc464b"
-                        href="https://www.fandangonow.com/details/movie/how-to-kill-your-neighbors-dog-2002/1MV54ae4a92b380081a773ae3d5c9bc464b?ele=list&elc=1MV54ae4a92b380081a773ae3d5c9bc464b&eli=7&eci=1MV54ae4a92b380081a773ae3d5c9bc464b"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV54ae4a92b380081a773ae3d5c9bc464b&amp;ql=70&amp;sizes=176x264"
-                            alt="How to Kill Your Neighbor&#x27;s Dog MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVfeb970d746e5fb5d239f884e8590064e"
-                        class="item__link js-flyout-item plus-card" data-id="1MVfeb970d746e5fb5d239f884e8590064e"
-                        href="https://www.fandangonow.com/details/movie/love-thy-neighbor-1940/1MVfeb970d746e5fb5d239f884e8590064e?ele=list&elc=1MVfeb970d746e5fb5d239f884e8590064e&eli=8&eci=1MVfeb970d746e5fb5d239f884e8590064e"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVfeb970d746e5fb5d239f884e8590064e&amp;ql=70&amp;sizes=176x264"
-                            alt="Love Thy Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV23c26613ea8c59b812af8e32915bd087"
-                        class="item__link js-flyout-item plus-card" data-id="1MV23c26613ea8c59b812af8e32915bd087"
-                        href="https://www.fandangonow.com/details/movie/the-neighbor-2016/1MV23c26613ea8c59b812af8e32915bd087?ele=list&elc=1MV23c26613ea8c59b812af8e32915bd087&eli=9&eci=1MV23c26613ea8c59b812af8e32915bd087"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV23c26613ea8c59b812af8e32915bd087&amp;ql=70&amp;sizes=176x264"
-                            alt="The Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVe41b5a2fa5a213735a0cba59991edabf"
-                        class="item__link js-flyout-item plus-card" data-id="1MVe41b5a2fa5a213735a0cba59991edabf"
-                        href="https://www.fandangonow.com/details/movie/stalked-by-my-neighbor-2015/1MVe41b5a2fa5a213735a0cba59991edabf?ele=list&elc=1MVe41b5a2fa5a213735a0cba59991edabf&eli=10&eci=1MVe41b5a2fa5a213735a0cba59991edabf"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVe41b5a2fa5a213735a0cba59991edabf&amp;ql=70&amp;sizes=176x264"
-                            alt="Stalked by My Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMV3588374E17C5DC4E073A272180D9D67E9"
-                        class="item__link js-flyout-item plus-card" data-id="MMV3588374E17C5DC4E073A272180D9D67E9"
-                        href="https://www.fandangonow.com/details/movie/my-nuclear-neighbor-2014/MMV3588374E17C5DC4E073A272180D9D67E9?ele=list&elc=MMV3588374E17C5DC4E073A272180D9D67E9&eli=11&eci=MMV3588374E17C5DC4E073A272180D9D67E9"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV3588374E17C5DC4E073A272180D9D67E9&amp;ql=70&amp;sizes=176x264"
-                            alt="My Nuclear Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_MMVEB2B5B1376A3053B2B219FC58FC09C750"
-                        class="item__link js-flyout-item plus-card" data-id="MMVEB2B5B1376A3053B2B219FC58FC09C750"
-                        href="https://www.fandangonow.com/details/movie/the-neighbors-2013/MMVEB2B5B1376A3053B2B219FC58FC09C750?ele=list&elc=MMVEB2B5B1376A3053B2B219FC58FC09C750&eli=12&eci=MMVEB2B5B1376A3053B2B219FC58FC09C750"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVEB2B5B1376A3053B2B219FC58FC09C750&amp;ql=70&amp;sizes=176x264"
-                            alt="The Neighbors MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV0ec624af42e740ae30c32210d37e2b2b"
-                        class="item__link js-flyout-item plus-card" data-id="1MV0ec624af42e740ae30c32210d37e2b2b"
-                        href="https://www.fandangonow.com/details/movie/my-neighbors-secret-2009/1MV0ec624af42e740ae30c32210d37e2b2b?ele=list&elc=1MV0ec624af42e740ae30c32210d37e2b2b&eli=13&eci=1MV0ec624af42e740ae30c32210d37e2b2b"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV0ec624af42e740ae30c32210d37e2b2b&amp;ql=70&amp;sizes=176x264"
-                            alt="My Neighbor&#x27;s Secret MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV353edd58004511dfec0c484e6e979a92"
-                        class="item__link js-flyout-item plus-card" data-id="1MV353edd58004511dfec0c484e6e979a92"
-                        href="https://www.fandangonow.com/details/movie/my-neighbors-keeper-2007/1MV353edd58004511dfec0c484e6e979a92?ele=list&elc=1MV353edd58004511dfec0c484e6e979a92&eli=14&eci=1MV353edd58004511dfec0c484e6e979a92"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV353edd58004511dfec0c484e6e979a92&amp;ql=70&amp;sizes=176x264"
-                            alt="My Neighbor&#x27;s Keeper MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVf7be9cd5886dce1f7fb658df7fac4a2d"
-                        class="item__link js-flyout-item plus-card" data-id="1MVf7be9cd5886dce1f7fb658df7fac4a2d"
-                        href="https://www.fandangonow.com/details/movie/the-perfect-neighbor-2005/1MVf7be9cd5886dce1f7fb658df7fac4a2d?ele=list&elc=1MVf7be9cd5886dce1f7fb658df7fac4a2d&eli=15&eci=1MVf7be9cd5886dce1f7fb658df7fac4a2d"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVf7be9cd5886dce1f7fb658df7fac4a2d&amp;ql=70&amp;sizes=176x264"
-                            alt="The Perfect Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV1b6acc6eb73af5cfe80a6c14b8f6a04d"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1b6acc6eb73af5cfe80a6c14b8f6a04d"
-                        href="https://www.fandangonow.com/details/movie/good-neighbor-sam-1964/1MV1b6acc6eb73af5cfe80a6c14b8f6a04d?ele=list&elc=1MV1b6acc6eb73af5cfe80a6c14b8f6a04d&eli=16&eci=1MV1b6acc6eb73af5cfe80a6c14b8f6a04d"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV1b6acc6eb73af5cfe80a6c14b8f6a04d&amp;ql=70&amp;sizes=176x264"
-                            alt="Good Neighbor Sam MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV041501ef092098d43645ffd393d9799c"
-                        class="item__link js-flyout-item plus-card" data-id="1MV041501ef092098d43645ffd393d9799c"
-                        href="https://www.fandangonow.com/details/movie/friendly-neighbors-1940/1MV041501ef092098d43645ffd393d9799c?ele=list&elc=1MV041501ef092098d43645ffd393d9799c&eli=17&eci=1MV041501ef092098d43645ffd393d9799c"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV041501ef092098d43645ffd393d9799c&amp;ql=70&amp;sizes=176x264"
-                            alt="Friendly Neighbors MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV823dd232c39b9f6a9a3dbcc8cd0bd61a"
-                        class="item__link js-flyout-item plus-card" data-id="1MV823dd232c39b9f6a9a3dbcc8cd0bd61a"
-                        href="https://www.fandangonow.com/details/movie/hi-neighbor-1942/1MV823dd232c39b9f6a9a3dbcc8cd0bd61a?ele=list&elc=1MV823dd232c39b9f6a9a3dbcc8cd0bd61a&eli=18&eci=1MV823dd232c39b9f6a9a3dbcc8cd0bd61a"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV823dd232c39b9f6a9a3dbcc8cd0bd61a&amp;ql=70&amp;sizes=176x264"
-                            alt="Hi, Neighbor MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV11edc7a7139b03f5210030b200d862ab"
-                        class="item__link js-flyout-item plus-card" data-id="1MV11edc7a7139b03f5210030b200d862ab"
-                        href="https://www.fandangonow.com/details/movie/the-bear-1984/1MV11edc7a7139b03f5210030b200d862ab?ele=list&elc=1MV11edc7a7139b03f5210030b200d862ab&eli=19&eci=1MV11edc7a7139b03f5210030b200d862ab"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV11edc7a7139b03f5210030b200d862ab&amp;ql=70&amp;sizes=176x264"
-                            alt="The Bear MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVa2b3c316e6b7b9026e1e6fd8f7c31972"
-                        class="item__link js-flyout-item plus-card" data-id="1MVa2b3c316e6b7b9026e1e6fd8f7c31972"
-                        href="https://www.fandangonow.com/details/movie/operation-neighborhood-watch-2015/1MVa2b3c316e6b7b9026e1e6fd8f7c31972?ele=list&elc=1MVa2b3c316e6b7b9026e1e6fd8f7c31972&eli=20&eci=1MVa2b3c316e6b7b9026e1e6fd8f7c31972"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVa2b3c316e6b7b9026e1e6fd8f7c31972&amp;ql=70&amp;sizes=176x264"
-                            alt="Operation: Neighborhood Watch! MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV6b03db43a1a0a463b1fcae9723c875c3"
-                        class="item__link js-flyout-item plus-card" data-id="1MV6b03db43a1a0a463b1fcae9723c875c3"
-                        href="https://www.fandangonow.com/details/movie/neighboring-sounds-2012/1MV6b03db43a1a0a463b1fcae9723c875c3?ele=list&elc=1MV6b03db43a1a0a463b1fcae9723c875c3&eli=21&eci=1MV6b03db43a1a0a463b1fcae9723c875c3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV6b03db43a1a0a463b1fcae9723c875c3&amp;ql=70&amp;sizes=176x264"
-                            alt="Neighboring Sounds MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1SHfa6c36a39473d2926b47f20124b0a5c3"
-                        class="item__link js-flyout-item plus-card" data-id="1SHfa6c36a39473d2926b47f20124b0a5c3"
-                        href="https://www.fandangonow.com/details/movie/sesame-street-elmos-world-people-in-your-neighborhood-2011/1SHfa6c36a39473d2926b47f20124b0a5c3?ele=list&elc=1SHfa6c36a39473d2926b47f20124b0a5c3&eli=22&eci=1SHfa6c36a39473d2926b47f20124b0a5c3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1SHfa6c36a39473d2926b47f20124b0a5c3&amp;ql=70&amp;sizes=176x264"
-                            alt="Sesame Street: Elmo&#x27;s World: People in Your Neighborhood MOVIE"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVECB171BD75C8F96388A979364FE52997F&amp;ql=70&amp;sizes=176x264"
+                            alt="The Pyramid MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -1049,7 +609,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Neighbors'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":26,"pageCount":23,"pageNumber":0,"items":[{"id":"MMV615323E342D2DBEE33EE065276258040B","title":"Tyler Perry's Madea's Neighbors From Hell - The Play","template":"defaultItem","contentType":"MOVIE","slugId":"tyler-perrys-madeas-neighbors-from-hell-the-play-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV615323E342D2DBEE33EE065276258040B/details","description":""},{"id":"MMVE966CEDD07BAF92CFEB4142705C8DD4BF","title":"Neighbors","template":"defaultItem","contentType":"MOVIE","slugId":"neighbors-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE966CEDD07BAF92CFEB4142705C8DD4BF/details","description":""},{"id":"MMV71897E546711839ECEF78D672F5EF0D58","title":"Neighbors 1 and 2 Bundle","template":"defaultItem","contentType":"MOVIE","slugId":"neighbors-1-and-2-bundle-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV71897E546711839ECEF78D672F5EF0D58/details","description":""},{"id":"MMV697B2867AFAE516E8D34E634CA39A701A","title":"Neighbors 2: Sorority Rising","template":"defaultItem","contentType":"MOVIE","slugId":"neighbors-2-sorority-rising-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV697B2867AFAE516E8D34E634CA39A701A/details","description":""},{"id":"MMV59C84EF3763221412B377E78EAF28C4B0","title":"Neighbors (Alternate Opening)","template":"defaultItem","contentType":"MOVIE","slugId":"neighbors-alternate-opening-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV59C84EF3763221412B377E78EAF28C4B0/details","description":""},{"id":"1MV33461678d8c14e194d9ce57e5ca0867e","title":"Your Friends & Neighbors","template":"defaultItem","contentType":"MOVIE","slugId":"your-friends-neighbors-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV33461678d8c14e194d9ce57e5ca0867e/details","description":""},{"id":"1MV8976943f54ebd7bb8e858c7a8e3ac02e","title":"Neighbors","template":"defaultItem","contentType":"MOVIE","slugId":"neighbors-1981","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV8976943f54ebd7bb8e858c7a8e3ac02e/details","description":""},{"id":"1MV54ae4a92b380081a773ae3d5c9bc464b","title":"How to Kill Your Neighbor's Dog","template":"defaultItem","contentType":"MOVIE","slugId":"how-to-kill-your-neighbors-dog-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV54ae4a92b380081a773ae3d5c9bc464b/details","description":""},{"id":"1MVfeb970d746e5fb5d239f884e8590064e","title":"Love Thy Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"love-thy-neighbor-1940","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfeb970d746e5fb5d239f884e8590064e/details","description":""},{"id":"1MV23c26613ea8c59b812af8e32915bd087","title":"The Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"the-neighbor-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV23c26613ea8c59b812af8e32915bd087/details","description":""},{"id":"1MVe41b5a2fa5a213735a0cba59991edabf","title":"Stalked by My Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"stalked-by-my-neighbor-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe41b5a2fa5a213735a0cba59991edabf/details","description":""},{"id":"MMV3588374E17C5DC4E073A272180D9D67E9","title":"My Nuclear Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"my-nuclear-neighbor-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV3588374E17C5DC4E073A272180D9D67E9/details","description":""},{"id":"MMVEB2B5B1376A3053B2B219FC58FC09C750","title":"The Neighbors","template":"defaultItem","contentType":"MOVIE","slugId":"the-neighbors-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVEB2B5B1376A3053B2B219FC58FC09C750/details","description":""},{"id":"1MV0ec624af42e740ae30c32210d37e2b2b","title":"My Neighbor's Secret","template":"defaultItem","contentType":"MOVIE","slugId":"my-neighbors-secret-2009","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0ec624af42e740ae30c32210d37e2b2b/details","description":""},{"id":"1MV353edd58004511dfec0c484e6e979a92","title":"My Neighbor's Keeper","template":"defaultItem","contentType":"MOVIE","slugId":"my-neighbors-keeper-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV353edd58004511dfec0c484e6e979a92/details","description":""},{"id":"1MVf7be9cd5886dce1f7fb658df7fac4a2d","title":"The Perfect Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"the-perfect-neighbor-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf7be9cd5886dce1f7fb658df7fac4a2d/details","description":""},{"id":"1MV1b6acc6eb73af5cfe80a6c14b8f6a04d","title":"Good Neighbor Sam","template":"defaultItem","contentType":"MOVIE","slugId":"good-neighbor-sam-1964","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1b6acc6eb73af5cfe80a6c14b8f6a04d/details","description":""},{"id":"1MV041501ef092098d43645ffd393d9799c","title":"Friendly Neighbors","template":"defaultItem","contentType":"MOVIE","slugId":"friendly-neighbors-1940","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV041501ef092098d43645ffd393d9799c/details","description":""},{"id":"1MV823dd232c39b9f6a9a3dbcc8cd0bd61a","title":"Hi, Neighbor","template":"defaultItem","contentType":"MOVIE","slugId":"hi-neighbor-1942","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV823dd232c39b9f6a9a3dbcc8cd0bd61a/details","description":""},{"id":"1MV11edc7a7139b03f5210030b200d862ab","title":"The Bear","template":"defaultItem","contentType":"MOVIE","slugId":"the-bear-1984","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV11edc7a7139b03f5210030b200d862ab/details","description":""},{"id":"1MVa2b3c316e6b7b9026e1e6fd8f7c31972","title":"Operation: Neighborhood Watch!","template":"defaultItem","contentType":"MOVIE","slugId":"operation-neighborhood-watch-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa2b3c316e6b7b9026e1e6fd8f7c31972/details","description":""},{"id":"1MV6b03db43a1a0a463b1fcae9723c875c3","title":"Neighboring Sounds","template":"defaultItem","contentType":"MOVIE","slugId":"neighboring-sounds-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6b03db43a1a0a463b1fcae9723c875c3/details","description":""},{"id":"1SHfa6c36a39473d2926b47f20124b0a5c3","title":"Sesame Street: Elmo's World: People in Your Neighborhood","template":"defaultItem","contentType":"MOVIE","slugId":"sesame-street-elmos-world-people-in-your-neighborhood-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1SHfa6c36a39473d2926b47f20124b0a5c3/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Neighbors","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'The Pyramid'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":2,"pageCount":1,"pageNumber":0,"items":[{"id":"MMVECB171BD75C8F96388A979364FE52997F","title":"The Pyramid","template":"defaultItem","contentType":"MOVIE","slugId":"the-pyramid-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVECB171BD75C8F96388A979364FE52997F/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Pyramid","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -1072,7 +632,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="rFHk5WzD-OcHV_1QU-bnfElwGmHVwXwa1iss" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="pjv25X7C-aFX_bG5EUY3PR3By3waSTvUemgM" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

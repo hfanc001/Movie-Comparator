@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Megamind. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Megamind. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Brooklyn. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Brooklyn. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Megamind. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Brooklyn. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Megamind. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Brooklyn. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Megamind. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Megamind","list_name":"Search Results for 'Megamind'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Brooklyn. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Brooklyn","list_name":"Search Results for 'Brooklyn'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Megamind'
+                Search Results for 'Brooklyn'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Megamind&#x27;"
-            data-list-id="Search-Results-for-Megamind"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Megamind"
+            data-list-title="Search Results for &#x27;Brooklyn&#x27;"
+            data-list-id="Search-Results-for-Brooklyn"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Brooklyn"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="3"
-            data-total-count="3"
+            data-page-count="39"
+            data-total-count="45"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV15473fe5f243657ce009c7474db5da05"
-                        class="item__link js-flyout-item plus-card" data-id="1MV15473fe5f243657ce009c7474db5da05"
-                        href="https://www.fandangonow.com/details/movie/megamind-2010/1MV15473fe5f243657ce009c7474db5da05?ele=list&elc=1MV15473fe5f243657ce009c7474db5da05&eli=0&eci=1MV15473fe5f243657ce009c7474db5da05"
+                        id="_item_MMV7944DC94E46AEC9E9EF3F5B004051DD9C"
+                        class="item__link js-flyout-item plus-card" data-id="MMV7944DC94E46AEC9E9EF3F5B004051DD9C"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-2015/MMV7944DC94E46AEC9E9EF3F5B004051DD9C?ele=list&elc=MMV7944DC94E46AEC9E9EF3F5B004051DD9C&eli=0&eci=MMV7944DC94E46AEC9E9EF3F5B004051DD9C"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV15473fe5f243657ce009c7474db5da05&amp;ql=70&amp;sizes=176x264"
-                            alt="Megamind MOVIE"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV7944DC94E46AEC9E9EF3F5B004051DD9C&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVEADA56BBBBF398A92448C7F4C1FF8873A"
-                        class="item__link js-flyout-item plus-card" data-id="MMVEADA56BBBBF398A92448C7F4C1FF8873A"
-                        href="https://www.fandangonow.com/details/movie/megamind-monsters-vs-aliens-2016/MMVEADA56BBBBF398A92448C7F4C1FF8873A?ele=list&elc=MMVEADA56BBBBF398A92448C7F4C1FF8873A&eli=1&eci=MMVEADA56BBBBF398A92448C7F4C1FF8873A"
+                        id="_item_MMVB4F305887A00B304A9B1661C3F98F4888"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB4F305887A00B304A9B1661C3F98F4888"
+                        href="https://www.fandangonow.com/details/movie/baked-in-brooklyn-2016/MMVB4F305887A00B304A9B1661C3F98F4888?ele=list&elc=MMVB4F305887A00B304A9B1661C3F98F4888&eli=1&eci=MMVB4F305887A00B304A9B1661C3F98F4888"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVEADA56BBBBF398A92448C7F4C1FF8873A&amp;ql=70&amp;sizes=176x264"
-                            alt="Megamind / Monsters vs. Aliens MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVB4F305887A00B304A9B1661C3F98F4888&amp;ql=70&amp;sizes=176x264"
+                            alt="Baked In Brooklyn MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,735 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVC8B73486DA0CA7967C12977FC5909474A"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC8B73486DA0CA7967C12977FC5909474A"
-                        href="https://www.fandangonow.com/details/movie/megamind-the-button-of-doom-2011/MMVC8B73486DA0CA7967C12977FC5909474A?ele=list&elc=MMVC8B73486DA0CA7967C12977FC5909474A&eli=2&eci=MMVC8B73486DA0CA7967C12977FC5909474A"
+                        id="_item_MMV836EBCA10AE40542E6839478031F2E4C7"
+                        class="item__link js-flyout-item plus-card" data-id="MMV836EBCA10AE40542E6839478031F2E4C7"
+                        href="https://www.fandangonow.com/details/movie/the-angriest-man-in-brooklyn-2014/MMV836EBCA10AE40542E6839478031F2E4C7?ele=list&elc=MMV836EBCA10AE40542E6839478031F2E4C7&eli=2&eci=MMV836EBCA10AE40542E6839478031F2E4C7"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVC8B73486DA0CA7967C12977FC5909474A&amp;ql=70&amp;sizes=176x264"
-                            alt="Megamind: The Button of Doom MOVIE"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV836EBCA10AE40542E6839478031F2E4C7&amp;ql=70&amp;sizes=176x264"
+                            alt="The Angriest Man in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV8E6E89D20B4853E790555E03950B3C74C"
+                        class="item__link js-flyout-item plus-card" data-id="MMV8E6E89D20B4853E790555E03950B3C74C"
+                        href="https://www.fandangonow.com/details/movie/once-upon-a-time-in-brooklyn-2013/MMV8E6E89D20B4853E790555E03950B3C74C?ele=list&elc=MMV8E6E89D20B4853E790555E03950B3C74C&eli=3&eci=MMV8E6E89D20B4853E790555E03950B3C74C"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV8E6E89D20B4853E790555E03950B3C74C&amp;ql=70&amp;sizes=176x264"
+                            alt="Once Upon a Time in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV6da3a2d454b7c640eabca02e922cb94b"
+                        class="item__link js-flyout-item plus-card" data-id="1MV6da3a2d454b7c640eabca02e922cb94b"
+                        href="https://www.fandangonow.com/details/movie/brooklyns-finest-2010/1MV6da3a2d454b7c640eabca02e922cb94b?ele=list&elc=1MV6da3a2d454b7c640eabca02e922cb94b&eli=4&eci=1MV6da3a2d454b7c640eabca02e922cb94b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV6da3a2d454b7c640eabca02e922cb94b&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn&#x27;s Finest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVbfbf44057ecee5b6990448fcbcac2057"
+                        class="item__link js-flyout-item plus-card" data-id="1MVbfbf44057ecee5b6990448fcbcac2057"
+                        href="https://www.fandangonow.com/details/movie/the-brooklyn-banker-2016/1MVbfbf44057ecee5b6990448fcbcac2057?ele=list&elc=1MVbfbf44057ecee5b6990448fcbcac2057&eli=5&eci=1MVbfbf44057ecee5b6990448fcbcac2057"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVbfbf44057ecee5b6990448fcbcac2057&amp;ql=70&amp;sizes=176x264"
+                            alt="The Brooklyn Banker MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV6B0CE7872779B16890F82A7B3FE880A67"
+                        class="item__link js-flyout-item plus-card" data-id="MMV6B0CE7872779B16890F82A7B3FE880A67"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-uhd-with-hdr-2015/MMV6B0CE7872779B16890F82A7B3FE880A67?ele=list&elc=MMV6B0CE7872779B16890F82A7B3FE880A67&eli=6&eci=MMV6B0CE7872779B16890F82A7B3FE880A67"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV6B0CE7872779B16890F82A7B3FE880A67&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn (UHD with HDR) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVe9aaad421bc11fbaea3ef069084ed93b"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe9aaad421bc11fbaea3ef069084ed93b"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-castle-2012/1MVe9aaad421bc11fbaea3ef069084ed93b?ele=list&elc=1MVe9aaad421bc11fbaea3ef069084ed93b&eli=7&eci=1MVe9aaad421bc11fbaea3ef069084ed93b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVe9aaad421bc11fbaea3ef069084ed93b&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn Castle MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVbc3482ece998b71d4a69eb7d9deafdea"
+                        class="item__link js-flyout-item plus-card" data-id="1MVbc3482ece998b71d4a69eb7d9deafdea"
+                        href="https://www.fandangonow.com/details/movie/the-brooklyn-brothers-beat-the-best-2012/1MVbc3482ece998b71d4a69eb7d9deafdea?ele=list&elc=1MVbc3482ece998b71d4a69eb7d9deafdea&eli=8&eci=1MVbc3482ece998b71d4a69eb7d9deafdea"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVbc3482ece998b71d4a69eb7d9deafdea&amp;ql=70&amp;sizes=176x264"
+                            alt="The Brooklyn Brothers Beat the Best MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVb80d7dbb8f017e9d6d0f32e4ff56845c"
+                        class="item__link js-flyout-item plus-card" data-id="1MVb80d7dbb8f017e9d6d0f32e4ff56845c"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-lobster-2005/1MVb80d7dbb8f017e9d6d0f32e4ff56845c?ele=list&elc=1MVb80d7dbb8f017e9d6d0f32e4ff56845c&eli=9&eci=1MVb80d7dbb8f017e9d6d0f32e4ff56845c"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVb80d7dbb8f017e9d6d0f32e4ff56845c&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn Lobster MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVe5cc798d59dd4f2347747057858509a0"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe5cc798d59dd4f2347747057858509a0"
+                        href="https://www.fandangonow.com/details/movie/texas-brooklyn-and-heaven-1948/1MVe5cc798d59dd4f2347747057858509a0?ele=list&elc=1MVe5cc798d59dd4f2347747057858509a0&eli=10&eci=1MVe5cc798d59dd4f2347747057858509a0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVe5cc798d59dd4f2347747057858509a0&amp;ql=70&amp;sizes=176x264"
+                            alt="Texas, Brooklyn and Heaven MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV49f0647743c5c51362a82a52577a2d98"
+                        class="item__link js-flyout-item plus-card" data-id="1MV49f0647743c5c51362a82a52577a2d98"
+                        href="https://www.fandangonow.com/details/movie/my-bakery-in-brooklyn-2016/1MV49f0647743c5c51362a82a52577a2d98?ele=list&elc=1MV49f0647743c5c51362a82a52577a2d98&eli=11&eci=1MV49f0647743c5c51362a82a52577a2d98"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV49f0647743c5c51362a82a52577a2d98&amp;ql=70&amp;sizes=176x264"
+                            alt="My Bakery in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7642f0f2551b37590cfc1b5621b7388e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7642f0f2551b37590cfc1b5621b7388e"
+                        href="https://www.fandangonow.com/details/movie/goodnight-brooklyn-the-story-of-death-by-audio-2016/1MV7642f0f2551b37590cfc1b5621b7388e?ele=list&elc=1MV7642f0f2551b37590cfc1b5621b7388e&eli=12&eci=1MV7642f0f2551b37590cfc1b5621b7388e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV7642f0f2551b37590cfc1b5621b7388e&amp;ql=70&amp;sizes=176x264"
+                            alt="Goodnight Brooklyn: The Story of Death by Audio MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV119e7b1faa13fd1b717c3a6811ea4643"
+                        class="item__link js-flyout-item plus-card" data-id="1MV119e7b1faa13fd1b717c3a6811ea4643"
+                        href="https://www.fandangonow.com/details/movie/last-exit-to-brooklyn-1989/1MV119e7b1faa13fd1b717c3a6811ea4643?ele=list&elc=1MV119e7b1faa13fd1b717c3a6811ea4643&eli=13&eci=1MV119e7b1faa13fd1b717c3a6811ea4643"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV119e7b1faa13fd1b717c3a6811ea4643&amp;ql=70&amp;sizes=176x264"
+                            alt="Last Exit to Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV219674471df37caebfa68f0610ba9c91"
+                        class="item__link js-flyout-item plus-card" data-id="1MV219674471df37caebfa68f0610ba9c91"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-2014/1MV219674471df37caebfa68f0610ba9c91?ele=list&elc=1MV219674471df37caebfa68f0610ba9c91&eli=14&eci=1MV219674471df37caebfa68f0610ba9c91"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV219674471df37caebfa68f0610ba9c91&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd164315a90f28c7d703710c97919c215"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd164315a90f28c7d703710c97919c215"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-girls-fight-club-2013/1MVd164315a90f28c7d703710c97919c215?ele=list&elc=1MVd164315a90f28c7d703710c97919c215&eli=15&eci=1MVd164315a90f28c7d703710c97919c215"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVd164315a90f28c7d703710c97919c215&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn Girls Fight Club MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd5e7d4816b369eafd0288a8631493335"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd5e7d4816b369eafd0288a8631493335"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-rules-2007/1MVd5e7d4816b369eafd0288a8631493335?ele=list&elc=1MVd5e7d4816b369eafd0288a8631493335&eli=16&eci=1MVd5e7d4816b369eafd0288a8631493335"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVd5e7d4816b369eafd0288a8631493335&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn Rules MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV595c527ca039cc98a94e649d9afcaeb8"
+                        class="item__link js-flyout-item plus-card" data-id="1MV595c527ca039cc98a94e649d9afcaeb8"
+                        href="https://www.fandangonow.com/details/movie/a-tree-grows-in-brooklyn-1945/1MV595c527ca039cc98a94e649d9afcaeb8?ele=list&elc=1MV595c527ca039cc98a94e649d9afcaeb8&eli=17&eci=1MV595c527ca039cc98a94e649d9afcaeb8"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV595c527ca039cc98a94e649d9afcaeb8&amp;ql=70&amp;sizes=176x264"
+                            alt="A Tree Grows in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV565336df9c72685b4dd5b933609815ea"
+                        class="item__link js-flyout-item plus-card" data-id="1MV565336df9c72685b4dd5b933609815ea"
+                        href="https://www.fandangonow.com/details/movie/straight-out-of-brooklyn-1991/1MV565336df9c72685b4dd5b933609815ea?ele=list&elc=1MV565336df9c72685b4dd5b933609815ea&eli=18&eci=1MV565336df9c72685b4dd5b933609815ea"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MV565336df9c72685b4dd5b933609815ea&amp;ql=70&amp;sizes=176x264"
+                            alt="Straight Out of Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVecae90a078894595d971fc42d7342ff5"
+                        class="item__link js-flyout-item plus-card" data-id="1MVecae90a078894595d971fc42d7342ff5"
+                        href="https://www.fandangonow.com/details/movie/vampire-in-brooklyn-1995/1MVecae90a078894595d971fc42d7342ff5?ele=list&elc=1MVecae90a078894595d971fc42d7342ff5&eli=19&eci=1MVecae90a078894595d971fc42d7342ff5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVecae90a078894595d971fc42d7342ff5&amp;ql=70&amp;sizes=176x264"
+                            alt="Vampire in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVb7858053dd61026d17065f3d96fa30d7"
+                        class="item__link js-flyout-item plus-card" data-id="1MVb7858053dd61026d17065f3d96fa30d7"
+                        href="https://www.fandangonow.com/details/movie/whistling-in-brooklyn-1943/1MVb7858053dd61026d17065f3d96fa30d7?ele=list&elc=1MVb7858053dd61026d17065f3d96fa30d7&eli=20&eci=1MVb7858053dd61026d17065f3d96fa30d7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVb7858053dd61026d17065f3d96fa30d7&amp;ql=70&amp;sizes=176x264"
+                            alt="Whistling in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVfddc73e9c8af15fe8712e1cd945ed936"
+                        class="item__link js-flyout-item plus-card" data-id="1MVfddc73e9c8af15fe8712e1cd945ed936"
+                        href="https://www.fandangonow.com/details/movie/over-the-brooklyn-bridge-1984/1MVfddc73e9c8af15fe8712e1cd945ed936?ele=list&elc=1MVfddc73e9c8af15fe8712e1cd945ed936&eli=21&eci=1MVfddc73e9c8af15fe8712e1cd945ed936"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVfddc73e9c8af15fe8712e1cd945ed936&amp;ql=70&amp;sizes=176x264"
+                            alt="Over the Brooklyn Bridge MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV418fd208dcfefff3501619a9d5149a62"
+                        class="item__link js-flyout-item plus-card" data-id="1MV418fd208dcfefff3501619a9d5149a62"
+                        href="https://www.fandangonow.com/details/movie/bela-lugosi-meets-a-brooklyn-gorilla-1952/1MV418fd208dcfefff3501619a9d5149a62?ele=list&elc=1MV418fd208dcfefff3501619a9d5149a62&eli=22&eci=1MV418fd208dcfefff3501619a9d5149a62"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV418fd208dcfefff3501619a9d5149a62&amp;ql=70&amp;sizes=176x264"
+                            alt="Bela Lugosi Meets a Brooklyn Gorilla MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV92bc1e1b8b377694c5ba079c82fbb034"
+                        class="item__link js-flyout-item plus-card" data-id="1MV92bc1e1b8b377694c5ba079c82fbb034"
+                        href="https://www.fandangonow.com/details/movie/it-happened-in-brooklyn-1947/1MV92bc1e1b8b377694c5ba079c82fbb034?ele=list&elc=1MV92bc1e1b8b377694c5ba079c82fbb034&eli=23&eci=1MV92bc1e1b8b377694c5ba079c82fbb034"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV92bc1e1b8b377694c5ba079c82fbb034&amp;ql=70&amp;sizes=176x264"
+                            alt="It Happened in Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV8af565044f3871749cbf3fb157ceb2bf"
+                        class="item__link js-flyout-item plus-card" data-id="1MV8af565044f3871749cbf3fb157ceb2bf"
+                        href="https://www.fandangonow.com/details/movie/the-case-against-brooklyn-1958/1MV8af565044f3871749cbf3fb157ceb2bf?ele=list&elc=1MV8af565044f3871749cbf3fb157ceb2bf&eli=24&eci=1MV8af565044f3871749cbf3fb157ceb2bf"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV8af565044f3871749cbf3fb157ceb2bf&amp;ql=70&amp;sizes=176x264"
+                            alt="The Case Against Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV6f2003e7056d3bb373f5c094f656b69f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV6f2003e7056d3bb373f5c094f656b69f"
+                        href="https://www.fandangonow.com/details/movie/brooklyn-orchid-1942/1MV6f2003e7056d3bb373f5c094f656b69f?ele=list&elc=1MV6f2003e7056d3bb373f5c094f656b69f&eli=25&eci=1MV6f2003e7056d3bb373f5c094f656b69f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV6f2003e7056d3bb373f5c094f656b69f&amp;ql=70&amp;sizes=176x264"
+                            alt="Brooklyn Orchid MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV1ca308b9396385d72b98bd925fb0a388"
+                        class="item__link js-flyout-item plus-card" data-id="1MV1ca308b9396385d72b98bd925fb0a388"
+                        href="https://www.fandangonow.com/details/movie/blonde-from-brooklyn-1945/1MV1ca308b9396385d72b98bd925fb0a388?ele=list&elc=1MV1ca308b9396385d72b98bd925fb0a388&eli=26&eci=1MV1ca308b9396385d72b98bd925fb0a388"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV1ca308b9396385d72b98bd925fb0a388&amp;ql=70&amp;sizes=176x264"
+                            alt="Blonde From Brooklyn MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV6DAEF55A3ACA444BB34E423ED952EEFDB"
+                        class="item__link js-flyout-item plus-card" data-id="MMV6DAEF55A3ACA444BB34E423ED952EEFDB"
+                        href="https://www.fandangonow.com/details/movie/stretch-2014/MMV6DAEF55A3ACA444BB34E423ED952EEFDB?ele=list&elc=MMV6DAEF55A3ACA444BB34E423ED952EEFDB&eli=27&eci=MMV6DAEF55A3ACA444BB34E423ED952EEFDB"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV6DAEF55A3ACA444BB34E423ED952EEFDB&amp;ql=70&amp;sizes=176x264"
+                            alt="Stretch MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV4AB9EA5F677D354CC08A56364B90A133B"
+                        class="item__link js-flyout-item plus-card" data-id="MMV4AB9EA5F677D354CC08A56364B90A133B"
+                        href="https://www.fandangonow.com/details/movie/underdogs-2016/MMV4AB9EA5F677D354CC08A56364B90A133B?ele=list&elc=MMV4AB9EA5F677D354CC08A56364B90A133B&eli=28&eci=MMV4AB9EA5F677D354CC08A56364B90A133B"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV4AB9EA5F677D354CC08A56364B90A133B&amp;ql=70&amp;sizes=176x264"
+                            alt="Underdogs MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVf68290e75965d515276847e78170d7cc"
+                        class="item__link js-flyout-item plus-card" data-id="1MVf68290e75965d515276847e78170d7cc"
+                        href="https://www.fandangonow.com/details/movie/just-go-with-it-2011/1MVf68290e75965d515276847e78170d7cc?ele=list&elc=1MVf68290e75965d515276847e78170d7cc&eli=29&eci=1MVf68290e75965d515276847e78170d7cc"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVf68290e75965d515276847e78170d7cc&amp;ql=70&amp;sizes=176x264"
+                            alt="Just Go with It MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV77af877679f528b1806ea91d21437de1"
+                        class="item__link js-flyout-item plus-card" data-id="1MV77af877679f528b1806ea91d21437de1"
+                        href="https://www.fandangonow.com/details/movie/battleship-2012/1MV77af877679f528b1806ea91d21437de1?ele=list&elc=1MV77af877679f528b1806ea91d21437de1&eli=30&eci=1MV77af877679f528b1806ea91d21437de1"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV77af877679f528b1806ea91d21437de1&amp;ql=70&amp;sizes=176x264"
+                            alt="Battleship MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVC31B221F2A8F361EDC5F5DB52DEA0E820"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC31B221F2A8F361EDC5F5DB52DEA0E820"
+                        href="https://www.fandangonow.com/details/movie/casual-encounters-2016/MMVC31B221F2A8F361EDC5F5DB52DEA0E820?ele=list&elc=MMVC31B221F2A8F361EDC5F5DB52DEA0E820&eli=31&eci=MMVC31B221F2A8F361EDC5F5DB52DEA0E820"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVC31B221F2A8F361EDC5F5DB52DEA0E820&amp;ql=70&amp;sizes=176x264"
+                            alt="Casual Encounters MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV21D5755FEB4508267B2762314A5D13730"
+                        class="item__link js-flyout-item plus-card" data-id="MMV21D5755FEB4508267B2762314A5D13730"
+                        href="https://www.fandangonow.com/details/movie/with-this-ring-2015/MMV21D5755FEB4508267B2762314A5D13730?ele=list&elc=MMV21D5755FEB4508267B2762314A5D13730&eli=32&eci=MMV21D5755FEB4508267B2762314A5D13730"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV21D5755FEB4508267B2762314A5D13730&amp;ql=70&amp;sizes=176x264"
+                            alt="With This Ring MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMVC14E07B7690326FA8BBC5B3B0094243DB"
+                        class="item__link js-flyout-item plus-card" data-id="MMVC14E07B7690326FA8BBC5B3B0094243DB"
+                        href="https://www.fandangonow.com/details/movie/what-to-expect-when-youre-expecting-2012/MMVC14E07B7690326FA8BBC5B3B0094243DB?ele=list&elc=MMVC14E07B7690326FA8BBC5B3B0094243DB&eli=33&eci=MMVC14E07B7690326FA8BBC5B3B0094243DB"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVC14E07B7690326FA8BBC5B3B0094243DB&amp;ql=70&amp;sizes=176x264"
+                            alt="What to Expect When You&#x27;re Expecting MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVad7eb3a3d1437a60284369c057e42e7f"
+                        class="item__link js-flyout-item plus-card" data-id="1MVad7eb3a3d1437a60284369c057e42e7f"
+                        href="https://www.fandangonow.com/details/movie/lovesong-2016/1MVad7eb3a3d1437a60284369c057e42e7f?ele=list&elc=1MVad7eb3a3d1437a60284369c057e42e7f&eli=34&eci=1MVad7eb3a3d1437a60284369c057e42e7f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVad7eb3a3d1437a60284369c057e42e7f&amp;ql=70&amp;sizes=176x264"
+                            alt="Lovesong MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa1be471ba067dccd0d4fefef3b80e4a8"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa1be471ba067dccd0d4fefef3b80e4a8"
+                        href="https://www.fandangonow.com/details/movie/search-engines-2016/1MVa1be471ba067dccd0d4fefef3b80e4a8?ele=list&elc=1MVa1be471ba067dccd0d4fefef3b80e4a8&eli=35&eci=1MVa1be471ba067dccd0d4fefef3b80e4a8"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MVa1be471ba067dccd0d4fefef3b80e4a8&amp;ql=70&amp;sizes=176x264"
+                            alt="Search Engines MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV0a7e14e0387647b05bbe1262d5bc6d55"
+                        class="item__link js-flyout-item plus-card" data-id="1MV0a7e14e0387647b05bbe1262d5bc6d55"
+                        href="https://www.fandangonow.com/details/movie/results-2015/1MV0a7e14e0387647b05bbe1262d5bc6d55?ele=list&elc=1MV0a7e14e0387647b05bbe1262d5bc6d55&eli=36&eci=1MV0a7e14e0387647b05bbe1262d5bc6d55"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MV0a7e14e0387647b05bbe1262d5bc6d55&amp;ql=70&amp;sizes=176x264"
+                            alt="Results MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd8ff3ffd99d00e0a3548a1fdeddba9ec"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd8ff3ffd99d00e0a3548a1fdeddba9ec"
+                        href="https://www.fandangonow.com/details/movie/two-wrongs-2015/1MVd8ff3ffd99d00e0a3548a1fdeddba9ec?ele=list&elc=1MVd8ff3ffd99d00e0a3548a1fdeddba9ec&eli=37&eci=1MVd8ff3ffd99d00e0a3548a1fdeddba9ec"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVd8ff3ffd99d00e0a3548a1fdeddba9ec&amp;ql=70&amp;sizes=176x264"
+                            alt="Two Wrongs MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV8fadf947d9099cf5e8563c73dbdec88f"
+                        class="item__link js-flyout-item plus-card" data-id="1MV8fadf947d9099cf5e8563c73dbdec88f"
+                        href="https://www.fandangonow.com/details/movie/alone-in-the-dark-2-2008/1MV8fadf947d9099cf5e8563c73dbdec88f?ele=list&elc=1MV8fadf947d9099cf5e8563c73dbdec88f&eli=38&eci=1MV8fadf947d9099cf5e8563c73dbdec88f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV8fadf947d9099cf5e8563c73dbdec88f&amp;ql=70&amp;sizes=176x264"
+                            alt="Alone in the Dark 2 MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -649,7 +1369,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Megamind'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":3,"pageCount":3,"pageNumber":0,"items":[{"id":"1MV15473fe5f243657ce009c7474db5da05","title":"Megamind","template":"defaultItem","contentType":"MOVIE","slugId":"megamind-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV15473fe5f243657ce009c7474db5da05/details","description":""},{"id":"MMVEADA56BBBBF398A92448C7F4C1FF8873A","title":"Megamind / Monsters vs. Aliens","template":"defaultItem","contentType":"MOVIE","slugId":"megamind-monsters-vs-aliens-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVEADA56BBBBF398A92448C7F4C1FF8873A/details","description":""},{"id":"MMVC8B73486DA0CA7967C12977FC5909474A","title":"Megamind: The Button of Doom","template":"defaultItem","contentType":"MOVIE","slugId":"megamind-the-button-of-doom-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC8B73486DA0CA7967C12977FC5909474A/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Megamind","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Brooklyn'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":45,"pageCount":39,"pageNumber":0,"items":[{"id":"MMV7944DC94E46AEC9E9EF3F5B004051DD9C","title":"Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7944DC94E46AEC9E9EF3F5B004051DD9C/details","description":""},{"id":"MMVB4F305887A00B304A9B1661C3F98F4888","title":"Baked In Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"baked-in-brooklyn-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB4F305887A00B304A9B1661C3F98F4888/details","description":""},{"id":"MMV836EBCA10AE40542E6839478031F2E4C7","title":"The Angriest Man in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"the-angriest-man-in-brooklyn-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV836EBCA10AE40542E6839478031F2E4C7/details","description":""},{"id":"MMV8E6E89D20B4853E790555E03950B3C74C","title":"Once Upon a Time in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"once-upon-a-time-in-brooklyn-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV8E6E89D20B4853E790555E03950B3C74C/details","description":""},{"id":"1MV6da3a2d454b7c640eabca02e922cb94b","title":"Brooklyn's Finest","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyns-finest-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6da3a2d454b7c640eabca02e922cb94b/details","description":""},{"id":"1MVbfbf44057ecee5b6990448fcbcac2057","title":"The Brooklyn Banker","template":"defaultItem","contentType":"MOVIE","slugId":"the-brooklyn-banker-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVbfbf44057ecee5b6990448fcbcac2057/details","description":""},{"id":"MMV6B0CE7872779B16890F82A7B3FE880A67","title":"Brooklyn (UHD with HDR)","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-uhd-with-hdr-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6B0CE7872779B16890F82A7B3FE880A67/details","description":""},{"id":"1MVe9aaad421bc11fbaea3ef069084ed93b","title":"Brooklyn Castle","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-castle-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe9aaad421bc11fbaea3ef069084ed93b/details","description":""},{"id":"1MVbc3482ece998b71d4a69eb7d9deafdea","title":"The Brooklyn Brothers Beat the Best","template":"defaultItem","contentType":"MOVIE","slugId":"the-brooklyn-brothers-beat-the-best-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVbc3482ece998b71d4a69eb7d9deafdea/details","description":""},{"id":"1MVb80d7dbb8f017e9d6d0f32e4ff56845c","title":"Brooklyn Lobster","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-lobster-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb80d7dbb8f017e9d6d0f32e4ff56845c/details","description":""},{"id":"1MVe5cc798d59dd4f2347747057858509a0","title":"Texas, Brooklyn and Heaven","template":"defaultItem","contentType":"MOVIE","slugId":"texas-brooklyn-and-heaven-1948","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe5cc798d59dd4f2347747057858509a0/details","description":""},{"id":"1MV49f0647743c5c51362a82a52577a2d98","title":"My Bakery in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"my-bakery-in-brooklyn-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV49f0647743c5c51362a82a52577a2d98/details","description":""},{"id":"1MV7642f0f2551b37590cfc1b5621b7388e","title":"Goodnight Brooklyn: The Story of Death by Audio","template":"defaultItem","contentType":"MOVIE","slugId":"goodnight-brooklyn-the-story-of-death-by-audio-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7642f0f2551b37590cfc1b5621b7388e/details","description":""},{"id":"1MV119e7b1faa13fd1b717c3a6811ea4643","title":"Last Exit to Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"last-exit-to-brooklyn-1989","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV119e7b1faa13fd1b717c3a6811ea4643/details","description":""},{"id":"1MV219674471df37caebfa68f0610ba9c91","title":"Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV219674471df37caebfa68f0610ba9c91/details","description":""},{"id":"1MVd164315a90f28c7d703710c97919c215","title":"Brooklyn Girls Fight Club","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-girls-fight-club-2013","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd164315a90f28c7d703710c97919c215/details","description":""},{"id":"1MVd5e7d4816b369eafd0288a8631493335","title":"Brooklyn Rules","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-rules-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd5e7d4816b369eafd0288a8631493335/details","description":""},{"id":"1MV595c527ca039cc98a94e649d9afcaeb8","title":"A Tree Grows in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"a-tree-grows-in-brooklyn-1945","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV595c527ca039cc98a94e649d9afcaeb8/details","description":""},{"id":"1MV565336df9c72685b4dd5b933609815ea","title":"Straight Out of Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"straight-out-of-brooklyn-1991","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV565336df9c72685b4dd5b933609815ea/details","description":""},{"id":"1MVecae90a078894595d971fc42d7342ff5","title":"Vampire in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"vampire-in-brooklyn-1995","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVecae90a078894595d971fc42d7342ff5/details","description":""},{"id":"1MVb7858053dd61026d17065f3d96fa30d7","title":"Whistling in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"whistling-in-brooklyn-1943","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb7858053dd61026d17065f3d96fa30d7/details","description":""},{"id":"1MVfddc73e9c8af15fe8712e1cd945ed936","title":"Over the Brooklyn Bridge","template":"defaultItem","contentType":"MOVIE","slugId":"over-the-brooklyn-bridge-1984","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfddc73e9c8af15fe8712e1cd945ed936/details","description":""},{"id":"1MV418fd208dcfefff3501619a9d5149a62","title":"Bela Lugosi Meets a Brooklyn Gorilla","template":"defaultItem","contentType":"MOVIE","slugId":"bela-lugosi-meets-a-brooklyn-gorilla-1952","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV418fd208dcfefff3501619a9d5149a62/details","description":""},{"id":"1MV92bc1e1b8b377694c5ba079c82fbb034","title":"It Happened in Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"it-happened-in-brooklyn-1947","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV92bc1e1b8b377694c5ba079c82fbb034/details","description":""},{"id":"1MV8af565044f3871749cbf3fb157ceb2bf","title":"The Case Against Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"the-case-against-brooklyn-1958","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV8af565044f3871749cbf3fb157ceb2bf/details","description":""},{"id":"1MV6f2003e7056d3bb373f5c094f656b69f","title":"Brooklyn Orchid","template":"defaultItem","contentType":"MOVIE","slugId":"brooklyn-orchid-1942","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV6f2003e7056d3bb373f5c094f656b69f/details","description":""},{"id":"1MV1ca308b9396385d72b98bd925fb0a388","title":"Blonde From Brooklyn","template":"defaultItem","contentType":"MOVIE","slugId":"blonde-from-brooklyn-1945","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1ca308b9396385d72b98bd925fb0a388/details","description":""},{"id":"MMV6DAEF55A3ACA444BB34E423ED952EEFDB","title":"Stretch","template":"defaultItem","contentType":"MOVIE","slugId":"stretch-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6DAEF55A3ACA444BB34E423ED952EEFDB/details","description":""},{"id":"MMV4AB9EA5F677D354CC08A56364B90A133B","title":"Underdogs","template":"defaultItem","contentType":"MOVIE","slugId":"underdogs-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4AB9EA5F677D354CC08A56364B90A133B/details","description":""},{"id":"1MVf68290e75965d515276847e78170d7cc","title":"Just Go with It","template":"defaultItem","contentType":"MOVIE","slugId":"just-go-with-it-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf68290e75965d515276847e78170d7cc/details","description":""},{"id":"1MV77af877679f528b1806ea91d21437de1","title":"Battleship","template":"defaultItem","contentType":"MOVIE","slugId":"battleship-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV77af877679f528b1806ea91d21437de1/details","description":""},{"id":"MMVC31B221F2A8F361EDC5F5DB52DEA0E820","title":"Casual Encounters","template":"defaultItem","contentType":"MOVIE","slugId":"casual-encounters-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC31B221F2A8F361EDC5F5DB52DEA0E820/details","description":""},{"id":"MMV21D5755FEB4508267B2762314A5D13730","title":"With This Ring","template":"defaultItem","contentType":"MOVIE","slugId":"with-this-ring-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV21D5755FEB4508267B2762314A5D13730/details","description":""},{"id":"MMVC14E07B7690326FA8BBC5B3B0094243DB","title":"What to Expect When You're Expecting","template":"defaultItem","contentType":"MOVIE","slugId":"what-to-expect-when-youre-expecting-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC14E07B7690326FA8BBC5B3B0094243DB/details","description":""},{"id":"1MVad7eb3a3d1437a60284369c057e42e7f","title":"Lovesong","template":"defaultItem","contentType":"MOVIE","slugId":"lovesong-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVad7eb3a3d1437a60284369c057e42e7f/details","description":""},{"id":"1MVa1be471ba067dccd0d4fefef3b80e4a8","title":"Search Engines","template":"defaultItem","contentType":"MOVIE","slugId":"search-engines-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa1be471ba067dccd0d4fefef3b80e4a8/details","description":""},{"id":"1MV0a7e14e0387647b05bbe1262d5bc6d55","title":"Results","template":"defaultItem","contentType":"MOVIE","slugId":"results-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0a7e14e0387647b05bbe1262d5bc6d55/details","description":""},{"id":"1MVd8ff3ffd99d00e0a3548a1fdeddba9ec","title":"Two Wrongs","template":"defaultItem","contentType":"MOVIE","slugId":"two-wrongs-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd8ff3ffd99d00e0a3548a1fdeddba9ec/details","description":""},{"id":"1MV8fadf947d9099cf5e8563c73dbdec88f","title":"Alone in the Dark 2","template":"defaultItem","contentType":"MOVIE","slugId":"alone-in-the-dark-2-2008","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV8fadf947d9099cf5e8563c73dbdec88f/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Brooklyn","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -672,7 +1392,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="BwZSRhkJ-dk58to2wmzockmts1QEOke8gwvc" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="u5x9xbR2-COq3VsuNVoFOG4Ji6dP5Ef7EODE" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

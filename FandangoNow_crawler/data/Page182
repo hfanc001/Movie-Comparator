@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"New Releases Streams and Downloads","title":"New Releases Streams and Downloads | FandangoNOW","metaDescription":"Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=10,000%20BC","list_name":"New Releases","list_type":"mgo"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"New Releases Streams and Downloads","title":"New Releases Streams and Downloads | FandangoNOW","metaDescription":"Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Oscar%20Nominated%20Short%20Films%202016:%20Live%20Action","list_name":"New Releases","list_type":"mgo"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -1338,7 +1338,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="zsk6PaM2-jBktE9dzXoErWobCFPg7vBLI-mM" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="bHSGSHyb-B69AIDvPsounamj860iJ4kZcm2I" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

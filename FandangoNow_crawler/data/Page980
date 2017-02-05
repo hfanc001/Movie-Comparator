@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>Movie Search Results | FandangoNOW</title>
+    <title>New Releases Streams and Downloads | FandangoNOW</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Arrival. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Arrival. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW.">
+    <meta name="abstract" content="Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
-    <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Arrival. Stream or download now on FandangoNOW." />
+    <meta property="og:title" content="New Releases Streams and Downloads | FandangoNOW" />
+    <meta property="og:description" content="Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
-    <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Arrival. Stream or download now on FandangoNOW." />
+    <meta name="twitter:title" content="New Releases Streams and Downloads | FandangoNOW" />
+    <meta name="twitter:description" content="Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Arrival. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Arrival","list_name":"Search Results for 'Arrival'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"New Releases Streams and Downloads","title":"New Releases Streams and Downloads | FandangoNOW","metaDescription":"Choose from thousands of New Releases movies and TV shows. Stream instantly on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Walking%20with%20Dinosaurs%203D","list_name":"New Releases","list_type":"mgo"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -125,7 +125,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     </a>
                     <span class="saber-divide left"></span>
                 </div>
-                    <h1 class="global-h1 hide-text">Movie Search Results</h1>
+                    <h1 class="global-h1 hide-text">New Releases Streams and Downloads</h1>
                     <ul class="media-nav left pnsb">
                         <li class="pointer">
                             <a data-selenium="media-nav-item" href="/movies">Movies</a>
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -449,25 +449,31 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     class="global-section grid-section"
     data-view="list-index"
 >
+        <div class="list-message--not-found">
+            <h2>Sorry, that page no longer exists.</h2>
+            <span>Don't worry you can still buy or rent the latest movies first.</span>
+            <span>Now, let's find something awesome to watch.</span>
+        </div>
 
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Arrival'
+                New Releases
             </h2>
 
+                        <p class="grid-header__callout">Watch the newest movies first.</p>
         </header>
 
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Arrival&#x27;"
-            data-list-id="Search-Results-for-Arrival"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Arrival"
-            data-list-type="search"
+            data-list-title="New Releases"
+            data-list-id="FandangoNOW-new-releases"
+            data-list-query=""
+            data-list-type="mgo"
             data-page-number="0"
-            data-page-count="4"
-            data-total-count="6"
+            data-page-count="36"
+            data-total-count="36"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,7 +481,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMV1DCBABCE91DE0FD4EDB16B9D13E955D50"
+                        id="FandangoNOW-new-releases_item_MMV1DCBABCE91DE0FD4EDB16B9D13E955D50"
                         class="item__link js-flyout-item plus-card" data-id="MMV1DCBABCE91DE0FD4EDB16B9D13E955D50"
                         href="https://www.fandangonow.com/details/movie/arrival-2016/MMV1DCBABCE91DE0FD4EDB16B9D13E955D50?ele=list&elc=MMV1DCBABCE91DE0FD4EDB16B9D13E955D50&eli=0&eci=MMV1DCBABCE91DE0FD4EDB16B9D13E955D50"
                     >
@@ -495,15 +501,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVF140BE705CD464DEFA3FD79AE06618B15"
-                        class="item__link js-flyout-item plus-card" data-id="MMVF140BE705CD464DEFA3FD79AE06618B15"
-                        href="https://www.fandangonow.com/details/movie/arrival-ii-1998/MMVF140BE705CD464DEFA3FD79AE06618B15?ele=list&elc=MMVF140BE705CD464DEFA3FD79AE06618B15&eli=1&eci=MMVF140BE705CD464DEFA3FD79AE06618B15"
+                        id="FandangoNOW-new-releases_item_MMVA9D13F051B7728D05618968F112819BA9"
+                        class="item__link js-flyout-item plus-card" data-id="MMVA9D13F051B7728D05618968F112819BA9"
+                        href="https://www.fandangonow.com/details/movie/inferno-2016/MMVA9D13F051B7728D05618968F112819BA9?ele=list&elc=MMVA9D13F051B7728D05618968F112819BA9&eli=1&eci=MMVA9D13F051B7728D05618968F112819BA9"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVF140BE705CD464DEFA3FD79AE06618B15&amp;ql=70&amp;sizes=176x264"
-                            alt="Arrival II MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMVA9D13F051B7728D05618968F112819BA9&amp;ql=70&amp;sizes=176x264"
+                            alt="Inferno MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +521,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVBBE02ADBDF339B663A3FF11700C1DCC45"
-                        class="item__link js-flyout-item plus-card" data-id="MMVBBE02ADBDF339B663A3FF11700C1DCC45"
-                        href="https://www.fandangonow.com/details/movie/the-arrival-1996/MMVBBE02ADBDF339B663A3FF11700C1DCC45?ele=list&elc=MMVBBE02ADBDF339B663A3FF11700C1DCC45&eli=2&eci=MMVBBE02ADBDF339B663A3FF11700C1DCC45"
+                        id="FandangoNOW-new-releases_item_MMVD50C14E4BEDD7490DBB70A9E446407266"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD50C14E4BEDD7490DBB70A9E446407266"
+                        href="https://www.fandangonow.com/details/movie/jack-reacher-never-go-back-2016/MMVD50C14E4BEDD7490DBB70A9E446407266?ele=list&elc=MMVD50C14E4BEDD7490DBB70A9E446407266&eli=2&eci=MMVD50C14E4BEDD7490DBB70A9E446407266"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVBBE02ADBDF339B663A3FF11700C1DCC45&amp;ql=70&amp;sizes=176x264"
-                            alt="The Arrival MOVIE"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVD50C14E4BEDD7490DBB70A9E446407266&amp;ql=70&amp;sizes=176x264"
+                            alt="Jack Reacher: Never Go Back MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -535,15 +541,655 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVc04cad193a435c582e571da71757e48b"
-                        class="item__link js-flyout-item plus-card" data-id="1MVc04cad193a435c582e571da71757e48b"
-                        href="https://www.fandangonow.com/details/movie/alien-arrival-2015/1MVc04cad193a435c582e571da71757e48b?ele=list&elc=1MVc04cad193a435c582e571da71757e48b&eli=3&eci=1MVc04cad193a435c582e571da71757e48b"
+                        id="FandangoNOW-new-releases_item_MMV55A0E4F34755CECC6B6B1169CFA67B64C"
+                        class="item__link js-flyout-item plus-card" data-id="MMV55A0E4F34755CECC6B6B1169CFA67B64C"
+                        href="https://www.fandangonow.com/details/movie/the-edge-of-seventeen-2016/MMV55A0E4F34755CECC6B6B1169CFA67B64C?ele=list&elc=MMV55A0E4F34755CECC6B6B1169CFA67B64C&eli=3&eci=MMV55A0E4F34755CECC6B6B1169CFA67B64C"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVc04cad193a435c582e571da71757e48b&amp;ql=70&amp;sizes=176x264"
-                            alt="Alien Arrival MOVIE"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV55A0E4F34755CECC6B6B1169CFA67B64C&amp;ql=70&amp;sizes=176x264"
+                            alt="The Edge of Seventeen MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV90843332AB56577755ADA157898632C34"
+                        class="item__link js-flyout-item plus-card" data-id="MMV90843332AB56577755ADA157898632C34"
+                        href="https://www.fandangonow.com/details/movie/bleed-for-this-2016/MMV90843332AB56577755ADA157898632C34?ele=list&elc=MMV90843332AB56577755ADA157898632C34&eli=4&eci=MMV90843332AB56577755ADA157898632C34"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV90843332AB56577755ADA157898632C34&amp;ql=70&amp;sizes=176x264"
+                            alt="Bleed For This MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVB87974DBC46E11D82CB431E7CCC0CE336"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB87974DBC46E11D82CB431E7CCC0CE336"
+                        href="https://www.fandangonow.com/details/movie/tyler-perrys-boo-a-madea-halloween-2016/MMVB87974DBC46E11D82CB431E7CCC0CE336?ele=list&elc=MMVB87974DBC46E11D82CB431E7CCC0CE336&eli=5&eci=MMVB87974DBC46E11D82CB431E7CCC0CE336"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMVB87974DBC46E11D82CB431E7CCC0CE336&amp;ql=70&amp;sizes=176x264"
+                            alt="Tyler Perry&#x27;s Boo! A Madea Halloween MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV6B0DD19EFBC15885A4E3FA872685F20D0"
+                        class="item__link js-flyout-item plus-card" data-id="MMV6B0DD19EFBC15885A4E3FA872685F20D0"
+                        href="https://www.fandangonow.com/details/movie/loving-2016/MMV6B0DD19EFBC15885A4E3FA872685F20D0?ele=list&elc=MMV6B0DD19EFBC15885A4E3FA872685F20D0&eli=6&eci=MMV6B0DD19EFBC15885A4E3FA872685F20D0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV6B0DD19EFBC15885A4E3FA872685F20D0&amp;ql=70&amp;sizes=176x264"
+                            alt="Loving MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV3C68736B47895CA4FDB36B829A0516FD3"
+                        class="item__link js-flyout-item plus-card" data-id="MMV3C68736B47895CA4FDB36B829A0516FD3"
+                        href="https://www.fandangonow.com/details/movie/trolls-2016/MMV3C68736B47895CA4FDB36B829A0516FD3?ele=list&elc=MMV3C68736B47895CA4FDB36B829A0516FD3&eli=7&eci=MMV3C68736B47895CA4FDB36B829A0516FD3"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV3C68736B47895CA4FDB36B829A0516FD3&amp;ql=70&amp;sizes=176x264"
+                            alt="Trolls MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV59026A3AD12D2065C20F2E13C1BF766C2"
+                        class="item__link js-flyout-item plus-card" data-id="MMV59026A3AD12D2065C20F2E13C1BF766C2"
+                        href="https://www.fandangonow.com/details/movie/deepwater-horizon-2016/MMV59026A3AD12D2065C20F2E13C1BF766C2?ele=list&elc=MMV59026A3AD12D2065C20F2E13C1BF766C2&eli=8&eci=MMV59026A3AD12D2065C20F2E13C1BF766C2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV59026A3AD12D2065C20F2E13C1BF766C2&amp;ql=70&amp;sizes=176x264"
+                            alt="Deepwater Horizon MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV09F43B9C464E743435D7C0BD7EDC6D931"
+                        class="item__link js-flyout-item plus-card" data-id="MMV09F43B9C464E743435D7C0BD7EDC6D931"
+                        href="https://www.fandangonow.com/details/movie/masterminds-2016/MMV09F43B9C464E743435D7C0BD7EDC6D931?ele=list&elc=MMV09F43B9C464E743435D7C0BD7EDC6D931&eli=9&eci=MMV09F43B9C464E743435D7C0BD7EDC6D931"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMV09F43B9C464E743435D7C0BD7EDC6D931&amp;ql=70&amp;sizes=176x264"
+                            alt="Masterminds MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVF86D59B27BA2A7944CDB92A719170FA2E"
+                        class="item__link js-flyout-item plus-card" data-id="MMVF86D59B27BA2A7944CDB92A719170FA2E"
+                        href="https://www.fandangonow.com/details/movie/queen-of-katwe-2016/MMVF86D59B27BA2A7944CDB92A719170FA2E?ele=list&elc=MMVF86D59B27BA2A7944CDB92A719170FA2E&eli=10&eci=MMVF86D59B27BA2A7944CDB92A719170FA2E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVF86D59B27BA2A7944CDB92A719170FA2E&amp;ql=70&amp;sizes=176x264"
+                            alt="Queen Of Katwe MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV693BC838152553B6CDC28E66470162F31"
+                        class="item__link js-flyout-item plus-card" data-id="MMV693BC838152553B6CDC28E66470162F31"
+                        href="https://www.fandangonow.com/details/movie/blair-witch-2016-2016/MMV693BC838152553B6CDC28E66470162F31?ele=list&elc=MMV693BC838152553B6CDC28E66470162F31&eli=11&eci=MMV693BC838152553B6CDC28E66470162F31"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=MMV693BC838152553B6CDC28E66470162F31&amp;ql=70&amp;sizes=176x264"
+                            alt="Blair Witch (2016) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVCEEA03C4F9CAF216D7D51B393A505A578"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCEEA03C4F9CAF216D7D51B393A505A578"
+                        href="https://www.fandangonow.com/details/movie/the-girl-on-the-train-2016/MMVCEEA03C4F9CAF216D7D51B393A505A578?ele=list&elc=MMVCEEA03C4F9CAF216D7D51B393A505A578&eli=12&eci=MMVCEEA03C4F9CAF216D7D51B393A505A578"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVCEEA03C4F9CAF216D7D51B393A505A578&amp;ql=70&amp;sizes=176x264"
+                            alt="The Girl on the Train MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV7C046D141451061ECB5BFC6F9B74F5A7E"
+                        class="item__link js-flyout-item plus-card" data-id="MMV7C046D141451061ECB5BFC6F9B74F5A7E"
+                        href="https://www.fandangonow.com/details/movie/keeping-up-with-the-joneses-2016/MMV7C046D141451061ECB5BFC6F9B74F5A7E?ele=list&elc=MMV7C046D141451061ECB5BFC6F9B74F5A7E&eli=13&eci=MMV7C046D141451061ECB5BFC6F9B74F5A7E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV7C046D141451061ECB5BFC6F9B74F5A7E&amp;ql=70&amp;sizes=176x264"
+                            alt="Keeping Up with the Joneses MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVE4073C7D4D431FB54F88A6DCAE4636C43"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE4073C7D4D431FB54F88A6DCAE4636C43"
+                        href="https://www.fandangonow.com/details/movie/miss-peregrines-home-for-peculiar-children-2016/MMVE4073C7D4D431FB54F88A6DCAE4636C43?ele=list&elc=MMVE4073C7D4D431FB54F88A6DCAE4636C43&eli=14&eci=MMVE4073C7D4D431FB54F88A6DCAE4636C43"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVE4073C7D4D431FB54F88A6DCAE4636C43&amp;ql=70&amp;sizes=176x264"
+                            alt="Miss Peregrine&#x27;s Home for Peculiar Children MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVF0C06DD9073F40E801F4F033C7583AA79"
+                        class="item__link js-flyout-item plus-card" data-id="MMVF0C06DD9073F40E801F4F033C7583AA79"
+                        href="https://www.fandangonow.com/details/movie/kevin-hart-what-now-2016/MMVF0C06DD9073F40E801F4F033C7583AA79?ele=list&elc=MMVF0C06DD9073F40E801F4F033C7583AA79&eli=15&eci=MMVF0C06DD9073F40E801F4F033C7583AA79"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVF0C06DD9073F40E801F4F033C7583AA79&amp;ql=70&amp;sizes=176x264"
+                            alt="Kevin Hart: What Now? MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6"
+                        href="https://www.fandangonow.com/details/movie/max-steel-2016/MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6?ele=list&elc=MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6&eli=16&eci=MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6&amp;ql=70&amp;sizes=176x264"
+                            alt="Max Steel MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVD1A93702E2FFD95EB89B9C6028E7E8F6B"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD1A93702E2FFD95EB89B9C6028E7E8F6B"
+                        href="https://www.fandangonow.com/details/movie/the-magnificent-seven-2016-2016/MMVD1A93702E2FFD95EB89B9C6028E7E8F6B?ele=list&elc=MMVD1A93702E2FFD95EB89B9C6028E7E8F6B&eli=17&eci=MMVD1A93702E2FFD95EB89B9C6028E7E8F6B"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVD1A93702E2FFD95EB89B9C6028E7E8F6B&amp;ql=70&amp;sizes=176x264"
+                            alt="The Magnificent Seven (2016) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVBC845F0FAC3DA01F0F93D84EA7AD2D843"
+                        class="item__link js-flyout-item plus-card" data-id="MMVBC845F0FAC3DA01F0F93D84EA7AD2D843"
+                        href="https://www.fandangonow.com/details/movie/mechanic-resurrection-2016/MMVBC845F0FAC3DA01F0F93D84EA7AD2D843?ele=list&elc=MMVBC845F0FAC3DA01F0F93D84EA7AD2D843&eli=18&eci=MMVBC845F0FAC3DA01F0F93D84EA7AD2D843"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVBC845F0FAC3DA01F0F93D84EA7AD2D843&amp;ql=70&amp;sizes=176x264"
+                            alt="Mechanic: Resurrection MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D"
+                        class="item__link js-flyout-item plus-card" data-id="MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D"
+                        href="https://www.fandangonow.com/details/movie/the-accountant-2016/MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D?ele=list&elc=MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D&eli=19&eci=MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D&amp;ql=70&amp;sizes=176x264"
+                            alt="The Accountant MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVECE4515FFB07614BF9F78AEFDD14A980E"
+                        class="item__link js-flyout-item plus-card" data-id="MMVECE4515FFB07614BF9F78AEFDD14A980E"
+                        href="https://www.fandangonow.com/details/movie/the-secret-life-of-pets-2016/MMVECE4515FFB07614BF9F78AEFDD14A980E?ele=list&elc=MMVECE4515FFB07614BF9F78AEFDD14A980E&eli=20&eci=MMVECE4515FFB07614BF9F78AEFDD14A980E"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVECE4515FFB07614BF9F78AEFDD14A980E&amp;ql=70&amp;sizes=176x264"
+                            alt="The Secret Life of Pets MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV73E6662B1534509038331762802F6ECCB"
+                        class="item__link js-flyout-item plus-card" data-id="MMV73E6662B1534509038331762802F6ECCB"
+                        href="https://www.fandangonow.com/details/movie/sully-2016/MMV73E6662B1534509038331762802F6ECCB?ele=list&elc=MMV73E6662B1534509038331762802F6ECCB&eli=21&eci=MMV73E6662B1534509038331762802F6ECCB"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV73E6662B1534509038331762802F6ECCB&amp;ql=70&amp;sizes=176x264"
+                            alt="Sully MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV725B25D455A8656C4004F4C32A2EDB109"
+                        class="item__link js-flyout-item plus-card" data-id="MMV725B25D455A8656C4004F4C32A2EDB109"
+                        href="https://www.fandangonow.com/details/movie/snowden-2016/MMV725B25D455A8656C4004F4C32A2EDB109?ele=list&elc=MMV725B25D455A8656C4004F4C32A2EDB109&eli=22&eci=MMV725B25D455A8656C4004F4C32A2EDB109"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=MMV725B25D455A8656C4004F4C32A2EDB109&amp;ql=70&amp;sizes=176x264"
+                            alt="Snowden MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVCCF6EEBF217AD64BE3F899BC4D27A1B50"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCCF6EEBF217AD64BE3F899BC4D27A1B50"
+                        href="https://www.fandangonow.com/details/movie/ben-hur-2016/MMVCCF6EEBF217AD64BE3F899BC4D27A1B50?ele=list&elc=MMVCCF6EEBF217AD64BE3F899BC4D27A1B50&eli=23&eci=MMVCCF6EEBF217AD64BE3F899BC4D27A1B50"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVCCF6EEBF217AD64BE3F899BC4D27A1B50&amp;ql=70&amp;sizes=176x264"
+                            alt="Ben-Hur MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV9137B349BCA2B8983A03BBC88F6D3F596"
+                        class="item__link js-flyout-item plus-card" data-id="MMV9137B349BCA2B8983A03BBC88F6D3F596"
+                        href="https://www.fandangonow.com/details/movie/storks-2016/MMV9137B349BCA2B8983A03BBC88F6D3F596?ele=list&elc=MMV9137B349BCA2B8983A03BBC88F6D3F596&eli=24&eci=MMV9137B349BCA2B8983A03BBC88F6D3F596"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMV9137B349BCA2B8983A03BBC88F6D3F596&amp;ql=70&amp;sizes=176x264"
+                            alt="Storks MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV78FD1695EB875A7B24394770141479D03"
+                        class="item__link js-flyout-item plus-card" data-id="MMV78FD1695EB875A7B24394770141479D03"
+                        href="https://www.fandangonow.com/details/movie/jason-bourne-2016/MMV78FD1695EB875A7B24394770141479D03?ele=list&elc=MMV78FD1695EB875A7B24394770141479D03&eli=25&eci=MMV78FD1695EB875A7B24394770141479D03"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMV78FD1695EB875A7B24394770141479D03&amp;ql=70&amp;sizes=176x264"
+                            alt="Jason Bourne MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVBAEC56CE11759FE992806F9FEBBF6DF45"
+                        class="item__link js-flyout-item plus-card" data-id="MMVBAEC56CE11759FE992806F9FEBBF6DF45"
+                        href="https://www.fandangonow.com/details/movie/petes-dragon-2016-2016/MMVBAEC56CE11759FE992806F9FEBBF6DF45?ele=list&elc=MMVBAEC56CE11759FE992806F9FEBBF6DF45&eli=26&eci=MMVBAEC56CE11759FE992806F9FEBBF6DF45"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=MMVBAEC56CE11759FE992806F9FEBBF6DF45&amp;ql=70&amp;sizes=176x264"
+                            alt="Pete&#x27;s Dragon (2016) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV5B1451FFD875F006EB127D806182CF529"
+                        class="item__link js-flyout-item plus-card" data-id="MMV5B1451FFD875F006EB127D806182CF529"
+                        href="https://www.fandangonow.com/details/movie/suicide-squad-extended-cut-2016/MMV5B1451FFD875F006EB127D806182CF529?ele=list&elc=MMV5B1451FFD875F006EB127D806182CF529&eli=27&eci=MMV5B1451FFD875F006EB127D806182CF529"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV5B1451FFD875F006EB127D806182CF529&amp;ql=70&amp;sizes=176x264"
+                            alt="Suicide Squad - Extended Cut MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV177F2BA057CD0F330BD9CBD5D42B40B7C"
+                        class="item__link js-flyout-item plus-card" data-id="MMV177F2BA057CD0F330BD9CBD5D42B40B7C"
+                        href="https://www.fandangonow.com/details/movie/the-bfg-2016/MMV177F2BA057CD0F330BD9CBD5D42B40B7C?ele=list&elc=MMV177F2BA057CD0F330BD9CBD5D42B40B7C&eli=28&eci=MMV177F2BA057CD0F330BD9CBD5D42B40B7C"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV177F2BA057CD0F330BD9CBD5D42B40B7C&amp;ql=70&amp;sizes=176x264"
+                            alt="The BFG MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVCF4C2981927F55BD7297C0DC2A38F33AC"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCF4C2981927F55BD7297C0DC2A38F33AC"
+                        href="https://www.fandangonow.com/details/movie/war-dogs-2016-2016/MMVCF4C2981927F55BD7297C0DC2A38F33AC?ele=list&elc=MMVCF4C2981927F55BD7297C0DC2A38F33AC&eli=29&eci=MMVCF4C2981927F55BD7297C0DC2A38F33AC"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=MMVCF4C2981927F55BD7297C0DC2A38F33AC&amp;ql=70&amp;sizes=176x264"
+                            alt="War Dogs (2016) MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVE766996E6548258877D053123A882FED0"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE766996E6548258877D053123A882FED0"
+                        href="https://www.fandangonow.com/details/movie/finding-dory-2016/MMVE766996E6548258877D053123A882FED0?ele=list&elc=MMVE766996E6548258877D053123A882FED0&eli=30&eci=MMVE766996E6548258877D053123A882FED0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVE766996E6548258877D053123A882FED0&amp;ql=70&amp;sizes=176x264"
+                            alt="Finding Dory MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV77052224F01EC44A1109C7860D64925AF"
+                        class="item__link js-flyout-item plus-card" data-id="MMV77052224F01EC44A1109C7860D64925AF"
+                        href="https://www.fandangonow.com/details/movie/star-trek-beyond-2016/MMV77052224F01EC44A1109C7860D64925AF?ele=list&elc=MMV77052224F01EC44A1109C7860D64925AF&eli=31&eci=MMV77052224F01EC44A1109C7860D64925AF"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV77052224F01EC44A1109C7860D64925AF&amp;ql=70&amp;sizes=176x264"
+                            alt="Star Trek Beyond MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5"
+                        class="item__link js-flyout-item plus-card" data-id="MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5"
+                        href="https://www.fandangonow.com/details/movie/sausage-party-2016/MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5?ele=list&elc=MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5&eli=32&eci=MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5&amp;ql=70&amp;sizes=176x264"
+                            alt="Sausage Party MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVAA2CE94D4ED58ACBC67538829ADCA0819"
+                        class="item__link js-flyout-item plus-card" data-id="MMVAA2CE94D4ED58ACBC67538829ADCA0819"
+                        href="https://www.fandangonow.com/details/movie/kubo-and-the-two-strings-2016/MMVAA2CE94D4ED58ACBC67538829ADCA0819?ele=list&elc=MMVAA2CE94D4ED58ACBC67538829ADCA0819&eli=33&eci=MMVAA2CE94D4ED58ACBC67538829ADCA0819"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVAA2CE94D4ED58ACBC67538829ADCA0819&amp;ql=70&amp;sizes=176x264"
+                            alt="Kubo and the Two Strings MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVD8869AD6F4108E217F2EB4A59E5CC65CC"
+                        class="item__link js-flyout-item plus-card" data-id="MMVD8869AD6F4108E217F2EB4A59E5CC65CC"
+                        href="https://www.fandangonow.com/details/movie/bad-moms-2016/MMVD8869AD6F4108E217F2EB4A59E5CC65CC?ele=list&elc=MMVD8869AD6F4108E217F2EB4A59E5CC65CC&eli=34&eci=MMVD8869AD6F4108E217F2EB4A59E5CC65CC"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVD8869AD6F4108E217F2EB4A59E5CC65CC&amp;ql=70&amp;sizes=176x264"
+                            alt="Bad Moms MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="FandangoNOW-new-releases_item_MMVCB669FB5033345184B953D8350DC90C0F"
+                        class="item__link js-flyout-item plus-card" data-id="MMVCB669FB5033345184B953D8350DC90C0F"
+                        href="https://www.fandangonow.com/details/movie/alice-through-the-looking-glass-2016-2016/MMVCB669FB5033345184B953D8350DC90C0F?ele=list&elc=MMVCB669FB5033345184B953D8350DC90C0F&eli=35&eci=MMVCB669FB5033345184B953D8350DC90C0F"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=MMVCB669FB5033345184B953D8350DC90C0F&amp;ql=70&amp;sizes=176x264"
+                            alt="Alice Through The Looking Glass (2016) MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -669,7 +1315,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Arrival'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":6,"pageCount":4,"pageNumber":0,"items":[{"id":"MMV1DCBABCE91DE0FD4EDB16B9D13E955D50","title":"Arrival","template":"defaultItem","contentType":"MOVIE","slugId":"arrival-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV1DCBABCE91DE0FD4EDB16B9D13E955D50/details","description":""},{"id":"MMVF140BE705CD464DEFA3FD79AE06618B15","title":"Arrival II","template":"defaultItem","contentType":"MOVIE","slugId":"arrival-ii-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF140BE705CD464DEFA3FD79AE06618B15/details","description":""},{"id":"MMVBBE02ADBDF339B663A3FF11700C1DCC45","title":"The Arrival","template":"defaultItem","contentType":"MOVIE","slugId":"the-arrival-1996","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBBE02ADBDF339B663A3FF11700C1DCC45/details","description":""},{"id":"1MVc04cad193a435c582e571da71757e48b","title":"Alien Arrival","template":"defaultItem","contentType":"MOVIE","slugId":"alien-arrival-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVc04cad193a435c582e571da71757e48b/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Arrival","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"New Releases","template":"defaultList","description":"Watch the newest movies first.","items":[{"title":"Arrival","description":"","template":"defaultItem","id":"MMV1DCBABCE91DE0FD4EDB16B9D13E955D50","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV1DCBABCE91DE0FD4EDB16B9D13E955D50/details","slugId":"arrival-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":83},"rental":false,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"For brief strong language.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Thriller"},{"displayName":"Sci-Fi"}],"hasMgoOffers":true,"mgoOfferPriceFrom":13.99},{"title":"Inferno","description":"","template":"defaultItem","id":"MMVA9D13F051B7728D05618968F112819BA9","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVA9D13F051B7728D05618968F112819BA9/details","slugId":"inferno-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":39},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations","Violence"],"reason":"for sequences of action and violence, disturbing images, some language, thematic elements and brief sensuality.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Thriller"},{"displayName":"Mystery"}],"hasMgoOffers":true,"mgoOfferPriceFrom":3.99},{"title":"Jack Reacher: Never Go Back","description":"","template":"defaultItem","id":"MMVD50C14E4BEDD7490DBB70A9E446407266","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD50C14E4BEDD7490DBB70A9E446407266/details","slugId":"jack-reacher-never-go-back-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":45},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Thriller"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"The Edge of Seventeen","description":"","template":"defaultItem","id":"MMV55A0E4F34755CECC6B6B1169CFA67B64C","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV55A0E4F34755CECC6B6B1169CFA67B64C/details","slugId":"the-edge-of-seventeen-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":86},"rental":false,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"For sexual content, language and some drinking - all involving teens.","source":"MPAA","value":"R"},"genres":[{"displayName":"Comedy"},{"displayName":"Drama"}],"hasMgoOffers":true,"mgoOfferPriceFrom":14.99},{"title":"Bleed For This","description":"","template":"defaultItem","id":"MMV90843332AB56577755ADA157898632C34","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV90843332AB56577755ADA157898632C34/details","slugId":"bleed-for-this-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":73},"rental":false,"rating":{"advisories":["Violence","Adult Language","Nudity","Adult Situations"],"reason":"For language, sexuality/nudity and some accident images.","source":"MPAA","value":"R"},"genres":[{"displayName":"Drama"},{"displayName":"Sports"}],"hasMgoOffers":true,"mgoOfferPriceFrom":14.99},{"title":"Tyler Perry's Boo! A Madea Halloween","description":"","template":"defaultItem","id":"MMVB87974DBC46E11D82CB431E7CCC0CE336","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB87974DBC46E11D82CB431E7CCC0CE336/details","slugId":"tyler-perrys-boo-a-madea-halloween-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":57},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Comedy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Loving","description":"","template":"defaultItem","id":"MMV6B0DD19EFBC15885A4E3FA872685F20D0","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV6B0DD19EFBC15885A4E3FA872685F20D0/details","slugId":"loving-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":79},"rental":false,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Drama"},{"displayName":"Romance"}],"hasMgoOffers":true,"mgoOfferPriceFrom":14.99},{"title":"Trolls","description":"","template":"defaultItem","id":"MMV3C68736B47895CA4FDB36B829A0516FD3","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV3C68736B47895CA4FDB36B829A0516FD3/details","slugId":"trolls-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":71},"rental":false,"rating":{"advisories":["Adult Situations"],"reason":"For some mild rude humor.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Comedy"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":14.99},{"title":"Deepwater Horizon","description":"","template":"defaultItem","id":"MMV59026A3AD12D2065C20F2E13C1BF766C2","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV59026A3AD12D2065C20F2E13C1BF766C2/details","slugId":"deepwater-horizon-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":84},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"For prolonged intense disaster sequences and related disturbing images, and brief strong language.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Drama"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Masterminds","description":"","template":"defaultItem","id":"MMV09F43B9C464E743435D7C0BD7EDC6D931","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV09F43B9C464E743435D7C0BD7EDC6D931/details","slugId":"masterminds-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":38},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"For crude and sexual humor, some language and violence.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Comedy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Queen Of Katwe","description":"","template":"defaultItem","id":"MMVF86D59B27BA2A7944CDB92A719170FA2E","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF86D59B27BA2A7944CDB92A719170FA2E/details","slugId":"queen-of-katwe-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":87},"rental":true,"rating":{"advisories":["Adult Situations"],"reason":"For thematic elements, an accident scene and some suggestive material.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Drama"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Blair Witch (2016)","description":"","template":"defaultItem","id":"MMV693BC838152553B6CDC28E66470162F31","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV693BC838152553B6CDC28E66470162F31/details","slugId":"blair-witch-2016-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":31},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"","source":"MPAA","value":"R"},"genres":[{"displayName":"Horror"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"The Girl on the Train","description":"","template":"defaultItem","id":"MMVCEEA03C4F9CAF216D7D51B393A505A578","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCEEA03C4F9CAF216D7D51B393A505A578/details","slugId":"the-girl-on-the-train-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":51},"rental":true,"rating":{"advisories":["Violence","Adult Language","Nudity","Adult Situations"],"reason":"For language and some violence.","source":"MPAA","value":"R"},"genres":[{"displayName":"Drama"},{"displayName":"Thriller"},{"displayName":"Mystery"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Keeping Up with the Joneses","description":"","template":"defaultItem","id":"MMV7C046D141451061ECB5BFC6F9B74F5A7E","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV7C046D141451061ECB5BFC6F9B74F5A7E/details","slugId":"keeping-up-with-the-joneses-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":40},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Comedy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Miss Peregrine's Home for Peculiar Children","description":"","template":"defaultItem","id":"MMVE4073C7D4D431FB54F88A6DCAE4636C43","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE4073C7D4D431FB54F88A6DCAE4636C43/details","slugId":"miss-peregrines-home-for-peculiar-children-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":61},"rental":true,"rating":{"advisories":["Adult Situations","Violence"],"reason":"For intense sequences of fantasy action/violence and peril.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Fantasy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Kevin Hart: What Now?","description":"","template":"defaultItem","id":"MMVF0C06DD9073F40E801F4F033C7583AA79","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVF0C06DD9073F40E801F4F033C7583AA79/details","slugId":"kevin-hart-what-now-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":64},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"For some sexual material, and language throughout.","source":"MPAA","value":"R"},"genres":[{"displayName":"Comedy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Max Steel","description":"","template":"defaultItem","id":"MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE08C54D3FC4C6040DFDE3EDF2D4650EA6/details","slugId":"max-steel-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":40},"rental":true,"rating":{"advisories":["Adult Situations","Violence"],"reason":"For some sci-fi action violence.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Fantasy"},{"displayName":"Sci-Fi"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"The Magnificent Seven (2016)","description":"","template":"defaultItem","id":"MMVD1A93702E2FFD95EB89B9C6028E7E8F6B","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD1A93702E2FFD95EB89B9C6028E7E8F6B/details","slugId":"the-magnificent-seven-2016-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":74},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations","Violence"],"reason":"","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Western"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Mechanic: Resurrection","description":"","template":"defaultItem","id":"MMVBC845F0FAC3DA01F0F93D84EA7AD2D843","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBC845F0FAC3DA01F0F93D84EA7AD2D843/details","slugId":"mechanic-resurrection-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":41},"rental":true,"rating":{"advisories":["Adult Language","Graphic Violence","Adult Situations"],"reason":"","source":"MPAA","value":"R"},"genres":[{"displayName":"Action"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"The Accountant","description":"","template":"defaultItem","id":"MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV76FB6D02FCD0F5F1FF548DE35CFC3E28D/details","slugId":"the-accountant-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":79},"rental":true,"rating":{"advisories":["Graphic Violence","Adult Situations","Adult Language"],"reason":"For strong violence and language throughout.","source":"MPAA","value":"R"},"genres":[{"displayName":"Drama"},{"displayName":"Thriller"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"The Secret Life of Pets","description":"","template":"defaultItem","id":"MMVECE4515FFB07614BF9F78AEFDD14A980E","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVECE4515FFB07614BF9F78AEFDD14A980E/details","slugId":"the-secret-life-of-pets-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":63},"rental":true,"rating":{"advisories":["Adult Situations"],"reason":"For action and some rude humor.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Comedy"},{"displayName":"Family"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Sully","description":"","template":"defaultItem","id":"MMV73E6662B1534509038331762802F6ECCB","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV73E6662B1534509038331762802F6ECCB/details","slugId":"sully-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":85},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"For some peril and brief strong language.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Biography"},{"displayName":"Drama"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Snowden","description":"","template":"defaultItem","id":"MMV725B25D455A8656C4004F4C32A2EDB109","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV725B25D455A8656C4004F4C32A2EDB109/details","slugId":"snowden-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":72},"rental":true,"rating":{"advisories":["Adult Language","Nudity","Adult Situations"],"reason":"For language and some sexuality/nudity.","source":"MPAA","value":"R"},"genres":[{"displayName":"Drama"},{"displayName":"Thriller"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Ben-Hur","description":"","template":"defaultItem","id":"MMVCCF6EEBF217AD64BE3F899BC4D27A1B50","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCCF6EEBF217AD64BE3F899BC4D27A1B50/details","slugId":"ben-hur-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":56},"rental":true,"rating":{"advisories":["Violence","Adult Situations"],"reason":"For sequences of violence and disturbing images.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Drama"},{"displayName":"Historical"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Storks","description":"","template":"defaultItem","id":"MMV9137B349BCA2B8983A03BBC88F6D3F596","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV9137B349BCA2B8983A03BBC88F6D3F596/details","slugId":"storks-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":64},"rental":true,"rating":{"advisories":["Adult Situations"],"reason":"For mild action and some thematic elements.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Kids"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Jason Bourne","description":"","template":"defaultItem","id":"MMV78FD1695EB875A7B24394770141479D03","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV78FD1695EB875A7B24394770141479D03/details","slugId":"jason-bourne-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":57},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations","Violence"],"reason":"For intense sequences of violence and action, and brief strong language.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Thriller"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Pete's Dragon (2016)","description":"","template":"defaultItem","id":"MMVBAEC56CE11759FE992806F9FEBBF6DF45","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVBAEC56CE11759FE992806F9FEBBF6DF45/details","slugId":"petes-dragon-2016-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":75},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Fantasy"},{"displayName":"Kids"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Suicide Squad - Extended Cut","description":"","template":"defaultItem","id":"MMV5B1451FFD875F006EB127D806182CF529","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV5B1451FFD875F006EB127D806182CF529/details","slugId":"suicide-squad-extended-cut-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":64},"rental":false,"rating":{"advisories":[],"reason":"For sequences of violence and action throughout, disturbing behavior, suggestive content and language.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Superhero"}],"hasMgoOffers":true,"mgoOfferPriceFrom":19.99},{"title":"The BFG","description":"","template":"defaultItem","id":"MMV177F2BA057CD0F330BD9CBD5D42B40B7C","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV177F2BA057CD0F330BD9CBD5D42B40B7C/details","slugId":"the-bfg-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":59},"rental":true,"rating":{"advisories":["Adult Situations"],"reason":"For action/peril, some scary moments and brief rude humor.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Fantasy"},{"displayName":"Kids"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"War Dogs (2016)","description":"","template":"defaultItem","id":"MMVCF4C2981927F55BD7297C0DC2A38F33AC","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCF4C2981927F55BD7297C0DC2A38F33AC/details","slugId":"war-dogs-2016-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":70},"rental":true,"rating":{"advisories":["Adult Language","Violence","Adult Situations"],"reason":"","source":"MPAA","value":"R"},"genres":[{"displayName":"Drama"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Finding Dory","description":"","template":"defaultItem","id":"MMVE766996E6548258877D053123A882FED0","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE766996E6548258877D053123A882FED0/details","slugId":"finding-dory-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":85},"rental":false,"rating":{"advisories":["Adult Situations"],"reason":"For mild thematic elements.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Kids"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":1.99},{"title":"Star Trek Beyond","description":"","template":"defaultItem","id":"MMV77052224F01EC44A1109C7860D64925AF","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV77052224F01EC44A1109C7860D64925AF/details","slugId":"star-trek-beyond-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":81},"rental":true,"rating":{"advisories":["Violence","Adult Situations"],"reason":"For sequences of sci-fi action and violence.","source":"MPAA","value":"PG13"},"genres":[{"displayName":"Action"},{"displayName":"Sci-Fi"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Sausage Party","description":"","template":"defaultItem","id":"MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV14A4AC5AE87E3FB53DCF76DEA9206D8C5/details","slugId":"sausage-party-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":53},"rental":true,"rating":{"advisories":["Adult Language","Adult Situations","Strong Sexual Content"],"reason":"","source":"MPAA","value":"R"},"genres":[{"displayName":"Comedy"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":3.99},{"title":"Kubo and the Two Strings","description":"","template":"defaultItem","id":"MMVAA2CE94D4ED58ACBC67538829ADCA0819","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVAA2CE94D4ED58ACBC67538829ADCA0819/details","slugId":"kubo-and-the-two-strings-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":87},"rental":true,"rating":{"advisories":["Adult Situations"],"reason":"For thematic elements, scary images, action and peril.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Fantasy"},{"displayName":"Animation"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Bad Moms","description":"","template":"defaultItem","id":"MMVD8869AD6F4108E217F2EB4A59E5CC65CC","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVD8869AD6F4108E217F2EB4A59E5CC65CC/details","slugId":"bad-moms-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Upright","audience_score":66},"rental":true,"rating":{"advisories":["Adult Language","Nudity","Adult Situations"],"reason":"For sexual material, full frontal nudity, language throughout, and drug and alcohol content.","source":"MPAA","value":"R"},"genres":[{"displayName":"Comedy"}],"hasMgoOffers":true,"mgoOfferPriceFrom":4.99},{"title":"Alice Through The Looking Glass (2016)","description":"","template":"defaultItem","id":"MMVCB669FB5033345184B953D8350DC90C0F","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVCB669FB5033345184B953D8350DC90C0F/details","slugId":"alice-through-the-looking-glass-2016-2016","contentType":"MOVIE","rotten_tomatoes_scores":{"audience_rating":"Spilled","audience_score":50},"rental":false,"rating":{"advisories":["Adult Language","Adult Situations"],"reason":"For fantasy/action peril and some language.","source":"MPAA","value":"PG"},"genres":[{"displayName":"Family"},{"displayName":"Fantasy"},{"displayName":"Kids"}],"hasMgoOffers":true,"mgoOfferPriceFrom":15.99}],"id":"FandangoNOW-new-releases","totalCount":36,"pageCount":36,"pageNumber":0,"listType":"mgo","listAssetType":"MOVIES","isPlussable":true,"isRemovable":false,"isMovable":false,"images":{"top":[],"bottom":[],"center":[],"left":[],"right":[]},"listNotFound":true,"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -692,7 +1338,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="OWRe35JJ-nbY6oIpQTAyJeNCRX9f2JtzxdtM" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="H5b3LJ3s-FGleRXlIx4viQw8zii5eijZ8ndw" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

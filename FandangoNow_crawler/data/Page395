@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search Knight and Day. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search Knight and Day. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search Aloha. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search Aloha. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search Knight and Day. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search Aloha. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search Knight and Day. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search Aloha. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Knight and Day. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Knight%20and%20Day","list_name":"Search Results for 'Knight and Day'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search Aloha. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=Aloha","list_name":"Search Results for 'Aloha'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'Knight and Day'
+                Search Results for 'Aloha'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;Knight and Day&#x27;"
-            data-list-id="Search-Results-for-Knight-and-Day"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Knight%20and%20Day"
+            data-list-title="Search Results for &#x27;Aloha&#x27;"
+            data-list-id="Search-Results-for-Aloha"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=Aloha"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="2"
-            data-total-count="2"
+            data-page-count="3"
+            data-total-count="4"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV2b7fa9f2e5f5e0477b91f0951519a487"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2b7fa9f2e5f5e0477b91f0951519a487"
-                        href="https://www.fandangonow.com/details/movie/knight-and-day-2010/1MV2b7fa9f2e5f5e0477b91f0951519a487?ele=list&elc=1MV2b7fa9f2e5f5e0477b91f0951519a487&eli=0&eci=1MV2b7fa9f2e5f5e0477b91f0951519a487"
+                        id="_item_1MVb03167dabf9befe43d1a2883d3e78a80"
+                        class="item__link js-flyout-item plus-card" data-id="1MVb03167dabf9befe43d1a2883d3e78a80"
+                        href="https://www.fandangonow.com/details/movie/scooby-doo-aloha-scooby-doo-2005/1MVb03167dabf9befe43d1a2883d3e78a80?ele=list&elc=1MVb03167dabf9befe43d1a2883d3e78a80&eli=0&eci=1MVb03167dabf9befe43d1a2883d3e78a80"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV2b7fa9f2e5f5e0477b91f0951519a487&amp;ql=70&amp;sizes=176x264"
-                            alt="Knight and Day MOVIE"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVb03167dabf9befe43d1a2883d3e78a80&amp;ql=70&amp;sizes=176x264"
+                            alt="Scooby-Doo: Aloha Scooby-Doo! MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,35 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVADDBA38E46A4642358FFA43252F70F327"
-                        class="item__link js-flyout-item plus-card" data-id="MMVADDBA38E46A4642358FFA43252F70F327"
-                        href="https://www.fandangonow.com/details/movie/knight-and-day-extended-edition-2010/MMVADDBA38E46A4642358FFA43252F70F327?ele=list&elc=MMVADDBA38E46A4642358FFA43252F70F327&eli=1&eci=MMVADDBA38E46A4642358FFA43252F70F327"
+                        id="_item_MMV00D4483DDD1A240EFD8DB276B04A22732"
+                        class="item__link js-flyout-item plus-card" data-id="MMV00D4483DDD1A240EFD8DB276B04A22732"
+                        href="https://www.fandangonow.com/details/movie/aloha-2015/MMV00D4483DDD1A240EFD8DB276B04A22732?ele=list&elc=MMV00D4483DDD1A240EFD8DB276B04A22732&eli=1&eci=MMV00D4483DDD1A240EFD8DB276B04A22732"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVADDBA38E46A4642358FFA43252F70F327&amp;ql=70&amp;sizes=176x264"
-                            alt="Knight and Day (Extended Edition) MOVIE"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV00D4483DDD1A240EFD8DB276B04A22732&amp;ql=70&amp;sizes=176x264"
+                            alt="Aloha MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVed8de7c6baa893129eccfd127b4825ed"
+                        class="item__link js-flyout-item plus-card" data-id="1MVed8de7c6baa893129eccfd127b4825ed"
+                        href="https://www.fandangonow.com/details/movie/aloha-bobby-and-rose-1975/1MVed8de7c6baa893129eccfd127b4825ed?ele=list&elc=1MVed8de7c6baa893129eccfd127b4825ed&eli=2&eci=1MVed8de7c6baa893129eccfd127b4825ed"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MVed8de7c6baa893129eccfd127b4825ed&amp;ql=70&amp;sizes=176x264"
+                            alt="Aloha, Bobby and Rose MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -629,7 +649,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'Knight and Day'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":2,"pageCount":2,"pageNumber":0,"items":[{"id":"1MV2b7fa9f2e5f5e0477b91f0951519a487","title":"Knight and Day","template":"defaultItem","contentType":"MOVIE","slugId":"knight-and-day-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2b7fa9f2e5f5e0477b91f0951519a487/details","description":""},{"id":"MMVADDBA38E46A4642358FFA43252F70F327","title":"Knight and Day (Extended Edition)","template":"defaultItem","contentType":"MOVIE","slugId":"knight-and-day-extended-edition-2010","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVADDBA38E46A4642358FFA43252F70F327/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Knight%20and%20Day","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'Aloha'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":4,"pageCount":3,"pageNumber":0,"items":[{"id":"1MVb03167dabf9befe43d1a2883d3e78a80","title":"Scooby-Doo: Aloha Scooby-Doo!","template":"defaultItem","contentType":"MOVIE","slugId":"scooby-doo-aloha-scooby-doo-2005","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVb03167dabf9befe43d1a2883d3e78a80/details","description":""},{"id":"MMV00D4483DDD1A240EFD8DB276B04A22732","title":"Aloha","template":"defaultItem","contentType":"MOVIE","slugId":"aloha-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV00D4483DDD1A240EFD8DB276B04A22732/details","description":""},{"id":"1MVed8de7c6baa893129eccfd127b4825ed","title":"Aloha, Bobby and Rose","template":"defaultItem","contentType":"MOVIE","slugId":"aloha-bobby-and-rose-1975","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVed8de7c6baa893129eccfd127b4825ed/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=Aloha","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -652,7 +672,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="FKvdAtyG-1xLMJBFdRXKij08kzO4Lme9ffpU" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="clA036QF-peWCynMBh14Yu3bTCEOEqKXu4Hg" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

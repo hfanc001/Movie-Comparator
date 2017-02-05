@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search The Avengers. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search The Avengers. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search The Ghouls. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search The Ghouls. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search The Avengers. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search The Ghouls. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search The Avengers. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search The Ghouls. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Avengers. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Avengers","list_name":"Search Results for 'The Avengers'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Ghouls. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Ghouls","list_name":"Search Results for 'The Ghouls'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'The Avengers'
+                Search Results for 'The Ghouls'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;The Avengers&#x27;"
-            data-list-id="Search-Results-for-The-Avengers"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Avengers"
+            data-list-title="Search Results for &#x27;The Ghouls&#x27;"
+            data-list-id="Search-Results-for-The-Ghouls"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Ghouls"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="11"
-            data-total-count="12"
+            data-page-count="4"
+            data-total-count="4"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_MMVC4626D19072C7CE5C94653F16372458C7"
-                        class="item__link js-flyout-item plus-card" data-id="MMVC4626D19072C7CE5C94653F16372458C7"
-                        href="https://www.fandangonow.com/details/movie/marvels-the-avengers-2012/MMVC4626D19072C7CE5C94653F16372458C7?ele=list&elc=MMVC4626D19072C7CE5C94653F16372458C7&eli=0&eci=MMVC4626D19072C7CE5C94653F16372458C7"
+                        id="_item_MMVB734DF7ED1C3FF793D85B4D698735E0C3"
+                        class="item__link js-flyout-item plus-card" data-id="MMVB734DF7ED1C3FF793D85B4D698735E0C3"
+                        href="https://www.fandangonow.com/details/movie/monster-high-best-of-the-ghouls-collection-1-2016/MMVB734DF7ED1C3FF793D85B4D698735E0C3?ele=list&elc=MMVB734DF7ED1C3FF793D85B4D698735E0C3&eli=0&eci=MMVB734DF7ED1C3FF793D85B4D698735E0C3"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=MMVC4626D19072C7CE5C94653F16372458C7&amp;ql=70&amp;sizes=176x264"
-                            alt="Marvel&#x27;s The Avengers  MOVIE"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=MMVB734DF7ED1C3FF793D85B4D698735E0C3&amp;ql=70&amp;sizes=176x264"
+                            alt="Monster High: Best of the Ghouls Collection #1 MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -495,15 +495,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV39e1e73c679dd82c9e864534a0abafe3"
-                        class="item__link js-flyout-item plus-card" data-id="1MV39e1e73c679dd82c9e864534a0abafe3"
-                        href="https://www.fandangonow.com/details/movie/the-avengers-1998/1MV39e1e73c679dd82c9e864534a0abafe3?ele=list&elc=1MV39e1e73c679dd82c9e864534a0abafe3&eli=1&eci=1MV39e1e73c679dd82c9e864534a0abafe3"
+                        id="_item_1MV430efe5f88f528a62c9f208e24ae31b0"
+                        class="item__link js-flyout-item plus-card" data-id="1MV430efe5f88f528a62c9f208e24ae31b0"
+                        href="https://www.fandangonow.com/details/movie/scooby-doo-and-the-ghoul-school-1988/1MV430efe5f88f528a62c9f208e24ae31b0?ele=list&elc=1MV430efe5f88f528a62c9f208e24ae31b0&eli=1&eci=1MV430efe5f88f528a62c9f208e24ae31b0"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV39e1e73c679dd82c9e864534a0abafe3&amp;ql=70&amp;sizes=176x264"
-                            alt="The Avengers MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV430efe5f88f528a62c9f208e24ae31b0&amp;ql=70&amp;sizes=176x264"
+                            alt="Scooby-Doo and the Ghoul School MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -515,15 +515,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MVd8044786d6ab7758783624abf44aa1cf"
-                        class="item__link js-flyout-item plus-card" data-id="1MVd8044786d6ab7758783624abf44aa1cf"
-                        href="https://www.fandangonow.com/details/movie/mask-of-the-avenger-1951/1MVd8044786d6ab7758783624abf44aa1cf?ele=list&elc=1MVd8044786d6ab7758783624abf44aa1cf&eli=2&eci=1MVd8044786d6ab7758783624abf44aa1cf"
+                        id="_item_1MVe28687e2fb3c056b664cc3faaa066a32"
+                        class="item__link js-flyout-item plus-card" data-id="1MVe28687e2fb3c056b664cc3faaa066a32"
+                        href="https://www.fandangonow.com/details/movie/the-ghouls-2015/1MVe28687e2fb3c056b664cc3faaa066a32?ele=list&elc=1MVe28687e2fb3c056b664cc3faaa066a32&eli=2&eci=1MVe28687e2fb3c056b664cc3faaa066a32"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVd8044786d6ab7758783624abf44aa1cf&amp;ql=70&amp;sizes=176x264"
-                            alt="Mask of the Avenger MOVIE"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVe28687e2fb3c056b664cc3faaa066a32&amp;ql=70&amp;sizes=176x264"
+                            alt="The Ghouls MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -535,155 +535,15 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV1cbf367cf60ab2d1207dc81a5a2affa9"
-                        class="item__link js-flyout-item plus-card" data-id="1MV1cbf367cf60ab2d1207dc81a5a2affa9"
-                        href="https://www.fandangonow.com/details/movie/the-avenger-1962/1MV1cbf367cf60ab2d1207dc81a5a2affa9?ele=list&elc=1MV1cbf367cf60ab2d1207dc81a5a2affa9&eli=3&eci=1MV1cbf367cf60ab2d1207dc81a5a2affa9"
+                        id="_item_1MVd17569c2fc3d8dcde607a9264d8d5def"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd17569c2fc3d8dcde607a9264d8d5def"
+                        href="https://www.fandangonow.com/details/movie/the-mad-ghoul-1943/1MVd17569c2fc3d8dcde607a9264d8d5def?ele=list&elc=1MVd17569c2fc3d8dcde607a9264d8d5def&eli=3&eci=1MVd17569c2fc3d8dcde607a9264d8d5def"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MV1cbf367cf60ab2d1207dc81a5a2affa9&amp;ql=70&amp;sizes=176x264"
-                            alt="The Avenger MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV93381be6d35cb42332e329351778273f"
-                        class="item__link js-flyout-item plus-card" data-id="1MV93381be6d35cb42332e329351778273f"
-                        href="https://www.fandangonow.com/details/movie/captain-america-the-first-avenger-2011/1MV93381be6d35cb42332e329351778273f?ele=list&elc=1MV93381be6d35cb42332e329351778273f&eli=4&eci=1MV93381be6d35cb42332e329351778273f"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV93381be6d35cb42332e329351778273f&amp;ql=70&amp;sizes=176x264"
-                            alt="Captain America: The First Avenger MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MVf9f2395a571abc969a22e40bddd646c3"
-                        class="item__link js-flyout-item plus-card" data-id="1MVf9f2395a571abc969a22e40bddd646c3"
-                        href="https://www.fandangonow.com/details/movie/ultimate-avengers-the-movie-2006/1MVf9f2395a571abc969a22e40bddd646c3?ele=list&elc=1MVf9f2395a571abc969a22e40bddd646c3&eli=5&eci=1MVf9f2395a571abc969a22e40bddd646c3"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img05.mgo-images.com/image/thumbnail?id=1MVf9f2395a571abc969a22e40bddd646c3&amp;ql=70&amp;sizes=176x264"
-                            alt="Ultimate Avengers: The Movie MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV850889225bf86e7e56c9878e72efb25d"
-                        class="item__link js-flyout-item plus-card" data-id="1MV850889225bf86e7e56c9878e72efb25d"
-                        href="https://www.fandangonow.com/details/movie/citizen-toxie-the-toxic-avenger-iv-2001/1MV850889225bf86e7e56c9878e72efb25d?ele=list&elc=1MV850889225bf86e7e56c9878e72efb25d&eli=6&eci=1MV850889225bf86e7e56c9878e72efb25d"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV850889225bf86e7e56c9878e72efb25d&amp;ql=70&amp;sizes=176x264"
-                            alt="Citizen Toxie: The Toxic Avenger IV MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV2edbdc75cdfcc00c5d0e07336365f51a"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2edbdc75cdfcc00c5d0e07336365f51a"
-                        href="https://www.fandangonow.com/details/movie/the-toxic-avengerunrated-1984/1MV2edbdc75cdfcc00c5d0e07336365f51a?ele=list&elc=1MV2edbdc75cdfcc00c5d0e07336365f51a&eli=7&eci=1MV2edbdc75cdfcc00c5d0e07336365f51a"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV2edbdc75cdfcc00c5d0e07336365f51a&amp;ql=70&amp;sizes=176x264"
-                            alt="The Toxic Avenger(Unrated) MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV3521155dd90b63a9e6bbc6abc07d8256"
-                        class="item__link js-flyout-item plus-card" data-id="1MV3521155dd90b63a9e6bbc6abc07d8256"
-                        href="https://www.fandangonow.com/details/movie/the-toxic-avenger-part-ii-1989/1MV3521155dd90b63a9e6bbc6abc07d8256?ele=list&elc=1MV3521155dd90b63a9e6bbc6abc07d8256&eli=8&eci=1MV3521155dd90b63a9e6bbc6abc07d8256"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV3521155dd90b63a9e6bbc6abc07d8256&amp;ql=70&amp;sizes=176x264"
-                            alt="The Toxic Avenger, Part II MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV0336910c297cea648ef4b676af869fdb"
-                        class="item__link js-flyout-item plus-card" data-id="1MV0336910c297cea648ef4b676af869fdb"
-                        href="https://www.fandangonow.com/details/movie/the-toxic-avenger-1985/1MV0336910c297cea648ef4b676af869fdb?ele=list&elc=1MV0336910c297cea648ef4b676af869fdb&eli=9&eci=1MV0336910c297cea648ef4b676af869fdb"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV0336910c297cea648ef4b676af869fdb&amp;ql=70&amp;sizes=176x264"
-                            alt="The Toxic Avenger MOVIE"
-                        >
-                        <div class="item__link__loading"></div>
-            
-                    </a>
-                </li>
-                <li
-                    class="media-list__item js-list-item "
-                    data-view="list-paginate"
-                >
-                    <a
-                        rel="nofollow"
-                        id="_item_1MV2cc94d246e7b19285b373678b14481a4"
-                        class="item__link js-flyout-item plus-card" data-id="1MV2cc94d246e7b19285b373678b14481a4"
-                        href="https://www.fandangonow.com/details/movie/the-invisible-avenger-1958/1MV2cc94d246e7b19285b373678b14481a4?ele=list&elc=1MV2cc94d246e7b19285b373678b14481a4&eli=10&eci=1MV2cc94d246e7b19285b373678b14481a4"
-                    >
-                        <img
-                            class="item__link__image b-lazy"
-                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV2cc94d246e7b19285b373678b14481a4&amp;ql=70&amp;sizes=176x264"
-                            alt="The Invisible Avenger MOVIE"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MVd17569c2fc3d8dcde607a9264d8d5def&amp;ql=70&amp;sizes=176x264"
+                            alt="The Mad Ghoul MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -809,7 +669,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'The Avengers'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":12,"pageCount":11,"pageNumber":0,"items":[{"id":"MMVC4626D19072C7CE5C94653F16372458C7","title":"Marvel's The Avengers ","template":"defaultItem","contentType":"MOVIE","slugId":"marvels-the-avengers-2012","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVC4626D19072C7CE5C94653F16372458C7/details","description":""},{"id":"1MV39e1e73c679dd82c9e864534a0abafe3","title":"The Avengers","template":"defaultItem","contentType":"MOVIE","slugId":"the-avengers-1998","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV39e1e73c679dd82c9e864534a0abafe3/details","description":""},{"id":"1MVd8044786d6ab7758783624abf44aa1cf","title":"Mask of the Avenger","template":"defaultItem","contentType":"MOVIE","slugId":"mask-of-the-avenger-1951","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd8044786d6ab7758783624abf44aa1cf/details","description":""},{"id":"1MV1cbf367cf60ab2d1207dc81a5a2affa9","title":"The Avenger","template":"defaultItem","contentType":"MOVIE","slugId":"the-avenger-1962","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV1cbf367cf60ab2d1207dc81a5a2affa9/details","description":""},{"id":"1MV93381be6d35cb42332e329351778273f","title":"Captain America: The First Avenger","template":"defaultItem","contentType":"MOVIE","slugId":"captain-america-the-first-avenger-2011","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV93381be6d35cb42332e329351778273f/details","description":""},{"id":"1MVf9f2395a571abc969a22e40bddd646c3","title":"Ultimate Avengers: The Movie","template":"defaultItem","contentType":"MOVIE","slugId":"ultimate-avengers-the-movie-2006","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVf9f2395a571abc969a22e40bddd646c3/details","description":""},{"id":"1MV850889225bf86e7e56c9878e72efb25d","title":"Citizen Toxie: The Toxic Avenger IV","template":"defaultItem","contentType":"MOVIE","slugId":"citizen-toxie-the-toxic-avenger-iv-2001","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV850889225bf86e7e56c9878e72efb25d/details","description":""},{"id":"1MV2edbdc75cdfcc00c5d0e07336365f51a","title":"The Toxic Avenger(Unrated)","template":"defaultItem","contentType":"MOVIE","slugId":"the-toxic-avengerunrated-1984","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2edbdc75cdfcc00c5d0e07336365f51a/details","description":""},{"id":"1MV3521155dd90b63a9e6bbc6abc07d8256","title":"The Toxic Avenger, Part II","template":"defaultItem","contentType":"MOVIE","slugId":"the-toxic-avenger-part-ii-1989","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV3521155dd90b63a9e6bbc6abc07d8256/details","description":""},{"id":"1MV0336910c297cea648ef4b676af869fdb","title":"The Toxic Avenger","template":"defaultItem","contentType":"MOVIE","slugId":"the-toxic-avenger-1985","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0336910c297cea648ef4b676af869fdb/details","description":""},{"id":"1MV2cc94d246e7b19285b373678b14481a4","title":"The Invisible Avenger","template":"defaultItem","contentType":"MOVIE","slugId":"the-invisible-avenger-1958","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV2cc94d246e7b19285b373678b14481a4/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Avengers","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'The Ghouls'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":4,"pageCount":4,"pageNumber":0,"items":[{"id":"MMVB734DF7ED1C3FF793D85B4D698735E0C3","title":"Monster High: Best of the Ghouls Collection #1","template":"defaultItem","contentType":"MOVIE","slugId":"monster-high-best-of-the-ghouls-collection-1-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVB734DF7ED1C3FF793D85B4D698735E0C3/details","description":""},{"id":"1MV430efe5f88f528a62c9f208e24ae31b0","title":"Scooby-Doo and the Ghoul School","template":"defaultItem","contentType":"MOVIE","slugId":"scooby-doo-and-the-ghoul-school-1988","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV430efe5f88f528a62c9f208e24ae31b0/details","description":""},{"id":"1MVe28687e2fb3c056b664cc3faaa066a32","title":"The Ghouls","template":"defaultItem","contentType":"MOVIE","slugId":"the-ghouls-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVe28687e2fb3c056b664cc3faaa066a32/details","description":""},{"id":"1MVd17569c2fc3d8dcde607a9264d8d5def","title":"The Mad Ghoul","template":"defaultItem","contentType":"MOVIE","slugId":"the-mad-ghoul-1943","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd17569c2fc3d8dcde607a9264d8d5def/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Ghouls","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -832,7 +692,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="1NWyrLFj-KdXFdfYE43XqeVRPkZduCeA3usM" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="ORTDH0Yp-_QCYEM1d8N5DvyFzO9z0AMm9C0M" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();

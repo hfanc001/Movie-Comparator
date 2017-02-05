@@ -10,20 +10,20 @@
     <meta http-equiv="pragma" content="no-cache">
     <meta name="mgo-environment" content="production">
     <meta name="mgo-build" content="1554">
-    <meta name="description" content="Results for your search TMNT. Stream or download now on FandangoNOW.">
-    <meta name="abstract" content="Results for your search TMNT. Stream or download now on FandangoNOW.">
+    <meta name="description" content="Results for your search The Forest. Stream or download now on FandangoNOW.">
+    <meta name="abstract" content="Results for your search The Forest. Stream or download now on FandangoNOW.">
     <meta name="copyright" content="MediaNaviCo LLC">
     <meta name="google-site-verification" content="8OBVqRoiowEwuM4PikvCk1rVBnEVn9XWoeEhp_jfSLM">
     <meta property="og:image" content="/img/social-default.png" />
     <meta property="og:title" content="Movie Search Results | FandangoNOW" />
-    <meta property="og:description" content="Results for your search TMNT. Stream or download now on FandangoNOW." />
+    <meta property="og:description" content="Results for your search The Forest. Stream or download now on FandangoNOW." />
     <meta property="og:site_name" content="FandangoNOW" />
     <meta property="og:url" content="https://www.fandangonow.com/login" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="/img/social-default.png" />
     <meta name="twitter:title" content="Movie Search Results | FandangoNOW" />
-    <meta name="twitter:description" content="Results for your search TMNT. Stream or download now on FandangoNOW." />
+    <meta name="twitter:description" content="Results for your search The Forest. Stream or download now on FandangoNOW." />
     <meta name="twitter:site" content="@FandangoNOW" />
     
     <link rel="apple-touch-icon" sizes="57x57" href="/img/favicons/apple-touch-icon-57x57.png?v=7kkmkmmlGg">
@@ -93,7 +93,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
     
     <!-- tagjs Analytics -->
     <script>
-        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search TMNT. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=TMNT","list_name":"Search Results for 'TMNT'","list_type":"search"} || {};
+        window.utag_data = {"access_token":"Bearer guest","client_version":"1554","device_id":"web","firmware_version":"3.0.x","geo_country":"unknown","ip":"71.95.39.119","logged_in":"f","origin":"https://www.fandangonow.com","profile_id":"guest","referer":null,"refresh_token":"guest","session_id":"guestsession","social":{},"title_delimiter":" | ","title_site":"FandangoNOW","x_mgo_device_id":"1|000|3.0-1554|N|x|null|x","x_mgo_device":"1|000|3.0-1554|N|x|null|x","canonicalUrl":"https://www.fandangonow.com/login","h1":"Movie Search Results","title":"Movie Search Results | FandangoNOW","metaDescription":"Results for your search The Forest. Stream or download now on FandangoNOW.","page_level_1":"m-go","page_level_2":"listviewed","page_type":"list","page_name":"list:listviewed","list_id":"saw/search?contentTypes=movie&q=The%20Forest","list_name":"Search Results for 'The Forest'","list_type":"search"} || {};
         utag_data.user_agent = navigator.userAgent;
         utag_data.cookie = document.cookie;
         utag_data.actualUrl = location.toString();
@@ -144,7 +144,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                             <a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a>
+                                            <a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a>
                                         </li>
                                 </ul>
                                     <ul>
@@ -213,10 +213,10 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                             <div class="submenu-wrap submenu-horizontal group">
                                 <ul>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
+                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a>
+                                            <a href="https://www.fandangonow.com/list/new-series">Hit New Series</a>
                                         </li>
                                         <li>
                                             <a href="https://www.fandangonow.com/list/binge">Binge</a>
@@ -315,7 +315,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                                 <li><a href="https://www.fandangonow.com/list/bestsellers-of-2016">Bestsellers of 2016</a></li>
                                 <li><a href="https://www.fandangonow.com/list/indie-favorites">Indie Film Fest</a></li>
                                 <li><a href="https://www.fandangonow.com/list/top_rated_movies">Top 50 Movies</a></li>
-                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">Buddy Comedies</a></li>
+                                <li><a href="https://www.fandangonow.com/list/buddy-comedies">$1.99+ Buddy Comedies</a></li>
             
             
                                         <li><a href="https://www.fandangonow.com/list/Family/genre?q=Family&amp;contentTypes=movies">Family</a></li>
@@ -346,8 +346,8 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                     <li class="browse-tv"><span data-selenium="mobile-menu-item">TV Shows</span>
                         <ul>
                             <li class="home"><a href="/tv">ALL TV SHOWS</a></li>
-                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/current-tv">Current TV Favorites</a></li>
+                                <li><a href="https://www.fandangonow.com/list/new-series">Hit New Series</a></li>
                                 <li><a href="https://www.fandangonow.com/list/binge">Binge</a></li>
                                 <li><a href="https://www.fandangonow.com/list/classic-tv">Classic TV</a></li>
                                 <li><a href="https://www.fandangonow.com/list/sunday">Sunday TV</a></li>
@@ -453,7 +453,7 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
         <header class="grid-header">
 
             <h2 class="grid-header__title">
-                Search Results for 'TMNT'
+                Search Results for 'The Forest'
             </h2>
 
         </header>
@@ -461,13 +461,13 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
 
         <ul
             class="media-list js-media-list media-list--grid"
-            data-list-title="Search Results for &#x27;TMNT&#x27;"
-            data-list-id="Search-Results-for-TMNT"
-            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=TMNT"
+            data-list-title="Search Results for &#x27;The Forest&#x27;"
+            data-list-id="Search-Results-for-The-Forest"
+            data-list-query="http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&amp;q=The%20Forest"
             data-list-type="search"
             data-page-number="0"
-            data-page-count="1"
-            data-total-count="1"
+            data-page-count="19"
+            data-total-count="21"
         >
                 <li
                     class="media-list__item js-list-item "
@@ -475,15 +475,375 @@ var BasePlugin=function(){"use strict"};BasePlugin.prototype.PluginObject=null,B
                 >
                     <a
                         rel="nofollow"
-                        id="_item_1MV66509e7a1c899af24a7b5ab908ff2117"
-                        class="item__link js-flyout-item plus-card" data-id="1MV66509e7a1c899af24a7b5ab908ff2117"
-                        href="https://www.fandangonow.com/details/movie/tmnt-2007/1MV66509e7a1c899af24a7b5ab908ff2117?ele=list&elc=1MV66509e7a1c899af24a7b5ab908ff2117&eli=0&eci=1MV66509e7a1c899af24a7b5ab908ff2117"
+                        id="_item_MMVE53089176AFEF1BEB88AC44DD62D46056"
+                        class="item__link js-flyout-item plus-card" data-id="MMVE53089176AFEF1BEB88AC44DD62D46056"
+                        href="https://www.fandangonow.com/details/movie/the-forest-2016/MMVE53089176AFEF1BEB88AC44DD62D46056?ele=list&elc=MMVE53089176AFEF1BEB88AC44DD62D46056&eli=0&eci=MMVE53089176AFEF1BEB88AC44DD62D46056"
                     >
                         <img
                             class="item__link__image b-lazy"
                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
-                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV66509e7a1c899af24a7b5ab908ff2117&amp;ql=70&amp;sizes=176x264"
-                            alt="TMNT MOVIE"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMVE53089176AFEF1BEB88AC44DD62D46056&amp;ql=70&amp;sizes=176x264"
+                            alt="The Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV99AAC688102F01ED412C950D5A3E5F13B"
+                        class="item__link js-flyout-item plus-card" data-id="MMV99AAC688102F01ED412C950D5A3E5F13B"
+                        href="https://www.fandangonow.com/details/movie/into-the-forest-2015/MMV99AAC688102F01ED412C950D5A3E5F13B?ele=list&elc=MMV99AAC688102F01ED412C950D5A3E5F13B&eli=1&eci=MMV99AAC688102F01ED412C950D5A3E5F13B"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img05.mgo-images.com/image/thumbnail?id=MMV99AAC688102F01ED412C950D5A3E5F13B&amp;ql=70&amp;sizes=176x264"
+                            alt="Into the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV65e07a2b54489471a46ab9fc922b4ec6"
+                        class="item__link js-flyout-item plus-card" data-id="1MV65e07a2b54489471a46ab9fc922b4ec6"
+                        href="https://www.fandangonow.com/details/movie/song-from-the-forest-2014/1MV65e07a2b54489471a46ab9fc922b4ec6?ele=list&elc=1MV65e07a2b54489471a46ab9fc922b4ec6&eli=2&eci=1MV65e07a2b54489471a46ab9fc922b4ec6"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MV65e07a2b54489471a46ab9fc922b4ec6&amp;ql=70&amp;sizes=176x264"
+                            alt="Song From the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVae086f399e09dbe3100984fed2a97b45"
+                        class="item__link js-flyout-item plus-card" data-id="1MVae086f399e09dbe3100984fed2a97b45"
+                        href="https://www.fandangonow.com/details/movie/man-of-the-forest-1933/1MVae086f399e09dbe3100984fed2a97b45?ele=list&elc=1MVae086f399e09dbe3100984fed2a97b45&eli=3&eci=1MVae086f399e09dbe3100984fed2a97b45"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVae086f399e09dbe3100984fed2a97b45&amp;ql=70&amp;sizes=176x264"
+                            alt="Man of the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_MMV4D3211675F214D7219283024842098436"
+                        class="item__link js-flyout-item plus-card" data-id="MMV4D3211675F214D7219283024842098436"
+                        href="https://www.fandangonow.com/details/movie/voices-from-the-forest-2014/MMV4D3211675F214D7219283024842098436?ele=list&elc=MMV4D3211675F214D7219283024842098436&eli=4&eci=MMV4D3211675F214D7219283024842098436"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=MMV4D3211675F214D7219283024842098436&amp;ql=70&amp;sizes=176x264"
+                            alt="Voices from the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV56c6f4a9de827684ef046fb48d57b0cc"
+                        class="item__link js-flyout-item plus-card" data-id="1MV56c6f4a9de827684ef046fb48d57b0cc"
+                        href="https://www.fandangonow.com/details/movie/figure-in-the-forest-2002/1MV56c6f4a9de827684ef046fb48d57b0cc?ele=list&elc=1MV56c6f4a9de827684ef046fb48d57b0cc&eli=5&eci=1MV56c6f4a9de827684ef046fb48d57b0cc"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MV56c6f4a9de827684ef046fb48d57b0cc&amp;ql=70&amp;sizes=176x264"
+                            alt="Figure in the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVd8d193c79675c398451dd0a66353437b"
+                        class="item__link js-flyout-item plus-card" data-id="1MVd8d193c79675c398451dd0a66353437b"
+                        href="https://www.fandangonow.com/details/movie/beyond-the-forest-1949/1MVd8d193c79675c398451dd0a66353437b?ele=list&elc=1MVd8d193c79675c398451dd0a66353437b&eli=6&eci=1MVd8d193c79675c398451dd0a66353437b"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img08.mgo-images.com/image/thumbnail?id=1MVd8d193c79675c398451dd0a66353437b&amp;ql=70&amp;sizes=176x264"
+                            alt="Beyond the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVddd3d5afc9b2d3c75f4901d06f9c7bd8"
+                        class="item__link js-flyout-item plus-card" data-id="1MVddd3d5afc9b2d3c75f4901d06f9c7bd8"
+                        href="https://www.fandangonow.com/details/movie/the-light-in-the-forest-1958/1MVddd3d5afc9b2d3c75f4901d06f9c7bd8?ele=list&elc=1MVddd3d5afc9b2d3c75f4901d06f9c7bd8&eli=7&eci=1MVddd3d5afc9b2d3c75f4901d06f9c7bd8"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img02.mgo-images.com/image/thumbnail?id=1MVddd3d5afc9b2d3c75f4901d06f9c7bd8&amp;ql=70&amp;sizes=176x264"
+                            alt="The Light in the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV0f1613ef87fa00ec4e592c5f1d376c97"
+                        class="item__link js-flyout-item plus-card" data-id="1MV0f1613ef87fa00ec4e592c5f1d376c97"
+                        href="https://www.fandangonow.com/details/movie/lightnin-in-the-forest-1948/1MV0f1613ef87fa00ec4e592c5f1d376c97?ele=list&elc=1MV0f1613ef87fa00ec4e592c5f1d376c97&eli=8&eci=1MV0f1613ef87fa00ec4e592c5f1d376c97"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV0f1613ef87fa00ec4e592c5f1d376c97&amp;ql=70&amp;sizes=176x264"
+                            alt="Lightnin&#x27; in the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVa86d66ff1f42b0ed8e40342c1a5e284d"
+                        class="item__link js-flyout-item plus-card" data-id="1MVa86d66ff1f42b0ed8e40342c1a5e284d"
+                        href="https://www.fandangonow.com/details/movie/another-part-of-the-forest-1948/1MVa86d66ff1f42b0ed8e40342c1a5e284d?ele=list&elc=1MVa86d66ff1f42b0ed8e40342c1a5e284d&eli=9&eci=1MVa86d66ff1f42b0ed8e40342c1a5e284d"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MVa86d66ff1f42b0ed8e40342c1a5e284d&amp;ql=70&amp;sizes=176x264"
+                            alt="Another Part of the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7e9d60cd4f19322b21e224c38e28dcc0"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7e9d60cd4f19322b21e224c38e28dcc0"
+                        href="https://www.fandangonow.com/details/movie/spoilers-of-the-forest-1957/1MV7e9d60cd4f19322b21e224c38e28dcc0?ele=list&elc=1MV7e9d60cd4f19322b21e224c38e28dcc0&eli=10&eci=1MV7e9d60cd4f19322b21e224c38e28dcc0"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img06.mgo-images.com/image/thumbnail?id=1MV7e9d60cd4f19322b21e224c38e28dcc0&amp;ql=70&amp;sizes=176x264"
+                            alt="Spoilers of the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV14c2188fc78f0dafa79439231ba58101"
+                        class="item__link js-flyout-item plus-card" data-id="1MV14c2188fc78f0dafa79439231ba58101"
+                        href="https://www.fandangonow.com/details/movie/duel-in-the-forest-1959/1MV14c2188fc78f0dafa79439231ba58101?ele=list&elc=1MV14c2188fc78f0dafa79439231ba58101&eli=11&eci=1MV14c2188fc78f0dafa79439231ba58101"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV14c2188fc78f0dafa79439231ba58101&amp;ql=70&amp;sizes=176x264"
+                            alt="Duel in the Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV710a3fd4cb46ce0aa3e653daf92e7f3e"
+                        class="item__link js-flyout-item plus-card" data-id="1MV710a3fd4cb46ce0aa3e653daf92e7f3e"
+                        href="https://www.fandangonow.com/details/movie/the-forest-rangers-1942/1MV710a3fd4cb46ce0aa3e653daf92e7f3e?ele=list&elc=1MV710a3fd4cb46ce0aa3e653daf92e7f3e&eli=12&eci=1MV710a3fd4cb46ce0aa3e653daf92e7f3e"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV710a3fd4cb46ce0aa3e653daf92e7f3e&amp;ql=70&amp;sizes=176x264"
+                            alt="The Forest Rangers MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV7ff8ac96b39e548e0ebe2240e5b3e012"
+                        class="item__link js-flyout-item plus-card" data-id="1MV7ff8ac96b39e548e0ebe2240e5b3e012"
+                        href="https://www.fandangonow.com/details/movie/the-petrified-forest-1936/1MV7ff8ac96b39e548e0ebe2240e5b3e012?ele=list&elc=1MV7ff8ac96b39e548e0ebe2240e5b3e012&eli=13&eci=1MV7ff8ac96b39e548e0ebe2240e5b3e012"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img03.mgo-images.com/image/thumbnail?id=1MV7ff8ac96b39e548e0ebe2240e5b3e012&amp;ql=70&amp;sizes=176x264"
+                            alt="The Petrified Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV8736d21f5bde6870441d6bdfc9791be7"
+                        class="item__link js-flyout-item plus-card" data-id="1MV8736d21f5bde6870441d6bdfc9791be7"
+                        href="https://www.fandangonow.com/details/movie/forest-of-the-dancing-spirits-2014/1MV8736d21f5bde6870441d6bdfc9791be7?ele=list&elc=1MV8736d21f5bde6870441d6bdfc9791be7&eli=14&eci=1MV8736d21f5bde6870441d6bdfc9791be7"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV8736d21f5bde6870441d6bdfc9791be7&amp;ql=70&amp;sizes=176x264"
+                            alt="Forest of the Dancing Spirits MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVcffc8276d093c7f05b23ad5747099123"
+                        class="item__link js-flyout-item plus-card" data-id="1MVcffc8276d093c7f05b23ad5747099123"
+                        href="https://www.fandangonow.com/details/movie/the-emerald-forest-1985/1MVcffc8276d093c7f05b23ad5747099123?ele=list&elc=1MVcffc8276d093c7f05b23ad5747099123&eli=15&eci=1MVcffc8276d093c7f05b23ad5747099123"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img07.mgo-images.com/image/thumbnail?id=1MVcffc8276d093c7f05b23ad5747099123&amp;ql=70&amp;sizes=176x264"
+                            alt="The Emerald Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV618a1adc53809af614eb12b19a00af92"
+                        class="item__link js-flyout-item plus-card" data-id="1MV618a1adc53809af614eb12b19a00af92"
+                        href="https://www.fandangonow.com/details/movie/the-bandit-of-sherwood-forest-1946/1MV618a1adc53809af614eb12b19a00af92?ele=list&elc=1MV618a1adc53809af614eb12b19a00af92&eli=16&eci=1MV618a1adc53809af614eb12b19a00af92"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img09.mgo-images.com/image/thumbnail?id=1MV618a1adc53809af614eb12b19a00af92&amp;ql=70&amp;sizes=176x264"
+                            alt="The Bandit of Sherwood Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MVfa3f9e7d235b041415a1e0a481f10a2f"
+                        class="item__link js-flyout-item plus-card" data-id="1MVfa3f9e7d235b041415a1e0a481f10a2f"
+                        href="https://www.fandangonow.com/details/movie/the-blazing-forest-1952/1MVfa3f9e7d235b041415a1e0a481f10a2f?ele=list&elc=1MVfa3f9e7d235b041415a1e0a481f10a2f&eli=17&eci=1MVfa3f9e7d235b041415a1e0a481f10a2f"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img04.mgo-images.com/image/thumbnail?id=1MVfa3f9e7d235b041415a1e0a481f10a2f&amp;ql=70&amp;sizes=176x264"
+                            alt="The Blazing Forest MOVIE"
+                        >
+                        <div class="item__link__loading"></div>
+            
+                    </a>
+                </li>
+                <li
+                    class="media-list__item js-list-item "
+                    data-view="list-paginate"
+                >
+                    <a
+                        rel="nofollow"
+                        id="_item_1MV8f89b40a391d75327593ea17adc347b2"
+                        class="item__link js-flyout-item plus-card" data-id="1MV8f89b40a391d75327593ea17adc347b2"
+                        href="https://www.fandangonow.com/details/movie/the-enchanted-forest-1945/1MV8f89b40a391d75327593ea17adc347b2?ele=list&elc=1MV8f89b40a391d75327593ea17adc347b2&eli=18&eci=1MV8f89b40a391d75327593ea17adc347b2"
+                    >
+                        <img
+                            class="item__link__image b-lazy"
+                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAwCAMAAABHcohdAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABRJREFUeAFjIAKMglEwCkbBKBgFAAYwAAGtCeDcAAAAAElFTkSuQmCC"
+                            data-src="https://img01.mgo-images.com/image/thumbnail?id=1MV8f89b40a391d75327593ea17adc347b2&amp;ql=70&amp;sizes=176x264"
+                            alt="The Enchanted Forest MOVIE"
                         >
                         <div class="item__link__loading"></div>
             
@@ -609,7 +969,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
 
     <script>
         window.mgo = window.mgo || {};
-        window.mgo.data = {"title":"Search Results for 'TMNT'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":1,"pageCount":1,"pageNumber":0,"items":[{"id":"1MV66509e7a1c899af24a7b5ab908ff2117","title":"TMNT","template":"defaultItem","contentType":"MOVIE","slugId":"tmnt-2007","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV66509e7a1c899af24a7b5ab908ff2117/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=TMNT","marketingBanners":{"desktop":null},"isEditable":false}
+        window.mgo.data = {"title":"Search Results for 'The Forest'","description":"","template":"defaultList","isPlussable":true,"isRemovable":false,"isMovable":false,"listType":"search","totalCount":21,"pageCount":19,"pageNumber":0,"items":[{"id":"MMVE53089176AFEF1BEB88AC44DD62D46056","title":"The Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-forest-2016","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMVE53089176AFEF1BEB88AC44DD62D46056/details","description":""},{"id":"MMV99AAC688102F01ED412C950D5A3E5F13B","title":"Into the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"into-the-forest-2015","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV99AAC688102F01ED412C950D5A3E5F13B/details","description":""},{"id":"1MV65e07a2b54489471a46ab9fc922b4ec6","title":"Song From the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"song-from-the-forest-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV65e07a2b54489471a46ab9fc922b4ec6/details","description":""},{"id":"1MVae086f399e09dbe3100984fed2a97b45","title":"Man of the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"man-of-the-forest-1933","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVae086f399e09dbe3100984fed2a97b45/details","description":""},{"id":"MMV4D3211675F214D7219283024842098436","title":"Voices from the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"voices-from-the-forest-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/MMV4D3211675F214D7219283024842098436/details","description":""},{"id":"1MV56c6f4a9de827684ef046fb48d57b0cc","title":"Figure in the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"figure-in-the-forest-2002","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV56c6f4a9de827684ef046fb48d57b0cc/details","description":""},{"id":"1MVd8d193c79675c398451dd0a66353437b","title":"Beyond the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"beyond-the-forest-1949","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVd8d193c79675c398451dd0a66353437b/details","description":""},{"id":"1MVddd3d5afc9b2d3c75f4901d06f9c7bd8","title":"The Light in the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-light-in-the-forest-1958","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVddd3d5afc9b2d3c75f4901d06f9c7bd8/details","description":""},{"id":"1MV0f1613ef87fa00ec4e592c5f1d376c97","title":"Lightnin' in the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"lightnin-in-the-forest-1948","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV0f1613ef87fa00ec4e592c5f1d376c97/details","description":""},{"id":"1MVa86d66ff1f42b0ed8e40342c1a5e284d","title":"Another Part of the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"another-part-of-the-forest-1948","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVa86d66ff1f42b0ed8e40342c1a5e284d/details","description":""},{"id":"1MV7e9d60cd4f19322b21e224c38e28dcc0","title":"Spoilers of the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"spoilers-of-the-forest-1957","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7e9d60cd4f19322b21e224c38e28dcc0/details","description":""},{"id":"1MV14c2188fc78f0dafa79439231ba58101","title":"Duel in the Forest","template":"defaultItem","contentType":"MOVIE","slugId":"duel-in-the-forest-1959","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV14c2188fc78f0dafa79439231ba58101/details","description":""},{"id":"1MV710a3fd4cb46ce0aa3e653daf92e7f3e","title":"The Forest Rangers","template":"defaultItem","contentType":"MOVIE","slugId":"the-forest-rangers-1942","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV710a3fd4cb46ce0aa3e653daf92e7f3e/details","description":""},{"id":"1MV7ff8ac96b39e548e0ebe2240e5b3e012","title":"The Petrified Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-petrified-forest-1936","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV7ff8ac96b39e548e0ebe2240e5b3e012/details","description":""},{"id":"1MV8736d21f5bde6870441d6bdfc9791be7","title":"Forest of the Dancing Spirits","template":"defaultItem","contentType":"MOVIE","slugId":"forest-of-the-dancing-spirits-2014","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV8736d21f5bde6870441d6bdfc9791be7/details","description":""},{"id":"1MVcffc8276d093c7f05b23ad5747099123","title":"The Emerald Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-emerald-forest-1985","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVcffc8276d093c7f05b23ad5747099123/details","description":""},{"id":"1MV618a1adc53809af614eb12b19a00af92","title":"The Bandit of Sherwood Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-bandit-of-sherwood-forest-1946","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV618a1adc53809af614eb12b19a00af92/details","description":""},{"id":"1MVfa3f9e7d235b041415a1e0a481f10a2f","title":"The Blazing Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-blazing-forest-1952","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MVfa3f9e7d235b041415a1e0a481f10a2f/details","description":""},{"id":"1MV8f89b40a391d75327593ea17adc347b2","title":"The Enchanted Forest","template":"defaultItem","contentType":"MOVIE","slugId":"the-enchanted-forest-1945","detailUrl":"https://c-ls.mgo-images.com/listservice/v2/item/1MV8f89b40a391d75327593ea17adc347b2/details","description":""}],"queryString":"http://prd-eurekavip.mgo.lax:8080/eureka/v2/list/search?contentTypes=movie&q=The%20Forest","marketingBanners":{"desktop":null},"isEditable":false}
         window.mgo.origin = "https://www.fandangonow.com"
     </script>
     <!-- comScore Tag -->
@@ -632,7 +992,7 @@ $(document).ready(function(){"use strict";var t=null,e=50,i=$(".js-media-list")[
     <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035083&cv=2.0&cj=1" />
     </noscript>
-    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="ZCsGd7Qo-6SNSoLrl8cj97d5BptzR56Uj2UE" />
+    <!-- End comScore Tag -->    <input class="js-csrf-token" name="_csrf" type="hidden" value="pF7UF2NT-kmuEXn9zBurkXziZ3w5IM1OY_rU" />
     <script>
         tms.emit('view', window.utag_data);
         _satellite.pageBottom();
