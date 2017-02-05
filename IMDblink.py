@@ -5,9 +5,7 @@ import string
 import json 
 import urllib2
 import string
-from lxml import html
 import csv,os,json
-from exceptions import ValueError
 from time import sleep
 
 #url = raw_input('Enter url:')
