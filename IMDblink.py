@@ -17,10 +17,13 @@ f= open("IMDblinks.sh","w+")
 
 wget = "wget -O "
 year = "2016"
+url1 = " \"http://www.imdb.com/search/title?year="
+url2 = "&sort=boxoffice_gross_us,desc&page="
 url = " \"http://www.imdb.com/search/title?year=2016&sort=boxoffice_gross_us,desc&page="
 page = 1
 
-for i in range(24):
+for i in range(25):
+	url = url1+str(year)+url2
 	for page in range (6):
 		page = page + 1
 		if page != 1:

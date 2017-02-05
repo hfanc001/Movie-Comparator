@@ -24,7 +24,7 @@ list10 = []
 zipped = zip(list5,list6, list7,list8,list9,list10)
 year = 2017
 
-for x in range(0 , 144):
+for x in range(0 , 150):
 #Each HTML pages
 	if x % 6 == 5:
 		filename=str(year)
@@ -57,7 +57,7 @@ for x in range(0 , 144):
 	str3 =  "\n".join(list1)
 	str3 = str3.replace("\"" , "")
 	list1 = str3.split('\n')
-#	print '\n'.join(list1)
+	print '\n'.join(list1)
 
 #Genre
 	genre = re.findall('nre">\n[a-zA-Z0-9 ,-]*', filee)
