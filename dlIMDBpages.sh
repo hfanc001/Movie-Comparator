@@ -1,20 +1,16 @@
-wget -O 2016 "http://www.imdb.com/search/title?year=2016&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2016page2 "http://www.imdb.com/search/title?year=2016&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2015 "http://www.imdb.com/search/title?year=2015&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2015page2 "http://www.imdb.com/search/title?year=2015&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2014 "http://www.imdb.com/search/title?year=2014&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2014page2 "http://www.imdb.com/search/title?year=2014&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2013 "http://www.imdb.com/search/title?year=2013&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2013page2 "http://www.imdb.com/search/title?year=2013&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2012 "http://www.imdb.com/search/title?year=2012&sort=boxoffice_gross_us,desc&age=1"
-wget -O 2012page2 "http://www.imdb.com/search/title?year=2012&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2011 "http://www.imdb.com/search/title?year=2011&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2011page2 "http://www.imdb.com/search/title?year=2011&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2010 "http://www.imdb.com/search/title?year=2010&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2010page2 "http://www.imdb.com/search/title?year=2010&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2009 "http://www.imdb.com/search/title?year=2009&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2009page2 "http://www.imdb.com/search/title?year=2009&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2008 "http://www.imdb.com/search/title?year=2008&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2008page2 "http://www.imdb.com/search/title?year=2008&sort=boxoffice_gross_us,desc&page=2"
-wget -O 2007 "http://www.imdb.com/search/title?year=2007&sort=boxoffice_gross_us,desc&page=1"
-wget -O 2007page2 "http://www.imdb.com/search/title?year=2007&sort=boxoffice_gross_us,desc&page=2"
+# !/bin/bash
+# download IMDb pages
+
+rm -rf movie_data
+mkdir movie_data
+cp IMDblink.py imdb_Movie_crawler.py movie_data
+
+cd movie_data
+chmod u+x ./*.py 
+
+python IMDblink.py
+chmod u+x IMDblinks.sh
+./IMDblinks.sh
+python imdb_Movie_crawler.py >> movielist
+
+rm IMDblink.py imdb_Movie_crawler.py IMDblinks.sh 
