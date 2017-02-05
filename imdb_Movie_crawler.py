@@ -22,9 +22,10 @@ list8 = []
 list9 = []
 list10 = []
 zipped = zip(list5,list6, list7,list8,list9,list10)
-#i = 1 
 year = 2017
-for x in range(0 , 150):
+
+for x in range(0 , 144):
+#Each HTML pages
 	if x % 6 == 5:
 		filename=str(year)
 		filename = filename+"page6" 
@@ -42,11 +43,10 @@ for x in range(0 , 150):
 		filename = filename+"page2" 
 	else:
 		year = year - 1 
-	filename = str(year)
-	if year == 1992:
-		break		
+		filename = str(year)
+
 	filee = open(str(filename), "r").read()
-	print filename
+	#print filename
 
 # URL 	
 	urls = re.findall('<a href="[\/a-zA-Z0-9\-. _?#=]*"\n> <img alt=".*"' , filee  )
@@ -101,9 +101,8 @@ for x in range(0 , 150):
 	runtimes = runtimes.split('\n')
 	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears , runtimes))
 	for item in list1:
-                list3.append(item  + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0))# + " " + details.pop(0))
+                list3.append(item)# + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0) + " " + details.pop(0))
 
-	i = i +1
 '''
 #Detail
 	detail = re.findall('<p class=\"text-muted\">\n[a-zA-Z0-9 ,.\']*', filee)
