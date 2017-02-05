@@ -14,7 +14,7 @@ sys.setdefaultencoding('utf-8')
 
 
 list3 = []
-JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate"  , "Runtime"]
+JsonCatagories = ["Title" , "Genre" , "Rating", "ReleaseDate"  ]#, "Runtime"]
 list5 = []
 list6 = []
 list7 = []
@@ -99,10 +99,9 @@ for x in range(0 , 150):
 	runtimes = "\n".join(runtime)
 	runtimes = runtimes.replace("class=\"runtime\">", "")
 	runtimes = runtimes.split('\n')
-	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears , runtimes))
+	zipped = zipped + (zip(list1, genre2, ratingValues, releaseYears ))#, runtimes))
 	for item in list1:
-                list3.append(item)# + genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0) + runtimes.pop(0) + " " + details.pop(0))
-
+                list3.append(item ) #+ genre2.pop(0) + ratingValues.pop(0) + releaseYears.pop(0))# + runtimes.pop(0) + " " + details.pop(0))
 '''
 #Detail
 	detail = re.findall('<p class=\"text-muted\">\n[a-zA-Z0-9 ,.\']*', filee)
@@ -121,8 +120,7 @@ JsonData = json.loads(JsonStr)
 #JsonData is a list of python dictionaries. 
 #This is how you extract data from the JsonData" 
 #Results is all the different movies. Each Result is it's own movies with all details with it. 
-'''
 for results in JsonData: 
 	print results["Title"]
 
-
+'''
