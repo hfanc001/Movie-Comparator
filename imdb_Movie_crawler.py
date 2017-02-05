@@ -22,22 +22,22 @@ list8 = []
 list9 = []
 list10 = []
 zipped = zip(list5,list6, list7,list8,list9,list10)
-i = 1 
-year = 2016
+#i = 1 
+year = 2017
 for x in range(0 , 150):
-	if i % 6 == 6:
+	if x % 6 == 5:
 		filename=str(year)
 		filename = filename+"page6" 
-	elif i % 6 == 5: 
+	elif x % 6 == 4: 
 		filename=str(year)
 		filename = filename+"page5" 
-	elif i % 6 == 4:
+	elif x % 6 == 3:
 		filename=str(year)
 		filename = filename+"page4" 
-	elif i % 6 == 3:
+	elif x % 6 == 2:
 		filename=str(year)
 		filename = filename+"page3" 
-	elif i % 6 == 2: 
+	elif x % 6 == 1: 
 		filename=str(year)
 		filename = filename+"page2" 
 	else:
@@ -46,6 +46,7 @@ for x in range(0 , 150):
 	if year == 1992:
 		break		
 	filee = open(str(filename), "r").read()
+	print filename
 
 # URL 	
 	urls = re.findall('<a href="[\/a-zA-Z0-9\-. _?#=]*"\n> <img alt=".*"' , filee  )
