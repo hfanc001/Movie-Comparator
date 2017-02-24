@@ -35,11 +35,11 @@ for name in MovieIDList:
     TID = re.findall('\"kind\":\"[a-zA-z0-9-]*"', fileread)
     TIDs = ""
     for IDs in TID:
-    	TIDs = TIDs + IDs + '\"'
+        TIDs = TIDs + IDs# + "\""
 
     TIDs = TIDs[:-1]
-    TIDs = TIDs.replace("\"kind\":", "")
-    TIDs = TIDs.replace("\"\"", "\"")
+    TIDs = TIDs.replace("\"kind\":\"", "")
+    TIDs = TIDs.replace("\"\"", "")
     if (TIDs == ""):
         TIDs = "No info available"  
 
@@ -52,11 +52,11 @@ for name in MovieIDList:
     AID = re.findall('\"artistName\":\"[a-zA-Z0-9-&,\. ]*"', fileread)
     AIDs = ""
     for IDs in AID:
-	AIDs = AIDs + IDs + "\""
+	AIDs = AIDs + IDs# + "\""
 
     AIDs = AIDs[:-1]
-    AIDs = AIDs.replace("\"artistName\":", "")
-    AIDs = AIDs.replace("\"\"", "\"")
+    AIDs = AIDs.replace("\"artistName\":\"", "")
+    AIDs = AIDs.replace("\"\"", "")
     if (AIDs == ""):
 	AIDs = "No info available"
 
@@ -68,11 +68,11 @@ for name in MovieIDList:
     TnameID = re.findall('\"trackName\":\"[a-zA-Z0-9-&,\'\.\(\)\: /]*"', fileread)
     TnameIDs = ""
     for IDs in TnameID:
-	TnameIDs = TnameIDs + IDs + "\""
+	TnameIDs = TnameIDs# + IDs + ""
     
     TnameIDs = TnameIDs[:-1]
-    TnameIDs = TnameIDs.replace("\"trackName\":", "")
-    TnameIDs = TnameIDs.replace("\"\"", "\"")
+    TnameIDs = TnameIDs.replace("\"trackName\":\"", "")
+    TnameIDs = TnameIDs.replace("\"\"", "")
     if (TnameIDs == ""):
 	TnameIDs = "No info available"
 
@@ -84,11 +84,11 @@ for name in MovieIDList:
     TurlID = re.findall('\"trackViewUrl\":\"[a-zA-Z0-9-/\?=\.:& ]*"', fileread)
     TurlIDs = ""
     for IDs in TurlID:
-        TurlIDs = TurlIDs + IDs + "\""
+        TurlIDs = TurlIDs + IDs# + "\""
 
     TurlIDs = TurlIDs[:-1]
-    TurlIDs = TurlIDs.replace("\"trackViewUrl\":", "")
-    TurlIDs = TurlIDs.replace ("\"\"", "\"")
+    TurlIDs = TurlIDs.replace("\"trackViewUrl\":\"", "")
+    TurlIDs = TurlIDs.replace ("\"\"", "")
     if (TurlIDs == ""):
         TurlIDs = "No info available"
 
@@ -100,11 +100,11 @@ for name in MovieIDList:
     AurlID = re.findall('\"artworkUrl100\":\"[a-zA-Z0-9-/\?=\.:& ]*"', fileread)
     AurlIDs = ""
     for IDs in AurlID:
-        AurlIDs = AurlIDs + IDs + "\""
+        AurlIDs = AurlIDs + IDs# + "\""
 
     AurlIDs = AurlIDs[:-1]
-    AurlIDs = AurlIDs.replace("\"artworkUrl100\":", "")
-    AurlIDs = AurlIDs.replace("\"\"", "\"")
+    AurlIDs = AurlIDs.replace("\"artworkUrl100\":\"", "")
+    AurlIDs = AurlIDs.replace("\"\"", "")
     if (AurlIDs == ""):
         AurlIDs = "No info available"
 
@@ -116,10 +116,10 @@ for name in MovieIDList:
     PID = re.findall('\"collectionPrice\":[0-9\.]*', fileread)
     PIDs = ""
     for IDs in PID:
-	PIDs = PIDs + IDs + "\""
+	PIDs = PIDs + IDs# + "\""
 
     PIDs = PIDs [:-1]
-    PIDs = PIDs.replace("collectionPrice\":", "\"")
+    PIDs = PIDs.replace("collectionPrice\":", "")
     PIDs = PIDs.replace("\"\"", "\"")
     if (PIDs == ""):
         PIDs = "No info available"
@@ -127,8 +127,9 @@ for name in MovieIDList:
     CollectionPriceList.append(PIDs)
 
 
-    fileopen.close()
 
+    fileopen.close()
+    #break;
 
 zipped = zipped + (zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList))
 
@@ -140,3 +141,4 @@ csvfile = csv.writer(open("itunesresult.csv", "wb+"))
 for x in JsonData:
     csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"]])
 
+print JsonStr
