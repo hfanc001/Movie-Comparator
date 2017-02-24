@@ -5,7 +5,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-JsonCategories = ["MovieID", "Type", "Artist", "TrackName", "TrackUrl", "Artwork Url", "Price"]
+JsonCategories = ["MovieID", "Type", "Artist", "TrackName", "TrackUrl", "Artwork Url", "Price", "Description"]
 MovieIDList = []
 TypeList = []
 ArtistList = []
@@ -13,9 +13,10 @@ TrackNameList = []
 TrackUrlList = []
 ArtworkUrlList = []
 CollectionPriceList = []
+LongDescriptionList = []
 
 
-zipped = zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList);
+zipped = zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList, LongDescriptionList);
 
 with open("movielist_sorted", 'r+') as f:
     for line in f:
@@ -128,10 +129,25 @@ for name in MovieIDList:
 
 
 
+    #LongDetailList
+    DID = re.findall('\"longDescription\":\"[^}]*"',fileread)#[a-zA-Z0-9-\?\.\", \']*', fileread)
+    DIDs = ""
+    for IDs in DID:
+        DIDs = DIDs + IDs
+
+    DIDs = DIDs[:-1]
+    DIDs = DIDs.replace("\"longDescription\":", "")
+    DIDs = DIDs.replace("\"\, \"hasITunesExtras", "")
+    DIDs = DIDs.replace("\"\"", "\"")
+    if (DIDs == ""):
+        DIDs = "No info available"
+
+    LongDescriptionList.append(DIDs)
+
     fileopen.close()
     #break;
 
-zipped = zipped + (zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList))
+zipped = zipped + (zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList, LongDescriptionList))
 
 JsonStr = json.dumps([dict(zip(JsonCategories, row)) for row in zipped], indent=1)
 JsonData = json.loads(JsonStr)
@@ -139,6 +155,4 @@ JsonData = json.loads(JsonStr)
 
 csvfile = csv.writer(open("itunesresult.csv", "wb+"))
 for x in JsonData:
-    csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"]])
-
-print JsonStr
+    csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"], x["Description"]])
