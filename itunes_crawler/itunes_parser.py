@@ -41,8 +41,12 @@ for name in MovieIDList:
     TIDs = TIDs[:-1]
     TIDs = TIDs.replace("\"kind\":\"", "")
     TIDs = TIDs.replace("\"\"", "")
+    TIDs = TIDs.replace(",", "")
+    
     if (TIDs == ""):
         TIDs = "No info available"  
+    if (TIDs[0][0] == "\""):
+        TIDs = TIDs[1:]
 
     TypeList.append(TIDs)
 
@@ -58,9 +62,12 @@ for name in MovieIDList:
     AIDs = AIDs[:-1]
     AIDs = AIDs.replace("\"artistName\":\"", "")
     AIDs = AIDs.replace("\"\"", "")
+    AIDs = AIDs.replace(",", "")
     if (AIDs == ""):
 	AIDs = "No info available"
-
+    if (AIDs[0][0] == "\""):
+        AIDs = AIDs[1:]
+    
     ArtistList.append(AIDs)
 
 
@@ -74,8 +81,11 @@ for name in MovieIDList:
     TnameIDs = TnameIDs[:-1]
     TnameIDs = TnameIDs.replace("\"trackName\":\"", "")
     TnameIDs = TnameIDs.replace("\"\"", "")
+    TnameIDs = TnameIDs.replace(",", "")
     if (TnameIDs == ""):
 	TnameIDs = "No info available"
+    if (TnameIDs[0][0] == "\""):
+        TnameIDs = TnameIDs[1:]
 
     TrackNameList.append(TnameIDs)
 
@@ -92,7 +102,9 @@ for name in MovieIDList:
     TurlIDs = TurlIDs.replace ("\"\"", "")
     if (TurlIDs == ""):
         TurlIDs = "No info available"
-
+    if (TurlIDs[0][0] == "\""):
+        TurlIDs = TurlIDs[1:]
+    
     TrackUrlList.append(TurlIDs)
 
 
@@ -106,9 +118,12 @@ for name in MovieIDList:
     AurlIDs = AurlIDs[:-1]
     AurlIDs = AurlIDs.replace("\"artworkUrl100\":\"", "")
     AurlIDs = AurlIDs.replace("\"\"", "")
+    AurlIDs = AurlIDs.replace(",", "")
     if (AurlIDs == ""):
         AurlIDs = "No info available"
-
+    if (AurlIDs[0][0] == "\""):
+        AurlIDs = AurlIDs[1:]
+    
     ArtworkUrlList.append(AurlIDs)
 
 
@@ -122,8 +137,11 @@ for name in MovieIDList:
     PIDs = PIDs [:-1]
     PIDs = PIDs.replace("collectionPrice\":", "")
     PIDs = PIDs.replace("\"\"", "\"")
+    PIDs = PIDs.replace(",", "")
     if (PIDs == ""):
         PIDs = "No info available"
+    if (PIDs[0][0] == "\""):
+        PIDs = PIDs[1:]
 
     CollectionPriceList.append(PIDs)
 
@@ -139,9 +157,12 @@ for name in MovieIDList:
     DIDs = DIDs.replace("\"longDescription\":", "")
     DIDs = DIDs.replace("\"\, \"hasITunesExtras", "")
     DIDs = DIDs.replace("\"\"", "\"")
+    DIDs = DIDs.replace(",", "")
     if (DIDs == ""):
         DIDs = "No info available"
-
+    if (DIDs[0][0] == "\""):
+        DIDs = DIDs[1:]
+    
     LongDescriptionList.append(DIDs)
 
     fileopen.close()
@@ -156,3 +177,5 @@ JsonData = json.loads(JsonStr)
 csvfile = csv.writer(open("itunesresult.csv", "wb+"))
 for x in JsonData:
     csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"], x["Description"]])
+
+#print JsonStr
