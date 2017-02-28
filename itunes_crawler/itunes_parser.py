@@ -76,7 +76,7 @@ for name in MovieIDList:
     TnameID = re.findall('\"trackName\":\"[a-zA-Z0-9-&,\'\.\(\)\: /]*"', fileread)
     TnameIDs = ""
     for IDs in TnameID:
-	TnameIDs = TnameIDs# + IDs + ""
+	TnameIDs = TnameIDs + IDs# + ""
     
     TnameIDs = TnameIDs[:-1]
     TnameIDs = TnameIDs.replace("\"trackName\":\"", "")
@@ -179,3 +179,4 @@ for x in JsonData:
     csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"], x["Description"]])
 
 #print JsonStr
+#print len(MovieIDList)
