@@ -13,12 +13,15 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 movies = [] 
-JsonCatagories = ["MovieID", "RelatedMovies", "Books", "Music"]
+JsonCatagories = ["Name", "Type", "Movie", "Url"]
 MovieIDList = []
-RelatedMoviesList = []
+FillerMoviesList = []
+NamesList = []
 BooksList = []
 MusicList = []
-zipped = zip(MovieIDList, RelatedMoviesList, BooksList, MusicList)
+TypeList = []
+ProductList = []
+zipped = zip(NamesList, TypeList, FillerMoviesList, ProductList)
 
 '''
 for name in os.listdir("./Google_various_data"):
@@ -43,7 +46,7 @@ for name in movies:
     fileopen = open(str(filename), "r")
     fileread = fileopen.read()
 
-   
+    '''
     #RelatedMoviesList
     MID = re.findall('<a class="title" href="/store/movies/details/[a-zA-Z0-9-_?=]*', fileread)
     MIDs = ""
@@ -55,50 +58,76 @@ for name in movies:
     if (MIDs == "" or MIDs == "https://play.google.com/store/movies/details/"):
         MIDs = "No info available"
     RelatedMoviesList.append(MIDs)
-    
+    '''
 
 
-    #BooksList
+
+    #BooksUrl
     BID = re.findall('<a class="title" href="/store/books/details/[a-zA-Z0-9-_?=]*', fileread)
     BIDs = ""
     for IDs in BID:
-        BIDs = BIDs + IDs + "\""
+       	#BIDs = BIDs + IDs + "\""
+	BIDs = "".join(IDs)        
         
-    BIDs = BIDs[:-1]
-    BIDs = BIDs.replace("<a class=\"title\" href=\"", "https://play.google.com")
-    if (BIDs == "" or BIDs == "https://play.google.com/store/books/details/"):
-        BIDs = "No info available"
-    BooksList.append(BIDs)
 
+    	#BIDs = BIDs[:-1]
+    	BIDs = BIDs.replace("<a class=\"title\" href=\"", "https://play.google.com")
+    	if (BIDs == "" or BIDs == "https://play.google.com/store/books/details/"):
+            BIDs = "No info available"
+	    
+	FillerMoviesList.append(name)
+	TypeList.append("Book")
+    	ProductList.append(BIDs)
 
+        BIDs = BIDs.replace("https://play.google.com/store/books/details/", "")
+	BIDs = BIDs[:-16]
+	BIDs = BIDs.replace("_", " ")
+	if (BIDs == ""):
+            BIDs = "No info available"
+	NamesList.append(BIDs)
+    
 
-    #MusicList
+    #MusicUrl
     MusicID = re.findall('<a class="title" href="/store/music/[a-zA-Z0-9-_?=/]*', fileread)
     MusicIDs = ""
     for IDs in MusicID:
-        MusicIDs = MusicIDs + IDs + "\""
+        MusicIDs = "".join(IDs)
+	
         
-    MusicIDs = MusicIDs[:-1]
-    MusicIDs = MusicIDs.replace("<a class=\"title\" href=\"", "https://play.google.com")
-    if (MusicIDs == "" or MusicIDs == "https://play.google.com/store/music/details/"):
-        MusicIDs = "No info available"
-    MusicList.append(MusicIDs)
+        #MusicIDs = MusicIDs[:-1]
+        MusicIDs = MusicIDs.replace("<a class=\"title\" href=\"", "https://play.google.com")
+        if (MusicIDs == "" or MusicIDs == "https://play.google.com/store/music/details/"):
+            MusicIDs = "No info available"
 
+        FillerMoviesList.append(name)
+	TypeList.append("Music")
+        ProductList.append(MusicIDs)
 
+	MusicIDs = MusicIDs.replace("https://play.google.com/store/music/album/", "")
+	MusicIDs = MusicIDs.replace("https://play.google.com/store/music/album", "")
+	MusicIDs = MusicIDs.replace("https://play.google.com/store/music/artist/", "")
+	MusicIDs = MusicIDs.replace("_", " ")
+	MusicIDs = MusicIDs[:-31]
+	if (MusicIDs == ""):
+	    MusicIDs = "No info available"
+	NamesList.append(MusicIDs)
+
+    
+ 
     fileopen.close()
 
 
+
 MovieIDList = movies
-zipped = zipped + (zip(MovieIDList, RelatedMoviesList, BooksList, MusicList))
-#dic = (dict(zip(JsonCatagories, row)) for row in zipped)
-#dictionary = dict(zip(movies, dic))
+zipped = zipped + zip(NamesList, TypeList, FillerMoviesList, ProductList)
 JsonStr = json.dumps([dict(zip(JsonCatagories, row)) for row in zipped], indent=1)
 JsonData = json.loads(JsonStr)
 
 
 csvfile = csv.writer(open("googleresult.csv", "wb+"))
-#csvfile.writerow([x["MovieID"], x["RelatedMovies"], x["Books"], x["Music"]])
+
 for x in JsonData:
-    csvfile.writerow([x["MovieID"], x["RelatedMovies"], x["Books"], x["Music"]])
+    csvfile.writerow([x["Name"], x["Type"], x["Movie"], x["Url"]])
 
 print JsonStr
+
