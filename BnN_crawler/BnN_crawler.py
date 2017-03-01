@@ -24,11 +24,11 @@ URLF = "http://www.barnesandnoble.com/s/"
 
 
 i = 0
-crash = 2392
+#crash = 2392
 for item in titles:
     i = i + 1
-    if i < crash:
-        continue
+    #if i < crash:
+    #    continue
     url = URLF + item
     
     #testfile = urllib.URLopener()
