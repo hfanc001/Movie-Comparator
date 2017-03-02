@@ -24,7 +24,7 @@ page = 1
 
 for i in range(25):
 	url = url1+str(year)+url2
-	for page in range (6):
+	for page in range (0, 5):
 		page = page + 1
 		if page != 1:
 			line = wget + str(year) + "page" + str(page) + url + str(page) + "\"\n"
