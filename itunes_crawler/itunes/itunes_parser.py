@@ -134,7 +134,7 @@ for name in MovieIDList:
 
 
     #CollectionPriceList
-    PID = re.findall('\"collectionPrice\":[0-9\.]*', fileread)
+    PID = re.findall('100x100bb\.jpg\"\,[^,]*', fileread)
     PIDs = ""
     for IDs in PID:
 	PIDs = "".join(IDs)
@@ -147,18 +147,23 @@ for name in MovieIDList:
             PIDs = "No info available"
         if (PIDs[0][0] == "\""):
             PIDs = PIDs[1:]
+	if (PIDs.find("collectionPrice")):
+	    PIDs = PIDs.split(':',)[-1]
+	else:
+	    PIDs = "No info available"
+
 
         CollectionPriceList.append(PIDs)
     
-    if (len(FillerMoviesList) != len(ArtworkUrlList)):
+    if (len(FillerMoviesList) != len(CollectionPriceList)):
 	print len(FillerMoviesList)
 	#print len(TypeList)
 	#print len(ArtistList)
 	#print ArtistList
 	#print len(TrackNameList)
 	#print len(TrackUrlList)
-	print len(ArtworkUrlList)
-	#print len(CollectionPriceList)    
+	#print len(ArtworkUrlList)
+	print len(CollectionPriceList)    
 	print name
 	break;
 
