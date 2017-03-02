@@ -5,7 +5,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-JsonCategories = ["MovieID", "Type", "Artist", "TrackName", "TrackUrl", "Artwork Url", "Price", "Description"]
+JsonCategories = ["MovieID", "Type", "Artist", "TrackName", "TrackUrl", "Artwork Url", "Price"]
 MovieIDList = []
 TypeList = []
 ArtistList = []
@@ -17,7 +17,7 @@ LongDescriptionList = []
 FillerMoviesList = []
 
 
-zipped = zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList, LongDescriptionList);
+zipped = zip(MovieIDList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList);
 
 with open("movielist_sorted", 'r+') as f:
     for line in f:
@@ -34,13 +34,13 @@ for name in MovieIDList:
 
     
     #Types
-    TID = re.findall('\"kind\":\"[a-zA-z0-9-]*"', fileread)
+    TID = re.findall('\"wrapperType\":\"[a-zA-z0-9-]*"', fileread)
     TIDs = ""
     for IDs in TID:
         TIDs = "".join(IDs)
 
         TIDs = TIDs[:-1]
-        TIDs = TIDs.replace("\"kind\":\"", "")
+        TIDs = TIDs.replace("\"wrapperType\":\"", "")
         TIDs = TIDs.replace("\"\"", "")
         TIDs = TIDs.replace(",", "")
     
@@ -51,11 +51,11 @@ for name in MovieIDList:
 
 	FillerMoviesList.append(name)
         TypeList.append(TIDs)
-
+    
 
 
     #AristsList
-    AID = re.findall('\"artistName\":\"[a-zA-Z0-9-&,\. ]*"', fileread)
+    AID = re.findall('\"artistName\":\"(.*?)"', fileread)
     AIDs = ""
     for IDs in AID:
 	AIDs = "".join(IDs)
@@ -70,16 +70,16 @@ for name in MovieIDList:
             AIDs = AIDs[1:]
     
         ArtistList.append(AIDs)
-
+    
 
 
     #TrackNameList
-    TnameID = re.findall('\"trackName\":\"[a-zA-Z0-9-&,\'\.\(\)\: /]*"', fileread)
+    TnameID = re.findall('\"trackName\":\"(.*?)"|audiobook"[^?]*', fileread)
     TnameIDs = ""
     for IDs in TnameID:
 	TnameIDs = "".join(IDs)
     
-        TnameIDs = TnameIDs[:-1]
+        #TnameIDs = TnameIDs[:-1]
         TnameIDs = TnameIDs.replace("\"trackName\":\"", "")
         TnameIDs = TnameIDs.replace("\"\"", "")
         TnameIDs = TnameIDs.replace(",", "")
@@ -87,13 +87,15 @@ for name in MovieIDList:
 	    TnameIDs = "No info available"
         if (TnameIDs[0][0] == "\""):
             TnameIDs = TnameIDs[1:]
-
+	if (TnameIDs.find("collectionCensoredName")):
+	    TnameIDs = TnameIDs.split('collectionName\":\"')[-1].split('\",')
+	    
         TrackNameList.append(TnameIDs)
 
 
 
     #TrackUrlList
-    TurlID = re.findall('\"trackViewUrl\":\"[a-zA-Z0-9-/\?=\.:& ]*"', fileread)
+    TurlID = re.findall('\"trackViewUrl\":\"(.*?)"|audiobook"[^}]*', fileread)
     TurlIDs = ""
     for IDs in TurlID:
         TurlIDs = "".join(IDs)
@@ -105,9 +107,11 @@ for name in MovieIDList:
             TurlIDs = "No info available"
         if (TurlIDs[0][0] == "\""):
             TurlIDs = TurlIDs[1:]
-    
-        TrackUrlList.append(TurlIDs)
+        if (TurlIDs.find("artistViewUrl")):
+	    TurlIDs = TurlIDs.split('artistViewUrl\":\"')[-1].split('\",')
 
+        TrackUrlList.append(TurlIDs)
+    
 
 
     #ArtworkUrlList
@@ -126,7 +130,7 @@ for name in MovieIDList:
             AurlIDs = AurlIDs[1:]
     
         ArtworkUrlList.append(AurlIDs)
-
+    
 
 
     #CollectionPriceList
@@ -145,39 +149,35 @@ for name in MovieIDList:
             PIDs = PIDs[1:]
 
         CollectionPriceList.append(PIDs)
-
-
-
-    #LongDetailList
-    DID = re.findall('\"longDescription\":\"[^}]*"',fileread)#[a-zA-Z0-9-\?\.\", \']*', fileread)
-    DIDs = ""
-    for IDs in DID:
-        DIDs = "".join(IDs)
-
-        DIDs = DIDs[:-1]
-        DIDs = DIDs.replace("\"longDescription\":", "")
-        DIDs = DIDs.replace("\"\, \"hasITunesExtras", "")
-        DIDs = DIDs.replace("\"\"", "\"")
-        DIDs = DIDs.replace(",", "")
-        if (DIDs == ""):
-            DIDs = "No info available"
-        if (DIDs[0][0] == "\""):
-            DIDs = DIDs[1:]
     
-        LongDescriptionList.append(DIDs)
+    if (len(FillerMoviesList) != len(ArtworkUrlList)):
+	print len(FillerMoviesList)
+	#print len(TypeList)
+	#print len(ArtistList)
+	#print ArtistList
+	#print len(TrackNameList)
+	#print len(TrackUrlList)
+	print len(ArtworkUrlList)
+	#print len(CollectionPriceList)    
+	print name
+	break;
+
+
 
     fileopen.close()
-    #break;
 
-zipped = zipped + (zip(FillerMoviesList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList, LongDescriptionList))
 
-JsonStr = json.dumps([dict(zip(JsonCategories, row)) for row in zipped], indent=1)
+
+zipped = zipped + (zip(FillerMoviesList, TypeList, ArtistList, TrackNameList, TrackUrlList, ArtworkUrlList, CollectionPriceList))
+
+JsonStr = json.dumps([dict(zip(JsonCategories, row)) for row in zipped],encoding='latin1', indent=1)
+
 JsonData = json.loads(JsonStr)
 
 
 csvfile = csv.writer(open("itunesresult.csv", "wb+"))
 for x in JsonData:
-    csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"], x["Description"]])
+    csvfile.writerow([x["MovieID"], x["Type"], x["Artist"], x["TrackName"], x["TrackUrl"], x["Artwork Url"], x["Price"]])
 
-print JsonStr
+#print JsonStr
 
