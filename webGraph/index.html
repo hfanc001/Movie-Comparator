@@ -1,0 +1,3553 @@
+<html>
+<head>
+<title>My first chart using FusionCharts Suite XT</title>
+<script type="text/javascript" src="http://static.fusioncharts.com/code/latest/fusioncharts.js"></script>
+<script type="text/javascript" src="http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js?cacheBust=56"></script>
+
+
+<!--chart: {
+        // Edit chart spacing
+        spacingBottom: 15,
+        spacingTop: 10,
+        spacingLeft: 10,
+        spacingRight: 10,
+
+        // Explicitly tell the width and height of a chart
+        width: null,
+        height: null
+}-->
+
+
+
+<script type="text/javascript">
+  FusionCharts.ready(function(){
+    var fusioncharts = new FusionCharts({
+    type: 'column3d',
+    renderAt: 'GenreChart',
+    width: '500',
+    height: '300',
+    dataFormat: 'json',
+    dataSource: {
+        "chart": {
+        "caption": "Overall Popularity of Movie Genres: 1992 - 2016",
+        "subcaption": "Click on a column to drill-down",
+        //"numberprefix": "$",
+        "showvalues": "0",
+        "bgcolor": "FFFFFF",
+        "xaxisname": "Genre",
+		"yaxisname": "Movie Relevancy",
+        "plotgradientcolor": "",
+        "showalternatehgridcolor": "0",
+        "showplotborder": "0",
+        "divlinecolor": "CCCCCC",
+        "canvasborderalpha": "0",
+    },
+    "data": [
+        {
+            "label": "Action",
+            "value": "1161000",
+            "link": "newchart-xml-ActionYears",
+            "color": "e40000"
+        },
+        {
+            "label": "Adventure",
+            "value": "1043000",
+            "link": "newchart-xml-AdventureYears",
+            "color": "e46a00"
+        },
+        {
+            "label": "Animation",
+            "value": "1017000",
+            "link": "newchart-xml-AnimationYears",
+            "color": "12e400"
+        },
+        {
+            "label": "Biography",
+            "value": "1156000",
+            "link": "newchart-xml-2013Quarters",
+            "color": "00e481"
+        },
+		{
+            "label": "Comedy",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "00e4ba"
+        },
+		{
+            "label": "Crime",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "00e4e4"
+        },
+		{
+            "label": "Documentary",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "0088e4"
+        },
+		{
+            "label": "Drama",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "e400c9"
+        },
+		{
+            "label": "Family",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "e40094"
+        },
+		{
+            "label": "Fantasy",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "e4005f"
+        },
+		{
+            "label": "History",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "276a77"
+        },
+		{
+            "label": "Horror",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "03171c"
+        },
+		{
+            "label": "Music",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "98a2b7"
+        },
+		{
+            "label": "Musical",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "194f08"
+        },
+		{
+            "label": "Mystery",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "fc0551"
+        },
+		{
+            "label": "Romance",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "7f7494"
+        },
+		{
+            "label": "Sci-Fi",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "789266"
+        },
+		{
+            "label": "Short",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "42398a"
+        },
+		{
+            "label": "Sport",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "b883ab"
+        },
+		{
+            "label": "Thriller",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "6baa01"
+        },
+		{
+            "label": "War",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "7ce806"
+        },
+		{
+            "label": "Western",
+            "value": "1043000",
+            "link": "newchart-xml-2011Quarters",
+            "color": "086c45"
+        },
+    ],
+	
+	
+	
+    "linkeddata": [
+	
+		//Action Drilled Down
+	
+        {
+            "id": "ActionYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Action",
+                    "subcaption": "Click on a column to drill-down",
+                    "xaxisname": "Year",
+                    "yaxisname": "Number of Movies",
+                    //"numberprefix": "$",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "36",
+                        "color": "e40000"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "37",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1994",
+                        "value": "34",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1995",
+                        "value": "43",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1996",
+                        "value": "37",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1997",
+                        "value": "55",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1998",
+                        "value": "41",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "1999",
+                        "value": "29",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2000",
+                        "value": "37",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2001",
+                        "value": "40",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2002",
+                        "value": "48",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2003",
+                        "value": "50",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2004",
+                        "value": "47",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2005",
+                        "value": "46",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2006",
+                        "value": "38",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2007",
+                        "value": "40",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2008",
+                        "value": "53",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2009",
+                        "value": "46",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2010",
+                        "value": "57",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2011",
+                        "value": "55",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2012",
+                        "value": "50",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2013",
+                        "value": "55",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2014",
+                        "value": "60",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2015",
+                        "value": "60",
+                        "color": "e40000"
+                    },
+					{
+                        "label": "2016",
+                        "value": "72",
+                        "color": "e40000"
+                    },
+                ],
+            }
+        },
+		
+		//Adventure Drilled Down
+		
+        {
+            "id": "AdventureYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movie Per Year: Adventure",
+                    "subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "24",
+                        "color": "e46a00"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "22",
+                        "color": "e46a00"
+                    },
+					{
+                        "label": "1994",
+                        "value": "36",
+                        "color": "e46a00"
+                    },
+					{
+                        "label": "1995",
+                        "value": "35",
+                        "color": "e46a00"
+                    },
+					{
+                        "label": "1996",
+                        "value": "32",
+                        "color": "e46a00"
+                    },
+					{
+                        "label": "1997",
+                        "value": "35",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "1998",
+                        "value": "29",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "1999",
+                        "value": "25",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2000",
+                        "value": "35",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2001",
+                        "value": "32",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2002",
+                        "value": "35",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2003",
+                        "value": "41",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2004",
+                        "value": "35",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2005",
+                        "value": "44",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2006",
+                        "value": "42",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2007",
+                        "value": "38",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2008",
+                        "value": "44",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2009",
+                        "value": "40",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2010",
+                        "value": "41",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2011",
+                        "value": "45",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2012",
+                        "value": "36",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2013",
+                        "value": "41",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2014",
+                        "value": "50",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2015",
+                        "value": "47",
+                        "color": "e46a000"
+                    },
+					{
+                        "label": "2016",
+                        "value": "61",
+                        "color": "e46a000"
+                    },
+                ],
+            }
+        },
+        
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down(FIX STARTING FROM HERE)
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+		
+		//Animation Drilled Down
+		
+		{
+            "id": "AnimationYears",
+            "linkedchart": {
+                "chart": {
+                    "caption": "Number of Movies Per Year: Animation",
+                    //"subcaption": "Click on a column to drill-down",
+                    "yaxisname": "Number of Movies",
+                    "showvalues": "0",
+                    "bgcolor": "FFFFFF",
+                    //"numberprefix": "$",
+                    "xaxisname": "Year",
+                    "plotgradientcolor": "",
+                    "showalternatehgridcolor": "0",
+                    "showplotborder": "0",
+                    "divlinecolor": "CCCCCC",
+                    "canvasborderalpha": "0"
+                },
+                "data": [
+                    {
+                        "label": "1992",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+                    {
+                        "label": "1993",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1994",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1995",
+                        "value": "5",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1996",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1997",
+                        "value": "6",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1998",
+                        "value": "7",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "1999",
+                        "value": "9",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2000",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2001",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2002",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2003",
+                        "value": "8",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2004",
+                        "value": "13",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2005",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2006",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2007",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2008",
+                        "value": "14",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2009",
+                        "value": "15",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2010",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2011",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2012",
+                        "value": "10",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2013",
+                        "value": "17",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2014",
+                        "value": "12",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2015",
+                        "value": "18",
+                        "color": "12e400"
+                    },
+					{
+                        "label": "2016",
+                        "value": "20",
+                        "color": "12e400"
+                    },
+                ],
+            }
+        },
+    ]}
+}
+);
+    fusioncharts.render();
+});
+</script>
+
+
+
+<script type="text/javascript">
+  FusionCharts.ready(function(){
+    var revenueChart = new FusionCharts({
+        "type": "column2d",
+        "renderAt": "chartContainer",
+        "width": "500",
+        "height": "300",
+        "dataFormat": "json",
+        "dataSource":  {
+          "chart": {
+            "caption": "Monthly revenue for last year",
+            "subCaption": "Harry's SuperMart",
+            "xAxisName": "Month",
+            "yAxisName": "Revenues (In USD)",
+            "theme": "fint"
+         },
+         "data": [
+            {
+               "label": "Jan",
+               "value": "420000"
+            },
+            {
+               "label": "Feb",
+               "value": "810000"
+            },
+            {
+               "label": "Mar",
+               "value": "720000"
+            },
+            {
+               "label": "Apr",
+               "value": "550000"
+            },
+            {
+               "label": "May",
+               "value": "910000"
+            },
+            {
+               "label": "Jun",
+               "value": "510000"
+            },
+            {
+               "label": "Jul",
+               "value": "680000"
+            },
+            {
+               "label": "Aug",
+               "value": "620000"
+            },
+            {
+               "label": "Sep",
+               "value": "610000"
+            },
+            {
+               "label": "Oct",
+               "value": "490000"
+            },
+            {
+               "label": "Nov",
+               "value": "900000"
+            },
+            {
+               "label": "Dec",
+               "value": "730000"
+            }
+          ]
+      }
+
+  });
+revenueChart.render();
+});
+</script>
+
+
+
+</head>
+<body>
+  <div id="GenreChart">FusionCharts XT will load here!</div>
+  
+  <div id="chartContainer">FusionCharts XT will load here!</div>
+</body>
+
+
+</html>
