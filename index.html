@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Movie Comparator</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Playfair+Display|Josefin+Slab|Share|Proza+Libre|Tangerine|Cinzel+Decorative|Fourm|Cormorant+Garamond|Sansita">
+</head>
+
+<style>
+.jumbotron { 
+    background-color: #2d2d30; 
+    color: #ffffff;
+}
+.jumbotron p {
+	margin: auto;
+    width: 55%;
+}
+.bg-grey {
+  background-color: #f6f6f6;
+}
+.container-fluid {
+  padding: 60px 50px;
+}
+.logo {
+	color: #5c5c;
+    font-size: 200px;
+  }
+ .logo-small {
+ 	font-size: 50px;
+ }
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+h1 {
+	font-family: 'Playfair Display', serif;
+	font-size: 40px;
+}
+h2 {
+	font-family: 'Proza Libre';
+}
+h6 {
+	font-family: 'Tangerine', bold;
+	font-size: 30px;
+}
+h3 {
+	font-family: 'Cinzel Decorative', bold;
+	font-size: 20px
+}
+h4 {
+	font-family: 'Fourm';
+}
+.form-control::-webkit-input-placeholder {
+   font-family: 'Josefin Slab', serif;  
+}
+.movie-analysis-ul ul {
+	font-family: 'Josefin Slab', serif;
+}
+.tab-content {
+	font-family: 'Josefin Slab', serif;
+}
+.btn {
+    font-family: 'Share';
+}
+footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 32px;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+}
+.jumbotron p {
+	font-family: 'Cormorant Garamond', serif;
+}
+.navbar {
+	margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity:0.9;
+    font-family: 'Josefin Slab', serif;
+}
+/* Add a gray color to all navbar links */
+.navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+}
+
+/* On hover, the links will turn white */
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+.nav-tabs li a {
+    color: #777;
+}
+.carousel-inner img {
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%); /* make all photos black and white */ 
+    width: 80%; /* Set width to 100% */
+    margin: auto;
+    max-height: 575px !important;
+}
+
+.carousel-caption h3 {
+    color: #fff !important;
+}
+
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+}
+</style>
+
+<body id="myPage" data-spy="scoll" data-target=".navbar" data-offset="60">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage">Movie Comparator</span></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#HOME">HOME</a></li>
+        <li><a href="#movie">MOVIE</a></li>
+        <li><a href="#movie-search">SEARCH</a></li>
+        <li><a href="#movie-analysis">ANALYSIS</a></li>
+        <li><a href="#credit">CREDIT</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+	<div id="HOME" class="jumbotron text-center">
+		
+		<!--Movie Carousel-->
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+				<li data-target="#myCarousel" data-slide-to="2"></li>
+			</ol>
+
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+				<img src="http://cdn.pcwallart.com/images/guardians-of-the-galaxy-movie-wallpaper-4.jpg" alt="New York" width="1000" height="700">
+					<div class="carousel-caption">
+						<h3>Guardian of the Galaxy</h3>
+						</div> 
+				</div>
+
+				<div class="item">
+					<img src="https://cdn2.hubspot.net/hub/74005/file-676269363-jpg/images/avengers.jpg" alt="Chicago" width="1000" height="700">
+					<div class="carousel-caption">
+						<h3>Avenger</h3>
+						</div> 
+				</div>
+
+				<div class="item">
+					<img src="http://www.impawards.com/2016/posters/zootopia_ver20_xlg.jpg" alt="Los Angeles" width="1000" height="700">
+					<div class="carousel-caption">
+						<h3>Zootopia</h3>
+					</div> 
+				</div>
+			</div>
+
+			<!-- Left and right controls -->
+			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+			</a>
+		</div>
+
+		<!--Movie Intro-->
+		<div id="movie">
+			<br><br>
+			<h1>Movie Comparator</h1> 
+			<br><br>
+			<p>Search your favorite movie and related analysis</p> 		
+			<br>
+			<p>Movie comparator is a movie search engine and analysis tool. With this, you can search any movie in the top 250 movies in the past 25 years all over the world.</p>
+			<br>
+			<p>Along with the search result, we will show the basic information about the movie, movie poster, rating, genre, etc. We also show the related-products from iTunes store, Google Play store, and Barnes and Noble.</p>
+			<br>
+			<p>With the movie analysis, we show you statistics on keywords in titles, synopsis, and genre. With the data, you can see the trend in movie keyword usage and genre usage.</p>
+		</div>
+	</div>
+
+
+
+	<!-- Movie Search -->
+	<div id="movie-search" class="container-fluid">
+		<div class="row">
+			<div class="col-sm-8">
+			  <h2>Movie Search</h2>
+			  	<form class="form-inline">
+				    <div class="input-group">
+				      <input type="movie" class="form-control" size="50" placeholder="Movie Title" required>
+				      <div class="input-group-btn">
+				        <button type="button" class="btn btn-default">Search</button>
+				      </div>
+				    </div>
+				</form>
+			</div>
+			<div class="col-sm-4">
+		      <span class="glyphicon glyphicon-film logo"></span>
+		    </div>
+		</div>
+	</div>
+
+	<!-- Movie Analysis -->
+	<div id="movie-analysis" class="container-fluid bg-grey">
+		<div class="row">
+			<div class="col-sm-4">
+			  <span class="glyphicon glyphicon-signal logo"></span>
+			</div>
+			<div class="movie-analysis-ul">
+			<div class="col-sm-8">
+				<h2>Movie Analysis</h2>  
+
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#title-analysis">Title Analysis</a></li>
+					<li><a data-toggle="tab" href="#synopsis-analysis">Synopsis Analysis</a></li>
+					<li><a data-toggle="tab" href="#genre-analysis">Genre Analysis</a></li>
+				</ul>
+
+
+				<div class="tab-content">
+					<div id="title-analysis" class="tab-pane fade in active">
+						<h3>Movie Title Analysis</h3>
+						<p>Perform statistic on keyword trend in movie title</p>
+					</div>
+					<div id="synopsis-analysis" class="tab-pane fade">
+						<h3>Movie Synopsis Analysis</h3>
+						<p>Perform statistic on keyword trend in movie synopsis</p>
+					</div>
+					<div id="genre-analysis" class="tab-pane fade">
+						<h3>Movie Genre Analysis</h3>
+						<p>Perform statistic on genre trend in movie for the past 25 years on over 6k movies</p>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Credit -->
+	<div id="credit" class="container-fluid text-center">
+	<h2>Credit</h2>
+	<h3>Who We Are</h3>
+	<br>
+	<div class="row">
+	  <div class="col-xs-12">
+	    <div class="row">
+	      <div class="col-xs-4">
+	      	<span class="glyphicon glyphicon-fire logo-small"></span>
+		  	<h4>Albert Hsu</h4>
+		  </div>
+	      <div class="col-xs-4">
+	      	<span class="glyphicon glyphicon-leaf logo-small"></span>
+		  	<h4>Alex Tan</h4>
+		  </div>
+		  <div class="col-xs-4">
+		  	<span class="glyphicon glyphicon-tint logo-small"></span>
+			<h4>Cindy Fan Chiang</h4>
+		  </div>
+	    </div>
+	  </div>
+	</div>
+	<br>
+	<h3>What We Did</h3>
+	<br>
+	<div class="row">
+	  <div class="col-xs-12">
+	    <div class="row">
+	      <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-folder-open logo-small"></span>
+		  	<h4>Data Collection</h4>
+		  </div>
+	      <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-wrench logo-small"></span>
+		  	<h4>Data Processing</h4>
+		  </div>
+		   <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-sort-by-attributes logo-small"></span>
+		  	<h4>Data Analysis</h4>
+		  </div>
+		  <div class="col-xs-3">
+		  	<span class="glyphicon glyphicon-phone logo-small"></span>
+			<h4>Web Interface</h4>
+		  </div>
+	    </div>
+	  </div>
+	</div>
+	<br>
+	<h3>Where the Data From</h3>
+	<br>
+	<div class="row">
+	  <div class="col-xs-12">
+	    <div class="row">
+	      <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-blackboard logo-small"></span>
+		  	<h4>IMDb</h4>
+		  </div>
+	      <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-apple logo-small"></span>
+		  	<h4>iTunes Apple</h4>
+		  </div>
+		   <div class="col-xs-3">
+	      	<span class="glyphicon glyphicon-play logo-small"></span>
+		  	<h4>Google Play</h4>
+		  </div>
+		  <div class="col-xs-3">
+		  	<span class="glyphicon glyphicon-book logo-small"></span>
+			<h4>Barnes and Noble</h4>
+		  </div>
+	    </div>
+	  </div>
+	</div>
+</div>
+
+<footer class="container-fluid text-center">
+  <a href="#myPage" title="To Top">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a>
+  <p>Website Reference: Bootstrap Theme: Company, Band</p>
+  <p>Website Design: Cindy Fan Chiang</p>
+</footer>
+
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== ""){
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+})
+</script>
+
+</body>
+</html>
