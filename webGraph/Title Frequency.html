@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>My first chart using FusionCharts Suite XT</title>
+<script type="text/javascript" src="http://static.fusioncharts.com/code/latest/fusioncharts.js"></script>
+<script type="text/javascript" src="http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js?cacheBust=56"></script>
+
+
+
+<!-- Analysis of Title Freq-->
+<script type="text/javascript">
+  FusionCharts.ready(function(){
+    var fusioncharts = new FusionCharts({
+    type: 'column3d',
+    renderAt: 'freqTitle',
+    width: "80%",
+    height: "80%",
+    dataFormat: 'json',
+    insertMode: "prepend",
+    dataSource: {
+        "chart": {
+            "caption": "Top 10 Words in Titles",
+            "subCaption": "1992 - 2016",
+            "xAxisName": "Word",
+            "yAxisName": "Frequency",
+            //"numberPrefix": "$",
+            //"theme": "fint"
+        },
+
+        "data": [{
+            "label": "Big",
+            "value": "43"
+        }, {
+            "label": "City",
+            "value": "34"
+        }, {
+            "label": "House",
+            "value": "37"
+        }, {
+            "label": "Last",
+            "value": "52"
+        }, {
+            "label": "Life",
+            "value": "61"
+        }, {
+            "label": "Love",
+            "value": "93"
+        }, {
+            "label": "Man",
+            "value": "95"
+        }, {
+            "label": "Night",
+            "value": "36"
+        }, {
+            "label": "Story",
+            "value": "38"
+        }, {
+            "label": "World",
+            "value": "41"
+        }]
+    },
+
+    "events": {
+        "beforeRender": function(evt, args) {
+            var controllers = evt.sender._controllers,
+                radio = [],
+                radElem,
+                val;
+
+            if (!controllers) {
+                controllers = evt.sender._controllers = document.createElement("div");
+                controllers.innerHTML = "<form><label style='display:inline;margin-bottom:0;'><input name='chart-type' id='change-chart-type-line' type='radio' value='line' /> Line chart</label>&nbsp;&nbsp;<input name='chart-type' id='change-chart-type-bar' type='radio' value='bar3d' />&nbsp;<label for='change-chart-type-bar' style='display:inline;margin-bottom:0;'>Bar chart</label>&nbsp;&nbsp;<input name='chart-type' id='change-chart-type-column' type='radio' value='column3d' checked='true' />&nbsp;<label for='change-chart-type-column' style='display:inline;margin-bottom:0;'>Column chart</label></form>";
+                controllers.style.cssText = "text-align: Center;"
+                var clearText = args.container.firstChild;
+                while (clearText) {
+                    ((clearText.nodeType === 3) || (clearText.nodeName === "#text")) && clearText.parentNode.removeChild(clearText);
+                    clearText = clearText.nextSibling;
+                }
+                args.container.appendChild(controllers);
+
+                radio = controllers.getElementsByTagName('input');
+                for (i = 0; i < radio.length; i++) {
+                    radElem = radio[i];
+                    if (radElem.type === 'radio') {
+                        radElem.onchange = function() {
+                            val = this.getAttribute('value');
+                            val && evt.sender.chartType(val);
+                        };
+                    }
+                }
+            }
+        }
+    }
+}
+);
+    fusioncharts.render();
+});
+</script>
+
+
+
+</head>
+<body>
+
+
+
+    <div id="freqTitle" align="center">FusionCharts XT will load here!</div>
+
+</body>
+
+
+</html>
