@@ -5,8 +5,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="main.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+  <!--Javascript Header-->
+  <script type="text/javascript" src="http://static.fusioncharts.com/code/latest/fusioncharts.js"></script>
+  <script type="text/javascript" src="http://static.fusioncharts.com/code/latest/themes/fusioncharts.theme.fint.js?cacheBust=56"></script>
+
+  <!--JS file include-->
+  <script type="text/javascript" src="allGenreAnalysis.js"></script>
+  <script type="text/javascript" src="titleFreq.js"></script>
+  <script type="text/javascript" src="synopsisFreq.js"></script>
+  <script type="text/javascript" src="genrePopularity.js"></script>
+
+  <!--Google Font Header-->
   <link rel="stylesheet" type="text/css"
           href="https://fonts.googleapis.com/css?family=Playfair+Display|Josefin+Slab|Share|Proza+Libre|Tangerine|Cinzel+Decorative|Fourm|Cormorant+Garamond|Sansita">
 </head>
@@ -103,13 +117,39 @@ footer a:hover {
 /* On hover, the links will turn white */
 .navbar-nav li a:hover {
     color: #fff !important;
+     font-size: 11px !important;
 }
 .nav-tabs li a {
     color: #777;
 }
+/* The active link */
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#29292c !important;
+}
+
+/* Remove border color from the collapsible button */
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+/* Dropdown */
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: #555 !important;
+    font-size: 11px !important;
+}
+
+/* Dropdown links */
+.dropdown-menu li a {
+    color: #000 !important;
+    font-size: 11px !important;
+}
+/* On hover, the dropdown links will turn red */
+.dropdown-menu li a:hover {
+    background-color: #2d2d30;
+}
 .carousel-inner img {
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); /* make all photos black and white */ 
     width: 80%; /* Set width to 100% */
     margin: auto;
     max-height: 575px !important;
@@ -123,6 +163,9 @@ footer a:hover {
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
     }
+}
+.title-analysis {
+	font-family: 'Share';
 }
 </style>
 
@@ -142,7 +185,6 @@ footer a:hover {
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#HOME">HOME</a></li>
         <li><a href="#movie">MOVIE</a></li>
-        <li><a href="#movie-search">SEARCH</a></li>
         <li><a href="#movie-analysis">ANALYSIS</a></li>
         <li><a href="#credit">CREDIT</a></li>
       </ul>
@@ -199,21 +241,18 @@ footer a:hover {
 		<!--Movie Intro-->
 		<div id="movie">
 			<br><br>
+		    <span class="glyphicon glyphicon-film logo"></span>
 			<h1>Movie Comparator</h1> 
 			<br><br>
-			<p>Search your favorite movie and related analysis</p> 		
+			<p>View the analysis and statistics of movies</p> 		
 			<br>
-			<p>Movie comparator is a movie search engine and analysis tool. With this, you can search any movie in the top 250 movies in the past 25 years all over the world.</p>
-			<br>
-			<p>Along with the search result, we will show the basic information about the movie, movie poster, rating, genre, etc. We also show the related-products from iTunes store, Google Play store, and Barnes and Noble.</p>
+			<p>Movie comparator is a movie analysis tool. With this, you can search any movie in the top 250 movies in the past 25 years all over the world.</p>
 			<br>
 			<p>With the movie analysis, we show you statistics on keywords in titles, synopsis, and genre. With the data, you can see the trend in movie keyword usage and genre usage.</p>
 		</div>
 	</div>
 
-
-
-	<!-- Movie Search -->
+	<!-- Movie Search 
 	<div id="movie-search" class="container-fluid">
 		<div class="row">
 			<div class="col-sm-8">
@@ -231,13 +270,13 @@ footer a:hover {
 		      <span class="glyphicon glyphicon-film logo"></span>
 		    </div>
 		</div>
-	</div>
+	</div>-->
 
 	<!-- Movie Analysis -->
-	<div id="movie-analysis" class="container-fluid bg-grey">
+	<div id="movie-analysis" class="container-fluid">
 		<div class="row">
 			<div class="col-sm-4">
-			  <span class="glyphicon glyphicon-signal logo"></span>
+			  <span class="glyphicon glyphicon-sort-by-attributes-alt logo"></span>
 			</div>
 			<div class="movie-analysis-ul">
 			<div class="col-sm-8">
@@ -246,7 +285,8 @@ footer a:hover {
 				<ul class="nav nav-tabs">
 					<li class="active"><a data-toggle="tab" href="#title-analysis">Title Analysis</a></li>
 					<li><a data-toggle="tab" href="#synopsis-analysis">Synopsis Analysis</a></li>
-					<li><a data-toggle="tab" href="#genre-analysis">Genre Analysis</a></li>
+					<li><a data-toggle="tab" href="#genre-analysis-overall">Genre Analysis Overall</a></li>
+					<li><a data-toggle="tab" href="#genre-analysis-per-year">Genre Analysis Per Year</a></li>
 				</ul>
 
 
@@ -254,14 +294,24 @@ footer a:hover {
 					<div id="title-analysis" class="tab-pane fade in active">
 						<h3>Movie Title Analysis</h3>
 						<p>Perform statistic on keyword trend in movie title</p>
+						<div id="freqTitle" align="left">One Sec...</div>
 					</div>
 					<div id="synopsis-analysis" class="tab-pane fade">
 						<h3>Movie Synopsis Analysis</h3>
 						<p>Perform statistic on keyword trend in movie synopsis</p>
+						<div id="freqDetail" align="center";>One Sec...</div>
+
 					</div>
-					<div id="genre-analysis" class="tab-pane fade">
-						<h3>Movie Genre Analysis</h3>
+					<div id="genre-analysis-overall" class="tab-pane fade">
+						<h3>Movie Genre Analysis Overall</h3>
 						<p>Perform statistic on genre trend in movie for the past 25 years on over 6k movies</p>
+						 <div id="MultiPieChartGenre" align="left">One Sec...</div>
+					</div>
+
+					<div id="genre-analysis-per-year" class="tab-pane fade">
+						<h3>Movie Genre Analysis Per Year</h3>
+						<p>Perform statistic on each individual genre each year (1992-2016)</p>
+						 <div id="GenreChart" align="left" >One Sec...</div>
 					</div>
 				</div>
 			</div>
@@ -270,7 +320,7 @@ footer a:hover {
 	</div>
 
 	<!-- Credit -->
-	<div id="credit" class="container-fluid text-center">
+	<div id="credit" class="container-fluid bg-grey text-center">
 	<h2>Credit</h2>
 	<h3>Who We Are</h3>
 	<br>
